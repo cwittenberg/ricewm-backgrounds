@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-shanghai-skyline-at-night",
+  "title": "Shanghai skyline at night.jpg",
+  "creator": "Ernest Jourdier",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_at_night.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1167611448",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Shanghai_skyline_at_night.jpg/3840px-Shanghai_skyline_at_night.jpg",
+  "sourcePageSha256": "7a71759d683e2b2087f5afc198fcebdabb53263dc6887a46bac71e7673ae5ef6",
+  "metadataSha256": "6d690b7d5c910cfda27dbb7f63cad72358c011d1cef2bbc13d968cfb907aa776",
+  "inputSha256": "12269bdcd9126854a06cf9f61e6bd92bc71e160cd91c8a4ab1136d91f616878d",
+  "nativeDimensions": {
+    "width": 4608,
+    "height": 3072
+  },
+  "inputDimensions": {
+    "width": 3840,
+    "height": 2560
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“Shanghai skyline at night.jpg” — Ernest Jourdier. CC-BY-4.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "city",
+    "modern",
+    "night",
+    "photography",
+    "shanghai",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

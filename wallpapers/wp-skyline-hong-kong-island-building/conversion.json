@@ -1,0 +1,56 @@
+{
+  "id": "wp-skyline-hong-kong-island-building",
+  "name": "Hong Kong · Stormlit Harbour",
+  "author": "Wilfredor",
+  "category": "city",
+  "tags": [
+    "city",
+    "hong-kong",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Building.jpg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1223069411",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-hong-kong-island-building/image-63360804d7bfd5b180a5df7156ee33b448bd4c533c161e13c523f38d85aa0fae.webp",
+      "sha256": "63360804d7bfd5b180a5df7156ee33b448bd4c533c161e13c523f38d85aa0fae",
+      "bytes": 212134,
+      "width": 1920,
+      "height": 1191
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-hong-kong-island-building/thumb-81610a6ed6e55585460e3e8916270c63beb96b65934616256e103715c6a40a41.webp",
+      "sha256": "81610a6ed6e55585460e3e8916270c63beb96b65934616256e103715c6a40a41",
+      "bytes": 3994,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-hong-kong-island-building/thumb2x-a669feb1dcaee37a22615afe6f0b1eb5c1addec36a5487a330c82f664644a09c.webp",
+      "sha256": "a669feb1dcaee37a22615afe6f0b1eb5c1addec36a5487a330c82f664644a09c",
+      "bytes": 15044,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "aabce2514cc5d046fcf51c13a5fac1944436cd03bf254d7dd1b0a35968b34087",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

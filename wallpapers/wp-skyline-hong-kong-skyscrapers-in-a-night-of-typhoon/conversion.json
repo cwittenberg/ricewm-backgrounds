@@ -1,0 +1,56 @@
+{
+  "id": "wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon",
+  "name": "Hong Kong · Typhoon Glow",
+  "author": "Wilfredor",
+  "category": "city",
+  "tags": [
+    "city",
+    "hong-kong",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1281200259",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/image-b53fa754033cd0784fcd3fa1e19bfef96d802991479acfb09bd9a1a8bf676529.webp",
+      "sha256": "b53fa754033cd0784fcd3fa1e19bfef96d802991479acfb09bd9a1a8bf676529",
+      "bytes": 462358,
+      "width": 1920,
+      "height": 1276
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/thumb-9759283ea653bd4a251f60f2b0abd200d9393c81ef1617bcbeccef64001b5a00.webp",
+      "sha256": "9759283ea653bd4a251f60f2b0abd200d9393c81ef1617bcbeccef64001b5a00",
+      "bytes": 6400,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/thumb2x-a595084e9a84db6adfe876071db9576fa3905a449100af8e459e80026293c5a1.webp",
+      "sha256": "a595084e9a84db6adfe876071db9576fa3905a449100af8e459e80026293c5a1",
+      "bytes": 26932,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "29493f590f9a237a6c7390f420b9baac909aed080dc1c39125a21625eec66bcb",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

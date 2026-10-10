@@ -1,0 +1,58 @@
+{
+  "id": "wp-skyline-hong-kong-skyline-dec-2007",
+  "name": "Hong Kong · Victoria Peak Panorama",
+  "author": "David Iliff (Diliff)",
+  "category": "city",
+  "tags": [
+    "city",
+    "hong-kong",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_-_Dec_2007.jpg",
+  "rights": {
+    "license": "CC-BY-3.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1099252953",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Hong Kong Skyline - Dec 2007.jpg” — David Iliff (Diliff). CC-BY-3.0.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-hong-kong-skyline-dec-2007/image-4cf267d323bab00469b1cad85387cd99fd62fa5a8a5d089b0d92ecfc4683a898.webp",
+      "sha256": "4cf267d323bab00469b1cad85387cd99fd62fa5a8a5d089b0d92ecfc4683a898",
+      "bytes": 1257152,
+      "width": 3840,
+      "height": 1531
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-hong-kong-skyline-dec-2007/thumb-88243187d07c9a4777097ff895c074ca2a96093987e29760c63b22b86bb6a8f4.webp",
+      "sha256": "88243187d07c9a4777097ff895c074ca2a96093987e29760c63b22b86bb6a8f4",
+      "bytes": 10168,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-hong-kong-skyline-dec-2007/thumb2x-47b8591fb517d7e7143c405af8a75d426180d91fb0aa756e9d24b3914ae3dc49.webp",
+      "sha256": "47b8591fb517d7e7143c405af8a75d426180d91fb0aa756e9d24b3914ae3dc49",
+      "bytes": 41694,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "7b669a95f8ee4ff6455d57b643afadf293714317512d0a34a42abfe506a51952",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

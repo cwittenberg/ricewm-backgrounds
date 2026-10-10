@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-victoria-harbour-skyscrapers",
+  "title": "Victoria Harbour skyscrapers.jpg",
+  "creator": "Wilfredor",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:Victoria_Harbour_skyscrapers.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1236488865",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Victoria_Harbour_skyscrapers.jpg/1920px-Victoria_Harbour_skyscrapers.jpg",
+  "sourcePageSha256": "5a7ec04295ffb53eee234bb781474b984fd7e6234c3fff4c24820ac314852e5c",
+  "metadataSha256": "018df907a115698fa4e6d5934f8143e88f3983dbea9a0feadd87df492490fbf2",
+  "inputSha256": "ef125f8d31c3d1ce51aed002d941f44435c59586f10df8d5f2a1d527e1a07f82",
+  "nativeDimensions": {
+    "width": 2000,
+    "height": 1329
+  },
+  "inputDimensions": {
+    "width": 1920,
+    "height": 1276
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“Victoria Harbour skyscrapers.jpg” — Wilfredor. CC0-1.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "city",
+    "hong-kong",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

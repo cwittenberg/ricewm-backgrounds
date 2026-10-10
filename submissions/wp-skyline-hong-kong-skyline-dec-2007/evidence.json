@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-hong-kong-skyline-dec-2007",
+  "title": "Hong Kong Skyline - Dec 2007.jpg",
+  "creator": "David Iliff (Diliff)",
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_-_Dec_2007.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1099252953",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hong_Kong_Skyline_-_Dec_2007.jpg/3840px-Hong_Kong_Skyline_-_Dec_2007.jpg",
+  "sourcePageSha256": "8d781b37a3c8b2a7b08f01194eb36e9f71bc8d9ef37b04531eaab73458eacaee",
+  "metadataSha256": "664d89d4a46766e32a64f3c5b5dcbbe9518436d42ee77e6c431819930b10f468",
+  "inputSha256": "7b669a95f8ee4ff6455d57b643afadf293714317512d0a34a42abfe506a51952",
+  "nativeDimensions": {
+    "width": 4200,
+    "height": 1674
+  },
+  "inputDimensions": {
+    "width": 3840,
+    "height": 1531
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“Hong Kong Skyline - Dec 2007.jpg” — David Iliff (Diliff). CC-BY-3.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "city",
+    "hong-kong",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

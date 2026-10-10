@@ -1,0 +1,58 @@
+{
+  "id": "wp-skyline-chongqing-night-yuzhong",
+  "name": "Chongqing · Yuzhong Electric",
+  "author": "Jonipoon",
+  "category": "city",
+  "tags": [
+    "chongqing",
+    "city",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg",
+  "rights": {
+    "license": "CC-BY-3.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1129944326",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Chongqing Night Yuzhong.jpg” — Jonipoon. CC-BY-3.0.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-chongqing-night-yuzhong/image-395ab34f71499edbcf124e8bfc6ad3f301e2b454b43fed4f8b664de2d9ce9835.webp",
+      "sha256": "395ab34f71499edbcf124e8bfc6ad3f301e2b454b43fed4f8b664de2d9ce9835",
+      "bytes": 555812,
+      "width": 1920,
+      "height": 1280
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-chongqing-night-yuzhong/thumb-39e6fa7f639828d0c274b12f87c53a0dc2efdb0d69fbe30b7254a0544363a2d3.webp",
+      "sha256": "39e6fa7f639828d0c274b12f87c53a0dc2efdb0d69fbe30b7254a0544363a2d3",
+      "bytes": 15258,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-chongqing-night-yuzhong/thumb2x-2d8e1ae3bd9300671ed18c11b687d3cec6d56b61939ab1d8aa7160504e9acef1.webp",
+      "sha256": "2d8e1ae3bd9300671ed18c11b687d3cec6d56b61939ab1d8aa7160504e9acef1",
+      "bytes": 55372,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "71aff3441bbc61b57ee2373224738328d89937b0b0c7cdaba16d4b079186e77b",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

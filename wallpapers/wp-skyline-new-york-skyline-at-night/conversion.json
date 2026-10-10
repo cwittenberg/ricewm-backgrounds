@@ -1,0 +1,58 @@
+{
+  "id": "wp-skyline-new-york-skyline-at-night",
+  "name": "New York · Manhattan After Dark",
+  "author": "Azeusss",
+  "category": "city",
+  "tags": [
+    "city",
+    "modern",
+    "new-york",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:New_York_skyline_at_night.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1166831733",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“New York skyline at night.jpg” — Azeusss. CC-BY-4.0.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-new-york-skyline-at-night/image-c5c3e30a5ab8b0d8941e447e658a0fd71be152b274579e752180ca947832747b.webp",
+      "sha256": "c5c3e30a5ab8b0d8941e447e658a0fd71be152b274579e752180ca947832747b",
+      "bytes": 652314,
+      "width": 2880,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-new-york-skyline-at-night/thumb-bc41cf8541fbc8708ee68ad4e692c38fe53f0265b0a83a315b08683bf3835433.webp",
+      "sha256": "bc41cf8541fbc8708ee68ad4e692c38fe53f0265b0a83a315b08683bf3835433",
+      "bytes": 6164,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-new-york-skyline-at-night/thumb2x-22756c67fa69115b69bbe3b1f483dc11ae8a3f3f0e870b4d57009ff1874d66c8.webp",
+      "sha256": "22756c67fa69115b69bbe3b1f483dc11ae8a3f3f0e870b4d57009ff1874d66c8",
+      "bytes": 24396,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "a9654f67e0f684ffe7a2a8a57d329c26b110b4c4fe00c15d6c024c50a78080ee",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

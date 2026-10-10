@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-new-york-city-night-skyline-september-2014",
+  "title": "New-York-City-night-skyline-September-2014.jpg",
+  "creator": "Acediscovery",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:New-York-City-night-skyline-September-2014.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1087096001",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/New-York-City-night-skyline-September-2014.jpg/1920px-New-York-City-night-skyline-September-2014.jpg",
+  "sourcePageSha256": "09975d44c3b3dcfe23358ec3f3034567fb6344f2ee595287f6c9b5dd74f91451",
+  "metadataSha256": "8cb2be3c3327f728ad0647f3cc87a52afe877b230e8962802bafc144d908b85d",
+  "inputSha256": "bd90ad0beef1c52f7315e21f053c338bd0bbc12407283006f144d56181207695",
+  "nativeDimensions": {
+    "width": 3648,
+    "height": 2736
+  },
+  "inputDimensions": {
+    "width": 1920,
+    "height": 1440
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“New-York-City-night-skyline-September-2014.jpg” — Acediscovery. CC-BY-4.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "city",
+    "modern",
+    "new-york",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

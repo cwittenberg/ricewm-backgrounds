@@ -8546,6 +8546,692 @@
       }
     },
     {
+      "id": "wp-skyline-chongqing-night-yuzhong",
+      "name": "Chongqing · Yuzhong Electric",
+      "author": "Jonipoon",
+      "category": "city",
+      "tags": [
+        "chongqing",
+        "city",
+        "modern",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg",
+      "rights": {
+        "license": "CC-BY-3.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1129944326",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Chongqing Night Yuzhong.jpg” — Jonipoon. CC-BY-3.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-chongqing-night-yuzhong/image-395ab34f71499edbcf124e8bfc6ad3f301e2b454b43fed4f8b664de2d9ce9835.webp",
+          "sha256": "395ab34f71499edbcf124e8bfc6ad3f301e2b454b43fed4f8b664de2d9ce9835",
+          "bytes": 555812,
+          "width": 1920,
+          "height": 1280
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-chongqing-night-yuzhong/thumb-39e6fa7f639828d0c274b12f87c53a0dc2efdb0d69fbe30b7254a0544363a2d3.webp",
+          "sha256": "39e6fa7f639828d0c274b12f87c53a0dc2efdb0d69fbe30b7254a0544363a2d3",
+          "bytes": 15258,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-chongqing-night-yuzhong/thumb2x-2d8e1ae3bd9300671ed18c11b687d3cec6d56b61939ab1d8aa7160504e9acef1.webp",
+          "sha256": "2d8e1ae3bd9300671ed18c11b687d3cec6d56b61939ab1d8aa7160504e9acef1",
+          "bytes": 55372,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "71aff3441bbc61b57ee2373224738328d89937b0b0c7cdaba16d4b079186e77b",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-hong-kong-island-building",
+      "name": "Hong Kong · Stormlit Harbour",
+      "author": "Wilfredor",
+      "category": "city",
+      "tags": [
+        "city",
+        "hong-kong",
+        "modern",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Building.jpg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1223069411",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-hong-kong-island-building/image-63360804d7bfd5b180a5df7156ee33b448bd4c533c161e13c523f38d85aa0fae.webp",
+          "sha256": "63360804d7bfd5b180a5df7156ee33b448bd4c533c161e13c523f38d85aa0fae",
+          "bytes": 212134,
+          "width": 1920,
+          "height": 1191
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-hong-kong-island-building/thumb-81610a6ed6e55585460e3e8916270c63beb96b65934616256e103715c6a40a41.webp",
+          "sha256": "81610a6ed6e55585460e3e8916270c63beb96b65934616256e103715c6a40a41",
+          "bytes": 3994,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-hong-kong-island-building/thumb2x-a669feb1dcaee37a22615afe6f0b1eb5c1addec36a5487a330c82f664644a09c.webp",
+          "sha256": "a669feb1dcaee37a22615afe6f0b1eb5c1addec36a5487a330c82f664644a09c",
+          "bytes": 15044,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "aabce2514cc5d046fcf51c13a5fac1944436cd03bf254d7dd1b0a35968b34087",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-hong-kong-skyline-dec-2007",
+      "name": "Hong Kong · Victoria Peak Panorama",
+      "author": "David Iliff (Diliff)",
+      "category": "city",
+      "tags": [
+        "city",
+        "hong-kong",
+        "modern",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_-_Dec_2007.jpg",
+      "rights": {
+        "license": "CC-BY-3.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1099252953",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Hong Kong Skyline - Dec 2007.jpg” — David Iliff (Diliff). CC-BY-3.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-hong-kong-skyline-dec-2007/image-4cf267d323bab00469b1cad85387cd99fd62fa5a8a5d089b0d92ecfc4683a898.webp",
+          "sha256": "4cf267d323bab00469b1cad85387cd99fd62fa5a8a5d089b0d92ecfc4683a898",
+          "bytes": 1257152,
+          "width": 3840,
+          "height": 1531
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-hong-kong-skyline-dec-2007/thumb-88243187d07c9a4777097ff895c074ca2a96093987e29760c63b22b86bb6a8f4.webp",
+          "sha256": "88243187d07c9a4777097ff895c074ca2a96093987e29760c63b22b86bb6a8f4",
+          "bytes": 10168,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-hong-kong-skyline-dec-2007/thumb2x-47b8591fb517d7e7143c405af8a75d426180d91fb0aa756e9d24b3914ae3dc49.webp",
+          "sha256": "47b8591fb517d7e7143c405af8a75d426180d91fb0aa756e9d24b3914ae3dc49",
+          "bytes": 41694,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "7b669a95f8ee4ff6455d57b643afadf293714317512d0a34a42abfe506a51952",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon",
+      "name": "Hong Kong · Typhoon Glow",
+      "author": "Wilfredor",
+      "category": "city",
+      "tags": [
+        "city",
+        "hong-kong",
+        "modern",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1281200259",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/image-b53fa754033cd0784fcd3fa1e19bfef96d802991479acfb09bd9a1a8bf676529.webp",
+          "sha256": "b53fa754033cd0784fcd3fa1e19bfef96d802991479acfb09bd9a1a8bf676529",
+          "bytes": 462358,
+          "width": 1920,
+          "height": 1276
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/thumb-9759283ea653bd4a251f60f2b0abd200d9393c81ef1617bcbeccef64001b5a00.webp",
+          "sha256": "9759283ea653bd4a251f60f2b0abd200d9393c81ef1617bcbeccef64001b5a00",
+          "bytes": 6400,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/thumb2x-a595084e9a84db6adfe876071db9576fa3905a449100af8e459e80026293c5a1.webp",
+          "sha256": "a595084e9a84db6adfe876071db9576fa3905a449100af8e459e80026293c5a1",
+          "bytes": 26932,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "29493f590f9a237a6c7390f420b9baac909aed080dc1c39125a21625eec66bcb",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-minato-city-tokyo-japan-night",
+      "name": "Tokyo · Minato After Dark",
+      "author": "David Kernan",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "night",
+        "photography",
+        "skyline",
+        "tokyo"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night).jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1117072490",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Minato City, Tokyo, Japan (Night).jpg” — David Kernan. CC-BY-4.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-minato-city-tokyo-japan-night/image-e8e322ff83e7fc7709c2291d93c9b05e1dd82e29ea8133a0285f775ca92901e8.webp",
+          "sha256": "e8e322ff83e7fc7709c2291d93c9b05e1dd82e29ea8133a0285f775ca92901e8",
+          "bytes": 1074532,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-minato-city-tokyo-japan-night/thumb-cb2ecf3b790ea9c2313915b906d0fd1bc19dd9ea55392df83848d57217faece8.webp",
+          "sha256": "cb2ecf3b790ea9c2313915b906d0fd1bc19dd9ea55392df83848d57217faece8",
+          "bytes": 5028,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-minato-city-tokyo-japan-night/thumb2x-9474681900d2d58374a6a90a856c51008920a6d348697ed0f2e8703ba4b97e78.webp",
+          "sha256": "9474681900d2d58374a6a90a856c51008920a6d348697ed0f2e8703ba4b97e78",
+          "bytes": 19658,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "804fc84ee48381d62ef309b32a7946b359606d4a36629dc9dfa404d45e568505",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-new-york-city-night-skyline-september-2014",
+      "name": "New York · Midtown Blue Hour",
+      "author": "Acediscovery",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "new-york",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:New-York-City-night-skyline-September-2014.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1087096001",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“New-York-City-night-skyline-September-2014.jpg” — Acediscovery. CC-BY-4.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-new-york-city-night-skyline-september-2014/image-5dd98aeb3ed50f20866ad494437004ed201d0c294d8c777f471c89c2a7704972.webp",
+          "sha256": "5dd98aeb3ed50f20866ad494437004ed201d0c294d8c777f471c89c2a7704972",
+          "bytes": 674258,
+          "width": 1920,
+          "height": 1440
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-new-york-city-night-skyline-september-2014/thumb-8d9c8d6f910471bcd57f5c0f537548c827cbb47168f42acff631dce86a129c21.webp",
+          "sha256": "8d9c8d6f910471bcd57f5c0f537548c827cbb47168f42acff631dce86a129c21",
+          "bytes": 10864,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-new-york-city-night-skyline-september-2014/thumb2x-ee1f45d62cd13896d7a9f5badc0c991f8b69bc8452a4e24b2db9efffc5f4ee79.webp",
+          "sha256": "ee1f45d62cd13896d7a9f5badc0c991f8b69bc8452a4e24b2db9efffc5f4ee79",
+          "bytes": 39366,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "bd90ad0beef1c52f7315e21f053c338bd0bbc12407283006f144d56181207695",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-new-york-skyline-at-night",
+      "name": "New York · Manhattan After Dark",
+      "author": "Azeusss",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "new-york",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:New_York_skyline_at_night.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1166831733",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“New York skyline at night.jpg” — Azeusss. CC-BY-4.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-new-york-skyline-at-night/image-c5c3e30a5ab8b0d8941e447e658a0fd71be152b274579e752180ca947832747b.webp",
+          "sha256": "c5c3e30a5ab8b0d8941e447e658a0fd71be152b274579e752180ca947832747b",
+          "bytes": 652314,
+          "width": 2880,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-new-york-skyline-at-night/thumb-bc41cf8541fbc8708ee68ad4e692c38fe53f0265b0a83a315b08683bf3835433.webp",
+          "sha256": "bc41cf8541fbc8708ee68ad4e692c38fe53f0265b0a83a315b08683bf3835433",
+          "bytes": 6164,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-new-york-skyline-at-night/thumb2x-22756c67fa69115b69bbe3b1f483dc11ae8a3f3f0e870b4d57009ff1874d66c8.webp",
+          "sha256": "22756c67fa69115b69bbe3b1f483dc11ae8a3f3f0e870b4d57009ff1874d66c8",
+          "bytes": 24396,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "a9654f67e0f684ffe7a2a8a57d329c26b110b4c4fe00c15d6c024c50a78080ee",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-roppongi-at-night-seen-from-shibuya-stream",
+      "name": "Tokyo · Roppongi Night Lights",
+      "author": "Syced",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "night",
+        "photography",
+        "skyline",
+        "tokyo"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Roppongi_at_night_seen_from_Shibuya_Stream.jpg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=958393640",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/image-6b2a2b16ad4cbfdbccbb066f8d5b9f9681e4104abd79e24c98123b5acc7d1107.webp",
+          "sha256": "6b2a2b16ad4cbfdbccbb066f8d5b9f9681e4104abd79e24c98123b5acc7d1107",
+          "bytes": 1025722,
+          "width": 3668,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/thumb-76df783e65895d43378de9e190b9d3a6842d76a9625cf90e9afc814b10d2fdbd.webp",
+          "sha256": "76df783e65895d43378de9e190b9d3a6842d76a9625cf90e9afc814b10d2fdbd",
+          "bytes": 12336,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/thumb2x-bfb9a95ac8ed834f03428160e6f04d02845585bb59f2f8c6d70b729785c606ee.webp",
+          "sha256": "bfb9a95ac8ed834f03428160e6f04d02845585bb59f2f8c6d70b729785c606ee",
+          "bytes": 49794,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "31ee2cdedb8935e0c14f50581571e36a817217caac88105a79d6e2233cec606c",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-shanghai-skyline-at-night",
+      "name": "Shanghai · Pudong Night Lights",
+      "author": "Ernest Jourdier",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "night",
+        "photography",
+        "shanghai",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_at_night.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1167611448",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Shanghai skyline at night.jpg” — Ernest Jourdier. CC-BY-4.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-shanghai-skyline-at-night/image-5b202d82775199e942831e9829e39cd17b661dd90d39cdd740014ccabaee710d.webp",
+          "sha256": "5b202d82775199e942831e9829e39cd17b661dd90d39cdd740014ccabaee710d",
+          "bytes": 845956,
+          "width": 3240,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-shanghai-skyline-at-night/thumb-cb1659eadd74a23657406b2b4e1581bf36e13b902b8c76dbf616228ca257279f.webp",
+          "sha256": "cb1659eadd74a23657406b2b4e1581bf36e13b902b8c76dbf616228ca257279f",
+          "bytes": 5400,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-shanghai-skyline-at-night/thumb2x-024cc880901f59ac4020042ffbe592fc8081de647f9ec1fb99654b51f4884c58.webp",
+          "sha256": "024cc880901f59ac4020042ffbe592fc8081de647f9ec1fb99654b51f4884c58",
+          "bytes": 20226,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "12269bdcd9126854a06cf9f61e6bd92bc71e160cd91c8a4ab1136d91f616878d",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-singapore-skyline-at-night",
+      "name": "Singapore · Golden Reflections",
+      "author": "ElHeineken (Lars Heineken)",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "night",
+        "photography",
+        "singapore",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Singapore_Skyline_at_Night.JPG",
+      "rights": {
+        "license": "CC-BY-3.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1121660653",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Singapore Skyline at Night.JPG” — ElHeineken (Lars Heineken). CC-BY-3.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-singapore-skyline-at-night/image-3282ceb24319f5d748f840253f48382e3b41c1a56c9a8a07193dfa7c4ea5bc43.webp",
+          "sha256": "3282ceb24319f5d748f840253f48382e3b41c1a56c9a8a07193dfa7c4ea5bc43",
+          "bytes": 1128496,
+          "width": 3240,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-singapore-skyline-at-night/thumb-75879ab82b350e5c3a7d6075855402b2409bd6c87a35463059c26a044698cd2a.webp",
+          "sha256": "75879ab82b350e5c3a7d6075855402b2409bd6c87a35463059c26a044698cd2a",
+          "bytes": 11200,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-singapore-skyline-at-night/thumb2x-22790793d2e0805c27ef505a40f22d1cbf504d27c5579b09d22710c654daac7d.webp",
+          "sha256": "22790793d2e0805c27ef505a40f22d1cbf504d27c5579b09d22710c654daac7d",
+          "bytes": 39262,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "c413622193b94273fdf8744150c26d9086abbb06068cd49570f844e032b7f47c",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-singapore-skyline-at-night-with-blue-sky",
+      "name": "Singapore · Marina Blue Hour",
+      "author": "Merlion444",
+      "category": "city",
+      "tags": [
+        "city",
+        "modern",
+        "night",
+        "photography",
+        "singapore",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Singapore_Skyline_at_Night_with_Blue_Sky.JPG",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1256754452",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/image-3b991d2db2e68824c3cccc4e20267f20a529542321d86482b6d325e94f5cd390.webp",
+          "sha256": "3b991d2db2e68824c3cccc4e20267f20a529542321d86482b6d325e94f5cd390",
+          "bytes": 913822,
+          "width": 3840,
+          "height": 2158
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/thumb-54fce5ca96305e598deb6c98561df4c5ba089d13c5a52a0598a0fad0b0d9fb78.webp",
+          "sha256": "54fce5ca96305e598deb6c98561df4c5ba089d13c5a52a0598a0fad0b0d9fb78",
+          "bytes": 9866,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/thumb2x-ef7efd1cd47ab8195dfe813f72e6179f43c9c574849b0a63b6a014fd29a92e57.webp",
+          "sha256": "ef7efd1cd47ab8195dfe813f72e6179f43c9c574849b0a63b6a014fd29a92e57",
+          "bytes": 36794,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "9ec4db951bfaa9c3930a4f2344a1c6b0f5c1b6e0b4e8fe87615fd58f0c0430f8",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-skyline-victoria-harbour-skyscrapers",
+      "name": "Hong Kong · Golden Harbour",
+      "author": "Wilfredor",
+      "category": "city",
+      "tags": [
+        "city",
+        "hong-kong",
+        "modern",
+        "night",
+        "photography",
+        "skyline"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_Harbour_skyscrapers.jpg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1236488865",
+        "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-skyline-victoria-harbour-skyscrapers/image-803a3c90796243926110c2d5ec4c91a0a2036e302d2b333f710425140257870c.webp",
+          "sha256": "803a3c90796243926110c2d5ec4c91a0a2036e302d2b333f710425140257870c",
+          "bytes": 715080,
+          "width": 1920,
+          "height": 1276
+        },
+        "thumb": {
+          "path": "wallpapers/wp-skyline-victoria-harbour-skyscrapers/thumb-1e58583c7bba3cd45a7260b02ce9e10df0b5814ca3ea3b6c510544d69f57ef7d.webp",
+          "sha256": "1e58583c7bba3cd45a7260b02ce9e10df0b5814ca3ea3b6c510544d69f57ef7d",
+          "bytes": 16806,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-skyline-victoria-harbour-skyscrapers/thumb2x-9368020115140562684ea3440766aefc22c1c8900916fd559493eb4d8276534e.webp",
+          "sha256": "9368020115140562684ea3440766aefc22c1c8900916fd559493eb4d8276534e",
+          "bytes": 66538,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "ef125f8d31c3d1ce51aed002d941f44435c59586f10df8d5f2a1d527e1a07f82",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
       "id": "wp-unicorn-shooting-stars",
       "name": "Shooting Stars — Painted Night Sky",
       "author": "Unicorn Creates",

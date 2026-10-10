@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-hong-kong-island-building",
+  "title": "Hong Kong Island Building.jpg",
+  "creator": "Wilfredor",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Building.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1223069411",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hong_Kong_Island_Building.jpg/1920px-Hong_Kong_Island_Building.jpg",
+  "sourcePageSha256": "45ca718df380faa28e6fa0a8913e6bd56b846c862a632f5f45a17d8cc85aeb54",
+  "metadataSha256": "da3a7a0850ecf7d6edb582d47b4ad903546d79480cdf2ab5db014d785739eda6",
+  "inputSha256": "aabce2514cc5d046fcf51c13a5fac1944436cd03bf254d7dd1b0a35968b34087",
+  "nativeDimensions": {
+    "width": 3000,
+    "height": 1861
+  },
+  "inputDimensions": {
+    "width": 1920,
+    "height": 1191
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“Hong Kong Island Building.jpg” — Wilfredor. CC0-1.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "city",
+    "hong-kong",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

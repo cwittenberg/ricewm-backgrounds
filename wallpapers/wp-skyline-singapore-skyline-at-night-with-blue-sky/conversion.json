@@ -1,0 +1,56 @@
+{
+  "id": "wp-skyline-singapore-skyline-at-night-with-blue-sky",
+  "name": "Singapore · Marina Blue Hour",
+  "author": "Merlion444",
+  "category": "city",
+  "tags": [
+    "city",
+    "modern",
+    "night",
+    "photography",
+    "singapore",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:Singapore_Skyline_at_Night_with_Blue_Sky.JPG",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1256754452",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC0-1.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/image-3b991d2db2e68824c3cccc4e20267f20a529542321d86482b6d325e94f5cd390.webp",
+      "sha256": "3b991d2db2e68824c3cccc4e20267f20a529542321d86482b6d325e94f5cd390",
+      "bytes": 913822,
+      "width": 3840,
+      "height": 2158
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/thumb-54fce5ca96305e598deb6c98561df4c5ba089d13c5a52a0598a0fad0b0d9fb78.webp",
+      "sha256": "54fce5ca96305e598deb6c98561df4c5ba089d13c5a52a0598a0fad0b0d9fb78",
+      "bytes": 9866,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/thumb2x-ef7efd1cd47ab8195dfe813f72e6179f43c9c574849b0a63b6a014fd29a92e57.webp",
+      "sha256": "ef7efd1cd47ab8195dfe813f72e6179f43c9c574849b0a63b6a014fd29a92e57",
+      "bytes": 36794,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "9ec4db951bfaa9c3930a4f2344a1c6b0f5c1b6e0b4e8fe87615fd58f0c0430f8",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

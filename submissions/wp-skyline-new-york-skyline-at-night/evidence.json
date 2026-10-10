@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-new-york-skyline-at-night",
+  "title": "New York skyline at night.jpg",
+  "creator": "Azeusss",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:New_York_skyline_at_night.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1166831733",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/New_York_skyline_at_night.jpg/3840px-New_York_skyline_at_night.jpg",
+  "sourcePageSha256": "ed76a7630e43b1bed0991aa7821646930212b8f6aeffada6464d042e8601a23d",
+  "metadataSha256": "f157376c21580c55750010cdc48fa77eed28927041f828bba3578eb27cef94d9",
+  "inputSha256": "a9654f67e0f684ffe7a2a8a57d329c26b110b4c4fe00c15d6c024c50a78080ee",
+  "nativeDimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "inputDimensions": {
+    "width": 3840,
+    "height": 2880
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“New York skyline at night.jpg” — Azeusss. CC-BY-4.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "city",
+    "modern",
+    "new-york",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-4.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "wp-skyline-singapore-skyline-at-night",
+  "name": "Singapore · Golden Reflections",
+  "author": "ElHeineken (Lars Heineken)",
+  "category": "city",
+  "tags": [
+    "city",
+    "modern",
+    "night",
+    "photography",
+    "singapore",
+    "skyline"
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:Singapore_Skyline_at_Night.JPG",
+  "rights": {
+    "license": "CC-BY-3.0",
+    "evidence": "https://commons.wikimedia.org/w/index.php?oldid=1121660653",
+    "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Singapore Skyline at Night.JPG” — ElHeineken (Lars Heineken). CC-BY-3.0.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-skyline-singapore-skyline-at-night/image-3282ceb24319f5d748f840253f48382e3b41c1a56c9a8a07193dfa7c4ea5bc43.webp",
+      "sha256": "3282ceb24319f5d748f840253f48382e3b41c1a56c9a8a07193dfa7c4ea5bc43",
+      "bytes": 1128496,
+      "width": 3240,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-skyline-singapore-skyline-at-night/thumb-75879ab82b350e5c3a7d6075855402b2409bd6c87a35463059c26a044698cd2a.webp",
+      "sha256": "75879ab82b350e5c3a7d6075855402b2409bd6c87a35463059c26a044698cd2a",
+      "bytes": 11200,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-skyline-singapore-skyline-at-night/thumb2x-22790793d2e0805c27ef505a40f22d1cbf504d27c5579b09d22710c654daac7d.webp",
+      "sha256": "22790793d2e0805c27ef505a40f22d1cbf504d27c5579b09d22710c654daac7d",
+      "bytes": 39262,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "c413622193b94273fdf8744150c26d9086abbb06068cd49570f844e032b7f47c",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wp-skyline-chongqing-night-yuzhong",
+  "title": "Chongqing Night Yuzhong.jpg",
+  "creator": "Jonipoon",
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "primaryFilePage": "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg",
+  "immutableLicenseRevision": "https://commons.wikimedia.org/w/index.php?oldid=1129944326",
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chongqing_Night_Yuzhong.jpg/1920px-Chongqing_Night_Yuzhong.jpg",
+  "sourcePageSha256": "9305f32e08e3209fb99029706e996a1c2ed3295953dbd2e859f9c6fab964ca99",
+  "metadataSha256": "55c1dce36baa0a94a538bcce96937b83031084d4980df7f0ab2a3b1eaf955ed4",
+  "inputSha256": "71aff3441bbc61b57ee2373224738328d89937b0b0c7cdaba16d4b079186e77b",
+  "nativeDimensions": {
+    "width": 2000,
+    "height": 1333
+  },
+  "inputDimensions": {
+    "width": 1920,
+    "height": 1280
+  },
+  "inputSourceKind": "official Wikimedia cached derivative at a standard size, without enlargement",
+  "sourceCredit": "Own work",
+  "credit": "“Chongqing Night Yuzhong.jpg” — Jonipoon. CC-BY-3.0.",
+  "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9.",
+  "ai": false,
+  "tags": [
+    "chongqing",
+    "city",
+    "modern",
+    "night",
+    "photography",
+    "skyline"
+  ],
+  "basis": "The photographer uploaded this original image as their own work on its individual Wikimedia Commons file page. That page expressly grants CC-BY-3.0 for this image; this is not a category or collection-wide license. The primary file page, metadata and source image hashes are archived for review. RiceWM applies only deterministic WebP conversion, resizing and preview cropping; no AI generation or retouching."
+}

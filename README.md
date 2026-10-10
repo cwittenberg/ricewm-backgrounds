@@ -3,7 +3,7 @@
 Reviewed wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **225 wallpaper candidates**, with verified creator or museum provenance. The newest 110 additions include 42 cyberpunk city/street scenes, 35 planets and nebulas, 9 sci-fi interiors and 24 anime/manga scenes. Each candidate stores descriptive tags, licensing evidence and WebP hashes; app inclusion requires operator approval. Browse the previews below.
+This repository contains **237 wallpaper candidates**, with verified creator or museum provenance. The newest 110 additions include 42 cyberpunk city/street scenes, 35 planets and nebulas, 9 sci-fi interiors and 24 anime/manga scenes. Each candidate stores descriptive tags, licensing evidence and WebP hashes; app inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -31,6 +31,120 @@ Images carry individual rights evidence. CC BY artwork retains its creator credi
 only its own collection metadata and original CC0 contributions under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## Skylines and cityscapes —12 photographic wallpapers
+
+Night views of Tokyo, Hong Kong, Manhattan, Singapore, Shanghai and Chongqing. Individual source and license evidence accompany each image; all previews are small WebPs.
+
+### Tokyo · Minato After Dark
+
+[![Tokyo · Minato After Dark](wallpapers/wp-skyline-minato-city-tokyo-japan-night/thumb-cb2ecf3b790ea9c2313915b906d0fd1bc19dd9ea55392df83848d57217faece8.webp)](wallpapers/wp-skyline-minato-city-tokyo-japan-night/image-e8e322ff83e7fc7709c2291d93c9b05e1dd82e29ea8133a0285f775ca92901e8.webp)
+
+“Minato City, Tokyo, Japan (Night).jpg” — David Kernan. CC-BY-4.0. · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2160
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `city`, `modern`, `night`, `photography`, `skyline`, `tokyo`. [Source](https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night).jpg) · [Rights evidence](submissions/wp-skyline-minato-city-tokyo-japan-night/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-minato-city-tokyo-japan-night/conversion.json).
+
+### Tokyo · Roppongi Night Lights
+
+[![Tokyo · Roppongi Night Lights](wallpapers/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/thumb-76df783e65895d43378de9e190b9d3a6842d76a9625cf90e9afc814b10d2fdbd.webp)](wallpapers/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/image-6b2a2b16ad4cbfdbccbb066f8d5b9f9681e4104abd79e24c98123b5acc7d1107.webp)
+
+Syced · CC0-1.0 · 3668×2160
+
+Tags: `city`, `modern`, `night`, `photography`, `skyline`, `tokyo`. [Source](https://commons.wikimedia.org/wiki/File:Roppongi_at_night_seen_from_Shibuya_Stream.jpg) · [Rights evidence](submissions/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-roppongi-at-night-seen-from-shibuya-stream/conversion.json).
+
+### Hong Kong · Stormlit Harbour
+
+[![Hong Kong · Stormlit Harbour](wallpapers/wp-skyline-hong-kong-island-building/thumb-81610a6ed6e55585460e3e8916270c63beb96b65934616256e103715c6a40a41.webp)](wallpapers/wp-skyline-hong-kong-island-building/image-63360804d7bfd5b180a5df7156ee33b448bd4c533c161e13c523f38d85aa0fae.webp)
+
+Wilfredor · CC0-1.0 · 1920×1191
+
+Tags: `city`, `hong-kong`, `modern`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Building.jpg) · [Rights evidence](submissions/wp-skyline-hong-kong-island-building/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-hong-kong-island-building/conversion.json).
+
+### Hong Kong · Victoria Peak Panorama
+
+[![Hong Kong · Victoria Peak Panorama](wallpapers/wp-skyline-hong-kong-skyline-dec-2007/thumb-88243187d07c9a4777097ff895c074ca2a96093987e29760c63b22b86bb6a8f4.webp)](wallpapers/wp-skyline-hong-kong-skyline-dec-2007/image-4cf267d323bab00469b1cad85387cd99fd62fa5a8a5d089b0d92ecfc4683a898.webp)
+
+“Hong Kong Skyline - Dec 2007.jpg” — David Iliff (Diliff). CC-BY-3.0. · [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) · 3840×1531
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `city`, `hong-kong`, `modern`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_-_Dec_2007.jpg) · [Rights evidence](submissions/wp-skyline-hong-kong-skyline-dec-2007/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-hong-kong-skyline-dec-2007/conversion.json).
+
+### Hong Kong · Typhoon Glow
+
+[![Hong Kong · Typhoon Glow](wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/thumb-9759283ea653bd4a251f60f2b0abd200d9393c81ef1617bcbeccef64001b5a00.webp)](wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/image-b53fa754033cd0784fcd3fa1e19bfef96d802991479acfb09bd9a1a8bf676529.webp)
+
+Wilfredor · CC0-1.0 · 1920×1276
+
+Tags: `city`, `hong-kong`, `modern`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg) · [Rights evidence](submissions/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon/conversion.json).
+
+### Hong Kong · Golden Harbour
+
+[![Hong Kong · Golden Harbour](wallpapers/wp-skyline-victoria-harbour-skyscrapers/thumb-1e58583c7bba3cd45a7260b02ce9e10df0b5814ca3ea3b6c510544d69f57ef7d.webp)](wallpapers/wp-skyline-victoria-harbour-skyscrapers/image-803a3c90796243926110c2d5ec4c91a0a2036e302d2b333f710425140257870c.webp)
+
+Wilfredor · CC0-1.0 · 1920×1276
+
+Tags: `city`, `hong-kong`, `modern`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Victoria_Harbour_skyscrapers.jpg) · [Rights evidence](submissions/wp-skyline-victoria-harbour-skyscrapers/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-victoria-harbour-skyscrapers/conversion.json).
+
+### New York · Midtown Blue Hour
+
+[![New York · Midtown Blue Hour](wallpapers/wp-skyline-new-york-city-night-skyline-september-2014/thumb-8d9c8d6f910471bcd57f5c0f537548c827cbb47168f42acff631dce86a129c21.webp)](wallpapers/wp-skyline-new-york-city-night-skyline-september-2014/image-5dd98aeb3ed50f20866ad494437004ed201d0c294d8c777f471c89c2a7704972.webp)
+
+“New-York-City-night-skyline-September-2014.jpg” — Acediscovery. CC-BY-4.0. · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) · 1920×1440
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `city`, `modern`, `new-york`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:New-York-City-night-skyline-September-2014.jpg) · [Rights evidence](submissions/wp-skyline-new-york-city-night-skyline-september-2014/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-new-york-city-night-skyline-september-2014/conversion.json).
+
+### New York · Manhattan After Dark
+
+[![New York · Manhattan After Dark](wallpapers/wp-skyline-new-york-skyline-at-night/thumb-bc41cf8541fbc8708ee68ad4e692c38fe53f0265b0a83a315b08683bf3835433.webp)](wallpapers/wp-skyline-new-york-skyline-at-night/image-c5c3e30a5ab8b0d8941e447e658a0fd71be152b274579e752180ca947832747b.webp)
+
+“New York skyline at night.jpg” — Azeusss. CC-BY-4.0. · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) · 2880×2160
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `city`, `modern`, `new-york`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:New_York_skyline_at_night.jpg) · [Rights evidence](submissions/wp-skyline-new-york-skyline-at-night/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-new-york-skyline-at-night/conversion.json).
+
+### Singapore · Golden Reflections
+
+[![Singapore · Golden Reflections](wallpapers/wp-skyline-singapore-skyline-at-night/thumb-75879ab82b350e5c3a7d6075855402b2409bd6c87a35463059c26a044698cd2a.webp)](wallpapers/wp-skyline-singapore-skyline-at-night/image-3282ceb24319f5d748f840253f48382e3b41c1a56c9a8a07193dfa7c4ea5bc43.webp)
+
+“Singapore Skyline at Night.JPG” — ElHeineken (Lars Heineken). CC-BY-3.0. · [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) · 3240×2160
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `city`, `modern`, `night`, `photography`, `singapore`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Singapore_Skyline_at_Night.JPG) · [Rights evidence](submissions/wp-skyline-singapore-skyline-at-night/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-singapore-skyline-at-night/conversion.json).
+
+### Singapore · Marina Blue Hour
+
+[![Singapore · Marina Blue Hour](wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/thumb-54fce5ca96305e598deb6c98561df4c5ba089d13c5a52a0598a0fad0b0d9fb78.webp)](wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/image-3b991d2db2e68824c3cccc4e20267f20a529542321d86482b6d325e94f5cd390.webp)
+
+Merlion444 · CC0-1.0 · 3840×2158
+
+Tags: `city`, `modern`, `night`, `photography`, `singapore`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Singapore_Skyline_at_Night_with_Blue_Sky.JPG) · [Rights evidence](submissions/wp-skyline-singapore-skyline-at-night-with-blue-sky/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-singapore-skyline-at-night-with-blue-sky/conversion.json).
+
+### Shanghai · Pudong Night Lights
+
+[![Shanghai · Pudong Night Lights](wallpapers/wp-skyline-shanghai-skyline-at-night/thumb-cb1659eadd74a23657406b2b4e1581bf36e13b902b8c76dbf616228ca257279f.webp)](wallpapers/wp-skyline-shanghai-skyline-at-night/image-5b202d82775199e942831e9829e39cd17b661dd90d39cdd740014ccabaee710d.webp)
+
+“Shanghai skyline at night.jpg” — Ernest Jourdier. CC-BY-4.0. · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) · 3240×2160
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `city`, `modern`, `night`, `photography`, `shanghai`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Shanghai_skyline_at_night.jpg) · [Rights evidence](submissions/wp-skyline-shanghai-skyline-at-night/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-shanghai-skyline-at-night/conversion.json).
+
+### Chongqing · Yuzhong Electric
+
+[![Chongqing · Yuzhong Electric](wallpapers/wp-skyline-chongqing-night-yuzhong/thumb-39e6fa7f639828d0c274b12f87c53a0dc2efdb0d69fbe30b7254a0544363a2d3.webp)](wallpapers/wp-skyline-chongqing-night-yuzhong/image-395ab34f71499edbcf124e8bfc6ad3f301e2b454b43fed4f8b664de2d9ce9835.webp)
+
+“Chongqing Night Yuzhong.jpg” — Jonipoon. CC-BY-3.0. · [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) · 1920×1280
+
+Converted to WebP; resized without enlargement; previews cropped to 16:9.
+
+Tags: `chongqing`, `city`, `modern`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg) · [Rights evidence](submissions/wp-skyline-chongqing-night-yuzhong/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-chongqing-night-yuzhong/conversion.json).
 
 ## Creator-licensed detailed paintings —16 CC BY additions
 
