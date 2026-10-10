@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-elven-treehouse-village-by-moonlight",
+  "name": "Elven Treehouse Village by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "fantasy",
+    "illustration",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-elven-treehouse-village-by-moonlight/image-4235bdde890fc969c1de8b3acebec2032550de5eb37d1c2a12edafc3e820bc2a.webp",
+      "sha256": "4235bdde890fc969c1de8b3acebec2032550de5eb37d1c2a12edafc3e820bc2a",
+      "bytes": 237602,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-elven-treehouse-village-by-moonlight/thumb-57fc1f9a506fcd6ac364b084604327b0dd2256ba9977c4e4a7a9f9bd015df4fd.webp",
+      "sha256": "57fc1f9a506fcd6ac364b084604327b0dd2256ba9977c4e4a7a9f9bd015df4fd",
+      "bytes": 9412,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-elven-treehouse-village-by-moonlight/thumb2x-5c7d4948a22460fb6653f097ad27e15dfc88e15b0eb503a3b74cc4c27881fdbb.webp",
+      "sha256": "5c7d4948a22460fb6653f097ad27e15dfc88e15b0eb503a3b74cc4c27881fdbb",
+      "bytes": 31200,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "ba21e38fd001f1aa38d4ca7d7ba0dd0e33340c609c0f9795db8e96e269b6b184",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

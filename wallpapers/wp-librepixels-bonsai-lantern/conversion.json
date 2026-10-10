@@ -1,0 +1,55 @@
+{
+  "id": "wp-librepixels-bonsai-lantern",
+  "name": "Bonsai Lantern",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "botanical",
+    "dark",
+    "fantasy",
+    "modern"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-bonsai-lantern/image-c49438a567cdbd0c7379133710a75323eb59dfd5a51e99863b5098d58fae4bd4.webp",
+      "sha256": "c49438a567cdbd0c7379133710a75323eb59dfd5a51e99863b5098d58fae4bd4",
+      "bytes": 259624,
+      "width": 3840,
+      "height": 1794
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-bonsai-lantern/thumb-bde37071a351557dc9d2a4c09cd1e408655dfc7d170d96224126461224b90d5d.webp",
+      "sha256": "bde37071a351557dc9d2a4c09cd1e408655dfc7d170d96224126461224b90d5d",
+      "bytes": 6406,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-bonsai-lantern/thumb2x-aff17e067c32c0d4d828eeafb49707934106e46e72828c56f6d0a1134632a53d.webp",
+      "sha256": "aff17e067c32c0d4d828eeafb49707934106e46e72828c56f6d0a1134632a53d",
+      "bytes": 17020,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "17789b986cb98302c7f34c0fa2fe6a04dc7958fcdf0f835e95cf3b953c827d82",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

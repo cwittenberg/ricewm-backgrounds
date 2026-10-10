@@ -1,0 +1,56 @@
+{
+  "id": "wp-librepixels-blush-mountain-layers",
+  "name": "Blush Mountain Layers",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "landscape",
+    "minimal",
+    "modern",
+    "pastel",
+    "ultrawide"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-blush-mountain-layers/image-21610c13d0993832b40429efc3b552a8c15cbc0600add7eb8631e95901ca8f00.webp",
+      "sha256": "21610c13d0993832b40429efc3b552a8c15cbc0600add7eb8631e95901ca8f00",
+      "bytes": 453990,
+      "width": 3410,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-blush-mountain-layers/thumb-1a6ed78fa1137eed2c996ca78e7d57966cb59fc17e1568d2beed82e430097d45.webp",
+      "sha256": "1a6ed78fa1137eed2c996ca78e7d57966cb59fc17e1568d2beed82e430097d45",
+      "bytes": 1020,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-blush-mountain-layers/thumb2x-ab876e72011d5b14c4f07d2cdd1761b66d852946a1ad0467e9deb787a51dc271.webp",
+      "sha256": "ab876e72011d5b14c4f07d2cdd1761b66d852946a1ad0467e9deb787a51dc271",
+      "bytes": 2654,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "b6553c53664de68e668aca3c3ed56739adc833c8ebe3ce9fafa0c3df836d1289",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

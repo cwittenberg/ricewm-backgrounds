@@ -1,0 +1,25 @@
+{
+  "retrievedAt": "2026-10-10T16:26:16.740Z",
+  "url": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "creator": "willYEE",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "fantasy-visual-novel-backgrounds/Fantasy_VN_Backgrounds_PNG/19_floating_islands_day.png",
+  "inputSha256": "d6e27aa836a91bb6232b09e25ee7ec49fda93d94d962c5d0f66ce002c8014592",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "ai",
+    "daylight",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+  "ai": true,
+  "aiProvenance": "Text-only generation; Real-ESRGAN upscaling; creator selection; no references, artist or franchise names or style models.",
+  "model": "Krea 2"
+}

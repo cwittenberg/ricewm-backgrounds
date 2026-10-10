@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-phoenix-wings",
+  "name": "Phoenix Wings",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-phoenix-wings/image-f0e32b56d8e6524fdb8710e2b5d08c02e5f1c4d11b19605b126cc664f35421ed.webp",
+      "sha256": "f0e32b56d8e6524fdb8710e2b5d08c02e5f1c4d11b19605b126cc664f35421ed",
+      "bytes": 261996,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-phoenix-wings/thumb-de9334dcabb9c2ed1ef6f5b530d39789a17eac98056b85724809d9dd7c233d7f.webp",
+      "sha256": "de9334dcabb9c2ed1ef6f5b530d39789a17eac98056b85724809d9dd7c233d7f",
+      "bytes": 9074,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-phoenix-wings/thumb2x-d6ec47e7324b0160ee74db0b5145d3e9575fc50c4920364506e5735684960dca.webp",
+      "sha256": "d6ec47e7324b0160ee74db0b5145d3e9575fc50c4920364506e5735684960dca",
+      "bytes": 27702,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "76c6577fca756df29fd34a2496da6d9717c0049a497dd5eea1aaff352747af0c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

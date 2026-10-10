@@ -1,0 +1,57 @@
+{
+  "id": "wp-librepixels-neon-heart",
+  "name": "Neon Heart",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "abstract",
+    "ai",
+    "dark",
+    "minimal",
+    "modern",
+    "neon",
+    "ultrawide"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-neon-heart/image-13fabab15b02ad95eabf4c28975fa7adb957f2d0480a3f2c9a8130c15c7e953c.webp",
+      "sha256": "13fabab15b02ad95eabf4c28975fa7adb957f2d0480a3f2c9a8130c15c7e953c",
+      "bytes": 119658,
+      "width": 3440,
+      "height": 1440
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-neon-heart/thumb-df48789d00fed72026690a3e467350c96b7a770b7acef17198ce4f4cd40508d9.webp",
+      "sha256": "df48789d00fed72026690a3e467350c96b7a770b7acef17198ce4f4cd40508d9",
+      "bytes": 3390,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-neon-heart/thumb2x-229b579d5cfc218be3ec411ea085d4b2df719ec2817fab997060b82a22e23121.webp",
+      "sha256": "229b579d5cfc218be3ec411ea085d4b2df719ec2817fab997060b82a22e23121",
+      "bytes": 10588,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "5c48723421c179b9ea144999c399f89d197fc86c22d2924888d561b6ab0071d4",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

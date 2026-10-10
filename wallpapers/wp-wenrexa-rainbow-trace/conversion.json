@@ -1,0 +1,55 @@
+{
+  "id": "wp-wenrexa-rainbow-trace",
+  "name": "Rainbow Trace",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "tags": [
+    "abstract",
+    "dark",
+    "minimal",
+    "modern",
+    "neon"
+  ],
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this pack as Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. Selected clean original abstract/geometric background JPEGs exclude example compositions, text overlays, fonts and PSD files. These six designs were not included in RiceWM's earlier collection.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-rainbow-trace/image-7d0ec549b73c12f10f92706148fb9ce61189c75c7a649b6423ff99084e24aa08.webp",
+      "sha256": "7d0ec549b73c12f10f92706148fb9ce61189c75c7a649b6423ff99084e24aa08",
+      "bytes": 326834,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-rainbow-trace/thumb-aee80d367c7926aeea0ebad57ddbbdfb96357e634b73ede183e79df0d8ada9af.webp",
+      "sha256": "aee80d367c7926aeea0ebad57ddbbdfb96357e634b73ede183e79df0d8ada9af",
+      "bytes": 790,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-rainbow-trace/thumb2x-44369bfc97a577edafaba7549c30bda35568f452492999a10f1b6ffc5988f5ae.webp",
+      "sha256": "44369bfc97a577edafaba7549c30bda35568f452492999a10f1b6ffc5988f5ae",
+      "bytes": 3990,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "dba1488db8c8bb211016d52a64ce297e652e47e1bb678f108e492b17e8f2c7e3",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

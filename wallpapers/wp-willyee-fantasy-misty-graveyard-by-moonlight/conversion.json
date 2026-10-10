@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-misty-graveyard-by-moonlight",
+  "name": "Misty Graveyard by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "dark",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-misty-graveyard-by-moonlight/image-993dea08adb9b8d11615e135f930bc9524a876b6d341b0b3a08e81eb9f79c424.webp",
+      "sha256": "993dea08adb9b8d11615e135f930bc9524a876b6d341b0b3a08e81eb9f79c424",
+      "bytes": 187000,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-misty-graveyard-by-moonlight/thumb-7cdf68f3bfa78d1fbc7b69c6f037c15432d0f249474c26f370bf5ae61054bc28.webp",
+      "sha256": "7cdf68f3bfa78d1fbc7b69c6f037c15432d0f249474c26f370bf5ae61054bc28",
+      "bytes": 6014,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-misty-graveyard-by-moonlight/thumb2x-fd1dfae977cccc39a060b1017121905347aa15bc377b0fabb042ad671cf64718.webp",
+      "sha256": "fd1dfae977cccc39a060b1017121905347aa15bc377b0fabb042ad671cf64718",
+      "bytes": 20776,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "9a4e3627ab8a784c7842cae6fcfb6abfb5a204730caaf6f114566a9c05ca1a04",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

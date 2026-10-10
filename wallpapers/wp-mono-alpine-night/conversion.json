@@ -1,0 +1,56 @@
+{
+  "id": "wp-mono-alpine-night",
+  "name": "Alpine Night",
+  "author": "Mono",
+  "category": "modern",
+  "tags": [
+    "dark",
+    "illustration",
+    "landscape",
+    "minimal",
+    "modern",
+    "mountains"
+  ],
+  "source": "https://getmono.lol/kits/guide/",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://getmono.lol/kits/guide/",
+    "basis": "Mono identifies these as its own original visual assets, explicitly dedicates them under CC0 1.0, and states no third-party artwork, font files or executable tools are bundled. Each original 3840x2160 desktop JPEG is obtained from a creator ZIP whose SHA256 matches the primary creator catalog and includes its CC0 dedication. These selected collections are original designs, separate from Mono's explicitly AI-generated collections.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-mono-alpine-night/image-1e079339794a018ac73e525ebd6abd69756cf78a5808b28b92b44832369880b4.webp",
+      "sha256": "1e079339794a018ac73e525ebd6abd69756cf78a5808b28b92b44832369880b4",
+      "bytes": 65658,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-mono-alpine-night/thumb-bb6ee6268b9b4d4a301d8b75fad32bfee5e4a599e2fda2c968187f968dc80bef.webp",
+      "sha256": "bb6ee6268b9b4d4a301d8b75fad32bfee5e4a599e2fda2c968187f968dc80bef",
+      "bytes": 1772,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-mono-alpine-night/thumb2x-b52700386ef2624c73a4661a11c7abc133b94018d66b67f18ce680b4d9dfbfc5.webp",
+      "sha256": "b52700386ef2624c73a4661a11c7abc133b94018d66b67f18ce680b4d9dfbfc5",
+      "bytes": 4592,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "b1e583e5e20ef965b0433165778f32b2095105cbd36e17c96723d371d011ffe0",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

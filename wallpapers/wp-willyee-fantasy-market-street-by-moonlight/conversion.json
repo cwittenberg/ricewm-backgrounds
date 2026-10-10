@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-market-street-by-moonlight",
+  "name": "Market Street by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "fantasy",
+    "illustration",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-market-street-by-moonlight/image-f312520131a5207fe0b4caf9346b825b54115571c0b84548dbf84ff3df7b56ae.webp",
+      "sha256": "f312520131a5207fe0b4caf9346b825b54115571c0b84548dbf84ff3df7b56ae",
+      "bytes": 258020,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-market-street-by-moonlight/thumb-b6f26bdd25bcda0112bf2d742a22f5d3844a09fd872cbde6ce30080452a7d88f.webp",
+      "sha256": "b6f26bdd25bcda0112bf2d742a22f5d3844a09fd872cbde6ce30080452a7d88f",
+      "bytes": 9768,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-market-street-by-moonlight/thumb2x-49dd56f3945a380080ecd5a91f0071e878a9a61e8406eb9d95555da9134150ad.webp",
+      "sha256": "49dd56f3945a380080ecd5a91f0071e878a9a61e8406eb9d95555da9134150ad",
+      "bytes": 33474,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "6c2f8d0a8e1db4afd4931b99baf6eaa71e02b4415297953c7669bc9c03bb9323",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

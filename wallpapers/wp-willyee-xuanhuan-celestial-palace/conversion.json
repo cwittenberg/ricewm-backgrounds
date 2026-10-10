@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-celestial-palace",
+  "name": "Celestial Palace",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "blue",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-celestial-palace/image-aa9751813a137dc22c377f3d89a6a5f4634f58e44137313379d2a3e930bff18e.webp",
+      "sha256": "aa9751813a137dc22c377f3d89a6a5f4634f58e44137313379d2a3e930bff18e",
+      "bytes": 150160,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-celestial-palace/thumb-70ea2e601a7e926c8424602f2288eb2277e3206275eb94085964257c70030514.webp",
+      "sha256": "70ea2e601a7e926c8424602f2288eb2277e3206275eb94085964257c70030514",
+      "bytes": 5098,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-celestial-palace/thumb2x-5ef77c26caef0ac4a8e8cfb7d034dd6d9a0ea36d0847e4bea311478960c2af51.webp",
+      "sha256": "5ef77c26caef0ac4a8e8cfb7d034dd6d9a0ea36d0847e4bea311478960c2af51",
+      "bytes": 15288,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "4597d1f6d041d3ef3c87a72b2bb63b358050f3dd5ddf417e99cfc9c546d66f33",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

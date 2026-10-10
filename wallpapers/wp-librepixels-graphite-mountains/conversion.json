@@ -1,0 +1,56 @@
+{
+  "id": "wp-librepixels-graphite-mountains",
+  "name": "Graphite Mountains",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "dark",
+    "landscape",
+    "minimal",
+    "modern",
+    "monochrome"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-graphite-mountains/image-668cd5512d0b85a34812b8617ce336f5ad7bec79607008f6009dbc8aac1755e6.webp",
+      "sha256": "668cd5512d0b85a34812b8617ce336f5ad7bec79607008f6009dbc8aac1755e6",
+      "bytes": 153350,
+      "width": 3274,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-graphite-mountains/thumb-c21275ad2a0283999aea2e751c652c07561d04cb96c1f3dea5187ec49d07a9dd.webp",
+      "sha256": "c21275ad2a0283999aea2e751c652c07561d04cb96c1f3dea5187ec49d07a9dd",
+      "bytes": 1590,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-graphite-mountains/thumb2x-51d27d0bd442703e4af0d439e7c993004733117f5a46507c29c3e2b62710f7cc.webp",
+      "sha256": "51d27d0bd442703e4af0d439e7c993004733117f5a46507c29c3e2b62710f7cc",
+      "bytes": 4576,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "39285244bab155cf713f975aaad7c827f5033407d071c0574074b9c60535e85d",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

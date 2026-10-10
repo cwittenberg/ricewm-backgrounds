@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-sword-tomb",
+  "name": "Sword Tomb",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-sword-tomb/image-5fb7e08a646d848aee671be877b938f6f95f5158481be38a3b4168b29e0227cd.webp",
+      "sha256": "5fb7e08a646d848aee671be877b938f6f95f5158481be38a3b4168b29e0227cd",
+      "bytes": 292310,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-sword-tomb/thumb-36de0fabbb6666fe23d4bd7bbf4bb6d87af593cd3119708f69d0c77ae25280a6.webp",
+      "sha256": "36de0fabbb6666fe23d4bd7bbf4bb6d87af593cd3119708f69d0c77ae25280a6",
+      "bytes": 9708,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-sword-tomb/thumb2x-c8002292f281fde2b109fccb4092cff0c722d4b61b8c2891aedd6f7398df7a0c.webp",
+      "sha256": "c8002292f281fde2b109fccb4092cff0c722d4b61b8c2891aedd6f7398df7a0c",
+      "bytes": 31832,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "ad993f992cb00a09d98104d3022bb04e2b8c75be0286371f41b23d4790f9dca4",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

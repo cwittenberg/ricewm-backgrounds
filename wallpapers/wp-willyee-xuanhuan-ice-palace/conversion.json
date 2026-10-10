@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-ice-palace",
+  "name": "Ice Palace",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "blue",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-ice-palace/image-7b696d9dde7d3327cbb38355c05ceb759aa762a6087a33cc57e058e51c1e9c75.webp",
+      "sha256": "7b696d9dde7d3327cbb38355c05ceb759aa762a6087a33cc57e058e51c1e9c75",
+      "bytes": 153068,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-ice-palace/thumb-696092d8502f5c173b1ed5a33d4b0d1c158e6f8e9d2b36af5fb4292195b2cc23.webp",
+      "sha256": "696092d8502f5c173b1ed5a33d4b0d1c158e6f8e9d2b36af5fb4292195b2cc23",
+      "bytes": 5140,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-ice-palace/thumb2x-c19f6fb8a14d4264d2119844cf0edce61417bf685c51795d1fa7226296cfdcaf.webp",
+      "sha256": "c19f6fb8a14d4264d2119844cf0edce61417bf685c51795d1fa7226296cfdcaf",
+      "bytes": 15032,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "ba72eed5a9d12834fc47ab763cab555c605c79e288e88d51eccfee4823e9224c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-fantasy-forest-path-in-daylight",
+  "name": "Forest Path in Daylight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "daylight",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-forest-path-in-daylight/image-ffc97805ed2257d52dafbcaa222d26cae67167adf7280017f794e78548797622.webp",
+      "sha256": "ffc97805ed2257d52dafbcaa222d26cae67167adf7280017f794e78548797622",
+      "bytes": 273070,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-forest-path-in-daylight/thumb-955af13ac6905ec1d9418022f9ee7ed54fc286a48f4e88a8bcee6724289646f7.webp",
+      "sha256": "955af13ac6905ec1d9418022f9ee7ed54fc286a48f4e88a8bcee6724289646f7",
+      "bytes": 10706,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-forest-path-in-daylight/thumb2x-95b06ab953fbe386889c9c351abc57ce89f47d1baf218ca8306046e88a13a062.webp",
+      "sha256": "95b06ab953fbe386889c9c351abc57ce89f47d1baf218ca8306046e88a13a062",
+      "bytes": 34370,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "37e55c239a23cd7dad0ecc275745d37b1938d0a814518e6c89ac219c089bcc2e",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

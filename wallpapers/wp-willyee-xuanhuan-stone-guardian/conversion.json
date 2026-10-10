@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-stone-guardian",
+  "name": "Stone Guardian",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-stone-guardian/image-1589e073576810efbdcd00bbf0148c7d26f841bd291ab7157cddbb94642b743e.webp",
+      "sha256": "1589e073576810efbdcd00bbf0148c7d26f841bd291ab7157cddbb94642b743e",
+      "bytes": 210528,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-stone-guardian/thumb-7b5abc842c67f58e9a5383587e7b761aabd80e30033ea31f248f28810d4cc092.webp",
+      "sha256": "7b5abc842c67f58e9a5383587e7b761aabd80e30033ea31f248f28810d4cc092",
+      "bytes": 7826,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-stone-guardian/thumb2x-153d7b510839e0fe49b28ff6f4aa752a589bc4cd9d0bd802a2fe747b7075e010.webp",
+      "sha256": "153d7b510839e0fe49b28ff6f4aa752a589bc4cd9d0bd802a2fe747b7075e010",
+      "bytes": 24398,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "9af1eb01151ce3eb3a304066e67092597bf497bbf60a985f78a3ac3622d400f7",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

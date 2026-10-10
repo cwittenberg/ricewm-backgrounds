@@ -1,0 +1,28 @@
+{
+  "retrievedAt": "2026-10-10T16:25:20.740Z",
+  "url": "https://willyee.itch.io/xuanhuan-mood-art",
+  "creator": "willYEE",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "xuanhuan-mood-art/Xuanhuan_Mood_Art_PNG/23_star_river_boat.png",
+  "inputSha256": "ef9185e4eddedfd37e5445d4806ee994366ce050676a2d59493b277d399a6a13",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "ai",
+    "blue",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern",
+    "space"
+  ],
+  "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+  "ai": true,
+  "aiProvenance": "Text-only generation; Real-ESRGAN upscaling; creator selection; no references, artist, novel or franchise names or style models.",
+  "model": "Krea 2"
+}

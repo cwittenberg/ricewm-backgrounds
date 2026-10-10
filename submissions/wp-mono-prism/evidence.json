@@ -1,0 +1,24 @@
+{
+  "retrievedAt": "2026-10-10T16:21:56.147Z",
+  "url": "https://getmono.lol/kits/guide/",
+  "creator": "Mono",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "mono-prism/prism-desktop-3840x2160.jpg",
+  "inputSha256": "dcdcbfc39a3c13144397f3f64a8bef5b31327b03a0169ae72c7f249a70977109",
+  "nativeDimensions": {
+    "width": 3840,
+    "height": 2160
+  },
+  "tags": [
+    "abstract",
+    "geometric",
+    "modern",
+    "monochrome",
+    "op-art"
+  ],
+  "basis": "Mono identifies these as its own original visual assets, explicitly dedicates them under CC0 1.0, and states no third-party artwork, font files or executable tools are bundled. Each original 3840x2160 desktop JPEG is obtained from a creator ZIP whose SHA256 matches the primary creator catalog and includes its CC0 dedication. These selected collections are original designs, separate from Mono's explicitly AI-generated collections.",
+  "includedLicense": "CC0 1.0 Universal — Mono Kits original artwork\r\n\r\nTo the extent possible under law, Mono has waived all copyright and related or\r\nneighboring rights to the original wallpapers, icon vectors and PNG exports,\r\nand theme configuration in this collection under CC0 1.0 Universal.\r\nYou may copy, modify, distribute and use these assets, including commercially,\r\nwithout asking permission. Attribution is appreciated but is not required.\r\nThe assets are provided without warranty. This waiver does not grant rights\r\nto any third-party trademarks or endorse your use.\r\n\r\nLicense: https://creativecommons.org/publicdomain/zero/1.0/\r\nFull legal terms: https://creativecommons.org/publicdomain/zero/1.0/legalcode\r\n\r\nCreated for Mono Kits, 2026. No third-party art is included.\r\nThe Windows system style referenced by the theme is provided by your own\r\nWindows installation and is not redistributed in this package.\r\n",
+  "archiveSha256": "164d5c3b79fd0a26006eeda39c80fafd92da2bdb74df8ec706ed548539ff1309",
+  "ai": false
+}

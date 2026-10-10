@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-fantasy-mountain-temple-in-daylight",
+  "name": "Mountain Temple in Daylight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "daylight",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-mountain-temple-in-daylight/image-95031d4b85f97ad4e604b6b59c598ae1e573a1f313b1115074796e39158de81e.webp",
+      "sha256": "95031d4b85f97ad4e604b6b59c598ae1e573a1f313b1115074796e39158de81e",
+      "bytes": 197480,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-mountain-temple-in-daylight/thumb-6e974dff258870b4c924db899cec6a3bd5ef592eec21c6fed567577f8fcedfc1.webp",
+      "sha256": "6e974dff258870b4c924db899cec6a3bd5ef592eec21c6fed567577f8fcedfc1",
+      "bytes": 6944,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-mountain-temple-in-daylight/thumb2x-d0c4eba61593e7174f6156a65f9a77eda72f1c245fca77f46a87813086b98805.webp",
+      "sha256": "d0c4eba61593e7174f6156a65f9a77eda72f1c245fca77f46a87813086b98805",
+      "bytes": 21892,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "fe4b912b94bd37c30c5c0cf9d30821e4ea3732b239fa145ec87dc2355cff5c43",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

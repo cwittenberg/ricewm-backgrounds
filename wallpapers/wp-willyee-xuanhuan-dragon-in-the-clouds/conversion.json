@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-dragon-in-the-clouds",
+  "name": "Dragon In The Clouds",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-dragon-in-the-clouds/image-929b1332f86ba0ae3e11314be30f28570201959e58262811172e056b5a6928e2.webp",
+      "sha256": "929b1332f86ba0ae3e11314be30f28570201959e58262811172e056b5a6928e2",
+      "bytes": 187766,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-dragon-in-the-clouds/thumb-7a5d44e6bfc184e06f3d63f60fca67d2521b39587dedc7cc1c4e4899805bcd41.webp",
+      "sha256": "7a5d44e6bfc184e06f3d63f60fca67d2521b39587dedc7cc1c4e4899805bcd41",
+      "bytes": 6036,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-dragon-in-the-clouds/thumb2x-767b47bfd0b79d0e3a01fc92de19a81c5789ad843c602c3407614d7b21482578.webp",
+      "sha256": "767b47bfd0b79d0e3a01fc92de19a81c5789ad843c602c3407614d7b21482578",
+      "bytes": 18534,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "511b938e1bfadf7facf494561b5d0ff422e597f4865494b6a714b643400eb471",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

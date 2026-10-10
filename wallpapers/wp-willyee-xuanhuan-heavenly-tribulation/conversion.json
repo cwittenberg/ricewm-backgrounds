@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-heavenly-tribulation",
+  "name": "Heavenly Tribulation",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-heavenly-tribulation/image-c100d0f9fbd400cdf3b6dc19fcab8a170c98fd5074a8e5038d8794fe1709de9b.webp",
+      "sha256": "c100d0f9fbd400cdf3b6dc19fcab8a170c98fd5074a8e5038d8794fe1709de9b",
+      "bytes": 164668,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-heavenly-tribulation/thumb-0d04769749a92713045546d4c4e3aa5bfa61766cd3bc573479abbae8b58e44f4.webp",
+      "sha256": "0d04769749a92713045546d4c4e3aa5bfa61766cd3bc573479abbae8b58e44f4",
+      "bytes": 5088,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-heavenly-tribulation/thumb2x-7270340c7e959f4c660c3323be17e8d9ab0ae9ed714b0a090bff632eb348399e.webp",
+      "sha256": "7270340c7e959f4c660c3323be17e8d9ab0ae9ed714b0a090bff632eb348399e",
+      "bytes": 14704,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "fe6465754b976b8b9c3c1d11ce013028068f1df8e82a8182808d86d16580883b",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

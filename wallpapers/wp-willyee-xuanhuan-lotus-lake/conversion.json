@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-lotus-lake",
+  "name": "Lotus Lake",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-lotus-lake/image-cbc5c40babf5089342c88569ea89003e330ee8344fe04e988fca9f3917b6a67a.webp",
+      "sha256": "cbc5c40babf5089342c88569ea89003e330ee8344fe04e988fca9f3917b6a67a",
+      "bytes": 153396,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-lotus-lake/thumb-43f259cc12f8acfc848983b3dd0a017adf70997f4a9ac7fe9d655f7982478efd.webp",
+      "sha256": "43f259cc12f8acfc848983b3dd0a017adf70997f4a9ac7fe9d655f7982478efd",
+      "bytes": 4664,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-lotus-lake/thumb2x-cddf30b66f3e6eb2de9e8f260d0063d2d5b59bf953c82a1641898f7187e8d769.webp",
+      "sha256": "cddf30b66f3e6eb2de9e8f260d0063d2d5b59bf953c82a1641898f7187e8d769",
+      "bytes": 14242,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "889e99f3c55bff737ecfb88c9dae26f42c01dfbefb91aeb46d25a4ae2cd5de1c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

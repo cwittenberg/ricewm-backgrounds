@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-volcano-cauldron",
+  "name": "Volcano Cauldron",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-volcano-cauldron/image-d9b986c593201b6dbcb7ce54b727ffd37d1c48ca2dd7f29854f81eccc710ecf8.webp",
+      "sha256": "d9b986c593201b6dbcb7ce54b727ffd37d1c48ca2dd7f29854f81eccc710ecf8",
+      "bytes": 175160,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-volcano-cauldron/thumb-ab7217210e52d9d90c31e7e43e516027246ee78202727f58968b012e53d05fd7.webp",
+      "sha256": "ab7217210e52d9d90c31e7e43e516027246ee78202727f58968b012e53d05fd7",
+      "bytes": 5564,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-volcano-cauldron/thumb2x-9c3f603405b9c3967c99de84216ebf401708d0ad51be136f611bd8ac9418d208.webp",
+      "sha256": "9c3f603405b9c3967c99de84216ebf401708d0ad51be136f611bd8ac9418d208",
+      "bytes": 17552,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "5426b4d5694c0ef8230dde833b4adbed272e920abb041f5e85954c2e9744a5a4",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

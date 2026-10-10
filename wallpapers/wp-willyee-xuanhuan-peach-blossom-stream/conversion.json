@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-peach-blossom-stream",
+  "name": "Peach Blossom Stream",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-peach-blossom-stream/image-1336b9cbb6ff3399055fa39998a73fcc5309beb3356963d9982e63d75748faf0.webp",
+      "sha256": "1336b9cbb6ff3399055fa39998a73fcc5309beb3356963d9982e63d75748faf0",
+      "bytes": 282056,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-peach-blossom-stream/thumb-a85de3839b2cd47db1ab7866b508faf8f337847cee7f1bd015a47e47007ae746.webp",
+      "sha256": "a85de3839b2cd47db1ab7866b508faf8f337847cee7f1bd015a47e47007ae746",
+      "bytes": 11204,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-peach-blossom-stream/thumb2x-f87bc6ba6280183c325c6d656173e94a636e81b1636faf62b5361219984ef0c1.webp",
+      "sha256": "f87bc6ba6280183c325c6d656173e94a636e81b1636faf62b5361219984ef0c1",
+      "bytes": 33936,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "dfa902a543f50c6a6a303465aa951f1790d38ff5d0aa66dfbca65daca9b2de64",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

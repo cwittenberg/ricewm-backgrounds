@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-swamp-by-moonlight",
+  "name": "Swamp by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "dark",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-swamp-by-moonlight/image-a52010eea39a60aa081aaab527497ccf8a4b526eada2996e1bb8a90f5e603a6a.webp",
+      "sha256": "a52010eea39a60aa081aaab527497ccf8a4b526eada2996e1bb8a90f5e603a6a",
+      "bytes": 213666,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-swamp-by-moonlight/thumb-b9747196d09d7b6b1d8143af8eaa003975b6eba7bb62bd307e38c5ad0b4d37e5.webp",
+      "sha256": "b9747196d09d7b6b1d8143af8eaa003975b6eba7bb62bd307e38c5ad0b4d37e5",
+      "bytes": 7946,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-swamp-by-moonlight/thumb2x-0508360e9d48c3b34c4962ea1a1dcb14d6308cfd1b15cf76692676211b6dede6.webp",
+      "sha256": "0508360e9d48c3b34c4962ea1a1dcb14d6308cfd1b15cf76692676211b6dede6",
+      "bytes": 26032,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "e46ade0bce8d4e5c752e14bfb4b70770478e8fa65e1b58ae428939727a0de69d",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

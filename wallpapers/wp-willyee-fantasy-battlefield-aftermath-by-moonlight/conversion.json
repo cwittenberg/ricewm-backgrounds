@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-battlefield-aftermath-by-moonlight",
+  "name": "Battlefield Aftermath by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "dark",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-battlefield-aftermath-by-moonlight/image-eb8fe2c4d404f6ceeb08ae2aea5e4e1ed7728a5eaf2630484bf6fc3e734326ee.webp",
+      "sha256": "eb8fe2c4d404f6ceeb08ae2aea5e4e1ed7728a5eaf2630484bf6fc3e734326ee",
+      "bytes": 192630,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-battlefield-aftermath-by-moonlight/thumb-0eec3ed8b861d4caba5a42178998d79ab6184303112b456dfed51ab9542e4b21.webp",
+      "sha256": "0eec3ed8b861d4caba5a42178998d79ab6184303112b456dfed51ab9542e4b21",
+      "bytes": 8202,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-battlefield-aftermath-by-moonlight/thumb2x-ae42f8ad0a672f4f525af6fb83629ed1d182b9812248d480810b86e3545652ba.webp",
+      "sha256": "ae42f8ad0a672f4f525af6fb83629ed1d182b9812248d480810b86e3545652ba",
+      "bytes": 26080,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "ca986bdbd8f2a3e296fdf4ae717886fc23d9d4f4940c6b22b16530e4d85db284",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

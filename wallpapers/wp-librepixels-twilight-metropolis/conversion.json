@@ -1,0 +1,55 @@
+{
+  "id": "wp-librepixels-twilight-metropolis",
+  "name": "Twilight Metropolis",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "modern",
+    "urban"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-twilight-metropolis/image-6768d87f84bb886ac1c469bd3c61839532a6a670ef83b4af732782e66f3321f9.webp",
+      "sha256": "6768d87f84bb886ac1c469bd3c61839532a6a670ef83b4af732782e66f3321f9",
+      "bytes": 538262,
+      "width": 3840,
+      "height": 2153
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-twilight-metropolis/thumb-a1f4491689d65af0e99f26faad2b9ff1a631418de1cc1132fb6a2557cdcb2d89.webp",
+      "sha256": "a1f4491689d65af0e99f26faad2b9ff1a631418de1cc1132fb6a2557cdcb2d89",
+      "bytes": 5616,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-twilight-metropolis/thumb2x-0fe0441646b96b632963d2d0ca0d606da7d3714d98b5b5a6ba6ee415976bfaa9.webp",
+      "sha256": "0fe0441646b96b632963d2d0ca0d606da7d3714d98b5b5a6ba6ee415976bfaa9",
+      "bytes": 19518,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "cdde5183888942b78819b08e8c17a48114492f21243f579d5bac02632709965f",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

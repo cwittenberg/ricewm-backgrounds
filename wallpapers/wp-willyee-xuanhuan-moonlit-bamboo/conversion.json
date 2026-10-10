@@ -1,0 +1,58 @@
+{
+  "id": "wp-willyee-xuanhuan-moonlit-bamboo",
+  "name": "Moonlit Bamboo",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "blue",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-moonlit-bamboo/image-d4605884dc050123e1e1ba1a387fa016c1e3ef39bbc496c9d7d05d126f3cb887.webp",
+      "sha256": "d4605884dc050123e1e1ba1a387fa016c1e3ef39bbc496c9d7d05d126f3cb887",
+      "bytes": 234538,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-moonlit-bamboo/thumb-72447b6ef385003681bf8a24fc584bd6fdffa39bf7fb9f34306b9dfc8366d09b.webp",
+      "sha256": "72447b6ef385003681bf8a24fc584bd6fdffa39bf7fb9f34306b9dfc8366d09b",
+      "bytes": 7828,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-moonlit-bamboo/thumb2x-cf4726f6f11594d30c8bf55efcdd74bef59669de102c9eec7028e74cd61432ea.webp",
+      "sha256": "cf4726f6f11594d30c8bf55efcdd74bef59669de102c9eec7028e74cd61432ea",
+      "bytes": 27026,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "3fe3a860650fff167b797017ce5b31db5eb4ff783dc44df9209b5df4093ed43c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-blood-moon-battlefield",
+  "name": "Blood Moon Battlefield",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-blood-moon-battlefield/image-c5a669fa81fb0ce65f34faf57f2f0fc547a0836a9f1666e1f4026d478f33ad1e.webp",
+      "sha256": "c5a669fa81fb0ce65f34faf57f2f0fc547a0836a9f1666e1f4026d478f33ad1e",
+      "bytes": 186044,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-blood-moon-battlefield/thumb-de8ddb6ef7aaf31eca047c40d0154ba6bce061a3f699f27d3454dab39412c2b0.webp",
+      "sha256": "de8ddb6ef7aaf31eca047c40d0154ba6bce061a3f699f27d3454dab39412c2b0",
+      "bytes": 7750,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-blood-moon-battlefield/thumb2x-8010e5710f0074e13b9c5f4423302c21166574adbc6488f10519daf78bdcfdfa.webp",
+      "sha256": "8010e5710f0074e13b9c5f4423302c21166574adbc6488f10519daf78bdcfdfa",
+      "bytes": 22824,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "cab57ca79ad2a243658e952cf2ea754b405484e462cdb9ca5ef436b325352bb2",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

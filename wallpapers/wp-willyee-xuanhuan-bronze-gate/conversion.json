@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-bronze-gate",
+  "name": "Bronze Gate",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-bronze-gate/image-45c7dcb0e8fc168e591ee36b9d4cc4692f8d780bd49f05c5d46f4c4e05d5c307.webp",
+      "sha256": "45c7dcb0e8fc168e591ee36b9d4cc4692f8d780bd49f05c5d46f4c4e05d5c307",
+      "bytes": 148104,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-bronze-gate/thumb-5050387b82687892e0250adb6d911fd078cdbf3fc3ead18859866c16c78748d4.webp",
+      "sha256": "5050387b82687892e0250adb6d911fd078cdbf3fc3ead18859866c16c78748d4",
+      "bytes": 4866,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-bronze-gate/thumb2x-ce7b5ab5ac67df4dd8343905ccd48cdefd851dc76e47261c297a6a54ccacb076.webp",
+      "sha256": "ce7b5ab5ac67df4dd8343905ccd48cdefd851dc76e47261c297a6a54ccacb076",
+      "bytes": 14608,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "e59cd5b0c066dc8e148a6979fb205d70e4ef6d3195eb27e953ba80023ee38233",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "retrievedAt": "2026-10-10T16:22:33.325Z",
+  "url": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "creator": "LibrePixels",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "librepixels/[abstract]_librepixels_halftree.jpg",
+  "inputSha256": "a3d49802f6fb0bca5c781f30153c7d64c3b3e6ae389545e5f05de5bada2a5d02",
+  "nativeDimensions": {
+    "width": 3840,
+    "height": 2160
+  },
+  "tags": [
+    "abstract",
+    "ai",
+    "colorful",
+    "light",
+    "modern"
+  ],
+  "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+  "creatorHistory": {
+    "file_name": "[abstract]_librepixels_halftree.jpg",
+    "file_path": "wallpapers/[abstract]_librepixels_halftree.jpg",
+    "size": 886542,
+    "content_sha256": "a3d49802f6fb0bca5c781f30153c7d64c3b3e6ae389545e5f05de5bada2a5d02",
+    "ref": "e74c9b06cfee9359445642d7f7375a97a4ea52a2",
+    "blob_id": "d13d34d5f36923ced612a0bc2a9294487547ebe8",
+    "commit_id": "e74c9b06cfee9359445642d7f7375a97a4ea52a2",
+    "last_commit_id": "b90c4c90e0ae085ffda7215107f50fa2e4e56a32",
+    "execute_filemode": false,
+    "authorName": "zayronxio",
+    "committerName": "zayronxio",
+    "authoredDate": "2025-04-06T19:31:20.000-06:00",
+    "commitUrl": "https://gitlab.com/librepixels/ia.Wallpapers/-/commit/b90c4c90e0ae085ffda7215107f50fa2e4e56a32",
+    "commitTitle": "update wallpapers"
+  },
+  "sourceRevision": "e74c9b06cfee9359445642d7f7375a97a4ea52a2",
+  "ai": true,
+  "aiProvenance": "Creator README lists MidJourney, OpenAI, Leonardo AI, Pixelcut, Nero AI; individual prompts and exact models unavailable."
+}

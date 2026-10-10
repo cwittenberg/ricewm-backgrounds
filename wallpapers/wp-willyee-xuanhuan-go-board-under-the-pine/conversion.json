@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-go-board-under-the-pine",
+  "name": "Go Board Under The Pine",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-go-board-under-the-pine/image-05893e450796c210fed9e9e5918d0492818ff4d2b73d91510d593664941fb88a.webp",
+      "sha256": "05893e450796c210fed9e9e5918d0492818ff4d2b73d91510d593664941fb88a",
+      "bytes": 228084,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-go-board-under-the-pine/thumb-e819b046c0d078f81942d51c453284a20eabad466805414c042547816510f324.webp",
+      "sha256": "e819b046c0d078f81942d51c453284a20eabad466805414c042547816510f324",
+      "bytes": 8110,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-go-board-under-the-pine/thumb2x-8dfa9fbd10160c26d750a20a43d25d4bd01c237e67976eaad8f299ba9d318c27.webp",
+      "sha256": "8dfa9fbd10160c26d750a20a43d25d4bd01c237e67976eaad8f299ba9d318c27",
+      "bytes": 25078,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "9c9d3a22c35a7ec3a21828a17749b156be904910bb67d23fe785b069737e8657",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

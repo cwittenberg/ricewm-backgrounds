@@ -1,0 +1,54 @@
+{
+  "id": "wp-wenrexa-violet-rays",
+  "name": "Violet Rays",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "tags": [
+    "abstract",
+    "gradient",
+    "modern",
+    "purple"
+  ],
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this pack as Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. Selected clean original abstract/geometric background JPEGs exclude example compositions, text overlays, fonts and PSD files. These six designs were not included in RiceWM's earlier collection.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-violet-rays/image-526dfc21c1aaaa7f95217328bdb0c048a76cb069079111c8145d0366c53a2f6b.webp",
+      "sha256": "526dfc21c1aaaa7f95217328bdb0c048a76cb069079111c8145d0366c53a2f6b",
+      "bytes": 59992,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-violet-rays/thumb-8b20c3a44bc5cd65f7bdb0e586dc43f847f75309117e96dcb916734f9a16b43b.webp",
+      "sha256": "8b20c3a44bc5cd65f7bdb0e586dc43f847f75309117e96dcb916734f9a16b43b",
+      "bytes": 1176,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-violet-rays/thumb2x-0fb88b59cd8b4b32774ed90db6783174be6fa21dd74ef880991b568ba59dc796.webp",
+      "sha256": "0fb88b59cd8b4b32774ed90db6783174be6fa21dd74ef880991b568ba59dc796",
+      "bytes": 3308,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "279f5abd0c4040d3c1756aa96aaa2e73f308ad6a1738b5c7af5537cfe42418d2",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "wp-mono-solstice",
+  "name": "Solstice",
+  "author": "Mono",
+  "category": "modern",
+  "tags": [
+    "earth-tones",
+    "illustration",
+    "landscape",
+    "minimal",
+    "modern"
+  ],
+  "source": "https://getmono.lol/kits/guide/",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://getmono.lol/kits/guide/",
+    "basis": "Mono identifies these as its own original visual assets, explicitly dedicates them under CC0 1.0, and states no third-party artwork, font files or executable tools are bundled. Each original 3840x2160 desktop JPEG is obtained from a creator ZIP whose SHA256 matches the primary creator catalog and includes its CC0 dedication. These selected collections are original designs, separate from Mono's explicitly AI-generated collections.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-mono-solstice/image-37c223e7c765a76f6830e7d0fb774d67ce748f38ad959ed80ec1c5da2b72fe2d.webp",
+      "sha256": "37c223e7c765a76f6830e7d0fb774d67ce748f38ad959ed80ec1c5da2b72fe2d",
+      "bytes": 53794,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-mono-solstice/thumb-fe68fe3497d60f5728b963f6fda59ea03e64db52c62a305afa0e3555978276a7.webp",
+      "sha256": "fe68fe3497d60f5728b963f6fda59ea03e64db52c62a305afa0e3555978276a7",
+      "bytes": 1374,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-mono-solstice/thumb2x-862763e36293f38572955ac56d590da5a7041dfec7e2ef4b16414e41c70fff32.webp",
+      "sha256": "862763e36293f38572955ac56d590da5a7041dfec7e2ef4b16414e41c70fff32",
+      "bytes": 3280,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "4d1b402474ef09e957af839510a342a2078f6e05f7bde1a1c59675e8eaebfe75",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

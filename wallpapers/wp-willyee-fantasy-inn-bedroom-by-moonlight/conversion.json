@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-inn-bedroom-by-moonlight",
+  "name": "Inn Bedroom by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "fantasy",
+    "illustration",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-inn-bedroom-by-moonlight/image-831e114d0524053c5d1fb751ffabf7b74be1bbe9f4f6fb8a2aaa3cf8dfe15171.webp",
+      "sha256": "831e114d0524053c5d1fb751ffabf7b74be1bbe9f4f6fb8a2aaa3cf8dfe15171",
+      "bytes": 141900,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-inn-bedroom-by-moonlight/thumb-e90570c004bbdb8cdcb8dda2859ec098a21529406e37f9bcaccb52bec7e4daec.webp",
+      "sha256": "e90570c004bbdb8cdcb8dda2859ec098a21529406e37f9bcaccb52bec7e4daec",
+      "bytes": 5688,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-inn-bedroom-by-moonlight/thumb2x-c956363eed5f42c5a9a42b5f8358e49e7f7a78c637c87d6424afe6eb44056bba.webp",
+      "sha256": "c956363eed5f42c5a9a42b5f8358e49e7f7a78c637c87d6424afe6eb44056bba",
+      "bytes": 18026,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "03ff80e09701341261327b13ecd0c2806d90aa609e34bd7a2feb45e528cdaab6",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

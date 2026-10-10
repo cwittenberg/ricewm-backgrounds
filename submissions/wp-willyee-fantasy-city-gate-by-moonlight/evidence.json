@@ -1,0 +1,26 @@
+{
+  "retrievedAt": "2026-10-10T16:26:27.877Z",
+  "url": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "creator": "willYEE",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "fantasy-visual-novel-backgrounds/Fantasy_VN_Backgrounds_PNG/23_city_gate_night.png",
+  "inputSha256": "b23a5b235fad089742410f8a1ae902f5b36a0738c85efd07d1f74685bbda32aa",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "fantasy",
+    "illustration",
+    "modern",
+    "night"
+  ],
+  "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+  "ai": true,
+  "aiProvenance": "Text-only generation; Real-ESRGAN upscaling; creator selection; no references, artist or franchise names or style models.",
+  "model": "Krea 2"
+}

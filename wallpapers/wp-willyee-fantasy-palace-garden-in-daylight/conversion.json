@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-fantasy-palace-garden-in-daylight",
+  "name": "Palace Garden in Daylight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "architecture",
+    "daylight",
+    "fantasy",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-palace-garden-in-daylight/image-16963a06cc98c8a639b720c57b70a103fc9a950da9d3accbe6ddf619e2847445.webp",
+      "sha256": "16963a06cc98c8a639b720c57b70a103fc9a950da9d3accbe6ddf619e2847445",
+      "bytes": 250080,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-palace-garden-in-daylight/thumb-ca104c51cdef79dc11504a083571ea04c1264f1ee9bd20cd764d929ef1c96280.webp",
+      "sha256": "ca104c51cdef79dc11504a083571ea04c1264f1ee9bd20cd764d929ef1c96280",
+      "bytes": 9372,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-palace-garden-in-daylight/thumb2x-354323d5f8977f2aee2a46653d7d62e96e3472308ce9b41d4407f02c87e260b4.webp",
+      "sha256": "354323d5f8977f2aee2a46653d7d62e96e3472308ce9b41d4407f02c87e260b4",
+      "bytes": 31432,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "2b39629a704f0b44ad5b165eebdcb2f41154ae000a4ddb4fed05bcd8addea4d8",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

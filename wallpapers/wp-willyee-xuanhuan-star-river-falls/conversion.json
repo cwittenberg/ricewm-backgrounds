@@ -1,0 +1,59 @@
+{
+  "id": "wp-willyee-xuanhuan-star-river-falls",
+  "name": "Star River Falls",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "blue",
+    "dark",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern",
+    "space"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-star-river-falls/image-0a4b4fc0f2d4f042dab06b17077602fa982f65d7ab2e25d43f13cb8abc1b0b7a.webp",
+      "sha256": "0a4b4fc0f2d4f042dab06b17077602fa982f65d7ab2e25d43f13cb8abc1b0b7a",
+      "bytes": 135050,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-star-river-falls/thumb-cbae1a701d9e49ee51cdbcdba100a995158e5297f1ef7500dbbc1a602268b385.webp",
+      "sha256": "cbae1a701d9e49ee51cdbcdba100a995158e5297f1ef7500dbbc1a602268b385",
+      "bytes": 4162,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-star-river-falls/thumb2x-df1a920516b5c07a19c69c242e2d367957b8ffdbb36f7397cda5e2f880668a70.webp",
+      "sha256": "df1a920516b5c07a19c69c242e2d367957b8ffdbb36f7397cda5e2f880668a70",
+      "bytes": 12936,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "9005483044ba9dc6f1725a8804edd0cb7870ce8ccd7eb309a0b85f9fabb0a2d4",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

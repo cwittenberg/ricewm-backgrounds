@@ -1,0 +1,55 @@
+{
+  "id": "wp-librepixels-tea-ritual",
+  "name": "Tea Ritual",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "dark",
+    "minimal",
+    "modern",
+    "still-life"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-tea-ritual/image-0e7a2f8faada40bb57ec0f4fe891f6d00de3beea09551f65ab570d2799452c97.webp",
+      "sha256": "0e7a2f8faada40bb57ec0f4fe891f6d00de3beea09551f65ab570d2799452c97",
+      "bytes": 272920,
+      "width": 2752,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-tea-ritual/thumb-df29cb6b650d087a7fffc7a198d1fba0835df344a03f23ad610aba9117f88afa.webp",
+      "sha256": "df29cb6b650d087a7fffc7a198d1fba0835df344a03f23ad610aba9117f88afa",
+      "bytes": 5426,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-tea-ritual/thumb2x-585c22060eda7ef9c7afa79db63a96f982bfed43a0d1bbbdfd0e39af2ea43ba3.webp",
+      "sha256": "585c22060eda7ef9c7afa79db63a96f982bfed43a0d1bbbdfd0e39af2ea43ba3",
+      "bytes": 14660,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "be5fc2ea395c5fd6c9b2052a87276f844db6171b4a6e88a000fd7ec6c35c1e16",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

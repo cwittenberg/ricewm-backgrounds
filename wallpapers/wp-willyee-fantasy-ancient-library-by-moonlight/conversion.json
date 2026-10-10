@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-fantasy-ancient-library-by-moonlight",
+  "name": "Ancient Library by Moonlight",
+  "author": "willYEE",
+  "category": "fantasy-environment",
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "fantasy",
+    "illustration",
+    "modern",
+    "night"
+  ],
+  "source": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/fantasy-visual-novel-backgrounds",
+    "basis": "The original creator willYEE explicitly dedicates this pack under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from written text descriptions only, Real-ESRGAN upscaling and resizing; no reference images, artist or franchise names or style models were used. Selected empty original environments were visually reviewed. Only one day/night version per composition is included.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-fantasy-ancient-library-by-moonlight/image-8415b772cd634466db8fe59155f3e80215fd221f60ed9d61fcbe5f9f85856457.webp",
+      "sha256": "8415b772cd634466db8fe59155f3e80215fd221f60ed9d61fcbe5f9f85856457",
+      "bytes": 217844,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-fantasy-ancient-library-by-moonlight/thumb-e3f7a3d6d24e3d73a76eda26110e015b8f3330e020430ed56d0af2aef563ea3d.webp",
+      "sha256": "e3f7a3d6d24e3d73a76eda26110e015b8f3330e020430ed56d0af2aef563ea3d",
+      "bytes": 8246,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-fantasy-ancient-library-by-moonlight/thumb2x-5f4b5fd3f9a0203f13a687d40e5be5fa318db7b9b71551c40a8feeddeb0b0262.webp",
+      "sha256": "5f4b5fd3f9a0203f13a687d40e5be5fa318db7b9b71551c40a8feeddeb0b0262",
+      "bytes": 27710,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "26711478c2b1bf21e29a92213198183ecd8c7346f4adf650159da1fd65bf1a83",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

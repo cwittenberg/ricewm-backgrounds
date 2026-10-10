@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-leviathan-fin",
+  "name": "Leviathan Fin",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-leviathan-fin/image-efcaf7f674d48217edaf749db701c54ebb9766d2a979c8bec084fdfc595b028f.webp",
+      "sha256": "efcaf7f674d48217edaf749db701c54ebb9766d2a979c8bec084fdfc595b028f",
+      "bytes": 171888,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-leviathan-fin/thumb-e49aa9226c2f1319a62024cf32bb799ca9313369efaaf552e408b846019631dd.webp",
+      "sha256": "e49aa9226c2f1319a62024cf32bb799ca9313369efaaf552e408b846019631dd",
+      "bytes": 5778,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-leviathan-fin/thumb2x-359f0d81b462d14030cb346dc204626ad536913bd8e7af2a30d87cf0132ac880.webp",
+      "sha256": "359f0d81b462d14030cb346dc204626ad536913bd8e7af2a30d87cf0132ac880",
+      "bytes": 17048,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "04258139543b16588e73a5c690bdd3ef88dc5f09e42e15cab1d51efa5c2da88a",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

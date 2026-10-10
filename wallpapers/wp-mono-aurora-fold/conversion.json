@@ -1,0 +1,55 @@
+{
+  "id": "wp-mono-aurora-fold",
+  "name": "Aurora Fold",
+  "author": "Mono",
+  "category": "modern",
+  "tags": [
+    "abstract",
+    "dark",
+    "gradient",
+    "modern",
+    "neon"
+  ],
+  "source": "https://getmono.lol/kits/guide/",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://getmono.lol/kits/guide/",
+    "basis": "Mono identifies these as its own original visual assets, explicitly dedicates them under CC0 1.0, and states no third-party artwork, font files or executable tools are bundled. Each original 3840x2160 desktop JPEG is obtained from a creator ZIP whose SHA256 matches the primary creator catalog and includes its CC0 dedication. These selected collections are original designs, separate from Mono's explicitly AI-generated collections.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-mono-aurora-fold/image-ea6ac615811e6df4a4da5c1bd96ed760a6ade14bea00efe053cc34b29bba4196.webp",
+      "sha256": "ea6ac615811e6df4a4da5c1bd96ed760a6ade14bea00efe053cc34b29bba4196",
+      "bytes": 80826,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-mono-aurora-fold/thumb-abcafc89ee7082cf727cf86efa62b888fb75bcd20037c0019fd44be47d52426e.webp",
+      "sha256": "abcafc89ee7082cf727cf86efa62b888fb75bcd20037c0019fd44be47d52426e",
+      "bytes": 1788,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-mono-aurora-fold/thumb2x-1170b8973ef23c704c79a8223668700611abd8f31a30b5aadca5173c430a44ca.webp",
+      "sha256": "1170b8973ef23c704c79a8223668700611abd8f31a30b5aadca5173c430a44ca",
+      "bytes": 4234,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "aeebefe1c01078607a1645261f92d3c8ff3079b49d3728ca24115f45556d7a98",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

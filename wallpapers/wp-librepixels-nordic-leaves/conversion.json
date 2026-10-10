@@ -1,0 +1,57 @@
+{
+  "id": "wp-librepixels-nordic-leaves",
+  "name": "Nordic Leaves",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "blue",
+    "botanical",
+    "minimal",
+    "modern",
+    "nord",
+    "ultrawide"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-nordic-leaves/image-92d2160b1a29bc5944b3491268558c3f7931c50d072d389ddb6d49d1290d5739.webp",
+      "sha256": "92d2160b1a29bc5944b3491268558c3f7931c50d072d389ddb6d49d1290d5739",
+      "bytes": 346738,
+      "width": 3840,
+      "height": 1662
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-nordic-leaves/thumb-26efc1bcf6785965d394d1e92cf49216cb165cfc0ff00a7608b15b13f391ee2f.webp",
+      "sha256": "26efc1bcf6785965d394d1e92cf49216cb165cfc0ff00a7608b15b13f391ee2f",
+      "bytes": 3064,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-nordic-leaves/thumb2x-34fdb0067b4abb510b9f90b4761c37e556cbb73b5cdf0e5349eb06209e1638d0.webp",
+      "sha256": "34fdb0067b4abb510b9f90b4761c37e556cbb73b5cdf0e5349eb06209e1638d0",
+      "bytes": 9220,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "399611805a48f11f3c3425f82d2eff0d42851f81177919b5d27406c34ced4659",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

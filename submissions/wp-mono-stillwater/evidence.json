@@ -1,0 +1,24 @@
+{
+  "retrievedAt": "2026-10-10T16:22:02.347Z",
+  "url": "https://getmono.lol/kits/guide/",
+  "creator": "Mono",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "mono-stillwater/stillwater-desktop-3840x2160.jpg",
+  "inputSha256": "bd41a7366d506ed9116b7197e9fd287e0a5112eef9de7498a0e67585f0ddf9e9",
+  "nativeDimensions": {
+    "width": 3840,
+    "height": 2160
+  },
+  "tags": [
+    "illustration",
+    "landscape",
+    "minimal",
+    "modern",
+    "pastel"
+  ],
+  "basis": "Mono identifies these as its own original visual assets, explicitly dedicates them under CC0 1.0, and states no third-party artwork, font files or executable tools are bundled. Each original 3840x2160 desktop JPEG is obtained from a creator ZIP whose SHA256 matches the primary creator catalog and includes its CC0 dedication. These selected collections are original designs, separate from Mono's explicitly AI-generated collections.",
+  "includedLicense": "CC0 1.0 Universal — Mono Kits original artwork\r\n\r\nTo the extent possible under law, Mono has waived all copyright and related or\r\nneighboring rights to the original wallpapers, icon vectors and PNG exports,\r\nand theme configuration in this collection under CC0 1.0 Universal.\r\nYou may copy, modify, distribute and use these assets, including commercially,\r\nwithout asking permission. Attribution is appreciated but is not required.\r\nThe assets are provided without warranty. This waiver does not grant rights\r\nto any third-party trademarks or endorse your use.\r\n\r\nLicense: https://creativecommons.org/publicdomain/zero/1.0/\r\nFull legal terms: https://creativecommons.org/publicdomain/zero/1.0/legalcode\r\n\r\nCreated for Mono Kits, 2026. No third-party art is included.\r\nThe Windows system style referenced by the theme is provided by your own\r\nWindows installation and is not redistributed in this package.\r\n",
+  "archiveSha256": "a9dd9da7aba0f8127f5d7d28fd6d354cbd03f130b271c60ba4e21fbe4f162c28",
+  "ai": false
+}

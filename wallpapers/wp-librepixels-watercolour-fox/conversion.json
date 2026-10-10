@@ -1,0 +1,56 @@
+{
+  "id": "wp-librepixels-watercolour-fox",
+  "name": "Watercolour Fox",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "animals",
+    "illustration",
+    "light",
+    "modern",
+    "watercolour"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-watercolour-fox/image-89ed798d651a3e0fd6c88deecc7d2405f3f4a4f24908ddde34c7bc7c0476ffc5.webp",
+      "sha256": "89ed798d651a3e0fd6c88deecc7d2405f3f4a4f24908ddde34c7bc7c0476ffc5",
+      "bytes": 201612,
+      "width": 3840,
+      "height": 1851
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-watercolour-fox/thumb-7f0914b8329a085b111ab548596fa657fb7b54ef90386107ed4a733228b22b84.webp",
+      "sha256": "7f0914b8329a085b111ab548596fa657fb7b54ef90386107ed4a733228b22b84",
+      "bytes": 3810,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-watercolour-fox/thumb2x-be6afa5782131c636b52d59ae9c244e5ab51708ef05c7881826a79350e97cdbe.webp",
+      "sha256": "be6afa5782131c636b52d59ae9c244e5ab51708ef05c7881826a79350e97cdbe",
+      "bytes": 12194,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "532ad329111f50f3579847736ec46bcdc60452cd7afce10bae437bd111fd0fbc",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

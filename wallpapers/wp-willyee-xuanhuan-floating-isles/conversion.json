@@ -1,0 +1,56 @@
+{
+  "id": "wp-willyee-xuanhuan-floating-isles",
+  "name": "Floating Isles",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-floating-isles/image-60717c83615f5b2f78020815ed90430d1e2ccc93a5402f691d86378542f49f25.webp",
+      "sha256": "60717c83615f5b2f78020815ed90430d1e2ccc93a5402f691d86378542f49f25",
+      "bytes": 252750,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-floating-isles/thumb-666137518a48763597c5b8f2af783ccccdb1ebd9006002eb321eb47b423599ec.webp",
+      "sha256": "666137518a48763597c5b8f2af783ccccdb1ebd9006002eb321eb47b423599ec",
+      "bytes": 10006,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-floating-isles/thumb2x-46ec8759f611fe97d699dd48a27a13f3d657ad85f60d2a85714fb3ff6e813953.webp",
+      "sha256": "46ec8759f611fe97d699dd48a27a13f3d657ad85f60d2a85714fb3ff6e813953",
+      "bytes": 31346,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "bd105f8f4df71899c87dfb2dfe174fad315106304b498daf69454d02e19eb59d",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

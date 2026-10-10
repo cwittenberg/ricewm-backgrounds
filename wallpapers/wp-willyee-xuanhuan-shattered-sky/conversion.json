@@ -1,0 +1,57 @@
+{
+  "id": "wp-willyee-xuanhuan-shattered-sky",
+  "name": "Shattered Sky",
+  "author": "willYEE",
+  "category": "eastern-fantasy",
+  "tags": [
+    "ai",
+    "eastern-fantasy",
+    "fantasy",
+    "illustration",
+    "landscape",
+    "modern",
+    "space"
+  ],
+  "source": "https://willyee.itch.io/xuanhuan-mood-art",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://willyee.itch.io/xuanhuan-mood-art",
+    "basis": "The original creator willYEE explicitly dedicates these 24 Eastern fantasy illustrations under CC0 on their own itch.io page. AI artwork: the creator documents Krea 2 generation from text descriptions only, Real-ESRGAN upscaling, and manual selection from about 10 candidates each. No reference images, style models, artist, novel or franchise names were used. These are original landscapes and fantasy environments with small silhouettes, no recognizable people or franchise characters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-willyee-xuanhuan-shattered-sky/image-523c08f9be4b7a430bf05de9f7420ccf0c27d37f089c94540624a93dfb9cb465.webp",
+      "sha256": "523c08f9be4b7a430bf05de9f7420ccf0c27d37f089c94540624a93dfb9cb465",
+      "bytes": 225106,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-willyee-xuanhuan-shattered-sky/thumb-fe533c44836840fa33ef7abe10425379fc7474cc3d0d9e958e98519c8a7cd8eb.webp",
+      "sha256": "fe533c44836840fa33ef7abe10425379fc7474cc3d0d9e958e98519c8a7cd8eb",
+      "bytes": 8202,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-willyee-xuanhuan-shattered-sky/thumb2x-9eda37c9b23280f03850df0551d2682fbb79f111d7bc485ee5251edc0d7abb3e.webp",
+      "sha256": "9eda37c9b23280f03850df0551d2682fbb79f111d7bc485ee5251edc0d7abb3e",
+      "bytes": 24852,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "9112dca8b0acd98e47e8746f819518181c7bc3522165ad8822122b8d11973352",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

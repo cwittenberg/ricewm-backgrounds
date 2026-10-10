@@ -1,0 +1,55 @@
+{
+  "id": "wp-librepixels-chromatic-current",
+  "name": "Chromatic Current",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "abstract",
+    "ai",
+    "colorful",
+    "modern",
+    "neon"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-chromatic-current/image-223168552ca4aabb3625d0ef72c08bb25f1c1f9f2ca8347a7ddbe8531cb6568d.webp",
+      "sha256": "223168552ca4aabb3625d0ef72c08bb25f1c1f9f2ca8347a7ddbe8531cb6568d",
+      "bytes": 591104,
+      "width": 3840,
+      "height": 2151
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-chromatic-current/thumb-7f93d895263e3a81d954753b695743380a9ec96b37f53a2125b03994b14a4849.webp",
+      "sha256": "7f93d895263e3a81d954753b695743380a9ec96b37f53a2125b03994b14a4849",
+      "bytes": 10722,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-chromatic-current/thumb2x-b1aae227d11b04aeabbfda78adbf4eddc5fc4930b8bdb6f3777b4c17753df5b7.webp",
+      "sha256": "b1aae227d11b04aeabbfda78adbf4eddc5fc4930b8bdb6f3777b4c17753df5b7",
+      "bytes": 30990,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "2086a8809630aef9c3fff0391653ca4c1fc7e2777f714d803b56e08bde48d805",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

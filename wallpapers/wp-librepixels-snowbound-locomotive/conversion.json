@@ -1,0 +1,55 @@
+{
+  "id": "wp-librepixels-snowbound-locomotive",
+  "name": "Snowbound Locomotive",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "dark",
+    "landscape",
+    "modern",
+    "winter"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-snowbound-locomotive/image-886d5edb7d6cd2875978abb566dccf53f15b7b02c90519c8dcb70a65ba0afb04.webp",
+      "sha256": "886d5edb7d6cd2875978abb566dccf53f15b7b02c90519c8dcb70a65ba0afb04",
+      "bytes": 548860,
+      "width": 3072,
+      "height": 2048
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-snowbound-locomotive/thumb-5b791e3fe6b6b71cf54d17b77f2dc131d6074093473ab867d89d7f3670a45aa8.webp",
+      "sha256": "5b791e3fe6b6b71cf54d17b77f2dc131d6074093473ab867d89d7f3670a45aa8",
+      "bytes": 7172,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-snowbound-locomotive/thumb2x-680c8752ea3fbd3dce4e4ad925fb694685232ae620ce87045870c2d24fa266dc.webp",
+      "sha256": "680c8752ea3fbd3dce4e4ad925fb694685232ae620ce87045870c2d24fa266dc",
+      "bytes": 25766,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "3afd5f95cb8d612e539644b8caa9e2b800db0002edcf70b721bee30341bfc6ea",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

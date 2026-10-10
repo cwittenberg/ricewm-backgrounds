@@ -1,0 +1,55 @@
+{
+  "id": "wp-mono-paper",
+  "name": "Paper",
+  "author": "Mono",
+  "category": "modern",
+  "tags": [
+    "abstract",
+    "light",
+    "minimal",
+    "modern",
+    "monochrome"
+  ],
+  "source": "https://getmono.lol/kits/guide/",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://getmono.lol/kits/guide/",
+    "basis": "Mono identifies these as its own original visual assets, explicitly dedicates them under CC0 1.0, and states no third-party artwork, font files or executable tools are bundled. Each original 3840x2160 desktop JPEG is obtained from a creator ZIP whose SHA256 matches the primary creator catalog and includes its CC0 dedication. These selected collections are original designs, separate from Mono's explicitly AI-generated collections.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-mono-paper/image-15761b93c27167ef09ad8b334033ee81d052d9aca3ff41748ca4992d1af370a9.webp",
+      "sha256": "15761b93c27167ef09ad8b334033ee81d052d9aca3ff41748ca4992d1af370a9",
+      "bytes": 56290,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-mono-paper/thumb-ed5d8343a6ac2f2a659cb598b246b098f89ce623a40c57155f72855e62aaaf5b.webp",
+      "sha256": "ed5d8343a6ac2f2a659cb598b246b098f89ce623a40c57155f72855e62aaaf5b",
+      "bytes": 1470,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-mono-paper/thumb2x-39c9fa3efd638297c35df1c0f6309de77b1e54922af7469c897f83ba97d7c25e.webp",
+      "sha256": "39c9fa3efd638297c35df1c0f6309de77b1e54922af7469c897f83ba97d7c25e",
+      "bytes": 3392,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "59e036576c727c3e79fe965d037426eb1de3f8269e52ea713bc45141870ef8f9",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

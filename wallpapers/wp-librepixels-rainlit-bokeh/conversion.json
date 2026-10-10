@@ -1,0 +1,55 @@
+{
+  "id": "wp-librepixels-rainlit-bokeh",
+  "name": "Rainlit Bokeh",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "dark",
+    "modern",
+    "rain",
+    "urban"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-rainlit-bokeh/image-1dae1608427047c6bb1dff06e32a2756daf022152c67cce898560380252265c2.webp",
+      "sha256": "1dae1608427047c6bb1dff06e32a2756daf022152c67cce898560380252265c2",
+      "bytes": 269394,
+      "width": 3030,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-rainlit-bokeh/thumb-f26bb9c64f209134a9934db790639c18a7ddddf446b4b11f723e954326aab14b.webp",
+      "sha256": "f26bb9c64f209134a9934db790639c18a7ddddf446b4b11f723e954326aab14b",
+      "bytes": 5134,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-rainlit-bokeh/thumb2x-c47a0255ac816a089a9d2de730897b739c00431c1e6ff8bc61fde3b0e3f82dbe.webp",
+      "sha256": "c47a0255ac816a089a9d2de730897b739c00431c1e6ff8bc61fde3b0e3f82dbe",
+      "bytes": 14648,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "e026f2aa34649f0f2d04234bdc372a0de965dab3a7f021c291fedfe63899300c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

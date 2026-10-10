@@ -1,0 +1,56 @@
+{
+  "id": "wp-librepixels-amber-railcar",
+  "name": "Amber Railcar",
+  "author": "LibrePixels",
+  "category": "ai-modern",
+  "tags": [
+    "ai",
+    "architecture",
+    "dark",
+    "modern",
+    "retro",
+    "warm"
+  ],
+  "source": "https://gitlab.com/librepixels/ia.Wallpapers",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://gitlab.com/librepixels/ia.Wallpapers",
+    "basis": "The LibrePixels creator collection explicitly dedicates its wallpapers under CC0 1.0 in its README and included LICENCE. AI artwork: the creator documents creation with MidJourney and OpenAI, plus Leonardo AI, Pixelcut and Nero AI processing. These individually selected files are named with the creator librepixels, excluding third-party usernames, franchise names, recognizable people, logos and characters. Individual generation prompts and exact per-image models are not supplied; creator statements support the dedication but do not independently establish model training provenance.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-librepixels-amber-railcar/image-2c7de588f9bcfaedbad486645b05e90461a72c3a58d44a3483c70887d13a1bd5.webp",
+      "sha256": "2c7de588f9bcfaedbad486645b05e90461a72c3a58d44a3483c70887d13a1bd5",
+      "bytes": 220528,
+      "width": 2754,
+      "height": 1680
+    },
+    "thumb": {
+      "path": "wallpapers/wp-librepixels-amber-railcar/thumb-7dcd6d26204d64c71e495e3fe1c9345fa4ac9676dd3a02f63e956911ef7bcf0c.webp",
+      "sha256": "7dcd6d26204d64c71e495e3fe1c9345fa4ac9676dd3a02f63e956911ef7bcf0c",
+      "bytes": 5916,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-librepixels-amber-railcar/thumb2x-f5cc4a38418c5268f45ba35ce93831001770a6bbebe6c1e360c18792f86fab8d.webp",
+      "sha256": "f5cc4a38418c5268f45ba35ce93831001770a6bbebe6c1e360c18792f86fab8d",
+      "bytes": 16108,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "fe9818485fba0202fb2b465c1309e1c7b0248d76d6ffe5e3f6006986990e9752",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}
