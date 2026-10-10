@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:22.393Z",
+  "url": "https://opengameart.org/content/space-backgrounds-6",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-6/Background-1.jpg",
+  "inputSha256": "b4f69910e76cc68d26ea47a01bba84e7c014ab1de927c824785c4ce409b5bf9e",
+  "nativeDimensions": {
+    "width": 2048,
+    "height": 1536
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Spectrum Galaxy",
+  "sourceNativeDimensions": {
+    "width": 2048,
+    "height": 1536
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/Background-1.jpg",
+  "sourcePageSha256": "4b05da5afb35618956109255e53d1b080db7c2b50bbcfadc9ecf3441feb32aa7",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-6",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

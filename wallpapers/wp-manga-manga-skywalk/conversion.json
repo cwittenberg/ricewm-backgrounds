@@ -1,0 +1,57 @@
+{
+  "id": "wp-manga-manga-skywalk",
+  "name": "Manga Skywalk",
+  "author": "Pavel Kutejnikov",
+  "category": "anime",
+  "tags": [
+    "anime",
+    "architecture",
+    "industrial",
+    "manga",
+    "modern",
+    "monochrome",
+    "sci-fi"
+  ],
+  "source": "https://opengameart.org/content/manga-style-background",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/manga-style-background",
+    "basis": "The original creator Pavel Kutejnikov explicitly dedicates these manga-style industrial backgrounds under CC0 on his own OpenGameArt submission, with a matching included ReadMe. He documents testing Blender grease pencil to author the environments. Designs are stylistically inspired by Tsutomu Nihei worlds; selected original empty industrial scenes do not depict recognizable characters, logos or copied panels. These are distinct camera views from a single creator environment; prior approved views06 and10 are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-manga-manga-skywalk/image-bf6dc4113b90e22e7b7d22670e2fe11d1564a840607e1f9eb022c229210fd10e.webp",
+      "sha256": "bf6dc4113b90e22e7b7d22670e2fe11d1564a840607e1f9eb022c229210fd10e",
+      "bytes": 256794,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-manga-manga-skywalk/thumb-c7ab1e59a00f8ab8c4acb377f0184e7b9f3d2473506f15375c3d8d7ba0bf0580.webp",
+      "sha256": "c7ab1e59a00f8ab8c4acb377f0184e7b9f3d2473506f15375c3d8d7ba0bf0580",
+      "bytes": 8982,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-manga-manga-skywalk/thumb2x-217c6fa847cee9e5ef8ff40704b3538f8ca11d80fbc1083ab890b2320b6e369b.webp",
+      "sha256": "217c6fa847cee9e5ef8ff40704b3538f8ca11d80fbc1083ab890b2320b6e369b",
+      "bytes": 28802,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "273c34dc5999e1a8f246bb86729cbac783a023972ef0ca0e077f01aebd381ce0",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

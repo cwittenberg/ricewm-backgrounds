@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-9-oga-background-2",
+  "name": "Rose Nebula",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-9",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-9",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-2/image-05ac42746f86affde610464b418e1ca66f015f4a80813b0362015fb0895f5b53.webp",
+      "sha256": "05ac42746f86affde610464b418e1ca66f015f4a80813b0362015fb0895f5b53",
+      "bytes": 1154114,
+      "width": 2592,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-2/thumb-0ccf3ecf2ea9a98a165ead3caf832f7c4523d72c2303a2271b9333f3abbe2eb1.webp",
+      "sha256": "0ccf3ecf2ea9a98a165ead3caf832f7c4523d72c2303a2271b9333f3abbe2eb1",
+      "bytes": 4816,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-2/thumb2x-c0517988efa751d8e1a38e5181e0293739aaa400492209f21af860cc6a146678.webp",
+      "sha256": "c0517988efa751d8e1a38e5181e0293739aaa400492209f21af860cc6a146678",
+      "bytes": 25118,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "0694c5ac782f6f51f33ec56a9081a508993d708b5c847d0f8f42fbf909ffa344",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

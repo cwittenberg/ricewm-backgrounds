@@ -1,0 +1,39 @@
+{
+  "retrievedAt": "2026-10-10T16:53:01.776Z",
+  "url": "https://winechan.itch.io/college-boy-dorm-room",
+  "creator": "WineChan (Sonya)",
+  "license": "Public-Domain",
+  "creatorLicenseStatement": "This is public domain, which means you can do whatever you want with it without the need to give credit.",
+  "originalPath": "winechan-college-boy-dorm-room/dorm 2.png",
+  "inputSha256": "91691b62b4eeeabfc28c49c9c1c3878624152114df3dd05074b46c3a748c4bfd",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "ai",
+    "anime",
+    "blue",
+    "daylight",
+    "illustration",
+    "interior",
+    "modern",
+    "room"
+  ],
+  "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
+  "ai": true,
+  "aiProvenance": "Original creator Sonya states she creates her own ready-made artwork with generative AI; individual pack declares AI-assisted graphics. Exact model and prompts unavailable.",
+  "name": "Window Desk",
+  "sourceNativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "archiveSha256": "591cb6aafe3fa4d02a9e468c57e7199467da20b0091cce0fdd87569b1767ee38",
+  "sourcePageSha256": "360a82c121e8c1880f2460fbb85529ab7e78d0f1abbb0ae373e3868f13939113",
+  "licensingReview": {
+    "creatorOwnedSource": "https://winechan.itch.io/college-boy-dorm-room",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

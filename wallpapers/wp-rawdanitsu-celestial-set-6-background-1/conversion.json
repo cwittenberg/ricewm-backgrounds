@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-6-background-1",
+  "name": "Spectrum Galaxy",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-6",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-6",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-1/image-f38e578300030ae9546b5151a38bf448b3c1b8c298015d0fd2dcb0dadee70392.webp",
+      "sha256": "f38e578300030ae9546b5151a38bf448b3c1b8c298015d0fd2dcb0dadee70392",
+      "bytes": 974900,
+      "width": 2048,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-1/thumb-fe5fa80350d9ad8231cc411da4e685ce71e5cbf9fa2de63248d55e0e0fca3979.webp",
+      "sha256": "fe5fa80350d9ad8231cc411da4e685ce71e5cbf9fa2de63248d55e0e0fca3979",
+      "bytes": 15620,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-1/thumb2x-a87f5aa6a2af28b61dad8744ac5cf5758b14ad19ffe29d6cf655102286061832.webp",
+      "sha256": "a87f5aa6a2af28b61dad8744ac5cf5758b14ad19ffe29d6cf655102286061832",
+      "bytes": 61456,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "b4f69910e76cc68d26ea47a01bba84e7c014ab1de927c824785c4ce409b5bf9e",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

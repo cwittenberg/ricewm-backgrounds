@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-7-background-1",
+  "name": "Amber Stardust",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-7",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-7",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-1/image-256357dc201df7f57ee8cca3b78f78320b46afac0edb9db94830456503bb904c.webp",
+      "sha256": "256357dc201df7f57ee8cca3b78f78320b46afac0edb9db94830456503bb904c",
+      "bytes": 139424,
+      "width": 2048,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-1/thumb-45aeb5e24043116a5027c0f9619fac9709fc6b50fae07a2231c4cfa7b248384c.webp",
+      "sha256": "45aeb5e24043116a5027c0f9619fac9709fc6b50fae07a2231c4cfa7b248384c",
+      "bytes": 4282,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-1/thumb2x-ce6af7340c2b5a8f4f432f36b8e5bc785d283adea67a0824c7a84a4e7a3f57b6.webp",
+      "sha256": "ce6af7340c2b5a8f4f432f36b8e5bc785d283adea67a0824c7a84a4e7a3f57b6",
+      "bytes": 11748,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "d7251467b5158c2be5591794537547613c9b7dcae5955bc22943d5cc0fed181f",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

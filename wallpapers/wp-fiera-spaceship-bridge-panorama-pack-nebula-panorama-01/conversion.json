@@ -1,0 +1,57 @@
+{
+  "id": "wp-fiera-spaceship-bridge-panorama-pack-nebula-panorama-01",
+  "name": "Nebula Panorama 01",
+  "author": "FieraRyan",
+  "category": "space",
+  "tags": [
+    "ai",
+    "dark",
+    "modern",
+    "nebula",
+    "panoramic",
+    "sci-fi",
+    "space"
+  ],
+  "source": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+    "basis": "The original creator FieraRyan explicitly dedicates this pack of image assets to Public Domain CC0 on their own itch.io page, permitting use and redistribution without restrictions. The creator states these images were generated using Blockade Labs Skybox AI. These are source-native6144x3072 equirectangular panoramas; flattened projection distortion is retained, full image aspect ratio preserved. Only selected distinct image compositions are included, no demo code or executable. Individual prompts are unavailable.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-nebula-panorama-01/image-618647bc3208291e5224f7c2cdb667d74b9e0ad9155cc933eccd2e2342f026b8.webp",
+      "sha256": "618647bc3208291e5224f7c2cdb667d74b9e0ad9155cc933eccd2e2342f026b8",
+      "bytes": 254772,
+      "width": 3840,
+      "height": 1920
+    },
+    "thumb": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-nebula-panorama-01/thumb-494e789d632e54c93ff7b39f72e1046865243b067e3048411166161ced49d056.webp",
+      "sha256": "494e789d632e54c93ff7b39f72e1046865243b067e3048411166161ced49d056",
+      "bytes": 2494,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-nebula-panorama-01/thumb2x-57aa8b461f0405b28e136674067cb9945697bb13c54a3a42c3413cea7a60ee94.webp",
+      "sha256": "57aa8b461f0405b28e136674067cb9945697bb13c54a3a42c3413cea7a60ee94",
+      "bytes": 7130,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "b4099ff1caad159eb491d512f2b970435a8b23eb9990c1780d2679341569fa4b",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

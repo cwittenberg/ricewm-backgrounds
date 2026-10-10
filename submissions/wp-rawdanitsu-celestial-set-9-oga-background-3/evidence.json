@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:42.850Z",
+  "url": "https://opengameart.org/content/space-backgrounds-9",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-9/OGA-Background-3.png",
+  "inputSha256": "f7c79487cf3e54c305804ab32b3a319772fd5218800104292b9e07d3fd77d4f9",
+  "nativeDimensions": {
+    "width": 2736,
+    "height": 1536
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Crimson Heart",
+  "sourceNativeDimensions": {
+    "width": 2736,
+    "height": 1536
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/OGA-Background-3.png",
+  "sourcePageSha256": "7bcf52c358c78bf121658c52051fbb2ebe5f64260f6b586fa2278b22fc967d49",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-9",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "wp-fiera-cyberpunk-street-pack-neon-street-05",
+  "name": "Neon Street 05",
+  "author": "FieraRyan",
+  "category": "cyberpunk",
+  "tags": [
+    "ai",
+    "city",
+    "cyberpunk",
+    "dark",
+    "modern",
+    "neon",
+    "night",
+    "rain",
+    "sci-fi",
+    "teal",
+    "urban"
+  ],
+  "source": "https://fieraryan.itch.io/cyberpunk-street-pack",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://fieraryan.itch.io/cyberpunk-street-pack",
+    "basis": "The original creator FieraRyan dedicates the image pack under explicit Public Domain CC0 terms and Creative Commons Zero v1.0 Universal on their own itch.io page. The creator states the artwork was generated using Midjourney AI. Only source-native original image files are included; example game, executable files and demo music are excluded. Individual prompts are unavailable. Visually reviewed original empty sci-fi environments, no recognized franchise characters or logos.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-fiera-cyberpunk-street-pack-neon-street-05/image-0940a5b1478e4b4ad08b29471b257efa4303d8a695357cf5c0a6886128815d80.webp",
+      "sha256": "0940a5b1478e4b4ad08b29471b257efa4303d8a695357cf5c0a6886128815d80",
+      "bytes": 211686,
+      "width": 1792,
+      "height": 1024
+    },
+    "thumb": {
+      "path": "wallpapers/wp-fiera-cyberpunk-street-pack-neon-street-05/thumb-201befcfde39d4d53cdc3f8a4b1ae1a9affbb24485367580ba97d718915dfbe1.webp",
+      "sha256": "201befcfde39d4d53cdc3f8a4b1ae1a9affbb24485367580ba97d718915dfbe1",
+      "bytes": 6090,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-fiera-cyberpunk-street-pack-neon-street-05/thumb2x-50653b0857da17c7256e8dbd6fdc7277e984f2473f76440a0fcdc1d6a6664960.webp",
+      "sha256": "50653b0857da17c7256e8dbd6fdc7277e984f2473f76440a0fcdc1d6a6664960",
+      "bytes": 22198,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4f7abcdff7ba63757ed41738b6a13e7d4d6dbcd128c445caf0d47d099e805345",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image6",
+  "name": "Silver Horizon",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-1",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-1",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image6/image-947a2125da571e6cd6a2a006c08d5dae79fe2f3cf02377206c66b05e83c2d3b4.webp",
+      "sha256": "947a2125da571e6cd6a2a006c08d5dae79fe2f3cf02377206c66b05e83c2d3b4",
+      "bytes": 198872,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image6/thumb-567e4123dda1ef7b70821beb956d059001aa489bfabcddffea384744cb514e6c.webp",
+      "sha256": "567e4123dda1ef7b70821beb956d059001aa489bfabcddffea384744cb514e6c",
+      "bytes": 6220,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image6/thumb2x-87eb5a9cfc6bec49c49efcb20e8eac98425ad7178f3efad6c573c059fd1f7895.webp",
+      "sha256": "87eb5a9cfc6bec49c49efcb20e8eac98425ad7178f3efad6c573c059fd1f7895",
+      "bytes": 25068,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "182b235d0bc3cff80533499a8e6f4083984c96efe249408a939974d9ebba03fa",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

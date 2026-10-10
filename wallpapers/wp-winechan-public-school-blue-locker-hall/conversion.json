@@ -1,0 +1,58 @@
+{
+  "id": "wp-winechan-public-school-blue-locker-hall",
+  "name": "Blue Locker Hall",
+  "author": "WineChan (Sonya)",
+  "category": "anime",
+  "tags": [
+    "ai",
+    "anime",
+    "blue",
+    "dark",
+    "illustration",
+    "interior",
+    "modern",
+    "school"
+  ],
+  "source": "https://winechan.itch.io/public-school",
+  "rights": {
+    "license": "Public-Domain",
+    "evidence": "https://winechan.itch.io/public-school",
+    "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-winechan-public-school-blue-locker-hall/image-c90ea606ef05772eb378ec008b5a5bc943e8caf38ab035ba0031b7d979b380d6.webp",
+      "sha256": "c90ea606ef05772eb378ec008b5a5bc943e8caf38ab035ba0031b7d979b380d6",
+      "bytes": 50616,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-winechan-public-school-blue-locker-hall/thumb-8c0caa9975f08f03b4b6adafee603f4e218257dd32c84c2020a3b30ce4010124.webp",
+      "sha256": "8c0caa9975f08f03b4b6adafee603f4e218257dd32c84c2020a3b30ce4010124",
+      "bytes": 2124,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-winechan-public-school-blue-locker-hall/thumb2x-f5d1ee2aaa24ba52b386c8250daaf22b3d024cddf4594a61d60b7013bcbea20f.webp",
+      "sha256": "f5d1ee2aaa24ba52b386c8250daaf22b3d024cddf4594a61d60b7013bcbea20f",
+      "bytes": 6058,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "6b09154a028e496bcb8c81dae14a49fe176bf543db3e0bf130a30c93ac2b9c96",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

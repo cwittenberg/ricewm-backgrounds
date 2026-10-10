@@ -1,0 +1,59 @@
+{
+  "id": "wp-winechan-pink-cafe-rose-cafe-tables",
+  "name": "Rose Cafe Tables",
+  "author": "WineChan (Sonya)",
+  "category": "anime",
+  "tags": [
+    "ai",
+    "anime",
+    "cafe",
+    "daylight",
+    "illustration",
+    "interior",
+    "modern",
+    "pastel",
+    "pink"
+  ],
+  "source": "https://winechan.itch.io/pink-cafe",
+  "rights": {
+    "license": "Public-Domain",
+    "evidence": "https://winechan.itch.io/pink-cafe",
+    "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-winechan-pink-cafe-rose-cafe-tables/image-1cec7cf8eddb78d1f5d5ec5f01cd50500b926a010d0e6fdeb351544c1c05211a.webp",
+      "sha256": "1cec7cf8eddb78d1f5d5ec5f01cd50500b926a010d0e6fdeb351544c1c05211a",
+      "bytes": 189296,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-winechan-pink-cafe-rose-cafe-tables/thumb-b118595fda34605004b22292ac0aab21526b722ab0a9ac0d9b8a8f7ca849030f.webp",
+      "sha256": "b118595fda34605004b22292ac0aab21526b722ab0a9ac0d9b8a8f7ca849030f",
+      "bytes": 9582,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-winechan-pink-cafe-rose-cafe-tables/thumb2x-8e29c3bea5a0fda1914352fe1cbd6666884862417303d3900e186774e1ecd088.webp",
+      "sha256": "8e29c3bea5a0fda1914352fe1cbd6666884862417303d3900e186774e1ecd088",
+      "bytes": 27674,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "3fead3baf13fd9f24f9a9b73d8449460b03865004b25ba1c8577c6b1081fc0e6",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

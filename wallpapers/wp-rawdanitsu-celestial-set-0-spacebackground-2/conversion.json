@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-0-spacebackground-2",
+  "name": "Teal Galaxy",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/another-space-backgrounds-0",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/another-space-backgrounds-0",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-2/image-590a68e1a737c3c05690df147811612d277acd830876ce31da00019c9e1b4b42.webp",
+      "sha256": "590a68e1a737c3c05690df147811612d277acd830876ce31da00019c9e1b4b42",
+      "bytes": 473058,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-2/thumb-74941b74dd4ecf4c95b7e95c664f9f64318f566b510c7e8c111ddecb5847715b.webp",
+      "sha256": "74941b74dd4ecf4c95b7e95c664f9f64318f566b510c7e8c111ddecb5847715b",
+      "bytes": 9458,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-2/thumb2x-68fd0732f7ec955349a02af451725c1ff9eb90e3012d1235f008f492b70294d0.webp",
+      "sha256": "68fd0732f7ec955349a02af451725c1ff9eb90e3012d1235f008f492b70294d0",
+      "bytes": 38512,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "ab0ce61b8815146e6209850c4192f02ba5fb579bd646ecf6542da6fbb9f04b73",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

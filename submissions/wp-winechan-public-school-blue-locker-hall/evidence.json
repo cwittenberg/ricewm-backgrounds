@@ -1,0 +1,39 @@
+{
+  "retrievedAt": "2026-10-10T16:52:56.550Z",
+  "url": "https://winechan.itch.io/public-school",
+  "creator": "WineChan (Sonya)",
+  "license": "Public-Domain",
+  "creatorLicenseStatement": "This is public domain, which means you can do whatever you want with it without the need to give credit.",
+  "originalPath": "winechan-public-school/IMG_0182.png",
+  "inputSha256": "6b09154a028e496bcb8c81dae14a49fe176bf543db3e0bf130a30c93ac2b9c96",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "ai",
+    "anime",
+    "blue",
+    "dark",
+    "illustration",
+    "interior",
+    "modern",
+    "school"
+  ],
+  "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
+  "ai": true,
+  "aiProvenance": "Original creator Sonya states she creates her own ready-made artwork with generative AI; pack declares AI-assisted graphics. Exact model and prompts unavailable.",
+  "name": "Blue Locker Hall",
+  "sourceNativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "archiveSha256": "fe88eb92d1a288d4482d7c3322dfbb5b3c07aeb38a4d111077c5b9505a994b2d",
+  "sourcePageSha256": "60ff611e9e9b237fbc5a4f640ea6feb53f5dfe7dc37b02e916f94fa4ef0bc432",
+  "licensingReview": {
+    "creatorOwnedSource": "https://winechan.itch.io/public-school",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

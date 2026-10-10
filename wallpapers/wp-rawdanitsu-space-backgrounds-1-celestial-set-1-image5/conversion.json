@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image5",
+  "name": "Green Starfield",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-1",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-1",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image5/image-bd23f6e6cf717c521bf3650bf6b3bacc8c642664b2fcb3a7c224fbea6db09d62.webp",
+      "sha256": "bd23f6e6cf717c521bf3650bf6b3bacc8c642664b2fcb3a7c224fbea6db09d62",
+      "bytes": 365424,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image5/thumb-7e9c0e22668a9ab3c9ac6f389d4e4b57a39fbed974b9406ed23d99453b1210ed.webp",
+      "sha256": "7e9c0e22668a9ab3c9ac6f389d4e4b57a39fbed974b9406ed23d99453b1210ed",
+      "bytes": 8314,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image5/thumb2x-0086ba42eee7c19637a4648a997f44b7df19ea451b96c137045a156ff255c2ba.webp",
+      "sha256": "0086ba42eee7c19637a4648a997f44b7df19ea451b96c137045a156ff255c2ba",
+      "bytes": 29484,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "2356947ef2ae6f87d1100f57d9eaf52e241315c010b360bee8c31345656e5622",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

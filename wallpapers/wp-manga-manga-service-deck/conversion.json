@@ -1,0 +1,57 @@
+{
+  "id": "wp-manga-manga-service-deck",
+  "name": "Manga Service Deck",
+  "author": "Pavel Kutejnikov",
+  "category": "anime",
+  "tags": [
+    "anime",
+    "architecture",
+    "industrial",
+    "manga",
+    "modern",
+    "monochrome",
+    "sci-fi"
+  ],
+  "source": "https://opengameart.org/content/manga-style-background",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/manga-style-background",
+    "basis": "The original creator Pavel Kutejnikov explicitly dedicates these manga-style industrial backgrounds under CC0 on his own OpenGameArt submission, with a matching included ReadMe. He documents testing Blender grease pencil to author the environments. Designs are stylistically inspired by Tsutomu Nihei worlds; selected original empty industrial scenes do not depict recognizable characters, logos or copied panels. These are distinct camera views from a single creator environment; prior approved views06 and10 are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-manga-manga-service-deck/image-fa7c188dfe4dcf8f53461f9eab52656d792a26ea107b403755dd3d3adefc6abb.webp",
+      "sha256": "fa7c188dfe4dcf8f53461f9eab52656d792a26ea107b403755dd3d3adefc6abb",
+      "bytes": 174758,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-manga-manga-service-deck/thumb-b889e379d72cbc04e63f80df1d39bf582211ca4c2c2df30038e622cc8cd24e9e.webp",
+      "sha256": "b889e379d72cbc04e63f80df1d39bf582211ca4c2c2df30038e622cc8cd24e9e",
+      "bytes": 6780,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-manga-manga-service-deck/thumb2x-e554c1be047f64b09ef0a4cea5e5deaaac0b2aab91cd1422b3061a4385208ed0.webp",
+      "sha256": "e554c1be047f64b09ef0a4cea5e5deaaac0b2aab91cd1422b3061a4385208ed0",
+      "bytes": 21316,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "5a25fa9aeda9015992868b6a96213147329fc5d1a785f20e512974a981f5a125",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

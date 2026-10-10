@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:36.036Z",
+  "url": "https://opengameart.org/content/space-backgrounds-7",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-7/Background-3_0.jpg",
+  "inputSha256": "667a7c442a2b6dd5c15fe254eeefad6d65187310e7f4b00cb625b9c736d44101",
+  "nativeDimensions": {
+    "width": 3840,
+    "height": 2160
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Violet Planet",
+  "sourceNativeDimensions": {
+    "width": 3840,
+    "height": 2160
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/Background-3_0.jpg",
+  "sourcePageSha256": "36d067979013b813d7c111b84cb29e952c68fbeee41e9d61281c619ef1ef9509",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-7",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

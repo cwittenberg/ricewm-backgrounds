@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:51:53.027Z",
+  "url": "https://opengameart.org/content/space-backgrounds-1",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-1/image6.jpg",
+  "inputSha256": "182b235d0bc3cff80533499a8e6f4083984c96efe249408a939974d9ebba03fa",
+  "nativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Silver Horizon",
+  "sourceNativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/image6.jpg",
+  "sourcePageSha256": "47cdcf0ddab460bd89675b6af6b6e6544dbcab80206fdd7ca09173fc4a9e0746",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-1",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

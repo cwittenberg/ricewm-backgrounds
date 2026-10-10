@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-7-background-0",
+  "name": "Quiet Outer Worlds",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-7",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-7",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-0/image-5eb35bdd3e7af2f97731a7c374d324889921171eb7eead5e0503315e102711f0.webp",
+      "sha256": "5eb35bdd3e7af2f97731a7c374d324889921171eb7eead5e0503315e102711f0",
+      "bytes": 284778,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-0/thumb-00c2e49ee397153be4d5a56734f3768786e3ad18973a0832d355b68e6d45339a.webp",
+      "sha256": "00c2e49ee397153be4d5a56734f3768786e3ad18973a0832d355b68e6d45339a",
+      "bytes": 2988,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-0/thumb2x-515377f64ee9790c997e79dfdf4642d2a29b74171f790507f39d47616f363936.webp",
+      "sha256": "515377f64ee9790c997e79dfdf4642d2a29b74171f790507f39d47616f363936",
+      "bytes": 9462,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4689835c81a95a51b9b54689cb4af9085d9b16a2707d447e0622b4c722d7f975",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

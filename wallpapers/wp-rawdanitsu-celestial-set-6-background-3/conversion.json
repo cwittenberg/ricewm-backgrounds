@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-6-background-3",
+  "name": "Electric Violet Cloud",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-6",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-6",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-3/image-ddf430e0dfca98e30bd4c7f5fb63b0e3117f5a321cdf5d794f2ee916ef37cc22.webp",
+      "sha256": "ddf430e0dfca98e30bd4c7f5fb63b0e3117f5a321cdf5d794f2ee916ef37cc22",
+      "bytes": 551440,
+      "width": 2048,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-3/thumb-97b6cc72ce6b56d3749ec41828bca72f48dd3307cae1b77698ae5289dff40222.webp",
+      "sha256": "97b6cc72ce6b56d3749ec41828bca72f48dd3307cae1b77698ae5289dff40222",
+      "bytes": 11822,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-3/thumb2x-0f3b88582ddbdac33c9b55d71e2a94b6e005f0df9b70209e0f65b628f9802c54.webp",
+      "sha256": "0f3b88582ddbdac33c9b55d71e2a94b6e005f0df9b70209e0f65b628f9802c54",
+      "bytes": 39698,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "3b49fdf86e3127620b13c89430c333a4fbc881b4c2e110c30c6a21f8a7c0f05c",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

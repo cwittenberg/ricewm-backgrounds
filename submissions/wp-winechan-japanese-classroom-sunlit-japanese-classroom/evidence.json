@@ -1,0 +1,38 @@
+{
+  "retrievedAt": "2026-10-10T16:52:49.614Z",
+  "url": "https://winechan.itch.io/japanese-classroom",
+  "creator": "WineChan (Sonya)",
+  "license": "Public-Domain",
+  "creatorLicenseStatement": "This is public domain, which means you can do whatever you want with it without the need to give credit.",
+  "originalPath": "winechan-japanese-classroom/classroom_2.png",
+  "inputSha256": "6c8435c96e33005f4c3d052e442d65412ce8e28920d67193609630ca034236b8",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "ai",
+    "anime",
+    "daylight",
+    "illustration",
+    "interior",
+    "modern",
+    "school"
+  ],
+  "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
+  "ai": true,
+  "aiProvenance": "Original creator Sonya states she creates her own ready-made artwork with generative AI; pack declares AI-assisted graphics. Exact model and prompts unavailable.",
+  "name": "Sunlit Japanese Classroom",
+  "sourceNativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "archiveSha256": "d9a53cb2737d0aa3f805c5dc84ae24dd359c01aa5284be33644a6df525238dff",
+  "sourcePageSha256": "1db1f39e86f7db02698276f45d08c820eca25ee03583b83fbf173190cccec69f",
+  "licensingReview": {
+    "creatorOwnedSource": "https://winechan.itch.io/japanese-classroom",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

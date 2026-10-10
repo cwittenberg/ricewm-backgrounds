@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-0-spacebackground-3",
+  "name": "Dustworld",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/another-space-backgrounds-0",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/another-space-backgrounds-0",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-3/image-c00b80516f2bec3b85a7779916d42b0edfb9516cf5e04f6e622f91c3dbd23b2f.webp",
+      "sha256": "c00b80516f2bec3b85a7779916d42b0edfb9516cf5e04f6e622f91c3dbd23b2f",
+      "bytes": 340334,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-3/thumb-9669e5bc56dfe655ad8138b4bca1e8e3b8e6ee10e976d9a620e24d957c83f54f.webp",
+      "sha256": "9669e5bc56dfe655ad8138b4bca1e8e3b8e6ee10e976d9a620e24d957c83f54f",
+      "bytes": 7694,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-3/thumb2x-17870714d3c82b56854e065d6f58844fce7a5cc6789900b4ac0f7c724d065fc8.webp",
+      "sha256": "17870714d3c82b56854e065d6f58844fce7a5cc6789900b4ac0f7c724d065fc8",
+      "bytes": 30968,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "cb3c870cb4e966add5967e4b80c4ab754507041e34946217e76a563e8983d8b5",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "wp-fiera-cyberpunk-cityscape-pack-cyber-skyline-09",
+  "name": "Cyber Skyline 09",
+  "author": "FieraRyan",
+  "category": "cyberpunk",
+  "tags": [
+    "ai",
+    "city",
+    "cyberpunk",
+    "dark",
+    "modern",
+    "neon",
+    "night",
+    "sci-fi",
+    "teal",
+    "urban"
+  ],
+  "source": "https://fieraryan.itch.io/cyberpunk-cityscape-pack",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://fieraryan.itch.io/cyberpunk-cityscape-pack",
+    "basis": "The original creator FieraRyan dedicates the image pack under explicit Public Domain CC0 terms and Creative Commons Zero v1.0 Universal on their own itch.io page. The creator states the artwork was generated using Midjourney AI. Only source-native original image files are included; example game, executable files and demo music are excluded. Individual prompts are unavailable. Visually reviewed original empty sci-fi environments, no recognized franchise characters or logos.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-fiera-cyberpunk-cityscape-pack-cyber-skyline-09/image-5e027d5fb824db9eb20af90d2daaed43c188aed472f9b518e4f4291ccfa1d974.webp",
+      "sha256": "5e027d5fb824db9eb20af90d2daaed43c188aed472f9b518e4f4291ccfa1d974",
+      "bytes": 177362,
+      "width": 1792,
+      "height": 1024
+    },
+    "thumb": {
+      "path": "wallpapers/wp-fiera-cyberpunk-cityscape-pack-cyber-skyline-09/thumb-0571789bdb870002a21034f3a05bf84d336e8ae3ca123a308f9250c4f1fb5e51.webp",
+      "sha256": "0571789bdb870002a21034f3a05bf84d336e8ae3ca123a308f9250c4f1fb5e51",
+      "bytes": 6378,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-fiera-cyberpunk-cityscape-pack-cyber-skyline-09/thumb2x-2b4f1c5007694e0ee954a0196a4c76f1d71f9a4cb0aa357bb9befa22362bc541.webp",
+      "sha256": "2b4f1c5007694e0ee954a0196a4c76f1d71f9a4cb0aa357bb9befa22362bc541",
+      "bytes": 22598,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "92d722dd0b4071fec18ff92c35483ee4b0f042f107df750cb1949a49851e938b",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "retrievedAt": "2026-10-10T16:51:52.955Z",
+  "url": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+  "creator": "FieraRyan",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "spaceship-bridge-panorama-pack/nebula panoramas/vast_star_field_countless_shining_stars__d69af797ecc49ffb__3780970_d69.jpg",
+  "inputSha256": "3cdfd136fe012a08a0f4cdfbade2baa4c1febe1780ae6c358487811ccfc25ccf",
+  "nativeDimensions": {
+    "width": 6144,
+    "height": 3072
+  },
+  "tags": [
+    "ai",
+    "dark",
+    "modern",
+    "nebula",
+    "panoramic",
+    "sci-fi",
+    "space"
+  ],
+  "basis": "The original creator FieraRyan explicitly dedicates this pack of image assets to Public Domain CC0 on their own itch.io page, permitting use and redistribution without restrictions. The creator states these images were generated using Blockade Labs Skybox AI. These are source-native6144x3072 equirectangular panoramas; flattened projection distortion is retained, full image aspect ratio preserved. Only selected distinct image compositions are included, no demo code or executable. Individual prompts are unavailable.",
+  "ai": true,
+  "aiProvenance": "Original creator states these images were generated using Blockade Labs Skybox AI. Individual prompts are not provided. Selected empty environments have been visually reviewed for recognizable franchises, characters and logos.",
+  "model": "Blockade Labs Skybox AI",
+  "name": "Nebula Panorama 05",
+  "sourceNativeDimensions": {
+    "width": 6144,
+    "height": 3072
+  },
+  "archiveSha256": "c9fc6280be9c69b6c052ee7ccd2257cc8534723fe9bd0811e63279537409c7bd",
+  "sourcePageSha256": "4c56102872cdb2178605f1a69198854de946b1ed2efcf4859c699b0f0e9c0f18",
+  "licensingReview": {
+    "creatorOwnedSource": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

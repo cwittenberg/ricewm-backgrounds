@@ -1,0 +1,43 @@
+{
+  "retrievedAt": "2026-10-10T16:51:52.885Z",
+  "url": "https://fieraryan.itch.io/cyberpunk-street-pack",
+  "creator": "FieraRyan",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "cyberpunk-street-pack/bg13.png",
+  "inputSha256": "cef26cb6170eb44c878b9fc6ba88887de49245f73fbbc29a7531c1dfa914810b",
+  "nativeDimensions": {
+    "width": 1792,
+    "height": 1024
+  },
+  "tags": [
+    "ai",
+    "city",
+    "cyberpunk",
+    "dark",
+    "modern",
+    "neon",
+    "night",
+    "rain",
+    "sci-fi",
+    "teal",
+    "urban"
+  ],
+  "basis": "The original creator FieraRyan dedicates the image pack under explicit Public Domain CC0 terms and Creative Commons Zero v1.0 Universal on their own itch.io page. The creator states the artwork was generated using Midjourney AI. Only source-native original image files are included; example game, executable files and demo music are excluded. Individual prompts are unavailable. Visually reviewed original empty sci-fi environments, no recognized franchise characters or logos.",
+  "ai": true,
+  "aiProvenance": "Original creator states these images were generated using Midjourney AI. Individual prompts are not provided. Selected empty environments have been visually reviewed for recognizable franchises, characters and logos.",
+  "model": "Midjourney AI",
+  "name": "Neon Street 13",
+  "sourceNativeDimensions": {
+    "width": 1792,
+    "height": 1024
+  },
+  "archiveSha256": "ab7d6e8623f70102d5d0c3b95ff585a00c974bd055dd9c83cbb644be392dfc8c",
+  "sourcePageSha256": "c88502878dfd1a295164dfcf8ce6d165006385dfc0e2f964e568b6ea91772f25",
+  "licensingReview": {
+    "creatorOwnedSource": "https://fieraryan.itch.io/cyberpunk-street-pack",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-9-oga-background-1",
+  "name": "Golden Dust Cloud",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-9",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-9",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-1/image-8417aa6807df22c23626320d5d1319a2dd9ce968960fb0b7bf281bbd676bcdd8.webp",
+      "sha256": "8417aa6807df22c23626320d5d1319a2dd9ce968960fb0b7bf281bbd676bcdd8",
+      "bytes": 539614,
+      "width": 2592,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-1/thumb-3ab582e3e6b42fee5d2a619a263ef8825d5299947ce4cb1556789c354408e04b.webp",
+      "sha256": "3ab582e3e6b42fee5d2a619a263ef8825d5299947ce4cb1556789c354408e04b",
+      "bytes": 3194,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-1/thumb2x-5bcd3e67625637b82d4ef1cc096576c0fe47359ea37ca0e8ed3f4a1092c34ee2.webp",
+      "sha256": "5bcd3e67625637b82d4ef1cc096576c0fe47359ea37ca0e8ed3f4a1092c34ee2",
+      "bytes": 12976,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "73bb8736ad97b6177fbb9ab7f1d85331a503734a4bb9dd666cfabefb660b1059",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

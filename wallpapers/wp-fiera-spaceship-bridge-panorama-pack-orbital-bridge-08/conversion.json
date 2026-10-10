@@ -1,0 +1,58 @@
+{
+  "id": "wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-08",
+  "name": "Orbital Bridge 08",
+  "author": "FieraRyan",
+  "category": "sci-fi",
+  "tags": [
+    "ai",
+    "dark",
+    "interior",
+    "modern",
+    "panoramic",
+    "sci-fi",
+    "space",
+    "spaceship"
+  ],
+  "source": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+    "basis": "The original creator FieraRyan explicitly dedicates this pack of image assets to Public Domain CC0 on their own itch.io page, permitting use and redistribution without restrictions. The creator states these images were generated using Blockade Labs Skybox AI. These are source-native6144x3072 equirectangular panoramas; flattened projection distortion is retained, full image aspect ratio preserved. Only selected distinct image compositions are included, no demo code or executable. Individual prompts are unavailable.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-08/image-f1361cb18b9364945675d57ba3a528b3706d4f0dd717da49970f1f09c54c905c.webp",
+      "sha256": "f1361cb18b9364945675d57ba3a528b3706d4f0dd717da49970f1f09c54c905c",
+      "bytes": 505650,
+      "width": 3840,
+      "height": 1920
+    },
+    "thumb": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-08/thumb-4f48194694714de9cf8f379bb2db8d62396a80280645f9f28463d6e63d07b3af.webp",
+      "sha256": "4f48194694714de9cf8f379bb2db8d62396a80280645f9f28463d6e63d07b3af",
+      "bytes": 10650,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-08/thumb2x-35724f44b13ee0c40eedf369d22a15f0047de91d3f2f89589d79622f362435a0.webp",
+      "sha256": "35724f44b13ee0c40eedf369d22a15f0047de91d3f2f89589d79622f362435a0",
+      "bytes": 30678,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "ecad6fc1c1db48f8c10c1cf344bf74fb2643e7cb381e7d25ca2483391110ac26",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

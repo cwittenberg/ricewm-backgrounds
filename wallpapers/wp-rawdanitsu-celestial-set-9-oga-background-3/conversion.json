@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-9-oga-background-3",
+  "name": "Crimson Heart",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-9",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-9",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-3/image-12a98d5f3a4ee38adf33afee3580fadfb230196e5e7df643eaa47e20e74fae59.webp",
+      "sha256": "12a98d5f3a4ee38adf33afee3580fadfb230196e5e7df643eaa47e20e74fae59",
+      "bytes": 288606,
+      "width": 2736,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-3/thumb-28e28547bf07e84753b241c625eb555074ba5eaad6c126473c6f4377f4f6e48b.webp",
+      "sha256": "28e28547bf07e84753b241c625eb555074ba5eaad6c126473c6f4377f4f6e48b",
+      "bytes": 2486,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-3/thumb2x-293b93cf5e33b675764220b63233c2cf44bae247a62b473a5e2e40039947978b.webp",
+      "sha256": "293b93cf5e33b675764220b63233c2cf44bae247a62b473a5e2e40039947978b",
+      "bytes": 11408,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "f7c79487cf3e54c305804ab32b3a319772fd5218800104292b9e07d3fd77d4f9",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

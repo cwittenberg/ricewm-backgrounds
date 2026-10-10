@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-0-spacebackground-4",
+  "name": "Twin Suns",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/another-space-backgrounds-0",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/another-space-backgrounds-0",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-4/image-e52573e43f312412d1ca60eabc7b94dd66fec23605b621fa73c5125d8dc50f59.webp",
+      "sha256": "e52573e43f312412d1ca60eabc7b94dd66fec23605b621fa73c5125d8dc50f59",
+      "bytes": 335558,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-4/thumb-7b7eff2c1d5f4705e1e1196f40959be3dbb9e5717e06c99846af247f4ef2fadf.webp",
+      "sha256": "7b7eff2c1d5f4705e1e1196f40959be3dbb9e5717e06c99846af247f4ef2fadf",
+      "bytes": 7818,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-4/thumb2x-53c2697d366db2bdd32f16f31190da0dd55a544dd293f46a3609fbbef221c74a.webp",
+      "sha256": "53c2697d366db2bdd32f16f31190da0dd55a544dd293f46a3609fbbef221c74a",
+      "bytes": 29086,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "bb23e4b26f8d8d456c74d5774c87b0f0a5a97d83315cb858bb277287c9c0e9ca",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

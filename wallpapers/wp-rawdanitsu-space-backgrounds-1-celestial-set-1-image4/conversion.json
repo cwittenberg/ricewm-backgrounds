@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image4",
+  "name": "Azure Orbit",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-1",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-1",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image4/image-c02fd64f65fca4ded2c2a20aad67c1c4157c626b6bf44ea918c2a9c4da715d95.webp",
+      "sha256": "c02fd64f65fca4ded2c2a20aad67c1c4157c626b6bf44ea918c2a9c4da715d95",
+      "bytes": 187972,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image4/thumb-6a74e624cea874f5a5675e4878fce1f55bf7384b91a5ac5c286f36da38d05b99.webp",
+      "sha256": "6a74e624cea874f5a5675e4878fce1f55bf7384b91a5ac5c286f36da38d05b99",
+      "bytes": 5772,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-1-celestial-set-1-image4/thumb2x-50eb04da24dc02463de857a7928622e019705262b2178f538e5ae70dc6c346e1.webp",
+      "sha256": "50eb04da24dc02463de857a7928622e019705262b2178f538e5ae70dc6c346e1",
+      "bytes": 18678,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "5a66243c398a502a50de9bd96034522d27bb9d2db0859f7dad3c38873fcce503",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

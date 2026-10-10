@@ -1,0 +1,36 @@
+{
+  "retrievedAt": "2026-10-10T16:53:03.445Z",
+  "url": "https://opengameart.org/content/manga-style-background",
+  "creator": "Pavel Kutejnikov",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "manga/manga_bg_03.png",
+  "inputSha256": "273c34dc5999e1a8f246bb86729cbac783a023972ef0ca0e077f01aebd381ce0",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "anime",
+    "architecture",
+    "industrial",
+    "manga",
+    "modern",
+    "monochrome",
+    "sci-fi"
+  ],
+  "basis": "The original creator Pavel Kutejnikov explicitly dedicates these manga-style industrial backgrounds under CC0 on his own OpenGameArt submission, with a matching included ReadMe. He documents testing Blender grease pencil to author the environments. Designs are stylistically inspired by Tsutomu Nihei worlds; selected original empty industrial scenes do not depict recognizable characters, logos or copied panels. These are distinct camera views from a single creator environment; prior approved views06 and10 are excluded.",
+  "ai": false,
+  "name": "Manga Skywalk",
+  "sourceNativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "includedLicense": "Manga-style background\nby Pavel Kutejnikov\n\nLicense: CC0 (public domain)\n\nIf you want to support me, you can add to your wishlist my rogue-like game \"Tzakol in Exile\":\nhttps://store.steampowered.com/app/1764840/Tzakol_in_Exile/\n\nGood luck!",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/manga-style-background",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-2-space-background-5",
+  "name": "Emerald Flare",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-2",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-2",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-5/image-dcf4c31f0208ade2752de0b6b42d60f84b7ae52dcf00b0d35cdceaa099d7c03d.webp",
+      "sha256": "dcf4c31f0208ade2752de0b6b42d60f84b7ae52dcf00b0d35cdceaa099d7c03d",
+      "bytes": 187198,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-5/thumb-b4a19efde1d7c2385d552ba2bfaa5d82b1c790e09ffccf51859bce298fd1095a.webp",
+      "sha256": "b4a19efde1d7c2385d552ba2bfaa5d82b1c790e09ffccf51859bce298fd1095a",
+      "bytes": 8316,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-5/thumb2x-d09b8482f28668fc094922e33761c7365da140f2bb2719564db9bad5f27e4947.webp",
+      "sha256": "d09b8482f28668fc094922e33761c7365da140f2bb2719564db9bad5f27e4947",
+      "bytes": 25644,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "89f81b4ae6bee8896723061c15ca50269747f802048a78eccbad9f621a1f9ed2",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

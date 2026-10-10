@@ -1,0 +1,60 @@
+{
+  "id": "wp-winechan-pink-cafe-neighbourhood-cafe",
+  "name": "Neighbourhood Cafe",
+  "author": "WineChan (Sonya)",
+  "category": "anime",
+  "tags": [
+    "ai",
+    "anime",
+    "cafe",
+    "city",
+    "daylight",
+    "illustration",
+    "modern",
+    "pastel",
+    "pink",
+    "street"
+  ],
+  "source": "https://winechan.itch.io/pink-cafe",
+  "rights": {
+    "license": "Public-Domain",
+    "evidence": "https://winechan.itch.io/pink-cafe",
+    "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-winechan-pink-cafe-neighbourhood-cafe/image-f270abf3c5590ebdd5f3aecca5d3a60f9033cdf9a0b1975ea453d48b93506ccc.webp",
+      "sha256": "f270abf3c5590ebdd5f3aecca5d3a60f9033cdf9a0b1975ea453d48b93506ccc",
+      "bytes": 220296,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-winechan-pink-cafe-neighbourhood-cafe/thumb-57a5591850eacdcb4ccf9679ceeb6521ee89a4e645d65e9386f4d86a61a99ff7.webp",
+      "sha256": "57a5591850eacdcb4ccf9679ceeb6521ee89a4e645d65e9386f4d86a61a99ff7",
+      "bytes": 10648,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-winechan-pink-cafe-neighbourhood-cafe/thumb2x-ac1c52218aea2a602008be0950ade2dab11fd0888521b4d99531c255eaf88879.webp",
+      "sha256": "ac1c52218aea2a602008be0950ade2dab11fd0888521b4d99531c255eaf88879",
+      "bytes": 32200,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "49514142bd498361c23c981ed30fc0bf6b27784d0953040a1fbefde716c67d82",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

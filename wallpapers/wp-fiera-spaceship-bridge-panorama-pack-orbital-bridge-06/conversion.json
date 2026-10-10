@@ -1,0 +1,58 @@
+{
+  "id": "wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-06",
+  "name": "Orbital Bridge 06",
+  "author": "FieraRyan",
+  "category": "sci-fi",
+  "tags": [
+    "ai",
+    "dark",
+    "interior",
+    "modern",
+    "panoramic",
+    "sci-fi",
+    "space",
+    "spaceship"
+  ],
+  "source": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://fieraryan.itch.io/spaceship-bridge-panorama-pack",
+    "basis": "The original creator FieraRyan explicitly dedicates this pack of image assets to Public Domain CC0 on their own itch.io page, permitting use and redistribution without restrictions. The creator states these images were generated using Blockade Labs Skybox AI. These are source-native6144x3072 equirectangular panoramas; flattened projection distortion is retained, full image aspect ratio preserved. Only selected distinct image compositions are included, no demo code or executable. Individual prompts are unavailable.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-06/image-144ca1ef2eaf6d221cd7d404c64a842dcee373630f2f2a49016689fbdd8ad858.webp",
+      "sha256": "144ca1ef2eaf6d221cd7d404c64a842dcee373630f2f2a49016689fbdd8ad858",
+      "bytes": 400918,
+      "width": 3840,
+      "height": 1920
+    },
+    "thumb": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-06/thumb-7f8e457b5fc1aa794e5244922b0e972aab6a9dff81a4f9ec294e3fd5fe04b13b.webp",
+      "sha256": "7f8e457b5fc1aa794e5244922b0e972aab6a9dff81a4f9ec294e3fd5fe04b13b",
+      "bytes": 8916,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-fiera-spaceship-bridge-panorama-pack-orbital-bridge-06/thumb2x-d0419b5c95e59e00e93e994c69fdaa5eb85d495193ac7d63ff2c68687ea47efb.webp",
+      "sha256": "d0419b5c95e59e00e93e994c69fdaa5eb85d495193ac7d63ff2c68687ea47efb",
+      "bytes": 26164,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "a64656b29dfeb1b0f1fe02c19cf33b25a2eaa1410b8365f04c69263ac4a8093f",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

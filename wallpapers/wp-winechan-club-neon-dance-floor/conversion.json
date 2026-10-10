@@ -1,0 +1,59 @@
+{
+  "id": "wp-winechan-club-neon-dance-floor",
+  "name": "Neon Dance Floor",
+  "author": "WineChan (Sonya)",
+  "category": "anime",
+  "tags": [
+    "ai",
+    "anime",
+    "city",
+    "dark",
+    "illustration",
+    "interior",
+    "modern",
+    "neon",
+    "night"
+  ],
+  "source": "https://winechan.itch.io/club",
+  "rights": {
+    "license": "Public-Domain",
+    "evidence": "https://winechan.itch.io/club",
+    "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-winechan-club-neon-dance-floor/image-7419df0956bf823cbc414c563d41d9331e8514969bdeceee964a3a50e9a3f44f.webp",
+      "sha256": "7419df0956bf823cbc414c563d41d9331e8514969bdeceee964a3a50e9a3f44f",
+      "bytes": 164338,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-winechan-club-neon-dance-floor/thumb-11fcc18dc0987613b6b3b120efd3052e01e1827c9d2617dc3293c7f9c3b99566.webp",
+      "sha256": "11fcc18dc0987613b6b3b120efd3052e01e1827c9d2617dc3293c7f9c3b99566",
+      "bytes": 8282,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-winechan-club-neon-dance-floor/thumb2x-98f325bccf53cfa05b9d727a23598ea455decfaa3b38e34830c83f1fe7d9e8cf.webp",
+      "sha256": "98f325bccf53cfa05b9d727a23598ea455decfaa3b38e34830c83f1fe7d9e8cf",
+      "bytes": 23842,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "0fa27a2ff8b72e3c421b2811efb04caac5530efafaea85b99be2f8da5dfc985c",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

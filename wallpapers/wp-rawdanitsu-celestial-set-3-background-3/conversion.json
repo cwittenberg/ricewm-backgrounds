@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-3-background-3",
+  "name": "Gold Eclipse",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-3",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-3",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-3-background-3/image-30eeb9444013a75f72d15bc9f5a5d7257a15003dcfdec94df94fd8a4b41fc6ba.webp",
+      "sha256": "30eeb9444013a75f72d15bc9f5a5d7257a15003dcfdec94df94fd8a4b41fc6ba",
+      "bytes": 454892,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-3-background-3/thumb-fe440eae09735ad11d78c545d62664839a9024e30bf7a1e70e5836e7e778aaa1.webp",
+      "sha256": "fe440eae09735ad11d78c545d62664839a9024e30bf7a1e70e5836e7e778aaa1",
+      "bytes": 11790,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-3-background-3/thumb2x-e63bfb6ae2c5e3e73509f6fe58b253c2a3ef999af9f20fbe04fc7777bdb9726f.webp",
+      "sha256": "e63bfb6ae2c5e3e73509f6fe58b253c2a3ef999af9f20fbe04fc7777bdb9726f",
+      "bytes": 42362,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "0f7fe9f936afebbfcc71625e23aa41a062ee1ca9e2a5f8297864becf5633166e",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

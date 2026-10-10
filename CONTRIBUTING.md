@@ -1,60 +1,55 @@
-# Contribute a public-domain wallpaper
+# Contribute a wallpaper
 
-1. Add a PNG, JPEG or WebP under `submissions/your-slug/`. Use a genuine
-   landscape image at least 1600×900, no animation, no added logos, no identifiable
-   private people, at most 24 MiB and 24 megapixels. Prefer 3840×2160 or larger
-   within these bounds. Keep your submitted source; the operator generates WebP.
-2. Add `wallpaper.json` beside it using the example below. Provide the original
-   creator, a direct source record and verifiable evidence of public-domain status.
-   Include 1–12 distinct lowercase tags (maximum 32 characters each) describing
-   the style, subject, colours or palette, such as `modern`, `minimal`, `dark`,
-   `neon`, `space`, `anime`, `catppuccin` or `gruvbox`. Use palette names only
-   when the artwork actually matches that palette. Tags are reviewed and used
-   by the app’s tag filter.
-   Museum CC0 records and an explicit CC0 dedication by the actual creator are
-   suitable evidence. A generic website footer, repository license, stock-site
-   download button or assertion without evidence is insufficient.
-3. Submit a PR and complete its certification. Do not change generated
-   `wallpapers/`, `catalog/`, policies or workflows as part of an image submission.
-4. RiceWM.org vets the bytes and checks your evidence. The operator must approve
-   the exact converted image before inclusion in the public app. Changes restart
-   review. We may ask for better evidence or decline unsuitable submissions.
+Submit polished landscape wallpapers suited to ricing: detailed anime illustrations, cyberpunk streets, cityscapes, space art and atmospheric landscapes. Basic geometric patterns, procedural shapes and simple vector designs are outside this collection's current direction.
 
-By submitting, you certify that the wallpaper is genuine and is public domain
-worldwide, or that you own all necessary rights and dedicate them under CC0 1.0.
-To the extent you hold rights in the wallpaper, submission, metadata or derivative,
-you apply the [CC0 1.0 Universal dedication and fallback license](https://creativecommons.org/publicdomain/zero/1.0/).
-You waive and agree not to assert rights you can legally waive, and request no
-copyright payment, restriction or exclusive license. You certify that no third
-party's copyright or other rights prevent anyone from using, adapting or
-redistributing the image. You cannot waive another person's rights; where a right
-cannot legally be waived, CC0's terms govern. False certification is grounds for
-removal and contributor exclusion. Submission does not guarantee acceptance.
+1. Add a PNG, JPEG or WebP under `submissions/your-slug/`. Sources must be at least1600×900, landscape, static, at most24MiB and24megapixels. Prefer native4K; do not upscale. Keep the source; the operator generates full WebP and320×180/640×360 previews.
+2. Add `wallpaper.json` beside it. Supply the original creator, original source and individual license evidence. Include1–12 distinct lowercase tags, maximum32characters each, describing subject, style or palette. Use `anime`, never `anime-inspired`. Use `catppuccin` only when the actual palette matches it. Label creator-disclosed AI artwork with `ai`; do not invent human-art provenance.
+3. Submit a PR and complete all six certifications. Change only your submission files, never generated assets, catalogs, policies or workflows.
+4. RiceWM.org checks evidence and converts the image in a restricted container. The operator reviews the exact converted artwork before app inclusion. Changed bytes or rights metadata require a new review. PR code never receives credentials or authority to approve itself.
 
-Do not send personal contact or copyright complaints through a public PR.
-Use the [private reporting form](https://account.env.now/wallpaper-copyright).
+## Accepted licenses
+
+**CC0 or worldwide public domain:** provide the actual creator's CC0 dedication or an individually documented public-domain record. Certification version `ricewm-public-domain-1` applies. To the extent you own rights in the submission, you dedicate them under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), including its fallback license, and will not assert incompatible rights, payment or exclusivity. You cannot waive someone else's rights.
+
+**CC BY 3.0 or4.0:** provide an explicit redistribution license from the actual creator covering the individual image. Certification version `ricewm-licensed-1` applies. Supply permanent creator credit, the exact canonical license URL and an accurate description of conversion/cropping changes. The creator retains their rights; you certify authorization to redistribute under that license. Credit travels through the catalog, Quick Wallpapers, the marketplace and saved wallpaper preferences. Downloaded artwork must keep the accompanying attribution information.
+
+A repository license or generic site footer does not establish rights to collected third-party images. Unknown creators, proprietary anime/game fanart without authorization, conflicting redistribution restrictions, CC BY-NC, CC BY-ND and CC BY-SA are not accepted. False certification may cause withdrawal and contributor exclusion. Submission does not guarantee acceptance.
 
 ```json
 {
   "id": "wp-your-slug",
-  "name": "Mountain dawn",
+  "name": "Neon street",
   "author": "Original creator",
-  "category": "landscape",
-  "tags": ["landscape", "minimal", "dark"],
+  "category": "city",
+  "tags": ["city", "cyberpunk", "dark", "neon"],
   "input": "submissions/your-slug/source.jpg",
-  "source": "https://example.org/original-source-record",
+  "source": "https://example.org/original-image",
   "rights": {
-    "license": "CC0-1.0",
-    "evidence": "https://example.org/individual-cc0-evidence",
-    "basis": "Explain who owns the rights and where they applied CC0, or establish worldwide public-domain status.",
-    "attestationVersion": "ricewm-public-domain-1",
-    "certifiedPublicDomain": true,
-    "noThirdPartyRights": true,
-    "waiveOwnedRights": true
+    "license": "CC-BY-4.0",
+    "evidence": "https://example.org/individual-license-evidence",
+    "basis": "Explain how the actual creator licensed this particular artwork.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "Neon street — Original creator, original source URL.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
   }
 }
 ```
 
-For independently established worldwide public-domain works, use `Public-Domain`
-and document the basis and any separate rights in the photograph or scan. Avoid
-country-only public-domain claims when the image remains protected elsewhere.
+For CC BY3.0, use `CC-BY-3.0` and `https://creativecommons.org/licenses/by/3.0/`. For CC0/public domain, replace the rights object with:
+
+```json
+{
+  "license": "CC0-1.0",
+  "evidence": "https://example.org/individual-cc0-evidence",
+  "basis": "Document the actual creator's dedication or worldwide public-domain basis.",
+  "attestationVersion": "ricewm-public-domain-1",
+  "certifiedPublicDomain": true,
+  "noThirdPartyRights": true,
+  "waiveOwnedRights": true
+}
+```
+
+Use `Public-Domain` only with a worldwide basis and separate scan/photograph rights evidence. Send copyright concerns through the [private RiceWM.org reporting form](https://account.env.now/wallpaper-copyright), never personal contact details in a public PR.

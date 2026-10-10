@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:36.033Z",
+  "url": "https://opengameart.org/content/space-backgrounds-8",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-8/Scene-1.jpg",
+  "inputSha256": "8baf24ea8a953649fb7f4078efe481465ea0248f3b6350373810fc6ae4b08b81",
+  "nativeDimensions": {
+    "width": 2732,
+    "height": 1536
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Deep Aqua Nebula",
+  "sourceNativeDimensions": {
+    "width": 2732,
+    "height": 1536
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/Scene-1.jpg",
+  "sourcePageSha256": "b7810fb74ba9481fc7c6655c00102b0f8c368cdafd8dae61eaa44326a7ca6d4a",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-8",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

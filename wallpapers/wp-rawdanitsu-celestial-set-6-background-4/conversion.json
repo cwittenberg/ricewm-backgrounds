@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-6-background-4",
+  "name": "Amethyst Swirl",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-6",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-6",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-4/image-92d3b95afec26ffecca055a9cf6100d47a3110a79e24e46506ce41370c5782dc.webp",
+      "sha256": "92d3b95afec26ffecca055a9cf6100d47a3110a79e24e46506ce41370c5782dc",
+      "bytes": 749026,
+      "width": 2048,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-4/thumb-5babc5cb3ead34aed8d514ca0ba913cafe227a63680e4d9b0eaa336c1ecc8ea5.webp",
+      "sha256": "5babc5cb3ead34aed8d514ca0ba913cafe227a63680e4d9b0eaa336c1ecc8ea5",
+      "bytes": 9932,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-6-background-4/thumb2x-0cf9be01163c34a66c151006e8d7fc5339e213a86744083934cf91903a70d4b1.webp",
+      "sha256": "0cf9be01163c34a66c151006e8d7fc5339e213a86744083934cf91903a70d4b1",
+      "bytes": 36396,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "20b7625611e8b8c24556384d144c5daeb1bd841da64908d400426df6c435912c",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

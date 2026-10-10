@@ -1,0 +1,58 @@
+{
+  "id": "wp-fiera-sci-fi-lab-panorama-pack-neon-laboratory-08",
+  "name": "Neon Laboratory 08",
+  "author": "FieraRyan",
+  "category": "sci-fi",
+  "tags": [
+    "ai",
+    "cyberpunk",
+    "dark",
+    "interior",
+    "modern",
+    "neon",
+    "panoramic",
+    "sci-fi"
+  ],
+  "source": "https://fieraryan.itch.io/sci-fi-lab-panorama-pack",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://fieraryan.itch.io/sci-fi-lab-panorama-pack",
+    "basis": "The original creator FieraRyan explicitly dedicates this pack of image assets to Public Domain CC0 on their own itch.io page, permitting use and redistribution without restrictions. The creator states these images were generated using Blockade Labs Skybox AI. These are source-native6144x3072 equirectangular panoramas; flattened projection distortion is retained, full image aspect ratio preserved. Only selected distinct image compositions are included, no demo code or executable. Individual prompts are unavailable.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-fiera-sci-fi-lab-panorama-pack-neon-laboratory-08/image-c23047e829fd168b3361502842aa46de332a2ab6d6d151c7ac4d8aaf1faef10f.webp",
+      "sha256": "c23047e829fd168b3361502842aa46de332a2ab6d6d151c7ac4d8aaf1faef10f",
+      "bytes": 251316,
+      "width": 3840,
+      "height": 1920
+    },
+    "thumb": {
+      "path": "wallpapers/wp-fiera-sci-fi-lab-panorama-pack-neon-laboratory-08/thumb-3798242a67943a77ffbe07bcca484b1e56dc13eb5afe2d51bfdaa0dc6ca051e8.webp",
+      "sha256": "3798242a67943a77ffbe07bcca484b1e56dc13eb5afe2d51bfdaa0dc6ca051e8",
+      "bytes": 5416,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-fiera-sci-fi-lab-panorama-pack-neon-laboratory-08/thumb2x-468cf536367109e7fc59d7921f8fe66494c2d5182ab2eba5a2f363aa72e7f8c1.webp",
+      "sha256": "468cf536367109e7fc59d7921f8fe66494c2d5182ab2eba5a2f363aa72e7f8c1",
+      "bytes": 14972,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "fcdf6f929c422b7837dfe5dcf0afcd1d065d1a61c0297ce853edc7726b8be16f",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

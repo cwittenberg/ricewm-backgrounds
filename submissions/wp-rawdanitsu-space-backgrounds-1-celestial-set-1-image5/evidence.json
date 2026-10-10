@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:51:58.636Z",
+  "url": "https://opengameart.org/content/space-backgrounds-1",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-1/image5.jpg",
+  "inputSha256": "2356947ef2ae6f87d1100f57d9eaf52e241315c010b360bee8c31345656e5622",
+  "nativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Green Starfield",
+  "sourceNativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/image5.jpg",
+  "sourcePageSha256": "47cdcf0ddab460bd89675b6af6b6e6544dbcab80206fdd7ca09173fc4a9e0746",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-1",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

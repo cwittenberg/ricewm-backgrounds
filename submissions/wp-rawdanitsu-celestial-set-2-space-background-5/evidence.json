@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:07.102Z",
+  "url": "https://opengameart.org/content/space-backgrounds-2",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-2/Space-Background-5.jpg",
+  "inputSha256": "89f81b4ae6bee8896723061c15ca50269747f802048a78eccbad9f621a1f9ed2",
+  "nativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Emerald Flare",
+  "sourceNativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/Space-Background-5.jpg",
+  "sourcePageSha256": "31384cda66b192d3bd5fbd3e9442ab88ce46a9ee9167cb03660d7062a98a8f9c",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-2",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

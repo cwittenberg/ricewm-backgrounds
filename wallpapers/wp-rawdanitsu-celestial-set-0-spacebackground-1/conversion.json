@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-0-spacebackground-1",
+  "name": "Chromatic Void",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/another-space-backgrounds-0",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/another-space-backgrounds-0",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-1/image-8454e6eeec23aba82ae1079f0b07b03f6ae5aaceda80278785103a55f95a8184.webp",
+      "sha256": "8454e6eeec23aba82ae1079f0b07b03f6ae5aaceda80278785103a55f95a8184",
+      "bytes": 514912,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-1/thumb-6f30ebdebe4c2092e14311c295ef0fe2275b1f02f35ffaa33da394568c02f0bb.webp",
+      "sha256": "6f30ebdebe4c2092e14311c295ef0fe2275b1f02f35ffaa33da394568c02f0bb",
+      "bytes": 13156,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-0-spacebackground-1/thumb2x-02eccdbb8d2e947164308cc94fd7e764c449c10cc3c3022f37dc4040a5204560.webp",
+      "sha256": "02eccdbb8d2e947164308cc94fd7e764c449c10cc3c3022f37dc4040a5204560",
+      "bytes": 47992,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "339160bd642a4cc0d6d85e8199c5b7d9a700304493d03bacd6b44f2bdea5e5d9",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

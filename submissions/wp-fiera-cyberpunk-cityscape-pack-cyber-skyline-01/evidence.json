@@ -1,0 +1,42 @@
+{
+  "retrievedAt": "2026-10-10T16:51:52.721Z",
+  "url": "https://fieraryan.itch.io/cyberpunk-cityscape-pack",
+  "creator": "FieraRyan",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "cyberpunk-cityscape-pack/bg1.png",
+  "inputSha256": "de8740e46ea12d5af0069df23c0910933a7651b25847dd70c5601155be4b434c",
+  "nativeDimensions": {
+    "width": 1792,
+    "height": 1024
+  },
+  "tags": [
+    "ai",
+    "city",
+    "cyberpunk",
+    "dark",
+    "modern",
+    "neon",
+    "night",
+    "sci-fi",
+    "teal",
+    "urban"
+  ],
+  "basis": "The original creator FieraRyan dedicates the image pack under explicit Public Domain CC0 terms and Creative Commons Zero v1.0 Universal on their own itch.io page. The creator states the artwork was generated using Midjourney AI. Only source-native original image files are included; example game, executable files and demo music are excluded. Individual prompts are unavailable. Visually reviewed original empty sci-fi environments, no recognized franchise characters or logos.",
+  "ai": true,
+  "aiProvenance": "Original creator states these images were generated using Midjourney AI. Individual prompts are not provided. Selected empty environments have been visually reviewed for recognizable franchises, characters and logos.",
+  "model": "Midjourney AI",
+  "name": "Cyber Skyline 01",
+  "sourceNativeDimensions": {
+    "width": 1792,
+    "height": 1024
+  },
+  "archiveSha256": "331d1bf5e45beb89f81b593fa60a773e5d39b1d0300eaf640bec44cf95167232",
+  "sourcePageSha256": "2757e340ec09a8472f285996425d54a4695b31ffca8068140f0b489f41f97a3f",
+  "licensingReview": {
+    "creatorOwnedSource": "https://fieraryan.itch.io/cyberpunk-cityscape-pack",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

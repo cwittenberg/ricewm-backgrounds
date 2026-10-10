@@ -1,0 +1,57 @@
+{
+  "id": "wp-winechan-public-school-quiet-lecture-room",
+  "name": "Quiet Lecture Room",
+  "author": "WineChan (Sonya)",
+  "category": "anime",
+  "tags": [
+    "ai",
+    "anime",
+    "daylight",
+    "illustration",
+    "interior",
+    "modern",
+    "school"
+  ],
+  "source": "https://winechan.itch.io/public-school",
+  "rights": {
+    "license": "Public-Domain",
+    "evidence": "https://winechan.itch.io/public-school",
+    "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-winechan-public-school-quiet-lecture-room/image-de89825c7496653e14d195218109c2d9aeb5a88143bef2b4cde6c6dad73467bc.webp",
+      "sha256": "de89825c7496653e14d195218109c2d9aeb5a88143bef2b4cde6c6dad73467bc",
+      "bytes": 204110,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-winechan-public-school-quiet-lecture-room/thumb-f932bd1e41fde81c2aec61d80f9fbc59738e090401b00c6aea014349d9c32bc0.webp",
+      "sha256": "f932bd1e41fde81c2aec61d80f9fbc59738e090401b00c6aea014349d9c32bc0",
+      "bytes": 10828,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-winechan-public-school-quiet-lecture-room/thumb2x-be8f62cc33fae4a5e9ccf6291fec4795645fc95a2c97d0622f84d4f1728f4d85.webp",
+      "sha256": "be8f62cc33fae4a5e9ccf6291fec4795645fc95a2c97d0622f84d4f1728f4d85",
+      "bytes": 32904,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "c59f8c0186fcddeebdebbd5c37fa5835092f86f084d1eda47042617a3bf46cd7",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

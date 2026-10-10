@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-7-background-3",
+  "name": "Violet Planet",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-7",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-7",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-3/image-6e148b91132fc623f06cfd48126005fdd97268929b1b781435860dbe522e8ae8.webp",
+      "sha256": "6e148b91132fc623f06cfd48126005fdd97268929b1b781435860dbe522e8ae8",
+      "bytes": 623684,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-3/thumb-3df4098e75953f04c55b8763e5750759e5ad071003a9a8f379f0d049af9b8b86.webp",
+      "sha256": "3df4098e75953f04c55b8763e5750759e5ad071003a9a8f379f0d049af9b8b86",
+      "bytes": 3800,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-7-background-3/thumb2x-539f28460684ffac5a1471475753a3b0dfa3d93eb4557a5ec770c3aab9bcc313.webp",
+      "sha256": "539f28460684ffac5a1471475753a3b0dfa3d93eb4557a5ec770c3aab9bcc313",
+      "bytes": 12334,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "667a7c442a2b6dd5c15fe254eeefad6d65187310e7f4b00cb625b9c736d44101",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

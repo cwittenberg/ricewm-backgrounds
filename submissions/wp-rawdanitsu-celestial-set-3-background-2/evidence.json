@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:05.449Z",
+  "url": "https://opengameart.org/content/space-backgrounds-3",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/space-backgrounds-3/Background-2.png",
+  "inputSha256": "b5e57606a1aa72795ede1b4a67b950d03dd233e3a46fde3bf03d3425d18bf532",
+  "nativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Solar Approach",
+  "sourceNativeDimensions": {
+    "width": 1600,
+    "height": 1200
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/Background-2.png",
+  "sourcePageSha256": "cac07365fb2af3fe2948b01732b0c5b217cc7980f8832942f6dd7dad318bcf0d",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/space-backgrounds-3",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

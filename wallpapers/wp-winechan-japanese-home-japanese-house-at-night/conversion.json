@@ -1,0 +1,58 @@
+{
+  "id": "wp-winechan-japanese-home-japanese-house-at-night",
+  "name": "Japanese House at Night",
+  "author": "WineChan (Sonya)",
+  "category": "anime",
+  "tags": [
+    "ai",
+    "anime",
+    "architecture",
+    "dark",
+    "illustration",
+    "japan",
+    "modern",
+    "night"
+  ],
+  "source": "https://winechan.itch.io/japanese-home",
+  "rights": {
+    "license": "Public-Domain",
+    "evidence": "https://winechan.itch.io/japanese-home",
+    "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-winechan-japanese-home-japanese-house-at-night/image-bdaf6bdec14e4c05e1e46dca974a5f45831bf767a4e5341b935ab30c70bb0981.webp",
+      "sha256": "bdaf6bdec14e4c05e1e46dca974a5f45831bf767a4e5341b935ab30c70bb0981",
+      "bytes": 220490,
+      "width": 2500,
+      "height": 1440
+    },
+    "thumb": {
+      "path": "wallpapers/wp-winechan-japanese-home-japanese-house-at-night/thumb-74e1e59c7c4683dcd5ed768a929de5dff04d1bf356606f4357b89fda69bd0a22.webp",
+      "sha256": "74e1e59c7c4683dcd5ed768a929de5dff04d1bf356606f4357b89fda69bd0a22",
+      "bytes": 3562,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-winechan-japanese-home-japanese-house-at-night/thumb2x-9b62b17d2c3985551befe948b9679c205a2dd3875ba2a00f6a8be5eee3a2108e.webp",
+      "sha256": "9b62b17d2c3985551befe948b9679c205a2dd3875ba2a00f6a8be5eee3a2108e",
+      "bytes": 12184,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "67f4f433d170a671fcd108825fdcd00f76d9343a0f5b6e5df87f11d1c352dfe3",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

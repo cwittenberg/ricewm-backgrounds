@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-2-space-background-2",
+  "name": "Violet Helios",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-2",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-2",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-2/image-483001b76032d1362b70fcc740200a0d9a0bec0daa19f1ab3d41c901fd819252.webp",
+      "sha256": "483001b76032d1362b70fcc740200a0d9a0bec0daa19f1ab3d41c901fd819252",
+      "bytes": 235058,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-2/thumb-654080adbc73b878ed77eca850b731d19130c15f3fe6c1b6b412b61e03599518.webp",
+      "sha256": "654080adbc73b878ed77eca850b731d19130c15f3fe6c1b6b412b61e03599518",
+      "bytes": 9208,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-2/thumb2x-9795701d5925bc369aa1c9eac2fd9d73f312c649c86f471ef6fc6c4e1ac151d9.webp",
+      "sha256": "9795701d5925bc369aa1c9eac2fd9d73f312c649c86f471ef6fc6c4e1ac151d9",
+      "bytes": 31174,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "9313633273f14bfcba9724dba9c789c6512e9a5c5dbc16a3a03295624ca68357",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

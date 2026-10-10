@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-celestial-set-2-space-background-1",
+  "name": "Icy Satellite",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-2",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-2",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-1/image-04772bcaad5b7bac3a2c0ebbc7fac5cff6e9a1d04e088efdb756f5fa438eaa49.webp",
+      "sha256": "04772bcaad5b7bac3a2c0ebbc7fac5cff6e9a1d04e088efdb756f5fa438eaa49",
+      "bytes": 328104,
+      "width": 1600,
+      "height": 1200
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-1/thumb-62340b3619f1298af4677851044c79faa351d6d88623135cb7c236c91c936c88.webp",
+      "sha256": "62340b3619f1298af4677851044c79faa351d6d88623135cb7c236c91c936c88",
+      "bytes": 10082,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-celestial-set-2-space-background-1/thumb2x-a4f12d180641e0b965109f0e25e72a5201e15d7bf98ad6037bbdf2891a029099.webp",
+      "sha256": "a4f12d180641e0b965109f0e25e72a5201e15d7bf98ad6037bbdf2891a029099",
+      "bytes": 35824,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "6d953e2c79736de5bb638a3cd024cfbc712479f2c21c9d77e139fb264c5bcbab",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "retrievedAt": "2026-10-10T16:52:12.204Z",
+  "url": "https://opengameart.org/content/another-space-backgrounds-0",
+  "creator": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "creatorLicenseStatement": "Creative Commons Zero v1.0 Universal",
+  "originalPath": "rawdanitsu/another-space-backgrounds-0/SpaceBackground-3.jpg",
+  "inputSha256": "cb3c870cb4e966add5967e4b80c4ab754507041e34946217e76a563e8983d8b5",
+  "nativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+  "ai": false,
+  "name": "Dustworld",
+  "sourceNativeDimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "downloadUrl": "https://opengameart.org/sites/default/files/SpaceBackground-3.jpg",
+  "sourcePageSha256": "1ad8db0d24a8d517afa05c2243954592c6d9b184355d7e4e7ac43241e674b425",
+  "licensingReview": {
+    "creatorOwnedSource": "https://opengameart.org/content/another-space-backgrounds-0",
+    "operatorApproval": "pending",
+    "conversionOnly": true,
+    "noUpscalingByRiceWM": true
+  }
+}

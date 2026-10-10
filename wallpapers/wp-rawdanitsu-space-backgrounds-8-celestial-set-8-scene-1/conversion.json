@@ -1,0 +1,57 @@
+{
+  "id": "wp-rawdanitsu-space-backgrounds-8-celestial-set-8-scene-1",
+  "name": "Deep Aqua Nebula",
+  "author": "Rawdanitsu",
+  "category": "space",
+  "tags": [
+    "dark",
+    "illustration",
+    "modern",
+    "nebula",
+    "sci-fi",
+    "space",
+    "stars"
+  ],
+  "source": "https://opengameart.org/content/space-backgrounds-8",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/space-backgrounds-8",
+    "basis": "The original artist Rawdanitsu dedicates this individually uploaded pack under CC0 on their own OpenGameArt submission and identifies the space backgrounds as their own work. The creator explicitly dedicates all their OpenGameArt work to public domain and permits all commercial and non-commercial uses, changes and redistribution without credit. Original2013-2016 Photoshop celestial illustrations, not photographs or AI-generated artwork. Only distinct native landscape originals are included, excluding low-resolution previews, square starfields and tiled derivatives.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-8-celestial-set-8-scene-1/image-21bd5d19f03707e6213279d242dca7d1fcf6c4362ce6da320e73bee6bd01aa71.webp",
+      "sha256": "21bd5d19f03707e6213279d242dca7d1fcf6c4362ce6da320e73bee6bd01aa71",
+      "bytes": 523480,
+      "width": 2732,
+      "height": 1536
+    },
+    "thumb": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-8-celestial-set-8-scene-1/thumb-c3799a35b1642c9473f13c86bd3b8917d9b34ca58ef1467712467ff4db6953ad.webp",
+      "sha256": "c3799a35b1642c9473f13c86bd3b8917d9b34ca58ef1467712467ff4db6953ad",
+      "bytes": 4454,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-rawdanitsu-space-backgrounds-8-celestial-set-8-scene-1/thumb2x-317dc3997b3676fd4c53acc72177a2b8e81b275743616d7f087b38f8d7a29681.webp",
+      "sha256": "317dc3997b3676fd4c53acc72177a2b8e81b275743616d7f087b38f8d7a29681",
+      "bytes": 20650,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "8baf24ea8a953649fb7f4078efe481465ea0248f3b6350373810fc6ae4b08b81",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}
