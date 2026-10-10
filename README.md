@@ -3,7 +3,7 @@
 Reviewed wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **237 wallpaper candidates**, with verified creator or museum provenance. The newest 110 additions include 42 cyberpunk city/street scenes, 35 planets and nebulas, 9 sci-fi interiors and 24 anime/manga scenes. Each candidate stores descriptive tags, licensing evidence and WebP hashes; app inclusion requires operator approval. Browse the previews below.
+This repository contains **211 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -11,7 +11,9 @@ An image update requires a new review. Withdrawal takes it out of the app catalo
 
 ## Contribute
 
-Submit a pull request following [CONTRIBUTING.md](CONTRIBUTING.md). Genuine public-domain works, authorized CC0 dedications and individually verified creator-licensed CC BY3.0/4.0 artwork are accepted with permanent credit. A freely
+Children’s rooms, school scenes and young-looking characters are outside this collection’s scope.
+
+[Share a wallpaper through your RiceWM account](https://account.env.now/wallpapers/submit): upload an image, save a draft, add its source and permissions, and follow review feedback. A pull request following [CONTRIBUTING.md](CONTRIBUTING.md) remains available for repository contributors. Genuine public-domain works, authorized CC0 dedications and individually verified creator-licensed CC BY3.0/4.0 artwork are accepted with permanent credit. A freely
 downloadable image is not necessarily public domain. Do not submit images scraped
 from wallpaper sites, proprietary game/anime art, or an unknown creator.
 
@@ -146,29 +148,9 @@ Converted to WebP; resized without enlargement; previews cropped to 16:9.
 
 Tags: `chongqing`, `city`, `modern`, `night`, `photography`, `skyline`. [Source](https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg) · [Rights evidence](submissions/wp-skyline-chongqing-night-yuzhong/evidence.json) · [Conversion receipt](wallpapers/wp-skyline-chongqing-night-yuzhong/conversion.json).
 
-## Creator-licensed detailed paintings —16 CC BY additions
+## Creator-licensed detailed paintings
 
 Painted city streets, atmospheric landscapes, original anime and night skies. These images retain permanent creator credit and their CC BY4.0 license.
-
-### Asleep
-
-[![Asleep](wallpapers/wp-revoy-asleep/thumb-d82fc48ea85c676e8efa2d3f3ccaad67f57028ed41284aebf6a82ef36ed8e986.webp)](wallpapers/wp-revoy-asleep/image-57dd3857282e5a77d4656cd6a864e141b147f82a911080368083995872cc7db4.webp)
-
-“Asleep” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3669×2019
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-06-30_Asleep_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-asleep/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-asleep/conversion.json).
-
-### Autumn Run
-
-[![Autumn Run](wallpapers/wp-revoy-autumn-run/thumb-5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124.webp)](wallpapers/wp-revoy-autumn-run/image-aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04.webp)
-
-“Autumn Run” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3448×2160
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-09-06_Autumn-Run_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-autumn-run/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-autumn-run/conversion.json).
 
 ### Episode 30 page 1
 
@@ -200,26 +182,6 @@ Converted to WebP; resized without enlargement; previews cropped to16:9.
 
 Tags: `anime`, `city`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2018-06-03_Komona-sunset-dark_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-komona-sunset-dark/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-komona-sunset-dark/conversion.json).
 
-### Point of View
-
-[![Point of View](wallpapers/wp-revoy-point-of-view/thumb-f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af.webp)](wallpapers/wp-revoy-point-of-view/image-0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349.webp)
-
-“Point of View” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2047
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-18_Point-of-View_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-point-of-view/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-point-of-view/conversion.json).
-
-### Rain City
-
-[![Rain City](wallpapers/wp-revoy-rain-city/thumb-2f1e424e3ad003afcc97f2848d3a207d6456240d2b5f00bae26928bd12ff6d03.webp)](wallpapers/wp-revoy-rain-city/image-f8e0612b392d9e77112427a8d83f657b2d4acc5f2583e8429dc7e507ef4dd3b5.webp)
-
-“Rain City” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2047
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `city`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-06_Rain-City_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-rain-city/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-rain-city/conversion.json).
-
 ### Spooky Cute House
 
 [![Spooky Cute House](wallpapers/wp-revoy-spooky-cute-house/thumb-9613b08679094963bce22462899dc537d1386a3b2179f9c4aaa2f2c0ef758185.webp)](wallpapers/wp-revoy-spooky-cute-house/image-3c14bdb5f15196f6e4e7a8fc8c7488622e4a33d49be93f3a4af62b1cdb468749.webp)
@@ -229,66 +191,6 @@ Tags: `anime`, `city`, `dark`, `human-art`, `illustration`, `modern`. [Source](h
 Converted to WebP; resized without enlargement; previews cropped to16:9.
 
 Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-05-19_Spooky-Cute-House_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-spooky-cute-house/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-spooky-cute-house/conversion.json).
-
-### The after rain smell
-
-[![The after rain smell](wallpapers/wp-revoy-the-after-rain-smell/thumb-f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3.webp)](wallpapers/wp-revoy-the-after-rain-smell/image-adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227.webp)
-
-“The after rain smell” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2047
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `city`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2023-01-09_The-after-rain-smell_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-after-rain-smell/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-after-rain-smell/conversion.json).
-
-### The fairy fir tree
-
-[![The fairy fir tree](wallpapers/wp-revoy-the-fairy-fir-tree/thumb-20f65612a63bf6388a17c7b93fc5a6027f6822a202a20a2ee0d5aee7c13a3780.webp)](wallpapers/wp-revoy-the-fairy-fir-tree/image-a6de590cb1116de42b43347b20453e312e300cad7f153a7babc58d2a12cfbcb6.webp)
-
-“The fairy fir tree” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 2560×1600
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-12-21_The-fairy-fir-tree_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-fairy-fir-tree/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-fairy-fir-tree/conversion.json).
-
-### The market
-
-[![The market](wallpapers/wp-revoy-the-market/thumb-b0b4efb45e40d043ce1d589389d90040af9466b53e3b2a25d14d25ba48cc0d86.webp)](wallpapers/wp-revoy-the-market/image-97f07ea4dbf67e7cbb84617b587a6149400ba2d89973addc0a313735badc0bbf.webp)
-
-“The market” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2160
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `city`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-02-21_The-market_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-market/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-market/conversion.json).
-
-### The Treasure
-
-[![The Treasure](wallpapers/wp-revoy-the-treasure/thumb-13148faeb37e3d3155798f4280f94ceca252704060b5d175f780b49ff534ee9a.webp)](wallpapers/wp-revoy-the-treasure/image-c419aeb0c744b8d73b97badb10308960bd7c2e605880ad7f731ae9247f724cd2.webp)
-
-“The Treasure” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3456×2160
-
-Converted to WebP; resized without enlargement; previews cropped to16:9.
-
-Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-08-28_The-Treasure_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-treasure/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-treasure/conversion.json).
-
-### Inner Light
-
-[![Inner Light](wallpapers/wp-morevna-inner-light/thumb-22980c1d87aedcf91edf551eef1aa9611351216c33f8b91d94b62192b558e8a3.webp)](wallpapers/wp-morevna-inner-light/image-1ce82a28ee50d187849014a1aedb78b213fb98bd1543480b0fe8800e768f484e.webp)
-
-“Inner Light” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 2169×1792
-
-Converted to WebP; resized without enlargement; 16:9 previews cropped from the original.
-
-Tags: `anime`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://morevnaproject.org/2018/01/25/inner-light/) · [Rights evidence](submissions/wp-morevna-inner-light/evidence.json) · [Conversion receipt](wallpapers/wp-morevna-inner-light/conversion.json).
-
-### Sorry
-
-[![Sorry](wallpapers/wp-morevna-sorry/thumb-ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89.webp)](wallpapers/wp-morevna-sorry/image-fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4.webp)
-
-“Sorry” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3000×2000
-
-Converted to WebP; resized without enlargement; 16:9 previews cropped from the original.
-
-Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://morevnaproject.org/2017/07/19/new-artwork-sorry/) · [Rights evidence](submissions/wp-morevna-sorry/evidence.json) · [Conversion receipt](wallpapers/wp-morevna-sorry/conversion.json).
 
 ### Giordano Bruno II
 
@@ -310,7 +212,7 @@ Converted to the collection WebP profile; resized without enlargement; 16:9 prev
 
 Tags: `anime`, `blue`, `dark`, `human-art`, `illustration`, `modern`, `space`, `stars`. [Source](https://unicorncreates.itch.io/sky-backgrounds) · [Rights evidence](submissions/wp-unicorn-shooting-stars/evidence.json) · [Conversion receipt](wallpapers/wp-unicorn-shooting-stars/conversion.json).
 
-## Cyberpunk cities, space and anime — 110 new wallpapers
+## Cyberpunk cities, space and anime
 
 Detailed scenes selected for ricing. All 110 normal previews together transfer **832 KB**; the full image downloads on selection. Simple patterns, geometric sets and the Mocha vector designs have been removed.
 
@@ -1002,70 +904,6 @@ Rawdanitsu · CC0-1.0 · Human artwork · 2736×1536
 
 Tags: `dark`, `illustration`, `modern`, `nebula`, `sci-fi`, `space`, `stars`. [Source](https://opengameart.org/content/space-backgrounds-9) · [Rights evidence](submissions/wp-rawdanitsu-celestial-set-9-oga-background-3/evidence.json) · [Conversion receipt](wallpapers/wp-rawdanitsu-celestial-set-9-oga-background-3/conversion.json).
 
-### Sunlit Japanese Classroom
-
-[![Sunlit Japanese Classroom](wallpapers/wp-winechan-japanese-classroom-sunlit-japanese-classroom/thumb-57ca6024279f4803b3a531d4d9010f8d854ea81014b8ac90ecfcb77b086b065c.webp)](wallpapers/wp-winechan-japanese-classroom-sunlit-japanese-classroom/image-e9e4f8c4f2722b1bbce177a4c5c07daf886d38ff6426c8f5fa9ee44e43e681d9.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `daylight`, `illustration`, `interior`, `modern`, `school`. [Source](https://winechan.itch.io/japanese-classroom) · [Rights evidence](submissions/wp-winechan-japanese-classroom-sunlit-japanese-classroom/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-japanese-classroom-sunlit-japanese-classroom/conversion.json).
-
-### After Class
-
-[![After Class](wallpapers/wp-winechan-japanese-classroom-after-class/thumb-fbead799de3508567acf6e47430675b0614e9b641eb023fdba1023cfa9358ec1.webp)](wallpapers/wp-winechan-japanese-classroom-after-class/image-16412cb1923ba93ef85c8407a997624f7f019fb3540fa4fa9e78a1f5842b315d.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `daylight`, `illustration`, `interior`, `modern`, `school`. [Source](https://winechan.itch.io/japanese-classroom) · [Rights evidence](submissions/wp-winechan-japanese-classroom-after-class/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-japanese-classroom-after-class/conversion.json).
-
-### Lilac Computer Lab
-
-[![Lilac Computer Lab](wallpapers/wp-winechan-public-school-lilac-computer-lab/thumb-f5d280317b341a4b011300b22c3c18f37d6c5a1b107cc08bbc805726ef43754f.webp)](wallpapers/wp-winechan-public-school-lilac-computer-lab/image-e90c85bdf2bbbe1f1bcc627a80b77be11e3d0284dcb181b69c785227988c6abc.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `dusk`, `illustration`, `interior`, `modern`, `purple`, `school`. [Source](https://winechan.itch.io/public-school) · [Rights evidence](submissions/wp-winechan-public-school-lilac-computer-lab/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-public-school-lilac-computer-lab/conversion.json).
-
-### School at Sunset
-
-[![School at Sunset](wallpapers/wp-winechan-public-school-school-at-sunset/thumb-52e679b5fa1fcc79442935e5e45eb162d3076b804911895d8256729b2f038bc3.webp)](wallpapers/wp-winechan-public-school-school-at-sunset/image-8e41d0d2ef3c63e86f87806c994926cdd7ba03cc31d03c4e1bd129ecd0c8f05d.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `architecture`, `city`, `illustration`, `modern`, `school`, `sunset`. [Source](https://winechan.itch.io/public-school) · [Rights evidence](submissions/wp-winechan-public-school-school-at-sunset/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-public-school-school-at-sunset/conversion.json).
-
-### Blue Locker Hall
-
-[![Blue Locker Hall](wallpapers/wp-winechan-public-school-blue-locker-hall/thumb-8c0caa9975f08f03b4b6adafee603f4e218257dd32c84c2020a3b30ce4010124.webp)](wallpapers/wp-winechan-public-school-blue-locker-hall/image-c90ea606ef05772eb378ec008b5a5bc943e8caf38ab035ba0031b7d979b380d6.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `blue`, `dark`, `illustration`, `interior`, `modern`, `school`. [Source](https://winechan.itch.io/public-school) · [Rights evidence](submissions/wp-winechan-public-school-blue-locker-hall/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-public-school-blue-locker-hall/conversion.json).
-
-### Amethyst Cafeteria
-
-[![Amethyst Cafeteria](wallpapers/wp-winechan-public-school-amethyst-cafeteria/thumb-b215426fb929f4580c198e043e60d4d4729ef1a51ba1960d0062c05711c13392.webp)](wallpapers/wp-winechan-public-school-amethyst-cafeteria/image-4c86b230b5877c5a06a631f2fbb0106ae1999436a7ba7e8b93e9a14649a2c177.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `dark`, `illustration`, `interior`, `modern`, `purple`, `school`. [Source](https://winechan.itch.io/public-school) · [Rights evidence](submissions/wp-winechan-public-school-amethyst-cafeteria/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-public-school-amethyst-cafeteria/conversion.json).
-
-### Red Hour Classroom
-
-[![Red Hour Classroom](wallpapers/wp-winechan-public-school-red-hour-classroom/thumb-83fb7613824b31e9ac96ded3df540fbd174f4cfb1034ded29c522ffb4a43c7ed.webp)](wallpapers/wp-winechan-public-school-red-hour-classroom/image-3f3f57f426b24f57caaa43f3aab6c732933ea91440859a173a3517816d34e0ce.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `dark`, `illustration`, `interior`, `modern`, `red`, `school`. [Source](https://winechan.itch.io/public-school) · [Rights evidence](submissions/wp-winechan-public-school-red-hour-classroom/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-public-school-red-hour-classroom/conversion.json).
-
-### Quiet Lecture Room
-
-[![Quiet Lecture Room](wallpapers/wp-winechan-public-school-quiet-lecture-room/thumb-f932bd1e41fde81c2aec61d80f9fbc59738e090401b00c6aea014349d9c32bc0.webp)](wallpapers/wp-winechan-public-school-quiet-lecture-room/image-de89825c7496653e14d195218109c2d9aeb5a88143bef2b4cde6c6dad73467bc.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `daylight`, `illustration`, `interior`, `modern`, `school`. [Source](https://winechan.itch.io/public-school) · [Rights evidence](submissions/wp-winechan-public-school-quiet-lecture-room/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-public-school-quiet-lecture-room/conversion.json).
-
 ### Manga Skywalk
 
 [![Manga Skywalk](wallpapers/wp-manga-manga-skywalk/thumb-c7ab1e59a00f8ab8c4acb377f0184e7b9f3d2473506f15375c3d8d7ba0bf0580.webp)](wallpapers/wp-manga-manga-skywalk/image-bf6dc4113b90e22e7b7d22670e2fe11d1564a840607e1f9eb022c229210fd10e.webp)
@@ -1081,46 +919,6 @@ Tags: `anime`, `architecture`, `industrial`, `manga`, `modern`, `monochrome`, `s
 Pavel Kutejnikov · CC0-1.0 · Human artwork · 1920×1080
 
 Tags: `anime`, `architecture`, `industrial`, `manga`, `modern`, `monochrome`, `sci-fi`. [Source](https://opengameart.org/content/manga-style-background) · [Rights evidence](submissions/wp-manga-manga-service-deck/evidence.json) · [Conversion receipt](wallpapers/wp-manga-manga-service-deck/conversion.json).
-
-### Dorm Desk
-
-[![Dorm Desk](wallpapers/wp-winechan-college-boy-dorm-room-dorm-desk/thumb-cbc54d105c2e81370f4f25e2c7d1153c6bd6e485748c7a7c6e26a0865266b249.webp)](wallpapers/wp-winechan-college-boy-dorm-room-dorm-desk/image-0b4515c7719e60a0e7595942d2e4b3eff553989ce1dbcf9e450f308d8ecd5d36.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `blue`, `daylight`, `illustration`, `interior`, `modern`, `room`. [Source](https://winechan.itch.io/college-boy-dorm-room) · [Rights evidence](submissions/wp-winechan-college-boy-dorm-room-dorm-desk/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-college-boy-dorm-room-dorm-desk/conversion.json).
-
-### Window Desk
-
-[![Window Desk](wallpapers/wp-winechan-college-boy-dorm-room-window-desk/thumb-a3d8ad13a2dfd5ecfcff1aa83c56f7bda6cc5f99d24ca19c8f70f95d952a5514.webp)](wallpapers/wp-winechan-college-boy-dorm-room-window-desk/image-1bbb5720c2647ca8d25e31fd20d085db6d60af534ebcba5d6675bc6125f0e0e1.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `blue`, `daylight`, `illustration`, `interior`, `modern`, `room`. [Source](https://winechan.itch.io/college-boy-dorm-room) · [Rights evidence](submissions/wp-winechan-college-boy-dorm-room-window-desk/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-college-boy-dorm-room-window-desk/conversion.json).
-
-### Book Nook
-
-[![Book Nook](wallpapers/wp-winechan-college-boy-dorm-room-book-nook/thumb-9399cff7a0d391bea2d5988592b9e4e24c73696f08c639e95ca75e3ef91c0128.webp)](wallpapers/wp-winechan-college-boy-dorm-room-book-nook/image-f25a4a94ce9abe6d38f90035a4b0964580ab8b32d184e2a4788b6962496a6db1.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `blue`, `daylight`, `illustration`, `interior`, `modern`, `room`. [Source](https://winechan.itch.io/college-boy-dorm-room) · [Rights evidence](submissions/wp-winechan-college-boy-dorm-room-book-nook/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-college-boy-dorm-room-book-nook/conversion.json).
-
-### Pink Study
-
-[![Pink Study](wallpapers/wp-winechan-college-girl-dorm-room-pink-study/thumb-2a4517955edd166d6d6130d64d42154865e3f74e2e7bdffb40deb3cb2150de55.webp)](wallpapers/wp-winechan-college-girl-dorm-room-pink-study/image-b98aba5635614cd45ad5b9b72c6bfdac9be75f8aa8e3055abe592076917364fb.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `daylight`, `illustration`, `interior`, `modern`, `pastel`, `pink`, `room`. [Source](https://winechan.itch.io/college-girl-dorm-room) · [Rights evidence](submissions/wp-winechan-college-girl-dorm-room-pink-study/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-college-girl-dorm-room-pink-study/conversion.json).
-
-### Rose Window
-
-[![Rose Window](wallpapers/wp-winechan-college-girl-dorm-room-rose-window/thumb-ed61709013865419db291cf7de9f65021a3ff00dcc43223d165e4b67ea316e71.webp)](wallpapers/wp-winechan-college-girl-dorm-room-rose-window/image-fd5eb66beed52ad50bfbaf738d259f78cfb65710b29b597728ed3dc6703cc696.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `daylight`, `illustration`, `interior`, `modern`, `pastel`, `pink`, `room`. [Source](https://winechan.itch.io/college-girl-dorm-room) · [Rights evidence](submissions/wp-winechan-college-girl-dorm-room-rose-window/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-college-girl-dorm-room-rose-window/conversion.json).
 
 ### Rose Cafe Tables
 
@@ -1178,14 +976,6 @@ WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
 
 Tags: `ai`, `anime`, `city`, `dark`, `illustration`, `interior`, `modern`, `neon`, `night`. [Source](https://winechan.itch.io/club) · [Rights evidence](submissions/wp-winechan-club-club-after-dark/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-club-club-after-dark/conversion.json).
 
-### Campus in Summer
-
-[![Campus in Summer](wallpapers/wp-winechan-university-campus-in-summer/thumb-769db10bd28b46944edffe0db033da0523aba78ff8a18e959bf61ee351670e7a.webp)](wallpapers/wp-winechan-university-campus-in-summer/image-ea2f7721236ad29fd812c6311de603bdf37f156dab50a5daeb122f64fa55e223.webp)
-
-WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 1920×1080
-
-Tags: `ai`, `anime`, `architecture`, `city`, `daylight`, `illustration`, `modern`, `school`. [Source](https://winechan.itch.io/university) · [Rights evidence](submissions/wp-winechan-university-campus-in-summer/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-university-campus-in-summer/conversion.json).
-
 ### Japanese House at Night
 
 [![Japanese House at Night](wallpapers/wp-winechan-japanese-home-japanese-house-at-night/thumb-74e1e59c7c4683dcd5ed768a929de5dff04d1bf356606f4357b89fda69bd0a22.webp)](wallpapers/wp-winechan-japanese-home-japanese-house-at-night/image-bdaf6bdec14e4c05e1e46dca974a5f45831bf767a4e5341b935ab30c70bb0981.webp)
@@ -1195,22 +985,6 @@ WineChan (Sonya) · Public-Domain · Creator-labelled AI artwork · 2500×1440
 Tags: `ai`, `anime`, `architecture`, `dark`, `illustration`, `japan`, `modern`, `night`. [Source](https://winechan.itch.io/japanese-home) · [Rights evidence](submissions/wp-winechan-japanese-home-japanese-house-at-night/evidence.json) · [Conversion receipt](wallpapers/wp-winechan-japanese-home-japanese-house-at-night/conversion.json).
 
 ## Additional illustrations and landscapes
-
-### School Hallway at Sunset
-
-[![School Hallway at Sunset](wallpapers/wp-iletora-hallway-visible/thumb-d42a18bb9bcf7ee8de992e5c88d66cf6cf7105b412634f63944b1e9bc74cd58b.webp)](wallpapers/wp-iletora-hallway-visible/image-4530d27b4058a077064484838f651bbbb01da54ba5ec29c899d61796cac3ceeb.webp)
-
-Iletora · CC0-1.0 · Human artwork · 1920×1080
-
-Tags: `anime`, `architecture`, `modern`, `warm`. [Source](https://iletora.itch.io/school-hallway) · [Rights evidence](submissions/wp-iletora-hallway-visible/evidence.json) · [Conversion receipt](wallpapers/wp-iletora-hallway-visible/conversion.json).
-
-### School Hallway in Daylight
-
-[![School Hallway in Daylight](wallpapers/wp-iletora-hallway-visible2/thumb-2b13eb805021845fe54f8e252ec6c9cbbf7863b23d90b08796f2167325bc7d52.webp)](wallpapers/wp-iletora-hallway-visible2/image-5e63dbf7a30aa63dc66350a6b594856c50147ce0977e9b6ab594541e0d9c3790.webp)
-
-Iletora · CC0-1.0 · Human artwork · 1920×1080
-
-Tags: `anime`, `architecture`, `blue`, `modern`. [Source](https://iletora.itch.io/school-hallway) · [Rights evidence](submissions/wp-iletora-hallway-visible2/evidence.json) · [Conversion receipt](wallpapers/wp-iletora-hallway-visible2/conversion.json).
 
 ### Manga Megastructure
 

@@ -18,11 +18,11 @@
       "rights": {
         "license": "CC-BY-4.0",
         "evidence": "https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/README.md#giordano-bruno-ii",
-        "basis": "Agundur’s own repository identifies this as a wallpaper built by Agundur, maps this exact PNG filename to Creative Commons Attribution 4.0, and states native 3840×2160 with no upscaling. Pinned creator commit and source SHA are recorded. Creator watermark is retained; no fictional franchise characters or third-party logos appear. Generation method for this individual image is not declared; no claim that it is human-painted is made.",
+        "basis": "Agundur\u2019s own repository identifies this as a wallpaper built by Agundur, maps this exact PNG filename to Creative Commons Attribution 4.0, and states native 3840\u00d72160 with no upscaling. Pinned creator commit and source SHA are recorded. Creator watermark is retained; no fictional franchise characters or third-party logos appear. Generation method for this individual image is not declared; no claim that it is human-painted is made.",
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Giordano Bruno II” by Agundur (agundur.de). © Agundur.",
+        "credit": "\u201cGiordano Bruno II\u201d by Agundur (agundur.de). \u00a9 Agundur.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; 16:9 previews generated; creator watermark retained."
       },
@@ -3410,114 +3410,6 @@
       }
     },
     {
-      "id": "wp-iletora-hallway-visible",
-      "name": "School Hallway at Sunset",
-      "author": "Iletora",
-      "category": "anime-inspired",
-      "source": "https://iletora.itch.io/school-hallway",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://iletora.itch.io/school-hallway",
-        "basis": "Original creator Iletora explicitly releases these two original visual-novel school hallway backgrounds as Creative Commons Zero v1.0 Universal on their own itch.io page. The page specifies 1920x1080 and morning/evening variants. These are empty original environments and contain no franchise characters or logos.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-iletora-hallway-visible/image-4530d27b4058a077064484838f651bbbb01da54ba5ec29c899d61796cac3ceeb.webp",
-          "sha256": "4530d27b4058a077064484838f651bbbb01da54ba5ec29c899d61796cac3ceeb",
-          "bytes": 64400,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-iletora-hallway-visible/thumb-d42a18bb9bcf7ee8de992e5c88d66cf6cf7105b412634f63944b1e9bc74cd58b.webp",
-          "sha256": "d42a18bb9bcf7ee8de992e5c88d66cf6cf7105b412634f63944b1e9bc74cd58b",
-          "bytes": 2354,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-iletora-hallway-visible/thumb2x-5b6dd148014127a59012e56b11ad49fa307081dbe1d1111ec2fdbff69f43ec88.webp",
-          "sha256": "5b6dd148014127a59012e56b11ad49fa307081dbe1d1111ec2fdbff69f43ec88",
-          "bytes": 6820,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "dc33b8dd24cfdc87ad748b50790150cb800668b5f8b7ef3930e90a76739cafa3",
-        "profile": "webp-landscape-3840-320-640-v1"
-      },
-      "tags": [
-        "anime",
-        "architecture",
-        "modern",
-        "warm"
-      ]
-    },
-    {
-      "id": "wp-iletora-hallway-visible2",
-      "name": "School Hallway in Daylight",
-      "author": "Iletora",
-      "category": "anime-inspired",
-      "source": "https://iletora.itch.io/school-hallway",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://iletora.itch.io/school-hallway",
-        "basis": "Original creator Iletora explicitly releases these two original visual-novel school hallway backgrounds as Creative Commons Zero v1.0 Universal on their own itch.io page. The page specifies 1920x1080 and morning/evening variants. These are empty original environments and contain no franchise characters or logos.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-iletora-hallway-visible2/image-5e63dbf7a30aa63dc66350a6b594856c50147ce0977e9b6ab594541e0d9c3790.webp",
-          "sha256": "5e63dbf7a30aa63dc66350a6b594856c50147ce0977e9b6ab594541e0d9c3790",
-          "bytes": 72528,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-iletora-hallway-visible2/thumb-2b13eb805021845fe54f8e252ec6c9cbbf7863b23d90b08796f2167325bc7d52.webp",
-          "sha256": "2b13eb805021845fe54f8e252ec6c9cbbf7863b23d90b08796f2167325bc7d52",
-          "bytes": 2734,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-iletora-hallway-visible2/thumb2x-723c14192c2c38fe586e33b1568ef6fe3d880fe8f4b8bf74283dd728bea6171f.webp",
-          "sha256": "723c14192c2c38fe586e33b1568ef6fe3d880fe8f4b8bf74283dd728bea6171f",
-          "bytes": 8114,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "a3d18835bc8c0f90c360526c73459559671bbb0f6fc690684d4bde9bf580a8d8",
-        "profile": "webp-landscape-3840-320-640-v1"
-      },
-      "tags": [
-        "anime",
-        "architecture",
-        "blue",
-        "modern"
-      ]
-    },
-    {
       "id": "wp-kutejnikov-manga-manga-bg-06",
       "name": "Manga Megastructure",
       "author": "Pavel Kutejnikov",
@@ -4822,7 +4714,7 @@
     },
     {
       "id": "wp-met-36489",
-      "name": "Kintai Bridge in Suō Province",
+      "name": "Kintai Bridge in Su\u014d Province",
       "author": "Katsushika Hokusai",
       "category": "japanese",
       "source": "https://www.metmuseum.org/art/collection/search/36489",
@@ -4928,7 +4820,7 @@
     },
     {
       "id": "wp-met-36521",
-      "name": "Sudden Shower at Shōno",
+      "name": "Sudden Shower at Sh\u014dno",
       "author": "Utagawa Hiroshige",
       "category": "japanese",
       "source": "https://www.metmuseum.org/art/collection/search/36521",
@@ -6038,119 +5930,6 @@
         "japanese",
         "woodblock"
       ]
-    },
-    {
-      "id": "wp-morevna-inner-light",
-      "name": "Inner Light",
-      "author": "Anastasia Majzhegisheva",
-      "category": "anime",
-      "tags": [
-        "anime",
-        "dark",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://morevnaproject.org/2018/01/25/inner-light/",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://morevnaproject.org/2018/01/25/inner-light/",
-        "basis": "The original creator’s project blog explicitly names Anastasia Majzhegisheva and licenses this artwork under Creative Commons Attribution 4.0. Downloaded directly from the image linked in that post. Morevna is the studio’s own original series; external franchise fanart and unlicensed gallery entries are excluded.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“Inner Light” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; 16:9 previews cropped from the original."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-morevna-inner-light/image-1ce82a28ee50d187849014a1aedb78b213fb98bd1543480b0fe8800e768f484e.webp",
-          "sha256": "1ce82a28ee50d187849014a1aedb78b213fb98bd1543480b0fe8800e768f484e",
-          "bytes": 302382,
-          "width": 2169,
-          "height": 1792
-        },
-        "thumb": {
-          "path": "wallpapers/wp-morevna-inner-light/thumb-22980c1d87aedcf91edf551eef1aa9611351216c33f8b91d94b62192b558e8a3.webp",
-          "sha256": "22980c1d87aedcf91edf551eef1aa9611351216c33f8b91d94b62192b558e8a3",
-          "bytes": 3114,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-morevna-inner-light/thumb2x-59e61e02cbb1c3f654d899257fb67c39fdf66e4b6a7ae20bafb92b25147d8665.webp",
-          "sha256": "59e61e02cbb1c3f654d899257fb67c39fdf66e4b6a7ae20bafb92b25147d8665",
-          "bytes": 7910,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "781ee670d42f8b527116c99d913f00832d0f8fdebc607d2a084f7cb8fa35c4eb",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-morevna-sorry",
-      "name": "Sorry",
-      "author": "Anastasia Majzhegisheva",
-      "category": "anime",
-      "tags": [
-        "anime",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://morevnaproject.org/2017/07/19/new-artwork-sorry/",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://morevnaproject.org/2017/07/19/new-artwork-sorry/",
-        "basis": "The original creator’s project blog explicitly names Anastasia Majzhegisheva and licenses this artwork under Creative Commons Attribution 4.0. Downloaded directly from the image linked in that post. Morevna is the studio’s own original series; external franchise fanart and unlicensed gallery entries are excluded.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“Sorry” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; 16:9 previews cropped from the original."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-morevna-sorry/image-fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4.webp",
-          "sha256": "fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4",
-          "bytes": 359174,
-          "width": 3000,
-          "height": 2000
-        },
-        "thumb": {
-          "path": "wallpapers/wp-morevna-sorry/thumb-ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89.webp",
-          "sha256": "ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89",
-          "bytes": 7206,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-morevna-sorry/thumb2x-a213825a300eada397267a754c7b21238e363d4d924e5e3eeb911bc308d87f04.webp",
-          "sha256": "a213825a300eada397267a754c7b21238e363d4d924e5e3eeb911bc308d87f04",
-          "bytes": 18512,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "e58481de7e609c802a0742c2b08c48557b83bfaf638b2de9e0e2b9e8d63d2192",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
     },
     {
       "id": "wp-rawdanitsu-celestial-set-0-spacebackground-1",
@@ -7863,120 +7642,6 @@
       }
     },
     {
-      "id": "wp-revoy-asleep",
-      "name": "Asleep",
-      "author": "David Revoy",
-      "category": "illustration",
-      "tags": [
-        "anime",
-        "dark",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-06-30_Asleep_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“Asleep” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-asleep/image-57dd3857282e5a77d4656cd6a864e141b147f82a911080368083995872cc7db4.webp",
-          "sha256": "57dd3857282e5a77d4656cd6a864e141b147f82a911080368083995872cc7db4",
-          "bytes": 696296,
-          "width": 3669,
-          "height": 2019
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-asleep/thumb-d82fc48ea85c676e8efa2d3f3ccaad67f57028ed41284aebf6a82ef36ed8e986.webp",
-          "sha256": "d82fc48ea85c676e8efa2d3f3ccaad67f57028ed41284aebf6a82ef36ed8e986",
-          "bytes": 7154,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-asleep/thumb2x-5d3ea987d398ce3c5c81f1446971af6556eb8895ffabe0aeb9fc4dc9d0ab22a9.webp",
-          "sha256": "5d3ea987d398ce3c5c81f1446971af6556eb8895ffabe0aeb9fc4dc9d0ab22a9",
-          "bytes": 22798,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "788176eaf97e98b5a1e9154a22238110d786d7af7269134d53e6f63bdae5e96a",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-revoy-autumn-run",
-      "name": "Autumn Run",
-      "author": "David Revoy",
-      "category": "illustration",
-      "tags": [
-        "anime",
-        "human-art",
-        "illustration",
-        "landscape",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-09-06_Autumn-Run_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“Autumn Run” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-autumn-run/image-aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04.webp",
-          "sha256": "aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04",
-          "bytes": 686808,
-          "width": 3448,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-autumn-run/thumb-5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124.webp",
-          "sha256": "5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124",
-          "bytes": 7028,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-autumn-run/thumb2x-de5cad75444ae2c8888141d329517a4268ed6ff761f9ce2065da70dd3367e702.webp",
-          "sha256": "de5cad75444ae2c8888141d329517a4268ed6ff761f9ce2065da70dd3367e702",
-          "bytes": 22446,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "4b703ab5d5d8ea8aa9918b0b6fe60b612309d63b227ff15209be206a0a959e5c",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
       "id": "wp-revoy-episode-30-page-1",
       "name": "Episode 30 page 1",
       "author": "David Revoy",
@@ -7991,11 +7656,11 @@
       "rights": {
         "license": "CC-BY-4.0",
         "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "basis": "Original painted wallpaper offered in David Revoy\u2019s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator\u2019s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Episode 30 page 1” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "credit": "\u201cEpisode 30 page 1\u201d \u2014 David Revoy (Pepper&Carrot). \u00a9 David Revoy.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
       },
@@ -8048,11 +7713,11 @@
       "rights": {
         "license": "CC-BY-4.0",
         "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "basis": "Original painted wallpaper offered in David Revoy\u2019s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator\u2019s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Episode 36 The temple of Ah” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "credit": "\u201cEpisode 36 The temple of Ah\u201d \u2014 David Revoy (Pepper&Carrot). \u00a9 David Revoy.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
       },
@@ -8106,11 +7771,11 @@
       "rights": {
         "license": "CC-BY-4.0",
         "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "basis": "Original painted wallpaper offered in David Revoy\u2019s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator\u2019s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Komona sunset dark” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "credit": "\u201cKomona sunset dark\u201d \u2014 David Revoy (Pepper&Carrot). \u00a9 David Revoy.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
       },
@@ -8148,120 +7813,6 @@
       }
     },
     {
-      "id": "wp-revoy-point-of-view",
-      "name": "Point of View",
-      "author": "David Revoy",
-      "category": "illustration",
-      "tags": [
-        "anime",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-18_Point-of-View_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“Point of View” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-point-of-view/image-0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349.webp",
-          "sha256": "0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349",
-          "bytes": 383282,
-          "width": 3840,
-          "height": 2047
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-point-of-view/thumb-f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af.webp",
-          "sha256": "f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af",
-          "bytes": 5018,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-point-of-view/thumb2x-42a85f1dcef1029f3320c0fd6dee44c5abdcd941e5e1b7a2d8858dd3a60fc09b.webp",
-          "sha256": "42a85f1dcef1029f3320c0fd6dee44c5abdcd941e5e1b7a2d8858dd3a60fc09b",
-          "bytes": 13902,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "7fe56fd1c7ddbd557e5921f3772c1ea55c8fef91839d24873189b514c2862684",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-revoy-rain-city",
-      "name": "Rain City",
-      "author": "David Revoy",
-      "category": "city",
-      "tags": [
-        "anime",
-        "city",
-        "dark",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-06_Rain-City_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“Rain City” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-rain-city/image-f8e0612b392d9e77112427a8d83f657b2d4acc5f2583e8429dc7e507ef4dd3b5.webp",
-          "sha256": "f8e0612b392d9e77112427a8d83f657b2d4acc5f2583e8429dc7e507ef4dd3b5",
-          "bytes": 667822,
-          "width": 3840,
-          "height": 2047
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-rain-city/thumb-2f1e424e3ad003afcc97f2848d3a207d6456240d2b5f00bae26928bd12ff6d03.webp",
-          "sha256": "2f1e424e3ad003afcc97f2848d3a207d6456240d2b5f00bae26928bd12ff6d03",
-          "bytes": 7410,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-rain-city/thumb2x-ab3d481f5fd5374277780a89c318e0c675281d4ec22c977a4c00b8fce7bf1cb4.webp",
-          "sha256": "ab3d481f5fd5374277780a89c318e0c675281d4ec22c977a4c00b8fce7bf1cb4",
-          "bytes": 23358,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "0067099d1121e269b3a6f9dab0b803a90b28fd3bb0fbb30a1ccb060ff67ef1d3",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
       "id": "wp-revoy-spooky-cute-house",
       "name": "Spooky Cute House",
       "author": "David Revoy",
@@ -8276,11 +7827,11 @@
       "rights": {
         "license": "CC-BY-4.0",
         "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "basis": "Original painted wallpaper offered in David Revoy\u2019s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator\u2019s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Spooky Cute House” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "credit": "\u201cSpooky Cute House\u201d \u2014 David Revoy (Pepper&Carrot). \u00a9 David Revoy.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
       },
@@ -8318,236 +7869,8 @@
       }
     },
     {
-      "id": "wp-revoy-the-after-rain-smell",
-      "name": "The after rain smell",
-      "author": "David Revoy",
-      "category": "city",
-      "tags": [
-        "anime",
-        "city",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2023-01-09_The-after-rain-smell_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“The after rain smell” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-the-after-rain-smell/image-adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227.webp",
-          "sha256": "adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227",
-          "bytes": 637410,
-          "width": 3840,
-          "height": 2047
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-the-after-rain-smell/thumb-f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3.webp",
-          "sha256": "f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3",
-          "bytes": 5472,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-the-after-rain-smell/thumb2x-b2be4d7b930c0bfab8621a658d014a307f77d0fba668292279c5116a524bc19e.webp",
-          "sha256": "b2be4d7b930c0bfab8621a658d014a307f77d0fba668292279c5116a524bc19e",
-          "bytes": 17864,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "1ae67b08013f4e52bb992224bb9bd3eee674b72f5d77d1abee02691565537e31",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-revoy-the-fairy-fir-tree",
-      "name": "The fairy fir tree",
-      "author": "David Revoy",
-      "category": "illustration",
-      "tags": [
-        "anime",
-        "human-art",
-        "illustration",
-        "landscape",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-12-21_The-fairy-fir-tree_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“The fairy fir tree” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-the-fairy-fir-tree/image-a6de590cb1116de42b43347b20453e312e300cad7f153a7babc58d2a12cfbcb6.webp",
-          "sha256": "a6de590cb1116de42b43347b20453e312e300cad7f153a7babc58d2a12cfbcb6",
-          "bytes": 644116,
-          "width": 2560,
-          "height": 1600
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-the-fairy-fir-tree/thumb-20f65612a63bf6388a17c7b93fc5a6027f6822a202a20a2ee0d5aee7c13a3780.webp",
-          "sha256": "20f65612a63bf6388a17c7b93fc5a6027f6822a202a20a2ee0d5aee7c13a3780",
-          "bytes": 11030,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-the-fairy-fir-tree/thumb2x-c89da371a0c5e137b2a803d17f75c70abbbcd3415f608dbe35f74b271f230366.webp",
-          "sha256": "c89da371a0c5e137b2a803d17f75c70abbbcd3415f608dbe35f74b271f230366",
-          "bytes": 34986,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "c40c28ef18ca44de76a4edbf13d5553cd0e8d5e179d924aec057661ebad96355",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-revoy-the-market",
-      "name": "The market",
-      "author": "David Revoy",
-      "category": "city",
-      "tags": [
-        "anime",
-        "city",
-        "human-art",
-        "illustration",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-02-21_The-market_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“The market” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-the-market/image-97f07ea4dbf67e7cbb84617b587a6149400ba2d89973addc0a313735badc0bbf.webp",
-          "sha256": "97f07ea4dbf67e7cbb84617b587a6149400ba2d89973addc0a313735badc0bbf",
-          "bytes": 1082406,
-          "width": 3840,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-the-market/thumb-b0b4efb45e40d043ce1d589389d90040af9466b53e3b2a25d14d25ba48cc0d86.webp",
-          "sha256": "b0b4efb45e40d043ce1d589389d90040af9466b53e3b2a25d14d25ba48cc0d86",
-          "bytes": 10014,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-the-market/thumb2x-9ac90362516d9098791a987f9721cd728d6c4687d0de20644b32e81c6d6c1738.webp",
-          "sha256": "9ac90362516d9098791a987f9721cd728d6c4687d0de20644b32e81c6d6c1738",
-          "bytes": 33734,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "63ade69b863f1a35afc37fcc0ef8423d2bd1a9d05c7688d59b549115cbc50816",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-revoy-the-treasure",
-      "name": "The Treasure",
-      "author": "David Revoy",
-      "category": "illustration",
-      "tags": [
-        "anime",
-        "human-art",
-        "illustration",
-        "landscape",
-        "modern"
-      ],
-      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-08-28_The-Treasure_by-David-Revoy.jpg",
-      "rights": {
-        "license": "CC-BY-4.0",
-        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
-        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
-        "attestationVersion": "ricewm-licensed-1",
-        "redistributionAuthorized": true,
-        "noUnlicensedThirdPartyRights": true,
-        "credit": "“The Treasure” — David Revoy (Pepper&Carrot). © David Revoy.",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-revoy-the-treasure/image-c419aeb0c744b8d73b97badb10308960bd7c2e605880ad7f731ae9247f724cd2.webp",
-          "sha256": "c419aeb0c744b8d73b97badb10308960bd7c2e605880ad7f731ae9247f724cd2",
-          "bytes": 588414,
-          "width": 3456,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-revoy-the-treasure/thumb-13148faeb37e3d3155798f4280f94ceca252704060b5d175f780b49ff534ee9a.webp",
-          "sha256": "13148faeb37e3d3155798f4280f94ceca252704060b5d175f780b49ff534ee9a",
-          "bytes": 5528,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-revoy-the-treasure/thumb2x-1961b3e9f0c3b46f82a03c4370ffa25f9cfd99a90cc82d97192edb9d736aff35.webp",
-          "sha256": "1961b3e9f0c3b46f82a03c4370ffa25f9cfd99a90cc82d97192edb9d736aff35",
-          "bytes": 18110,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "20b048a68dd13ae50f654635628ef477bb4b539af3152759da225ab5f8ec3354",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
       "id": "wp-skyline-chongqing-night-yuzhong",
-      "name": "Chongqing · Yuzhong Electric",
+      "name": "Chongqing \u00b7 Yuzhong Electric",
       "author": "Jonipoon",
       "category": "city",
       "tags": [
@@ -8566,7 +7889,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Chongqing Night Yuzhong.jpg” — Jonipoon. CC-BY-3.0.",
+        "credit": "\u201cChongqing Night Yuzhong.jpg\u201d \u2014 Jonipoon. CC-BY-3.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -8605,7 +7928,7 @@
     },
     {
       "id": "wp-skyline-hong-kong-island-building",
-      "name": "Hong Kong · Stormlit Harbour",
+      "name": "Hong Kong \u00b7 Stormlit Harbour",
       "author": "Wilfredor",
       "category": "city",
       "tags": [
@@ -8661,7 +7984,7 @@
     },
     {
       "id": "wp-skyline-hong-kong-skyline-dec-2007",
-      "name": "Hong Kong · Victoria Peak Panorama",
+      "name": "Hong Kong \u00b7 Victoria Peak Panorama",
       "author": "David Iliff (Diliff)",
       "category": "city",
       "tags": [
@@ -8680,7 +8003,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Hong Kong Skyline - Dec 2007.jpg” — David Iliff (Diliff). CC-BY-3.0.",
+        "credit": "\u201cHong Kong Skyline - Dec 2007.jpg\u201d \u2014 David Iliff (Diliff). CC-BY-3.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -8719,7 +8042,7 @@
     },
     {
       "id": "wp-skyline-hong-kong-skyscrapers-in-a-night-of-typhoon",
-      "name": "Hong Kong · Typhoon Glow",
+      "name": "Hong Kong \u00b7 Typhoon Glow",
       "author": "Wilfredor",
       "category": "city",
       "tags": [
@@ -8775,7 +8098,7 @@
     },
     {
       "id": "wp-skyline-minato-city-tokyo-japan-night",
-      "name": "Tokyo · Minato After Dark",
+      "name": "Tokyo \u00b7 Minato After Dark",
       "author": "David Kernan",
       "category": "city",
       "tags": [
@@ -8794,7 +8117,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Minato City, Tokyo, Japan (Night).jpg” — David Kernan. CC-BY-4.0.",
+        "credit": "\u201cMinato City, Tokyo, Japan (Night).jpg\u201d \u2014 David Kernan. CC-BY-4.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -8833,7 +8156,7 @@
     },
     {
       "id": "wp-skyline-new-york-city-night-skyline-september-2014",
-      "name": "New York · Midtown Blue Hour",
+      "name": "New York \u00b7 Midtown Blue Hour",
       "author": "Acediscovery",
       "category": "city",
       "tags": [
@@ -8852,7 +8175,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“New-York-City-night-skyline-September-2014.jpg” — Acediscovery. CC-BY-4.0.",
+        "credit": "\u201cNew-York-City-night-skyline-September-2014.jpg\u201d \u2014 Acediscovery. CC-BY-4.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -8891,7 +8214,7 @@
     },
     {
       "id": "wp-skyline-new-york-skyline-at-night",
-      "name": "New York · Manhattan After Dark",
+      "name": "New York \u00b7 Manhattan After Dark",
       "author": "Azeusss",
       "category": "city",
       "tags": [
@@ -8910,7 +8233,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“New York skyline at night.jpg” — Azeusss. CC-BY-4.0.",
+        "credit": "\u201cNew York skyline at night.jpg\u201d \u2014 Azeusss. CC-BY-4.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -8949,7 +8272,7 @@
     },
     {
       "id": "wp-skyline-roppongi-at-night-seen-from-shibuya-stream",
-      "name": "Tokyo · Roppongi Night Lights",
+      "name": "Tokyo \u00b7 Roppongi Night Lights",
       "author": "Syced",
       "category": "city",
       "tags": [
@@ -9005,7 +8328,7 @@
     },
     {
       "id": "wp-skyline-shanghai-skyline-at-night",
-      "name": "Shanghai · Pudong Night Lights",
+      "name": "Shanghai \u00b7 Pudong Night Lights",
       "author": "Ernest Jourdier",
       "category": "city",
       "tags": [
@@ -9024,7 +8347,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Shanghai skyline at night.jpg” — Ernest Jourdier. CC-BY-4.0.",
+        "credit": "\u201cShanghai skyline at night.jpg\u201d \u2014 Ernest Jourdier. CC-BY-4.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -9063,7 +8386,7 @@
     },
     {
       "id": "wp-skyline-singapore-skyline-at-night",
-      "name": "Singapore · Golden Reflections",
+      "name": "Singapore \u00b7 Golden Reflections",
       "author": "ElHeineken (Lars Heineken)",
       "category": "city",
       "tags": [
@@ -9082,7 +8405,7 @@
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Singapore Skyline at Night.JPG” — ElHeineken (Lars Heineken). CC-BY-3.0.",
+        "credit": "\u201cSingapore Skyline at Night.JPG\u201d \u2014 ElHeineken (Lars Heineken). CC-BY-3.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
         "changes": "Converted to WebP; resized without enlargement; previews cropped to 16:9."
       },
@@ -9121,7 +8444,7 @@
     },
     {
       "id": "wp-skyline-singapore-skyline-at-night-with-blue-sky",
-      "name": "Singapore · Marina Blue Hour",
+      "name": "Singapore \u00b7 Marina Blue Hour",
       "author": "Merlion444",
       "category": "city",
       "tags": [
@@ -9177,7 +8500,7 @@
     },
     {
       "id": "wp-skyline-victoria-harbour-skyscrapers",
-      "name": "Hong Kong · Golden Harbour",
+      "name": "Hong Kong \u00b7 Golden Harbour",
       "author": "Wilfredor",
       "category": "city",
       "tags": [
@@ -9233,7 +8556,7 @@
     },
     {
       "id": "wp-unicorn-shooting-stars",
-      "name": "Shooting Stars — Painted Night Sky",
+      "name": "Shooting Stars \u2014 Painted Night Sky",
       "author": "Unicorn Creates",
       "category": "anime",
       "tags": [
@@ -9250,11 +8573,11 @@
       "rights": {
         "license": "CC-BY-4.0",
         "evidence": "https://unicorncreates.itch.io/sky-backgrounds",
-        "basis": "Unicorn Creates’ own download page calls these digitally painted backgrounds created for their own visual novel, explicitly releases the images under Creative Commons Attribution 4.0, permits commercial and non-commercial use with credit, and declares no generative AI. Selected the original night-sky file from the creator’s free archive; no franchise character, borrowed reference image or logo appears.",
+        "basis": "Unicorn Creates\u2019 own download page calls these digitally painted backgrounds created for their own visual novel, explicitly releases the images under Creative Commons Attribution 4.0, permits commercial and non-commercial use with credit, and declares no generative AI. Selected the original night-sky file from the creator\u2019s free archive; no franchise character, borrowed reference image or logo appears.",
         "attestationVersion": "ricewm-licensed-1",
         "redistributionAuthorized": true,
         "noUnlicensedThirdPartyRights": true,
-        "credit": "“Sky Backgrounds — Night” by Unicorn Creates (https://unicorncreates.itch.io/), licensed under CC BY 4.0.",
+        "credit": "\u201cSky Backgrounds \u2014 Night\u201d by Unicorn Creates (https://unicorncreates.itch.io/), licensed under CC BY 4.0.",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "changes": "Converted to the collection WebP profile; resized without enlargement; 16:9 previews generated."
       },
@@ -12350,412 +11673,6 @@
       }
     },
     {
-      "id": "wp-winechan-college-boy-dorm-room-book-nook",
-      "name": "Book Nook",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "blue",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "room"
-      ],
-      "source": "https://winechan.itch.io/college-boy-dorm-room",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/college-boy-dorm-room",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-book-nook/image-f25a4a94ce9abe6d38f90035a4b0964580ab8b32d184e2a4788b6962496a6db1.webp",
-          "sha256": "f25a4a94ce9abe6d38f90035a4b0964580ab8b32d184e2a4788b6962496a6db1",
-          "bytes": 208388,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-book-nook/thumb-9399cff7a0d391bea2d5988592b9e4e24c73696f08c639e95ca75e3ef91c0128.webp",
-          "sha256": "9399cff7a0d391bea2d5988592b9e4e24c73696f08c639e95ca75e3ef91c0128",
-          "bytes": 10366,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-book-nook/thumb2x-e103bfc90356f30869243a94eb0ed20c09fc8f210ec395d30f61a40f4fc8fe0b.webp",
-          "sha256": "e103bfc90356f30869243a94eb0ed20c09fc8f210ec395d30f61a40f4fc8fe0b",
-          "bytes": 30686,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "b0203be869ea1b3c4ea2c370944a343084021d2ef76b5f20d99194249c1f1f89",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-college-boy-dorm-room-dorm-desk",
-      "name": "Dorm Desk",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "blue",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "room"
-      ],
-      "source": "https://winechan.itch.io/college-boy-dorm-room",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/college-boy-dorm-room",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-dorm-desk/image-0b4515c7719e60a0e7595942d2e4b3eff553989ce1dbcf9e450f308d8ecd5d36.webp",
-          "sha256": "0b4515c7719e60a0e7595942d2e4b3eff553989ce1dbcf9e450f308d8ecd5d36",
-          "bytes": 175570,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-dorm-desk/thumb-cbc54d105c2e81370f4f25e2c7d1153c6bd6e485748c7a7c6e26a0865266b249.webp",
-          "sha256": "cbc54d105c2e81370f4f25e2c7d1153c6bd6e485748c7a7c6e26a0865266b249",
-          "bytes": 8884,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-dorm-desk/thumb2x-a5d8c308959b7372d88feaee094ed51b23dfdeb4f85cf855c7b2a41ac7b825e3.webp",
-          "sha256": "a5d8c308959b7372d88feaee094ed51b23dfdeb4f85cf855c7b2a41ac7b825e3",
-          "bytes": 25132,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "47a77a1dceb74882afe015b40b01cfb2daf7ddc95f87657c6a48bad1a381e876",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-college-boy-dorm-room-window-desk",
-      "name": "Window Desk",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "blue",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "room"
-      ],
-      "source": "https://winechan.itch.io/college-boy-dorm-room",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/college-boy-dorm-room",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-window-desk/image-1bbb5720c2647ca8d25e31fd20d085db6d60af534ebcba5d6675bc6125f0e0e1.webp",
-          "sha256": "1bbb5720c2647ca8d25e31fd20d085db6d60af534ebcba5d6675bc6125f0e0e1",
-          "bytes": 185628,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-window-desk/thumb-a3d8ad13a2dfd5ecfcff1aa83c56f7bda6cc5f99d24ca19c8f70f95d952a5514.webp",
-          "sha256": "a3d8ad13a2dfd5ecfcff1aa83c56f7bda6cc5f99d24ca19c8f70f95d952a5514",
-          "bytes": 8862,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-college-boy-dorm-room-window-desk/thumb2x-6a94caaee64f4592a31eb4ab23666061ffca1a7ae3eba8a4095aacf89f8e8d43.webp",
-          "sha256": "6a94caaee64f4592a31eb4ab23666061ffca1a7ae3eba8a4095aacf89f8e8d43",
-          "bytes": 26490,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "91691b62b4eeeabfc28c49c9c1c3878624152114df3dd05074b46c3a748c4bfd",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-college-girl-dorm-room-pink-study",
-      "name": "Pink Study",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "pastel",
-        "pink",
-        "room"
-      ],
-      "source": "https://winechan.itch.io/college-girl-dorm-room",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/college-girl-dorm-room",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-college-girl-dorm-room-pink-study/image-b98aba5635614cd45ad5b9b72c6bfdac9be75f8aa8e3055abe592076917364fb.webp",
-          "sha256": "b98aba5635614cd45ad5b9b72c6bfdac9be75f8aa8e3055abe592076917364fb",
-          "bytes": 172468,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-college-girl-dorm-room-pink-study/thumb-2a4517955edd166d6d6130d64d42154865e3f74e2e7bdffb40deb3cb2150de55.webp",
-          "sha256": "2a4517955edd166d6d6130d64d42154865e3f74e2e7bdffb40deb3cb2150de55",
-          "bytes": 8746,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-college-girl-dorm-room-pink-study/thumb2x-f5d2379e6dc64be4b1d193a6a94285a2186e0abcc732416e5b28e48b8c4bc8bd.webp",
-          "sha256": "f5d2379e6dc64be4b1d193a6a94285a2186e0abcc732416e5b28e48b8c4bc8bd",
-          "bytes": 25222,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "27b6667e31ad6de87ad5215833c33c21e0b3a7e4209351b3ce50bdc011b58716",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-college-girl-dorm-room-rose-window",
-      "name": "Rose Window",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "pastel",
-        "pink",
-        "room"
-      ],
-      "source": "https://winechan.itch.io/college-girl-dorm-room",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/college-girl-dorm-room",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-college-girl-dorm-room-rose-window/image-fd5eb66beed52ad50bfbaf738d259f78cfb65710b29b597728ed3dc6703cc696.webp",
-          "sha256": "fd5eb66beed52ad50bfbaf738d259f78cfb65710b29b597728ed3dc6703cc696",
-          "bytes": 168920,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-college-girl-dorm-room-rose-window/thumb-ed61709013865419db291cf7de9f65021a3ff00dcc43223d165e4b67ea316e71.webp",
-          "sha256": "ed61709013865419db291cf7de9f65021a3ff00dcc43223d165e4b67ea316e71",
-          "bytes": 7938,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-college-girl-dorm-room-rose-window/thumb2x-b89b549eaa383f8d4d3307bff1368f5947304ecde7111abb31f53d32175e13ed.webp",
-          "sha256": "b89b549eaa383f8d4d3307bff1368f5947304ecde7111abb31f53d32175e13ed",
-          "bytes": 23374,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "9b3ee0e75108ba1815bdc26bace3fc59ae7d0314e307080981c12806ebed0cd0",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-japanese-classroom-after-class",
-      "name": "After Class",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/japanese-classroom",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/japanese-classroom",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-japanese-classroom-after-class/image-16412cb1923ba93ef85c8407a997624f7f019fb3540fa4fa9e78a1f5842b315d.webp",
-          "sha256": "16412cb1923ba93ef85c8407a997624f7f019fb3540fa4fa9e78a1f5842b315d",
-          "bytes": 164384,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-japanese-classroom-after-class/thumb-fbead799de3508567acf6e47430675b0614e9b641eb023fdba1023cfa9358ec1.webp",
-          "sha256": "fbead799de3508567acf6e47430675b0614e9b641eb023fdba1023cfa9358ec1",
-          "bytes": 8826,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-japanese-classroom-after-class/thumb2x-8d6126f24f605333b03d762d7bb8b236900e13bd2487fed48dcfe6d541f2970c.webp",
-          "sha256": "8d6126f24f605333b03d762d7bb8b236900e13bd2487fed48dcfe6d541f2970c",
-          "bytes": 24950,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "762077c687c8aa80e27d155f7bc6afc7579f079dd0a58254f6dd7511e127a849",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-japanese-classroom-sunlit-japanese-classroom",
-      "name": "Sunlit Japanese Classroom",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/japanese-classroom",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/japanese-classroom",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-japanese-classroom-sunlit-japanese-classroom/image-e9e4f8c4f2722b1bbce177a4c5c07daf886d38ff6426c8f5fa9ee44e43e681d9.webp",
-          "sha256": "e9e4f8c4f2722b1bbce177a4c5c07daf886d38ff6426c8f5fa9ee44e43e681d9",
-          "bytes": 180484,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-japanese-classroom-sunlit-japanese-classroom/thumb-57ca6024279f4803b3a531d4d9010f8d854ea81014b8ac90ecfcb77b086b065c.webp",
-          "sha256": "57ca6024279f4803b3a531d4d9010f8d854ea81014b8ac90ecfcb77b086b065c",
-          "bytes": 9188,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-japanese-classroom-sunlit-japanese-classroom/thumb2x-e6ee261cb03e4c84586fae862cbc75ec0bbbcf7b55b2351872cf1e66a3600683.webp",
-          "sha256": "e6ee261cb03e4c84586fae862cbc75ec0bbbcf7b55b2351872cf1e66a3600683",
-          "bytes": 25908,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "6c8435c96e33005f4c3d052e442d65412ce8e28920d67193609630ca034236b8",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
       "id": "wp-winechan-japanese-home-japanese-house-at-night",
       "name": "Japanese House at Night",
       "author": "WineChan (Sonya)",
@@ -13107,411 +12024,6 @@
       "conversion": {
         "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
         "inputSha256": "3fead3baf13fd9f24f9a9b73d8449460b03865004b25ba1c8577c6b1081fc0e6",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-public-school-amethyst-cafeteria",
-      "name": "Amethyst Cafeteria",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "dark",
-        "illustration",
-        "interior",
-        "modern",
-        "purple",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/public-school",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/public-school",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-public-school-amethyst-cafeteria/image-4c86b230b5877c5a06a631f2fbb0106ae1999436a7ba7e8b93e9a14649a2c177.webp",
-          "sha256": "4c86b230b5877c5a06a631f2fbb0106ae1999436a7ba7e8b93e9a14649a2c177",
-          "bytes": 132230,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-public-school-amethyst-cafeteria/thumb-b215426fb929f4580c198e043e60d4d4729ef1a51ba1960d0062c05711c13392.webp",
-          "sha256": "b215426fb929f4580c198e043e60d4d4729ef1a51ba1960d0062c05711c13392",
-          "bytes": 7076,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-public-school-amethyst-cafeteria/thumb2x-30c7b62b4bbe44da56373b1a5147c2467ff128777745fd0d363c946af6806eae.webp",
-          "sha256": "30c7b62b4bbe44da56373b1a5147c2467ff128777745fd0d363c946af6806eae",
-          "bytes": 20760,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "d33ba67340cc819740d7dc5935079cefce406ee342e6f2e6995113cfcf82f146",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-public-school-blue-locker-hall",
-      "name": "Blue Locker Hall",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "blue",
-        "dark",
-        "illustration",
-        "interior",
-        "modern",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/public-school",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/public-school",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-public-school-blue-locker-hall/image-c90ea606ef05772eb378ec008b5a5bc943e8caf38ab035ba0031b7d979b380d6.webp",
-          "sha256": "c90ea606ef05772eb378ec008b5a5bc943e8caf38ab035ba0031b7d979b380d6",
-          "bytes": 50616,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-public-school-blue-locker-hall/thumb-8c0caa9975f08f03b4b6adafee603f4e218257dd32c84c2020a3b30ce4010124.webp",
-          "sha256": "8c0caa9975f08f03b4b6adafee603f4e218257dd32c84c2020a3b30ce4010124",
-          "bytes": 2124,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-public-school-blue-locker-hall/thumb2x-f5d1ee2aaa24ba52b386c8250daaf22b3d024cddf4594a61d60b7013bcbea20f.webp",
-          "sha256": "f5d1ee2aaa24ba52b386c8250daaf22b3d024cddf4594a61d60b7013bcbea20f",
-          "bytes": 6058,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "6b09154a028e496bcb8c81dae14a49fe176bf543db3e0bf130a30c93ac2b9c96",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-public-school-lilac-computer-lab",
-      "name": "Lilac Computer Lab",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "dusk",
-        "illustration",
-        "interior",
-        "modern",
-        "purple",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/public-school",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/public-school",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-public-school-lilac-computer-lab/image-e90c85bdf2bbbe1f1bcc627a80b77be11e3d0284dcb181b69c785227988c6abc.webp",
-          "sha256": "e90c85bdf2bbbe1f1bcc627a80b77be11e3d0284dcb181b69c785227988c6abc",
-          "bytes": 149276,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-public-school-lilac-computer-lab/thumb-f5d280317b341a4b011300b22c3c18f37d6c5a1b107cc08bbc805726ef43754f.webp",
-          "sha256": "f5d280317b341a4b011300b22c3c18f37d6c5a1b107cc08bbc805726ef43754f",
-          "bytes": 8738,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-public-school-lilac-computer-lab/thumb2x-ffd616b40ff14c6bd7213a608c593f76c2e5a5bbc168ad796f645303de5965c5.webp",
-          "sha256": "ffd616b40ff14c6bd7213a608c593f76c2e5a5bbc168ad796f645303de5965c5",
-          "bytes": 24942,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "642492e6220793e59b87f60568c37753d7adfdf15e08210e9743ea7b1ac47610",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-public-school-quiet-lecture-room",
-      "name": "Quiet Lecture Room",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "daylight",
-        "illustration",
-        "interior",
-        "modern",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/public-school",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/public-school",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-public-school-quiet-lecture-room/image-de89825c7496653e14d195218109c2d9aeb5a88143bef2b4cde6c6dad73467bc.webp",
-          "sha256": "de89825c7496653e14d195218109c2d9aeb5a88143bef2b4cde6c6dad73467bc",
-          "bytes": 204110,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-public-school-quiet-lecture-room/thumb-f932bd1e41fde81c2aec61d80f9fbc59738e090401b00c6aea014349d9c32bc0.webp",
-          "sha256": "f932bd1e41fde81c2aec61d80f9fbc59738e090401b00c6aea014349d9c32bc0",
-          "bytes": 10828,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-public-school-quiet-lecture-room/thumb2x-be8f62cc33fae4a5e9ccf6291fec4795645fc95a2c97d0622f84d4f1728f4d85.webp",
-          "sha256": "be8f62cc33fae4a5e9ccf6291fec4795645fc95a2c97d0622f84d4f1728f4d85",
-          "bytes": 32904,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "c59f8c0186fcddeebdebbd5c37fa5835092f86f084d1eda47042617a3bf46cd7",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-public-school-red-hour-classroom",
-      "name": "Red Hour Classroom",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "dark",
-        "illustration",
-        "interior",
-        "modern",
-        "red",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/public-school",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/public-school",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-public-school-red-hour-classroom/image-3f3f57f426b24f57caaa43f3aab6c732933ea91440859a173a3517816d34e0ce.webp",
-          "sha256": "3f3f57f426b24f57caaa43f3aab6c732933ea91440859a173a3517816d34e0ce",
-          "bytes": 92510,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-public-school-red-hour-classroom/thumb-83fb7613824b31e9ac96ded3df540fbd174f4cfb1034ded29c522ffb4a43c7ed.webp",
-          "sha256": "83fb7613824b31e9ac96ded3df540fbd174f4cfb1034ded29c522ffb4a43c7ed",
-          "bytes": 6082,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-public-school-red-hour-classroom/thumb2x-46929a27b06b09c0987db12db59f7239b3175dd8d4ef4509d69b646fcd883650.webp",
-          "sha256": "46929a27b06b09c0987db12db59f7239b3175dd8d4ef4509d69b646fcd883650",
-          "bytes": 16422,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "8b9a6509f46a5c1a52610b15ba8f99202949f569ccc7725a6d5295b4575d2868",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-public-school-school-at-sunset",
-      "name": "School at Sunset",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "architecture",
-        "city",
-        "illustration",
-        "modern",
-        "school",
-        "sunset"
-      ],
-      "source": "https://winechan.itch.io/public-school",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/public-school",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Only source-native1920x1080 empty anime school environments are included; low-resolution versions and near-duplicate lighting recolours are excluded. The creator declares AI-assisted graphics; exact model and generation prompts are not supplied.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-public-school-school-at-sunset/image-8e41d0d2ef3c63e86f87806c994926cdd7ba03cc31d03c4e1bd129ecd0c8f05d.webp",
-          "sha256": "8e41d0d2ef3c63e86f87806c994926cdd7ba03cc31d03c4e1bd129ecd0c8f05d",
-          "bytes": 181822,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-public-school-school-at-sunset/thumb-52e679b5fa1fcc79442935e5e45eb162d3076b804911895d8256729b2f038bc3.webp",
-          "sha256": "52e679b5fa1fcc79442935e5e45eb162d3076b804911895d8256729b2f038bc3",
-          "bytes": 8186,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-public-school-school-at-sunset/thumb2x-9192c675bf3ed90f17c07f80d720094abb7bcd6c72e45b1d4f9e3fa69d16b22f.webp",
-          "sha256": "9192c675bf3ed90f17c07f80d720094abb7bcd6c72e45b1d4f9e3fa69d16b22f",
-          "bytes": 26070,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "bd232644ee4024877fdc791ad8cf04e2f8b9316d85b962fd901e1fe33fb0592d",
-        "profile": "webp-landscape-3840-320-640-v2"
-      }
-    },
-    {
-      "id": "wp-winechan-university-campus-in-summer",
-      "name": "Campus in Summer",
-      "author": "WineChan (Sonya)",
-      "category": "anime",
-      "tags": [
-        "ai",
-        "anime",
-        "architecture",
-        "city",
-        "daylight",
-        "illustration",
-        "modern",
-        "school"
-      ],
-      "source": "https://winechan.itch.io/university",
-      "rights": {
-        "license": "Public-Domain",
-        "evidence": "https://winechan.itch.io/university",
-        "basis": "The original creator WineChan (Sonya) identifies herself and her own generative-AI artwork on https://winechan.itch.io/. This individual creator pack independently dedicates its image assets to public domain and permits any use without credit. It is a Public-Domain dedication, not a claim of a CC0 legal instrument. Selected original anime environments and fictional unidentifiable background dancers are visually reviewed; no recognized franchise characters or logos. Exact model and generation prompts are not supplied. Only source-native qualifying original images are included, excluding low-resolution versions, recolour variants and images with potentially recognizable anime character posters.",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-winechan-university-campus-in-summer/image-ea2f7721236ad29fd812c6311de603bdf37f156dab50a5daeb122f64fa55e223.webp",
-          "sha256": "ea2f7721236ad29fd812c6311de603bdf37f156dab50a5daeb122f64fa55e223",
-          "bytes": 240324,
-          "width": 1920,
-          "height": 1080
-        },
-        "thumb": {
-          "path": "wallpapers/wp-winechan-university-campus-in-summer/thumb-769db10bd28b46944edffe0db033da0523aba78ff8a18e959bf61ee351670e7a.webp",
-          "sha256": "769db10bd28b46944edffe0db033da0523aba78ff8a18e959bf61ee351670e7a",
-          "bytes": 10720,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-winechan-university-campus-in-summer/thumb2x-3f6745d29057149225d943bb3f0daf602878570df1a7004244447e9d47cf2af4.webp",
-          "sha256": "3f6745d29057149225d943bb3f0daf602878570df1a7004244447e9d47cf2af4",
-          "bytes": 34240,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
-        "inputSha256": "88f8ed54aabde2a260da3478c0743539d494cb125aed4e2e23bce7f1205b7376",
         "profile": "webp-landscape-3840-320-640-v2"
       }
     }
