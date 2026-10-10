@@ -1,0 +1,56 @@
+{
+  "id": "wp-revoy-point-of-view",
+  "name": "Point of View",
+  "author": "David Revoy",
+  "category": "illustration",
+  "tags": [
+    "anime",
+    "human-art",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-18_Point-of-View_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Point of View” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-point-of-view/image-0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349.webp",
+      "sha256": "0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349",
+      "bytes": 383282,
+      "width": 3840,
+      "height": 2047
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-point-of-view/thumb-f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af.webp",
+      "sha256": "f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af",
+      "bytes": 5018,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-point-of-view/thumb2x-42a85f1dcef1029f3320c0fd6dee44c5abdcd941e5e1b7a2d8858dd3a60fc09b.webp",
+      "sha256": "42a85f1dcef1029f3320c0fd6dee44c5abdcd941e5e1b7a2d8858dd3a60fc09b",
+      "bytes": 13902,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "7fe56fd1c7ddbd557e5921f3772c1ea55c8fef91839d24873189b514c2862684",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

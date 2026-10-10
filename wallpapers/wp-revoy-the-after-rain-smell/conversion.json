@@ -1,0 +1,57 @@
+{
+  "id": "wp-revoy-the-after-rain-smell",
+  "name": "The after rain smell",
+  "author": "David Revoy",
+  "category": "city",
+  "tags": [
+    "anime",
+    "city",
+    "human-art",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2023-01-09_The-after-rain-smell_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“The after rain smell” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-the-after-rain-smell/image-adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227.webp",
+      "sha256": "adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227",
+      "bytes": 637410,
+      "width": 3840,
+      "height": 2047
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-the-after-rain-smell/thumb-f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3.webp",
+      "sha256": "f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3",
+      "bytes": 5472,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-the-after-rain-smell/thumb2x-b2be4d7b930c0bfab8621a658d014a307f77d0fba668292279c5116a524bc19e.webp",
+      "sha256": "b2be4d7b930c0bfab8621a658d014a307f77d0fba668292279c5116a524bc19e",
+      "bytes": 17864,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "1ae67b08013f4e52bb992224bb9bd3eee674b72f5d77d1abee02691565537e31",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -3,7 +3,7 @@
 Reviewed wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **209 wallpaper candidates**, with verified creator or museum provenance. The newest 110 additions include 42 cyberpunk city/street scenes, 35 planets and nebulas, 9 sci-fi interiors and 24 anime/manga scenes. Each candidate stores descriptive tags, licensing evidence and WebP hashes; app inclusion requires operator approval. Browse the previews below.
+This repository contains **225 wallpaper candidates**, with verified creator or museum provenance. The newest 110 additions include 42 cyberpunk city/street scenes, 35 planets and nebulas, 9 sci-fi interiors and 24 anime/manga scenes. Each candidate stores descriptive tags, licensing evidence and WebP hashes; app inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -31,6 +31,170 @@ Images carry individual rights evidence. CC BY artwork retains its creator credi
 only its own collection metadata and original CC0 contributions under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## Creator-licensed detailed paintings —16 CC BY additions
+
+Painted city streets, atmospheric landscapes, original anime and night skies. These images retain permanent creator credit and their CC BY4.0 license.
+
+### Asleep
+
+[![Asleep](wallpapers/wp-revoy-asleep/thumb-d82fc48ea85c676e8efa2d3f3ccaad67f57028ed41284aebf6a82ef36ed8e986.webp)](wallpapers/wp-revoy-asleep/image-57dd3857282e5a77d4656cd6a864e141b147f82a911080368083995872cc7db4.webp)
+
+“Asleep” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3669×2019
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-06-30_Asleep_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-asleep/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-asleep/conversion.json).
+
+### Autumn Run
+
+[![Autumn Run](wallpapers/wp-revoy-autumn-run/thumb-5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124.webp)](wallpapers/wp-revoy-autumn-run/image-aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04.webp)
+
+“Autumn Run” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3448×2160
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-09-06_Autumn-Run_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-autumn-run/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-autumn-run/conversion.json).
+
+### Episode 30 page 1
+
+[![Episode 30 page 1](wallpapers/wp-revoy-episode-30-page-1/thumb-1c12092112738566e68028101503e0143e46682fe5a5505677d604105f054ecd.webp)](wallpapers/wp-revoy-episode-30-page-1/image-05d970912ac9603efee10ddd2d1a89ea236282247d686ca312ece2e0f05e0e37.webp)
+
+“Episode 30 page 1” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 2560×1600
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2019-07-20_Episode-30-page-1_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-episode-30-page-1/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-episode-30-page-1/conversion.json).
+
+### Episode 36 The temple of Ah
+
+[![Episode 36 The temple of Ah](wallpapers/wp-revoy-episode-36-the-temple-of-ah/thumb-7a21cb8862174c2f6e28a0f075ed6cf282eaeb4a926ae05b397b29d8a88e7993.webp)](wallpapers/wp-revoy-episode-36-the-temple-of-ah/image-fe0bb021031f4d781c46ba2b1c7abe8f68b2d2db9d483daf0a5d6ff553282d5f.webp)
+
+“Episode 36 The temple of Ah” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3456×2160
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-12-15_Episode-36-The-temple-of-Ah_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-episode-36-the-temple-of-ah/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-episode-36-the-temple-of-ah/conversion.json).
+
+### Komona sunset dark
+
+[![Komona sunset dark](wallpapers/wp-revoy-komona-sunset-dark/thumb-1dcc8c5bfb0a05824ed4df806687f640f3cc974d56dae0de6c4a2868c8ab1aca.webp)](wallpapers/wp-revoy-komona-sunset-dark/image-347088a2a17d1b809d756c63565fb446cbce1e9262d19549dd6715c942f5febb.webp)
+
+“Komona sunset dark” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 2560×1600
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `city`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2018-06-03_Komona-sunset-dark_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-komona-sunset-dark/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-komona-sunset-dark/conversion.json).
+
+### Point of View
+
+[![Point of View](wallpapers/wp-revoy-point-of-view/thumb-f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af.webp)](wallpapers/wp-revoy-point-of-view/image-0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349.webp)
+
+“Point of View” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2047
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-18_Point-of-View_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-point-of-view/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-point-of-view/conversion.json).
+
+### Rain City
+
+[![Rain City](wallpapers/wp-revoy-rain-city/thumb-2f1e424e3ad003afcc97f2848d3a207d6456240d2b5f00bae26928bd12ff6d03.webp)](wallpapers/wp-revoy-rain-city/image-f8e0612b392d9e77112427a8d83f657b2d4acc5f2583e8429dc7e507ef4dd3b5.webp)
+
+“Rain City” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2047
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `city`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-06_Rain-City_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-rain-city/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-rain-city/conversion.json).
+
+### Spooky Cute House
+
+[![Spooky Cute House](wallpapers/wp-revoy-spooky-cute-house/thumb-9613b08679094963bce22462899dc537d1386a3b2179f9c4aaa2f2c0ef758185.webp)](wallpapers/wp-revoy-spooky-cute-house/image-3c14bdb5f15196f6e4e7a8fc8c7488622e4a33d49be93f3a4af62b1cdb468749.webp)
+
+“Spooky Cute House” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3510×1740
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-05-19_Spooky-Cute-House_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-spooky-cute-house/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-spooky-cute-house/conversion.json).
+
+### The after rain smell
+
+[![The after rain smell](wallpapers/wp-revoy-the-after-rain-smell/thumb-f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3.webp)](wallpapers/wp-revoy-the-after-rain-smell/image-adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227.webp)
+
+“The after rain smell” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2047
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `city`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2023-01-09_The-after-rain-smell_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-after-rain-smell/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-after-rain-smell/conversion.json).
+
+### The fairy fir tree
+
+[![The fairy fir tree](wallpapers/wp-revoy-the-fairy-fir-tree/thumb-20f65612a63bf6388a17c7b93fc5a6027f6822a202a20a2ee0d5aee7c13a3780.webp)](wallpapers/wp-revoy-the-fairy-fir-tree/image-a6de590cb1116de42b43347b20453e312e300cad7f153a7babc58d2a12cfbcb6.webp)
+
+“The fairy fir tree” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 2560×1600
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-12-21_The-fairy-fir-tree_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-fairy-fir-tree/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-fairy-fir-tree/conversion.json).
+
+### The market
+
+[![The market](wallpapers/wp-revoy-the-market/thumb-b0b4efb45e40d043ce1d589389d90040af9466b53e3b2a25d14d25ba48cc0d86.webp)](wallpapers/wp-revoy-the-market/image-97f07ea4dbf67e7cbb84617b587a6149400ba2d89973addc0a313735badc0bbf.webp)
+
+“The market” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2160
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `city`, `human-art`, `illustration`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-02-21_The-market_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-market/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-market/conversion.json).
+
+### The Treasure
+
+[![The Treasure](wallpapers/wp-revoy-the-treasure/thumb-13148faeb37e3d3155798f4280f94ceca252704060b5d175f780b49ff534ee9a.webp)](wallpapers/wp-revoy-the-treasure/image-c419aeb0c744b8d73b97badb10308960bd7c2e605880ad7f731ae9247f724cd2.webp)
+
+“The Treasure” — David Revoy (Pepper&Carrot). © David Revoy. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3456×2160
+
+Converted to WebP; resized without enlargement; previews cropped to16:9.
+
+Tags: `anime`, `human-art`, `illustration`, `landscape`, `modern`. [Source](https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-08-28_The-Treasure_by-David-Revoy.jpg) · [Rights evidence](submissions/wp-revoy-the-treasure/evidence.json) · [Conversion receipt](wallpapers/wp-revoy-the-treasure/conversion.json).
+
+### Inner Light
+
+[![Inner Light](wallpapers/wp-morevna-inner-light/thumb-22980c1d87aedcf91edf551eef1aa9611351216c33f8b91d94b62192b558e8a3.webp)](wallpapers/wp-morevna-inner-light/image-1ce82a28ee50d187849014a1aedb78b213fb98bd1543480b0fe8800e768f484e.webp)
+
+“Inner Light” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 2169×1792
+
+Converted to WebP; resized without enlargement; 16:9 previews cropped from the original.
+
+Tags: `anime`, `dark`, `human-art`, `illustration`, `modern`. [Source](https://morevnaproject.org/2018/01/25/inner-light/) · [Rights evidence](submissions/wp-morevna-inner-light/evidence.json) · [Conversion receipt](wallpapers/wp-morevna-inner-light/conversion.json).
+
+### Sorry
+
+[![Sorry](wallpapers/wp-morevna-sorry/thumb-ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89.webp)](wallpapers/wp-morevna-sorry/image-fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4.webp)
+
+“Sorry” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3000×2000
+
+Converted to WebP; resized without enlargement; 16:9 previews cropped from the original.
+
+Tags: `anime`, `human-art`, `illustration`, `modern`. [Source](https://morevnaproject.org/2017/07/19/new-artwork-sorry/) · [Rights evidence](submissions/wp-morevna-sorry/evidence.json) · [Conversion receipt](wallpapers/wp-morevna-sorry/conversion.json).
+
+### Giordano Bruno II
+
+[![Giordano Bruno II](wallpapers/wp-agundur-bruno-night/thumb-bbede00aadfb77ca430a86cd517e677423ac8320623b4761d2d9503882ff76a0.webp)](wallpapers/wp-agundur-bruno-night/image-01da0894f4c882c12030f0502153127e0d69a65f3ea8a75078900f265a05ec45.webp)
+
+“Giordano Bruno II” by Agundur (agundur.de). © Agundur. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 3840×2160
+
+Converted to WebP; resized without enlargement; 16:9 previews generated; creator watermark retained.
+
+Tags: `city`, `dark`, `illustration`, `modern`, `space`, `stars`. [Source](https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/giordano-bruno-ii-4k.png) · [Rights evidence](submissions/wp-agundur-bruno-night/evidence.json) · [Conversion receipt](wallpapers/wp-agundur-bruno-night/conversion.json).
+
+### Shooting Stars — Painted Night Sky
+
+[![Shooting Stars — Painted Night Sky](wallpapers/wp-unicorn-shooting-stars/thumb-cf8186a226172b53cd195c1352859f6229bce1c3f08ab556579974ba718475a5.webp)](wallpapers/wp-unicorn-shooting-stars/image-1c778679e25016dfdd6506c929befee3019427c50f704b0f8ff0b7ecdcfaf4f1.webp)
+
+“Sky Backgrounds — Night” by Unicorn Creates (https://unicorncreates.itch.io/), licensed under CC BY 4.0. · [CC BY4.0](https://creativecommons.org/licenses/by/4.0/) · 1920×1080
+
+Converted to the collection WebP profile; resized without enlargement; 16:9 previews generated.
+
+Tags: `anime`, `blue`, `dark`, `human-art`, `illustration`, `modern`, `space`, `stars`. [Source](https://unicorncreates.itch.io/sky-backgrounds) · [Rights evidence](submissions/wp-unicorn-shooting-stars/evidence.json) · [Conversion receipt](wallpapers/wp-unicorn-shooting-stars/conversion.json).
 
 ## Cyberpunk cities, space and anime — 110 new wallpapers
 

@@ -1,7 +1,6 @@
 # RiceWM.org wallpaper copyright process
 
-RiceWM.org accepts only documented public-domain wallpapers or authorized CC0
-dedications. Attribution is preserved for provenance and respect for creators.
+RiceWM.org accepts documented public-domain wallpapers, authorized CC0 dedications and individually verified creator-licensed CC BY3.0/4.0 artwork. Required creator credit, license links and change notices are preserved for CC BY works.
 
 ## Private reports
 

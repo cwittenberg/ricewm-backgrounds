@@ -1,0 +1,26 @@
+{
+  "id": "wp-unicorn-shooting-stars",
+  "creator": "Unicorn Creates",
+  "source": "https://unicorncreates.itch.io/sky-backgrounds",
+  "archiveFile": "SkyBGs_v1.1/sky_night.webp",
+  "archiveSha256": "55e7bf767c533ada09f0f0d70f42bca908ecd7fc1f032f0a2f5c26239e7474b9",
+  "inputSha256": "9d60c1cd483df1afca0b822e0c2db84940f619d3a33923effa6d7a58c3ba70f5",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseEvidence": "https://unicorncreates.itch.io/sky-backgrounds",
+  "licensePageSha256": "e70c2fb1802b52c7d62957b64ab32271258d26bd03b34a264795e6ebb6b45373",
+  "credit": "\u201cSky Backgrounds \u2014 Night\u201d by Unicorn Creates (https://unicorncreates.itch.io/), licensed under CC BY 4.0.",
+  "changes": "Converted to the collection WebP profile; resized without enlargement; 16:9 previews generated.",
+  "ai": false,
+  "tags": [
+    "anime",
+    "blue",
+    "dark",
+    "human-art",
+    "illustration",
+    "modern",
+    "space",
+    "stars"
+  ],
+  "basis": "Unicorn Creates\u2019 own download page calls these digitally painted backgrounds created for their own visual novel, explicitly releases the images under Creative Commons Attribution 4.0, permits commercial and non-commercial use with credit, and declares no generative AI. Selected the original night-sky file from the creator\u2019s free archive; no franchise character, borrowed reference image or logo appears."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wp-revoy-spooky-cute-house",
+  "name": "Spooky Cute House",
+  "author": "David Revoy",
+  "category": "illustration",
+  "tags": [
+    "anime",
+    "human-art",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-05-19_Spooky-Cute-House_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Spooky Cute House” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-spooky-cute-house/image-3c14bdb5f15196f6e4e7a8fc8c7488622e4a33d49be93f3a4af62b1cdb468749.webp",
+      "sha256": "3c14bdb5f15196f6e4e7a8fc8c7488622e4a33d49be93f3a4af62b1cdb468749",
+      "bytes": 621382,
+      "width": 3510,
+      "height": 1740
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-spooky-cute-house/thumb-9613b08679094963bce22462899dc537d1386a3b2179f9c4aaa2f2c0ef758185.webp",
+      "sha256": "9613b08679094963bce22462899dc537d1386a3b2179f9c4aaa2f2c0ef758185",
+      "bytes": 6068,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-spooky-cute-house/thumb2x-b0c471ad7c85d2b96698722fb56391919bafc24de9e3cc52354ce4b63125f5a6.webp",
+      "sha256": "b0c471ad7c85d2b96698722fb56391919bafc24de9e3cc52354ce4b63125f5a6",
+      "bytes": 17484,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "2e15776959edbfec298004012dbe9138b7ee3e333257871ce28551bd99150432",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wp-revoy-episode-30-page-1",
+  "name": "Episode 30 page 1",
+  "author": "David Revoy",
+  "category": "illustration",
+  "tags": [
+    "anime",
+    "human-art",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2019-07-20_Episode-30-page-1_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Episode 30 page 1” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-episode-30-page-1/image-05d970912ac9603efee10ddd2d1a89ea236282247d686ca312ece2e0f05e0e37.webp",
+      "sha256": "05d970912ac9603efee10ddd2d1a89ea236282247d686ca312ece2e0f05e0e37",
+      "bytes": 549666,
+      "width": 2560,
+      "height": 1600
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-episode-30-page-1/thumb-1c12092112738566e68028101503e0143e46682fe5a5505677d604105f054ecd.webp",
+      "sha256": "1c12092112738566e68028101503e0143e46682fe5a5505677d604105f054ecd",
+      "bytes": 5340,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-episode-30-page-1/thumb2x-71767727f7314f87e7c623be0996d6c2806cb407ce05b060f74677dd350cab29.webp",
+      "sha256": "71767727f7314f87e7c623be0996d6c2806cb407ce05b060f74677dd350cab29",
+      "bytes": 19776,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4aa35d62d31e35bc42060e72f9a0df53b7632130a4404a49c8989a022bcb92fd",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wp-revoy-autumn-run",
+  "name": "Autumn Run",
+  "author": "David Revoy",
+  "category": "illustration",
+  "tags": [
+    "anime",
+    "human-art",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-09-06_Autumn-Run_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Autumn Run” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-autumn-run/image-aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04.webp",
+      "sha256": "aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04",
+      "bytes": 686808,
+      "width": 3448,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-autumn-run/thumb-5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124.webp",
+      "sha256": "5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124",
+      "bytes": 7028,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-autumn-run/thumb2x-de5cad75444ae2c8888141d329517a4268ed6ff761f9ce2065da70dd3367e702.webp",
+      "sha256": "de5cad75444ae2c8888141d329517a4268ed6ff761f9ce2065da70dd3367e702",
+      "bytes": 22446,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4b703ab5d5d8ea8aa9918b0b6fe60b612309d63b227ff15209be206a0a959e5c",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

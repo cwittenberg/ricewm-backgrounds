@@ -1,0 +1,24 @@
+{
+  "id": "wp-agundur-bruno-night",
+  "creator": "Agundur",
+  "originalRepository": "Agundur-KDE/Wallpapers",
+  "originalRevision": "fd3497db697360cf884b678f68b79aeff98bff3a",
+  "imageSource": "https://raw.githubusercontent.com/Agundur-KDE/Wallpapers/fd3497db697360cf884b678f68b79aeff98bff3a/giordano-bruno-ii-4k.png",
+  "inputSha256": "2ffcee491c24506700c2307cf20fd74eb5586e419539478d3dfe6ef63d59d1bb",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseEvidence": "https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/README.md#giordano-bruno-ii",
+  "licensePageSha256": "1b3b69a51271355bdc2298327a23da9df2eb361e3930968ac527a06239a19601",
+  "credit": "\u201cGiordano Bruno II\u201d by Agundur (agundur.de). \u00a9 Agundur.",
+  "changes": "Converted to WebP; resized without enlargement; 16:9 previews generated; creator watermark retained.",
+  "generationMethod": "creator-undisclosed",
+  "tags": [
+    "city",
+    "dark",
+    "illustration",
+    "modern",
+    "space",
+    "stars"
+  ],
+  "basis": "Agundur\u2019s own repository identifies this as a wallpaper built by Agundur, maps this exact PNG filename to Creative Commons Attribution 4.0, and states native 3840\u00d72160 with no upscaling. Pinned creator commit and source SHA are recorded. Creator watermark is retained; no fictional franchise characters or third-party logos appear. Generation method for this individual image is not declared; no claim that it is human-painted is made."
+}

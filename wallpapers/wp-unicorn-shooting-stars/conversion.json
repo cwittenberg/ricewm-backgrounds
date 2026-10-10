@@ -1,0 +1,60 @@
+{
+  "id": "wp-unicorn-shooting-stars",
+  "name": "Shooting Stars — Painted Night Sky",
+  "author": "Unicorn Creates",
+  "category": "anime",
+  "tags": [
+    "anime",
+    "blue",
+    "dark",
+    "human-art",
+    "illustration",
+    "modern",
+    "space",
+    "stars"
+  ],
+  "source": "https://unicorncreates.itch.io/sky-backgrounds",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://unicorncreates.itch.io/sky-backgrounds",
+    "basis": "Unicorn Creates’ own download page calls these digitally painted backgrounds created for their own visual novel, explicitly releases the images under Creative Commons Attribution 4.0, permits commercial and non-commercial use with credit, and declares no generative AI. Selected the original night-sky file from the creator’s free archive; no franchise character, borrowed reference image or logo appears.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Sky Backgrounds — Night” by Unicorn Creates (https://unicorncreates.itch.io/), licensed under CC BY 4.0.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to the collection WebP profile; resized without enlargement; 16:9 previews generated."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-unicorn-shooting-stars/image-1c778679e25016dfdd6506c929befee3019427c50f704b0f8ff0b7ecdcfaf4f1.webp",
+      "sha256": "1c778679e25016dfdd6506c929befee3019427c50f704b0f8ff0b7ecdcfaf4f1",
+      "bytes": 191436,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-unicorn-shooting-stars/thumb-cf8186a226172b53cd195c1352859f6229bce1c3f08ab556579974ba718475a5.webp",
+      "sha256": "cf8186a226172b53cd195c1352859f6229bce1c3f08ab556579974ba718475a5",
+      "bytes": 6074,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-unicorn-shooting-stars/thumb2x-57a3a8861571c45bba48c912f46354f5e2baee3e3691b56d936d504dd667893c.webp",
+      "sha256": "57a3a8861571c45bba48c912f46354f5e2baee3e3691b56d936d504dd667893c",
+      "bytes": 18646,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "9d60c1cd483df1afca0b822e0c2db84940f619d3a33923effa6d7a58c3ba70f5",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

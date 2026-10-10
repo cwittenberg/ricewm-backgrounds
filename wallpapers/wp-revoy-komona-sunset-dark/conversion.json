@@ -1,0 +1,58 @@
+{
+  "id": "wp-revoy-komona-sunset-dark",
+  "name": "Komona sunset dark",
+  "author": "David Revoy",
+  "category": "city",
+  "tags": [
+    "anime",
+    "city",
+    "dark",
+    "human-art",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2018-06-03_Komona-sunset-dark_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Komona sunset dark” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-komona-sunset-dark/image-347088a2a17d1b809d756c63565fb446cbce1e9262d19549dd6715c942f5febb.webp",
+      "sha256": "347088a2a17d1b809d756c63565fb446cbce1e9262d19549dd6715c942f5febb",
+      "bytes": 164882,
+      "width": 2560,
+      "height": 1600
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-komona-sunset-dark/thumb-1dcc8c5bfb0a05824ed4df806687f640f3cc974d56dae0de6c4a2868c8ab1aca.webp",
+      "sha256": "1dcc8c5bfb0a05824ed4df806687f640f3cc974d56dae0de6c4a2868c8ab1aca",
+      "bytes": 4228,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-komona-sunset-dark/thumb2x-9e7af0435e1edaca8664e4c1a8ec44a1d7add000b8ace4470f6ac124a9326b4c.webp",
+      "sha256": "9e7af0435e1edaca8664e4c1a8ec44a1d7add000b8ace4470f6ac124a9326b4c",
+      "bytes": 11686,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "cfcb963a861bbda5d8b8a3a164c800f6c6433b1289002e615b92b08aa8aae270",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

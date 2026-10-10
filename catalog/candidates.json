@@ -2,6 +2,64 @@
   "schema": "ricewm.wallpaper-candidates/v1",
   "entries": [
     {
+      "id": "wp-agundur-bruno-night",
+      "name": "Giordano Bruno II",
+      "author": "Agundur",
+      "category": "city",
+      "tags": [
+        "city",
+        "dark",
+        "illustration",
+        "modern",
+        "space",
+        "stars"
+      ],
+      "source": "https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/giordano-bruno-ii-4k.png",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/README.md#giordano-bruno-ii",
+        "basis": "Agundur’s own repository identifies this as a wallpaper built by Agundur, maps this exact PNG filename to Creative Commons Attribution 4.0, and states native 3840×2160 with no upscaling. Pinned creator commit and source SHA are recorded. Creator watermark is retained; no fictional franchise characters or third-party logos appear. Generation method for this individual image is not declared; no claim that it is human-painted is made.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Giordano Bruno II” by Agundur (agundur.de). © Agundur.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; 16:9 previews generated; creator watermark retained."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-agundur-bruno-night/image-01da0894f4c882c12030f0502153127e0d69a65f3ea8a75078900f265a05ec45.webp",
+          "sha256": "01da0894f4c882c12030f0502153127e0d69a65f3ea8a75078900f265a05ec45",
+          "bytes": 306752,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-agundur-bruno-night/thumb-bbede00aadfb77ca430a86cd517e677423ac8320623b4761d2d9503882ff76a0.webp",
+          "sha256": "bbede00aadfb77ca430a86cd517e677423ac8320623b4761d2d9503882ff76a0",
+          "bytes": 2140,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-agundur-bruno-night/thumb2x-ffd1e2ecb7c52b537a5b235af89d12b617a44700e6a2aca758e24787c76801b2.webp",
+          "sha256": "ffd1e2ecb7c52b537a5b235af89d12b617a44700e6a2aca758e24787c76801b2",
+          "bytes": 8220,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "2ffcee491c24506700c2307cf20fd74eb5586e419539478d3dfe6ef63d59d1bb",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
       "id": "wp-fiera-cyberpunk-cityscape-pack-cyber-skyline-01",
       "name": "Cyber Skyline 01",
       "author": "FieraRyan",
@@ -5982,6 +6040,119 @@
       ]
     },
     {
+      "id": "wp-morevna-inner-light",
+      "name": "Inner Light",
+      "author": "Anastasia Majzhegisheva",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "dark",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://morevnaproject.org/2018/01/25/inner-light/",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://morevnaproject.org/2018/01/25/inner-light/",
+        "basis": "The original creator’s project blog explicitly names Anastasia Majzhegisheva and licenses this artwork under Creative Commons Attribution 4.0. Downloaded directly from the image linked in that post. Morevna is the studio’s own original series; external franchise fanart and unlicensed gallery entries are excluded.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Inner Light” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; 16:9 previews cropped from the original."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-morevna-inner-light/image-1ce82a28ee50d187849014a1aedb78b213fb98bd1543480b0fe8800e768f484e.webp",
+          "sha256": "1ce82a28ee50d187849014a1aedb78b213fb98bd1543480b0fe8800e768f484e",
+          "bytes": 302382,
+          "width": 2169,
+          "height": 1792
+        },
+        "thumb": {
+          "path": "wallpapers/wp-morevna-inner-light/thumb-22980c1d87aedcf91edf551eef1aa9611351216c33f8b91d94b62192b558e8a3.webp",
+          "sha256": "22980c1d87aedcf91edf551eef1aa9611351216c33f8b91d94b62192b558e8a3",
+          "bytes": 3114,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-morevna-inner-light/thumb2x-59e61e02cbb1c3f654d899257fb67c39fdf66e4b6a7ae20bafb92b25147d8665.webp",
+          "sha256": "59e61e02cbb1c3f654d899257fb67c39fdf66e4b6a7ae20bafb92b25147d8665",
+          "bytes": 7910,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "781ee670d42f8b527116c99d913f00832d0f8fdebc607d2a084f7cb8fa35c4eb",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-morevna-sorry",
+      "name": "Sorry",
+      "author": "Anastasia Majzhegisheva",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://morevnaproject.org/2017/07/19/new-artwork-sorry/",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://morevnaproject.org/2017/07/19/new-artwork-sorry/",
+        "basis": "The original creator’s project blog explicitly names Anastasia Majzhegisheva and licenses this artwork under Creative Commons Attribution 4.0. Downloaded directly from the image linked in that post. Morevna is the studio’s own original series; external franchise fanart and unlicensed gallery entries are excluded.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Sorry” by Anastasia Majzhegisheva (Morevna Project). © Anastasia Majzhegisheva.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; 16:9 previews cropped from the original."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-morevna-sorry/image-fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4.webp",
+          "sha256": "fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4",
+          "bytes": 359174,
+          "width": 3000,
+          "height": 2000
+        },
+        "thumb": {
+          "path": "wallpapers/wp-morevna-sorry/thumb-ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89.webp",
+          "sha256": "ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89",
+          "bytes": 7206,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-morevna-sorry/thumb2x-a213825a300eada397267a754c7b21238e363d4d924e5e3eeb911bc308d87f04.webp",
+          "sha256": "a213825a300eada397267a754c7b21238e363d4d924e5e3eeb911bc308d87f04",
+          "bytes": 18512,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "e58481de7e609c802a0742c2b08c48557b83bfaf638b2de9e0e2b9e8d63d2192",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
       "id": "wp-rawdanitsu-celestial-set-0-spacebackground-1",
       "name": "Chromatic Void",
       "author": "Rawdanitsu",
@@ -7688,6 +7859,749 @@
       "conversion": {
         "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
         "inputSha256": "ebba03998bc6d54281816f6e0cc97eb92b3c084031d2b68db824ac71c90c2393",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-asleep",
+      "name": "Asleep",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "dark",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-06-30_Asleep_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Asleep” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-asleep/image-57dd3857282e5a77d4656cd6a864e141b147f82a911080368083995872cc7db4.webp",
+          "sha256": "57dd3857282e5a77d4656cd6a864e141b147f82a911080368083995872cc7db4",
+          "bytes": 696296,
+          "width": 3669,
+          "height": 2019
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-asleep/thumb-d82fc48ea85c676e8efa2d3f3ccaad67f57028ed41284aebf6a82ef36ed8e986.webp",
+          "sha256": "d82fc48ea85c676e8efa2d3f3ccaad67f57028ed41284aebf6a82ef36ed8e986",
+          "bytes": 7154,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-asleep/thumb2x-5d3ea987d398ce3c5c81f1446971af6556eb8895ffabe0aeb9fc4dc9d0ab22a9.webp",
+          "sha256": "5d3ea987d398ce3c5c81f1446971af6556eb8895ffabe0aeb9fc4dc9d0ab22a9",
+          "bytes": 22798,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "788176eaf97e98b5a1e9154a22238110d786d7af7269134d53e6f63bdae5e96a",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-autumn-run",
+      "name": "Autumn Run",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "landscape",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-09-06_Autumn-Run_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Autumn Run” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-autumn-run/image-aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04.webp",
+          "sha256": "aed114f0262fc7068157deb224271f58dbdfcffa006a5cbfe31632e233742f04",
+          "bytes": 686808,
+          "width": 3448,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-autumn-run/thumb-5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124.webp",
+          "sha256": "5a46b0f08ff5cf36087d3f9ac2308bf89adb801bb4403e6b43ed740a224b3124",
+          "bytes": 7028,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-autumn-run/thumb2x-de5cad75444ae2c8888141d329517a4268ed6ff761f9ce2065da70dd3367e702.webp",
+          "sha256": "de5cad75444ae2c8888141d329517a4268ed6ff761f9ce2065da70dd3367e702",
+          "bytes": 22446,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "4b703ab5d5d8ea8aa9918b0b6fe60b612309d63b227ff15209be206a0a959e5c",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-episode-30-page-1",
+      "name": "Episode 30 page 1",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2019-07-20_Episode-30-page-1_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Episode 30 page 1” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-episode-30-page-1/image-05d970912ac9603efee10ddd2d1a89ea236282247d686ca312ece2e0f05e0e37.webp",
+          "sha256": "05d970912ac9603efee10ddd2d1a89ea236282247d686ca312ece2e0f05e0e37",
+          "bytes": 549666,
+          "width": 2560,
+          "height": 1600
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-episode-30-page-1/thumb-1c12092112738566e68028101503e0143e46682fe5a5505677d604105f054ecd.webp",
+          "sha256": "1c12092112738566e68028101503e0143e46682fe5a5505677d604105f054ecd",
+          "bytes": 5340,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-episode-30-page-1/thumb2x-71767727f7314f87e7c623be0996d6c2806cb407ce05b060f74677dd350cab29.webp",
+          "sha256": "71767727f7314f87e7c623be0996d6c2806cb407ce05b060f74677dd350cab29",
+          "bytes": 19776,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "4aa35d62d31e35bc42060e72f9a0df53b7632130a4404a49c8989a022bcb92fd",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-episode-36-the-temple-of-ah",
+      "name": "Episode 36 The temple of Ah",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "landscape",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-12-15_Episode-36-The-temple-of-Ah_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Episode 36 The temple of Ah” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-episode-36-the-temple-of-ah/image-fe0bb021031f4d781c46ba2b1c7abe8f68b2d2db9d483daf0a5d6ff553282d5f.webp",
+          "sha256": "fe0bb021031f4d781c46ba2b1c7abe8f68b2d2db9d483daf0a5d6ff553282d5f",
+          "bytes": 214824,
+          "width": 3456,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-episode-36-the-temple-of-ah/thumb-7a21cb8862174c2f6e28a0f075ed6cf282eaeb4a926ae05b397b29d8a88e7993.webp",
+          "sha256": "7a21cb8862174c2f6e28a0f075ed6cf282eaeb4a926ae05b397b29d8a88e7993",
+          "bytes": 3080,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-episode-36-the-temple-of-ah/thumb2x-b9ebed0016fba56b1291146685e77758bdd3ab3ba064f8e19b7b234e3f852159.webp",
+          "sha256": "b9ebed0016fba56b1291146685e77758bdd3ab3ba064f8e19b7b234e3f852159",
+          "bytes": 8934,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "e06eed9fb6f586489eea326caf5f06b7ddc33bf0c1987afa004e3bdabf50fdd6",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-komona-sunset-dark",
+      "name": "Komona sunset dark",
+      "author": "David Revoy",
+      "category": "city",
+      "tags": [
+        "anime",
+        "city",
+        "dark",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2018-06-03_Komona-sunset-dark_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Komona sunset dark” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-komona-sunset-dark/image-347088a2a17d1b809d756c63565fb446cbce1e9262d19549dd6715c942f5febb.webp",
+          "sha256": "347088a2a17d1b809d756c63565fb446cbce1e9262d19549dd6715c942f5febb",
+          "bytes": 164882,
+          "width": 2560,
+          "height": 1600
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-komona-sunset-dark/thumb-1dcc8c5bfb0a05824ed4df806687f640f3cc974d56dae0de6c4a2868c8ab1aca.webp",
+          "sha256": "1dcc8c5bfb0a05824ed4df806687f640f3cc974d56dae0de6c4a2868c8ab1aca",
+          "bytes": 4228,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-komona-sunset-dark/thumb2x-9e7af0435e1edaca8664e4c1a8ec44a1d7add000b8ace4470f6ac124a9326b4c.webp",
+          "sha256": "9e7af0435e1edaca8664e4c1a8ec44a1d7add000b8ace4470f6ac124a9326b4c",
+          "bytes": 11686,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "cfcb963a861bbda5d8b8a3a164c800f6c6433b1289002e615b92b08aa8aae270",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-point-of-view",
+      "name": "Point of View",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-18_Point-of-View_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Point of View” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-point-of-view/image-0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349.webp",
+          "sha256": "0f4c28beb46ca71d921824511b7f550ce19fe9ad13cb48205ea873b773621349",
+          "bytes": 383282,
+          "width": 3840,
+          "height": 2047
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-point-of-view/thumb-f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af.webp",
+          "sha256": "f30f7cddf9ab6663b234c4b94ce4db63a955fd1ea57b925a043fb2a4c3c641af",
+          "bytes": 5018,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-point-of-view/thumb2x-42a85f1dcef1029f3320c0fd6dee44c5abdcd941e5e1b7a2d8858dd3a60fc09b.webp",
+          "sha256": "42a85f1dcef1029f3320c0fd6dee44c5abdcd941e5e1b7a2d8858dd3a60fc09b",
+          "bytes": 13902,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "7fe56fd1c7ddbd557e5921f3772c1ea55c8fef91839d24873189b514c2862684",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-rain-city",
+      "name": "Rain City",
+      "author": "David Revoy",
+      "category": "city",
+      "tags": [
+        "anime",
+        "city",
+        "dark",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-12-06_Rain-City_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Rain City” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-rain-city/image-f8e0612b392d9e77112427a8d83f657b2d4acc5f2583e8429dc7e507ef4dd3b5.webp",
+          "sha256": "f8e0612b392d9e77112427a8d83f657b2d4acc5f2583e8429dc7e507ef4dd3b5",
+          "bytes": 667822,
+          "width": 3840,
+          "height": 2047
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-rain-city/thumb-2f1e424e3ad003afcc97f2848d3a207d6456240d2b5f00bae26928bd12ff6d03.webp",
+          "sha256": "2f1e424e3ad003afcc97f2848d3a207d6456240d2b5f00bae26928bd12ff6d03",
+          "bytes": 7410,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-rain-city/thumb2x-ab3d481f5fd5374277780a89c318e0c675281d4ec22c977a4c00b8fce7bf1cb4.webp",
+          "sha256": "ab3d481f5fd5374277780a89c318e0c675281d4ec22c977a4c00b8fce7bf1cb4",
+          "bytes": 23358,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "0067099d1121e269b3a6f9dab0b803a90b28fd3bb0fbb30a1ccb060ff67ef1d3",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-spooky-cute-house",
+      "name": "Spooky Cute House",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-05-19_Spooky-Cute-House_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Spooky Cute House” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-spooky-cute-house/image-3c14bdb5f15196f6e4e7a8fc8c7488622e4a33d49be93f3a4af62b1cdb468749.webp",
+          "sha256": "3c14bdb5f15196f6e4e7a8fc8c7488622e4a33d49be93f3a4af62b1cdb468749",
+          "bytes": 621382,
+          "width": 3510,
+          "height": 1740
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-spooky-cute-house/thumb-9613b08679094963bce22462899dc537d1386a3b2179f9c4aaa2f2c0ef758185.webp",
+          "sha256": "9613b08679094963bce22462899dc537d1386a3b2179f9c4aaa2f2c0ef758185",
+          "bytes": 6068,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-spooky-cute-house/thumb2x-b0c471ad7c85d2b96698722fb56391919bafc24de9e3cc52354ce4b63125f5a6.webp",
+          "sha256": "b0c471ad7c85d2b96698722fb56391919bafc24de9e3cc52354ce4b63125f5a6",
+          "bytes": 17484,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "2e15776959edbfec298004012dbe9138b7ee3e333257871ce28551bd99150432",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-the-after-rain-smell",
+      "name": "The after rain smell",
+      "author": "David Revoy",
+      "category": "city",
+      "tags": [
+        "anime",
+        "city",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2023-01-09_The-after-rain-smell_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“The after rain smell” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-the-after-rain-smell/image-adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227.webp",
+          "sha256": "adfadd55541dac78a4347cd29d93dccdabafd0f3ce650492458698a5c2fb8227",
+          "bytes": 637410,
+          "width": 3840,
+          "height": 2047
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-the-after-rain-smell/thumb-f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3.webp",
+          "sha256": "f3676a88dd376597496e157db38ce1e5b8c4eb12b62f465b6e4a7d8436ab93b3",
+          "bytes": 5472,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-the-after-rain-smell/thumb2x-b2be4d7b930c0bfab8621a658d014a307f77d0fba668292279c5116a524bc19e.webp",
+          "sha256": "b2be4d7b930c0bfab8621a658d014a307f77d0fba668292279c5116a524bc19e",
+          "bytes": 17864,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "1ae67b08013f4e52bb992224bb9bd3eee674b72f5d77d1abee02691565537e31",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-the-fairy-fir-tree",
+      "name": "The fairy fir tree",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "landscape",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2020-12-21_The-fairy-fir-tree_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“The fairy fir tree” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-the-fairy-fir-tree/image-a6de590cb1116de42b43347b20453e312e300cad7f153a7babc58d2a12cfbcb6.webp",
+          "sha256": "a6de590cb1116de42b43347b20453e312e300cad7f153a7babc58d2a12cfbcb6",
+          "bytes": 644116,
+          "width": 2560,
+          "height": 1600
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-the-fairy-fir-tree/thumb-20f65612a63bf6388a17c7b93fc5a6027f6822a202a20a2ee0d5aee7c13a3780.webp",
+          "sha256": "20f65612a63bf6388a17c7b93fc5a6027f6822a202a20a2ee0d5aee7c13a3780",
+          "bytes": 11030,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-the-fairy-fir-tree/thumb2x-c89da371a0c5e137b2a803d17f75c70abbbcd3415f608dbe35f74b271f230366.webp",
+          "sha256": "c89da371a0c5e137b2a803d17f75c70abbbcd3415f608dbe35f74b271f230366",
+          "bytes": 34986,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "c40c28ef18ca44de76a4edbf13d5553cd0e8d5e179d924aec057661ebad96355",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-the-market",
+      "name": "The market",
+      "author": "David Revoy",
+      "category": "city",
+      "tags": [
+        "anime",
+        "city",
+        "human-art",
+        "illustration",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2022-02-21_The-market_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“The market” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-the-market/image-97f07ea4dbf67e7cbb84617b587a6149400ba2d89973addc0a313735badc0bbf.webp",
+          "sha256": "97f07ea4dbf67e7cbb84617b587a6149400ba2d89973addc0a313735badc0bbf",
+          "bytes": 1082406,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-the-market/thumb-b0b4efb45e40d043ce1d589389d90040af9466b53e3b2a25d14d25ba48cc0d86.webp",
+          "sha256": "b0b4efb45e40d043ce1d589389d90040af9466b53e3b2a25d14d25ba48cc0d86",
+          "bytes": 10014,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-the-market/thumb2x-9ac90362516d9098791a987f9721cd728d6c4687d0de20644b32e81c6d6c1738.webp",
+          "sha256": "9ac90362516d9098791a987f9721cd728d6c4687d0de20644b32e81c6d6c1738",
+          "bytes": 33734,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "63ade69b863f1a35afc37fcc0ef8423d2bd1a9d05c7688d59b549115cbc50816",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-revoy-the-treasure",
+      "name": "The Treasure",
+      "author": "David Revoy",
+      "category": "illustration",
+      "tags": [
+        "anime",
+        "human-art",
+        "illustration",
+        "landscape",
+        "modern"
+      ],
+      "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-08-28_The-Treasure_by-David-Revoy.jpg",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+        "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“The Treasure” — David Revoy (Pepper&Carrot). © David Revoy.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-revoy-the-treasure/image-c419aeb0c744b8d73b97badb10308960bd7c2e605880ad7f731ae9247f724cd2.webp",
+          "sha256": "c419aeb0c744b8d73b97badb10308960bd7c2e605880ad7f731ae9247f724cd2",
+          "bytes": 588414,
+          "width": 3456,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-revoy-the-treasure/thumb-13148faeb37e3d3155798f4280f94ceca252704060b5d175f780b49ff534ee9a.webp",
+          "sha256": "13148faeb37e3d3155798f4280f94ceca252704060b5d175f780b49ff534ee9a",
+          "bytes": 5528,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-revoy-the-treasure/thumb2x-1961b3e9f0c3b46f82a03c4370ffa25f9cfd99a90cc82d97192edb9d736aff35.webp",
+          "sha256": "1961b3e9f0c3b46f82a03c4370ffa25f9cfd99a90cc82d97192edb9d736aff35",
+          "bytes": 18110,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "20b048a68dd13ae50f654635628ef477bb4b539af3152759da225ab5f8ec3354",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-unicorn-shooting-stars",
+      "name": "Shooting Stars — Painted Night Sky",
+      "author": "Unicorn Creates",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "blue",
+        "dark",
+        "human-art",
+        "illustration",
+        "modern",
+        "space",
+        "stars"
+      ],
+      "source": "https://unicorncreates.itch.io/sky-backgrounds",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "evidence": "https://unicorncreates.itch.io/sky-backgrounds",
+        "basis": "Unicorn Creates’ own download page calls these digitally painted backgrounds created for their own visual novel, explicitly releases the images under Creative Commons Attribution 4.0, permits commercial and non-commercial use with credit, and declares no generative AI. Selected the original night-sky file from the creator’s free archive; no franchise character, borrowed reference image or logo appears.",
+        "attestationVersion": "ricewm-licensed-1",
+        "redistributionAuthorized": true,
+        "noUnlicensedThirdPartyRights": true,
+        "credit": "“Sky Backgrounds — Night” by Unicorn Creates (https://unicorncreates.itch.io/), licensed under CC BY 4.0.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Converted to the collection WebP profile; resized without enlargement; 16:9 previews generated."
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-unicorn-shooting-stars/image-1c778679e25016dfdd6506c929befee3019427c50f704b0f8ff0b7ecdcfaf4f1.webp",
+          "sha256": "1c778679e25016dfdd6506c929befee3019427c50f704b0f8ff0b7ecdcfaf4f1",
+          "bytes": 191436,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-unicorn-shooting-stars/thumb-cf8186a226172b53cd195c1352859f6229bce1c3f08ab556579974ba718475a5.webp",
+          "sha256": "cf8186a226172b53cd195c1352859f6229bce1c3f08ab556579974ba718475a5",
+          "bytes": 6074,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-unicorn-shooting-stars/thumb2x-57a3a8861571c45bba48c912f46354f5e2baee3e3691b56d936d504dd667893c.webp",
+          "sha256": "57a3a8861571c45bba48c912f46354f5e2baee3e3691b56d936d504dd667893c",
+          "bytes": 18646,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "9d60c1cd483df1afca0b822e0c2db84940f619d3a33923effa6d7a58c3ba70f5",
         "profile": "webp-landscape-3840-320-640-v2"
       }
     },

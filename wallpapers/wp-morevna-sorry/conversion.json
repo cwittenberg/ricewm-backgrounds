@@ -1,0 +1,56 @@
+{
+  "id": "wp-morevna-sorry",
+  "name": "Sorry",
+  "author": "Anastasia Majzhegisheva",
+  "category": "anime",
+  "tags": [
+    "anime",
+    "human-art",
+    "illustration",
+    "modern"
+  ],
+  "source": "https://morevnaproject.org/2017/07/19/new-artwork-sorry/",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://morevnaproject.org/2017/07/19/new-artwork-sorry/",
+    "basis": "The original creator\u2019s project blog explicitly names Anastasia Majzhegisheva and licenses this artwork under Creative Commons Attribution 4.0. Downloaded directly from the image linked in that post. Morevna is the studio\u2019s own original series; external franchise fanart and unlicensed gallery entries are excluded.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "\u201cSorry\u201d by Anastasia Majzhegisheva (Morevna Project). \u00a9 Anastasia Majzhegisheva.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; 16:9 previews cropped from the original."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-morevna-sorry/image-fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4.webp",
+      "sha256": "fff2cdbcc3efe75f5443429c240c2e722e77f15031ae18397ff72bd993b4e4e4",
+      "bytes": 359174,
+      "width": 3000,
+      "height": 2000
+    },
+    "thumb": {
+      "path": "wallpapers/wp-morevna-sorry/thumb-ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89.webp",
+      "sha256": "ad2581be62624f4855b81fb18ca30a3b3b5553af50186629a3251600a4047c89",
+      "bytes": 7206,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-morevna-sorry/thumb2x-a213825a300eada397267a754c7b21238e363d4d924e5e3eeb911bc308d87f04.webp",
+      "sha256": "a213825a300eada397267a754c7b21238e363d4d924e5e3eeb911bc308d87f04",
+      "bytes": 18512,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "e58481de7e609c802a0742c2b08c48557b83bfaf638b2de9e0e2b9e8d63d2192",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

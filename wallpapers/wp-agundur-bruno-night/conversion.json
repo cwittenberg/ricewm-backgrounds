@@ -1,0 +1,58 @@
+{
+  "id": "wp-agundur-bruno-night",
+  "name": "Giordano Bruno II",
+  "author": "Agundur",
+  "category": "city",
+  "tags": [
+    "city",
+    "dark",
+    "illustration",
+    "modern",
+    "space",
+    "stars"
+  ],
+  "source": "https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/giordano-bruno-ii-4k.png",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://github.com/Agundur-KDE/Wallpapers/blob/fd3497db697360cf884b678f68b79aeff98bff3a/README.md#giordano-bruno-ii",
+    "basis": "Agundur’s own repository identifies this as a wallpaper built by Agundur, maps this exact PNG filename to Creative Commons Attribution 4.0, and states native 3840×2160 with no upscaling. Pinned creator commit and source SHA are recorded. Creator watermark is retained; no fictional franchise characters or third-party logos appear. Generation method for this individual image is not declared; no claim that it is human-painted is made.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Giordano Bruno II” by Agundur (agundur.de). © Agundur.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; 16:9 previews generated; creator watermark retained."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-agundur-bruno-night/image-01da0894f4c882c12030f0502153127e0d69a65f3ea8a75078900f265a05ec45.webp",
+      "sha256": "01da0894f4c882c12030f0502153127e0d69a65f3ea8a75078900f265a05ec45",
+      "bytes": 306752,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-agundur-bruno-night/thumb-bbede00aadfb77ca430a86cd517e677423ac8320623b4761d2d9503882ff76a0.webp",
+      "sha256": "bbede00aadfb77ca430a86cd517e677423ac8320623b4761d2d9503882ff76a0",
+      "bytes": 2140,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-agundur-bruno-night/thumb2x-ffd1e2ecb7c52b537a5b235af89d12b617a44700e6a2aca758e24787c76801b2.webp",
+      "sha256": "ffd1e2ecb7c52b537a5b235af89d12b617a44700e6a2aca758e24787c76801b2",
+      "bytes": 8220,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "2ffcee491c24506700c2307cf20fd74eb5586e419539478d3dfe6ef63d59d1bb",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

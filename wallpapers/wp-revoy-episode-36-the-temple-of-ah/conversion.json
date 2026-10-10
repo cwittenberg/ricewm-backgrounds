@@ -1,0 +1,57 @@
+{
+  "id": "wp-revoy-episode-36-the-temple-of-ah",
+  "name": "Episode 36 The temple of Ah",
+  "author": "David Revoy",
+  "category": "illustration",
+  "tags": [
+    "anime",
+    "human-art",
+    "illustration",
+    "landscape",
+    "modern"
+  ],
+  "source": "https://www.peppercarrot.com/0_sources/0ther/wallpapers/hi-res/2021-12-15_Episode-36-The-temple-of-Ah_by-David-Revoy.jpg",
+  "rights": {
+    "license": "CC-BY-4.0",
+    "evidence": "https://www.peppercarrot.com/en/about/index.html#license",
+    "basis": "Original painted wallpaper offered in David Revoy’s own Pepper&Carrot wallpapergallery and identified by its sourcefilename. The creator’s licensepage explicitlylicenses Pepper&Carrot artwork under CC BY4.0; fanart and external franchises are excluded. Creator credit and license are retained; noAI imageediting or training is performed.",
+    "attestationVersion": "ricewm-licensed-1",
+    "redistributionAuthorized": true,
+    "noUnlicensedThirdPartyRights": true,
+    "credit": "“Episode 36 The temple of Ah” — David Revoy (Pepper&Carrot). © David Revoy.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Converted to WebP; resized without enlargement; previews cropped to16:9."
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-revoy-episode-36-the-temple-of-ah/image-fe0bb021031f4d781c46ba2b1c7abe8f68b2d2db9d483daf0a5d6ff553282d5f.webp",
+      "sha256": "fe0bb021031f4d781c46ba2b1c7abe8f68b2d2db9d483daf0a5d6ff553282d5f",
+      "bytes": 214824,
+      "width": 3456,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-revoy-episode-36-the-temple-of-ah/thumb-7a21cb8862174c2f6e28a0f075ed6cf282eaeb4a926ae05b397b29d8a88e7993.webp",
+      "sha256": "7a21cb8862174c2f6e28a0f075ed6cf282eaeb4a926ae05b397b29d8a88e7993",
+      "bytes": 3080,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-revoy-episode-36-the-temple-of-ah/thumb2x-b9ebed0016fba56b1291146685e77758bdd3ab3ba064f8e19b7b234e3f852159.webp",
+      "sha256": "b9ebed0016fba56b1291146685e77758bdd3ab3ba064f8e19b7b234e3f852159",
+      "bytes": 8934,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "e06eed9fb6f586489eea326caf5f06b7ddc33bf0c1987afa004e3bdabf50fdd6",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}
