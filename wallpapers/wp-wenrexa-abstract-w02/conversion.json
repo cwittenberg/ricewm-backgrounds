@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-abstract-w02",
+  "name": "Aqua Fan",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-abstract-w02/image-8f32600459958ed46456941eda2948bfe2c930bd32156056e61af0fd35631b7c.webp",
+      "sha256": "8f32600459958ed46456941eda2948bfe2c930bd32156056e61af0fd35631b7c",
+      "bytes": 50524,
+      "width": 2560,
+      "height": 1440
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-abstract-w02/thumb-a1ad018d21c9d505f5765e8eaa6149a1430fc05aae1e660e3a8f58ec77d0f0ae.webp",
+      "sha256": "a1ad018d21c9d505f5765e8eaa6149a1430fc05aae1e660e3a8f58ec77d0f0ae",
+      "bytes": 1756,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-abstract-w02/thumb2x-bbbcfce762bacbaf82e3dfe2978116e27e0b8e9aba37f21d8789db8a6715668d.webp",
+      "sha256": "bbbcfce762bacbaf82e3dfe2978116e27e0b8e9aba37f21d8789db8a6715668d",
+      "bytes": 4500,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "842126d6919e019623d174dde5e0722368d5a4ce8ad2c930e521e5ca36206eeb",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

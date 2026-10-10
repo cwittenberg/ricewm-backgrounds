@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-abstract-w05",
+  "name": "Coral Current",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-abstract-w05/image-06e5867c20509267165b4416701a469a0dd2a4a1f2bda7024499179daa69b97c.webp",
+      "sha256": "06e5867c20509267165b4416701a469a0dd2a4a1f2bda7024499179daa69b97c",
+      "bytes": 94524,
+      "width": 2560,
+      "height": 1440
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-abstract-w05/thumb-85dfab74a077ca58542ea7b5decb15c87fabc583d994d204d2771952365b07ce.webp",
+      "sha256": "85dfab74a077ca58542ea7b5decb15c87fabc583d994d204d2771952365b07ce",
+      "bytes": 2742,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-abstract-w05/thumb2x-9c6de4255916123ac1a31efdcbb850c562ca25e82bd82d90a479b2f9efc659bd.webp",
+      "sha256": "9c6de4255916123ac1a31efdcbb850c562ca25e82bd82d90a479b2f9efc659bd",
+      "bytes": 6672,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "d7a788ee81aed036c6df537e8e7e3ab08394ad5e05e853965f44845c96821152",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-space-1",
+  "name": "Electric Nebula",
+  "author": "Wenrexa",
+  "category": "space",
+  "source": "https://wenrexa.itch.io/spacebq2",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/spacebq2",
+    "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-space-1/image-8e76fb327c37b17331c3e5b017d43ab446f888c3ef4127881a2531ece140e74b.webp",
+      "sha256": "8e76fb327c37b17331c3e5b017d43ab446f888c3ef4127881a2531ece140e74b",
+      "bytes": 206262,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-space-1/thumb-651db9a9b1a88712eb5105a69ddc18026990e54cba683313c9052fdf9b1c2613.webp",
+      "sha256": "651db9a9b1a88712eb5105a69ddc18026990e54cba683313c9052fdf9b1c2613",
+      "bytes": 3708,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-space-1/thumb2x-17300140036a5596cc6219ea4fa51e96781e9b52e17dc98e5b1cf46f743d5283.webp",
+      "sha256": "17300140036a5596cc6219ea4fa51e96781e9b52e17dc98e5b1cf46f743d5283",
+      "bytes": 8958,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "872aa8edbb16456cea479054b147853a0dc7d8306fc76b6c29357efaaf329173",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

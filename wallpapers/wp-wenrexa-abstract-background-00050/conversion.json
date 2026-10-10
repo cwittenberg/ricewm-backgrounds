@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-abstract-background-00050",
+  "name": "Prismatic Bloom",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-abstract-background-00050/image-c66d591973ca54593778ca7f0ab06c7ff87540bc3dff5f09caca9568466c08fe.webp",
+      "sha256": "c66d591973ca54593778ca7f0ab06c7ff87540bc3dff5f09caca9568466c08fe",
+      "bytes": 98312,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-abstract-background-00050/thumb-c4cb80644c0f16a285d890c560d48f927075ae19b1b6e049a416860df7f4d4a8.webp",
+      "sha256": "c4cb80644c0f16a285d890c560d48f927075ae19b1b6e049a416860df7f4d4a8",
+      "bytes": 2090,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-abstract-background-00050/thumb2x-bf80cfed0fe991b6e4885ac395df4183ed3351f65c02e07ad86f384e320b7a49.webp",
+      "sha256": "bf80cfed0fe991b6e4885ac395df4183ed3351f65c02e07ad86f384e320b7a49",
+      "bytes": 5638,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "8a92f23f0ec0f272346c731cafc1a19ec0949cfa396ec16c2f81de3a6dd236da",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

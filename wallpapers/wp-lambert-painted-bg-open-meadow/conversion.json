@@ -1,0 +1,48 @@
+{
+  "id": "wp-lambert-painted-bg-open-meadow",
+  "name": "Watercolour Open Meadow",
+  "author": "Clifton Lambert",
+  "category": "watercolour",
+  "source": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+    "basis": "The original artist Clifton Lambert states these three original visual-novel backgrounds were handpainted and scanned, and explicitly dedicates them under Creative Commons zero on their own asset page. Their linked Make Visual Novel Assets! Jam submission supplies the CC0 policy URL. The page states no generative AI was used. These contain original painted nature scenes only.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-lambert-painted-bg-open-meadow/image-e8fa68b87bc783cf9435cc8ff2197a088c7df3de994f1f64cf7a175897cc1ccd.webp",
+      "sha256": "e8fa68b87bc783cf9435cc8ff2197a088c7df3de994f1f64cf7a175897cc1ccd",
+      "bytes": 439860,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-lambert-painted-bg-open-meadow/thumb-c7ac5f633f1553abacbef4e4b9b0b837fb5998bcef38771e05c9ccb163bd2e81.webp",
+      "sha256": "c7ac5f633f1553abacbef4e4b9b0b837fb5998bcef38771e05c9ccb163bd2e81",
+      "bytes": 3798,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-lambert-painted-bg-open-meadow/thumb2x-e1e48c7389e5ad239587535a98e22d303b4a2fcbe6fe16eb031e0a7ffb71c44b.webp",
+      "sha256": "e1e48c7389e5ad239587535a98e22d303b4a2fcbe6fe16eb031e0a7ffb71c44b",
+      "bytes": 16714,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "c87c2d2c9208b9ed6d0598caed495c918b075e1f0a154505aa5a97089ebdd197",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

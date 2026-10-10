@@ -1,0 +1,48 @@
+{
+  "id": "wp-tigitalart-hills-scenery-complete",
+  "name": "Dusk Silhouettes",
+  "author": "tigitalart",
+  "category": "minimal-landscape",
+  "source": "https://opengameart.org/content/hills-scenery-background-seamless",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/hills-scenery-background-seamless",
+    "basis": "Original artist tigitalart explicitly releases this original 2560x1440 flat-colour landscape under CC0 on their own OpenGameArt submission, including an explicit no-attribution statement. The selected scenery_complete.png is the original composited image supplied by the artist, rather than a new composition of unrelated assets.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-tigitalart-hills-scenery-complete/image-55ef9080c62025e60d200cd5449e82d86014177ec911270bcbc6ad060ee209ad.webp",
+      "sha256": "55ef9080c62025e60d200cd5449e82d86014177ec911270bcbc6ad060ee209ad",
+      "bytes": 45674,
+      "width": 2560,
+      "height": 1440
+    },
+    "thumb": {
+      "path": "wallpapers/wp-tigitalart-hills-scenery-complete/thumb-045eb328e07665a8fbde2f48d27f2372fd3c3a4cee81b46c221eba68159da550.webp",
+      "sha256": "045eb328e07665a8fbde2f48d27f2372fd3c3a4cee81b46c221eba68159da550",
+      "bytes": 2996,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-tigitalart-hills-scenery-complete/thumb2x-ec5c08ba9bf13aa5274350dc8c32a3133c3e5485e4ef0998774a8168351ffbdf.webp",
+      "sha256": "ec5c08ba9bf13aa5274350dc8c32a3133c3e5485e4ef0998774a8168351ffbdf",
+      "bytes": 6458,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "7854df19501aa56924d72a5282e3966d8dceee8efc68bc90dd2343656ffff382",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

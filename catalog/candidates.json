@@ -2,6 +2,1158 @@
   "schema": "ricewm.wallpaper-candidates/v1",
   "entries": [
     {
+      "id": "wp-iletora-hallway-visible",
+      "name": "School Hallway at Sunset",
+      "author": "Iletora",
+      "category": "anime-inspired",
+      "source": "https://iletora.itch.io/school-hallway",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://iletora.itch.io/school-hallway",
+        "basis": "Original creator Iletora explicitly releases these two original visual-novel school hallway backgrounds as Creative Commons Zero v1.0 Universal on their own itch.io page. The page specifies 1920x1080 and morning/evening variants. These are empty original environments and contain no franchise characters or logos.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-iletora-hallway-visible/image-4530d27b4058a077064484838f651bbbb01da54ba5ec29c899d61796cac3ceeb.webp",
+          "sha256": "4530d27b4058a077064484838f651bbbb01da54ba5ec29c899d61796cac3ceeb",
+          "bytes": 64400,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-iletora-hallway-visible/thumb-d42a18bb9bcf7ee8de992e5c88d66cf6cf7105b412634f63944b1e9bc74cd58b.webp",
+          "sha256": "d42a18bb9bcf7ee8de992e5c88d66cf6cf7105b412634f63944b1e9bc74cd58b",
+          "bytes": 2354,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-iletora-hallway-visible/thumb2x-5b6dd148014127a59012e56b11ad49fa307081dbe1d1111ec2fdbff69f43ec88.webp",
+          "sha256": "5b6dd148014127a59012e56b11ad49fa307081dbe1d1111ec2fdbff69f43ec88",
+          "bytes": 6820,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "dc33b8dd24cfdc87ad748b50790150cb800668b5f8b7ef3930e90a76739cafa3",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-iletora-hallway-visible2",
+      "name": "School Hallway in Daylight",
+      "author": "Iletora",
+      "category": "anime-inspired",
+      "source": "https://iletora.itch.io/school-hallway",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://iletora.itch.io/school-hallway",
+        "basis": "Original creator Iletora explicitly releases these two original visual-novel school hallway backgrounds as Creative Commons Zero v1.0 Universal on their own itch.io page. The page specifies 1920x1080 and morning/evening variants. These are empty original environments and contain no franchise characters or logos.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-iletora-hallway-visible2/image-5e63dbf7a30aa63dc66350a6b594856c50147ce0977e9b6ab594541e0d9c3790.webp",
+          "sha256": "5e63dbf7a30aa63dc66350a6b594856c50147ce0977e9b6ab594541e0d9c3790",
+          "bytes": 72528,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-iletora-hallway-visible2/thumb-2b13eb805021845fe54f8e252ec6c9cbbf7863b23d90b08796f2167325bc7d52.webp",
+          "sha256": "2b13eb805021845fe54f8e252ec6c9cbbf7863b23d90b08796f2167325bc7d52",
+          "bytes": 2734,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-iletora-hallway-visible2/thumb2x-723c14192c2c38fe586e33b1568ef6fe3d880fe8f4b8bf74283dd728bea6171f.webp",
+          "sha256": "723c14192c2c38fe586e33b1568ef6fe3d880fe8f4b8bf74283dd728bea6171f",
+          "bytes": 8114,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "a3d18835bc8c0f90c360526c73459559671bbb0f6fc690684d4bde9bf580a8d8",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-kutejnikov-manga-manga-bg-06",
+      "name": "Manga Megastructure",
+      "author": "Pavel Kutejnikov",
+      "category": "manga",
+      "source": "https://opengameart.org/content/manga-style-background",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://opengameart.org/content/manga-style-background",
+        "basis": "Original artist Kutejnikov releases their Blender grease-pencil industrial environments under CC0 on their own OpenGameArt submission. The included ReadMe.txt independently names Pavel Kutejnikov and states License: CC0 (public domain). The artist describes stylistic inspiration; these selected empty industrial scenes contain no franchise characters, logos or copied panels.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-kutejnikov-manga-manga-bg-06/image-6981280da1333b70785b13a02dce62e2a0dbc58c509b1b55cf191230f8088d6a.webp",
+          "sha256": "6981280da1333b70785b13a02dce62e2a0dbc58c509b1b55cf191230f8088d6a",
+          "bytes": 188156,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-kutejnikov-manga-manga-bg-06/thumb-879a2c156e52f84aba0761383540ba35abacf4448df7e08d8b3747c45f46b628.webp",
+          "sha256": "879a2c156e52f84aba0761383540ba35abacf4448df7e08d8b3747c45f46b628",
+          "bytes": 8312,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-kutejnikov-manga-manga-bg-06/thumb2x-cbf89d8143589c7fa0c3cb10a2ac75207452bec2c67626033842184f3108c428.webp",
+          "sha256": "cbf89d8143589c7fa0c3cb10a2ac75207452bec2c67626033842184f3108c428",
+          "bytes": 24794,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "736a9b26a0cc663335e77624c8d658cede6b82758a7f9882fdd002b4d310ebfd",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-kutejnikov-manga-manga-bg-10",
+      "name": "Manga Skybridge",
+      "author": "Pavel Kutejnikov",
+      "category": "manga",
+      "source": "https://opengameart.org/content/manga-style-background",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://opengameart.org/content/manga-style-background",
+        "basis": "Original artist Kutejnikov releases their Blender grease-pencil industrial environments under CC0 on their own OpenGameArt submission. The included ReadMe.txt independently names Pavel Kutejnikov and states License: CC0 (public domain). The artist describes stylistic inspiration; these selected empty industrial scenes contain no franchise characters, logos or copied panels.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-kutejnikov-manga-manga-bg-10/image-b3b5505bb9c542c5dc77d62aa8c8ac72ebeda166eddce1022362fcc9e1bc9484.webp",
+          "sha256": "b3b5505bb9c542c5dc77d62aa8c8ac72ebeda166eddce1022362fcc9e1bc9484",
+          "bytes": 224364,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-kutejnikov-manga-manga-bg-10/thumb-41f8b0046e1593785562cf46db9fd54ef171187bb06c00cd41fe607de84b67ee.webp",
+          "sha256": "41f8b0046e1593785562cf46db9fd54ef171187bb06c00cd41fe607de84b67ee",
+          "bytes": 8934,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-kutejnikov-manga-manga-bg-10/thumb2x-004d8ca8dd9320c11878ea91ff59eacab00876ea081acf9c87b5d33f7a1064ea.webp",
+          "sha256": "004d8ca8dd9320c11878ea91ff59eacab00876ea081acf9c87b5d33f7a1064ea",
+          "bytes": 28742,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "dc0646680fec3c4c456f63f78ea873685eb0506f613d9cae9c3ce77b37188a9a",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-lambert-painted-bg-deep-woods",
+      "name": "Watercolour Woodland",
+      "author": "Clifton Lambert",
+      "category": "watercolour",
+      "source": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+        "basis": "The original artist Clifton Lambert states these three original visual-novel backgrounds were handpainted and scanned, and explicitly dedicates them under Creative Commons zero on their own asset page. Their linked Make Visual Novel Assets! Jam submission supplies the CC0 policy URL. The page states no generative AI was used. These contain original painted nature scenes only.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-lambert-painted-bg-deep-woods/image-6941299bdf317712b1b4911714c1dc704edf7e464dba831438b4979624aa2910.webp",
+          "sha256": "6941299bdf317712b1b4911714c1dc704edf7e464dba831438b4979624aa2910",
+          "bytes": 599312,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-lambert-painted-bg-deep-woods/thumb-b7961f192a16b06e2259e83393327797855e0db42075a26102f3e5125597bdd5.webp",
+          "sha256": "b7961f192a16b06e2259e83393327797855e0db42075a26102f3e5125597bdd5",
+          "bytes": 6846,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-lambert-painted-bg-deep-woods/thumb2x-4fa2754fb9edc002aa0fee88c49c65db40b5351fa448729a508eb7479f081bf7.webp",
+          "sha256": "4fa2754fb9edc002aa0fee88c49c65db40b5351fa448729a508eb7479f081bf7",
+          "bytes": 25186,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "5083f4f1f37a2dd3c5b2768de38b10eb6003d3ba63733ae2bd5695076cd4a919",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-lambert-painted-bg-forest-meadow",
+      "name": "Watercolour Meadow Path",
+      "author": "Clifton Lambert",
+      "category": "watercolour",
+      "source": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+        "basis": "The original artist Clifton Lambert states these three original visual-novel backgrounds were handpainted and scanned, and explicitly dedicates them under Creative Commons zero on their own asset page. Their linked Make Visual Novel Assets! Jam submission supplies the CC0 policy URL. The page states no generative AI was used. These contain original painted nature scenes only.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-lambert-painted-bg-forest-meadow/image-d9690f4a9697d27187cd269d877d9e8a1f2dc45c3aed4df147e798d54b3b01d9.webp",
+          "sha256": "d9690f4a9697d27187cd269d877d9e8a1f2dc45c3aed4df147e798d54b3b01d9",
+          "bytes": 671964,
+          "width": 1920,
+          "height": 1244
+        },
+        "thumb": {
+          "path": "wallpapers/wp-lambert-painted-bg-forest-meadow/thumb-cad5ec8178e9a2be4da0f01c5318edd55f742bfe6da5f724be06aa1a08788df3.webp",
+          "sha256": "cad5ec8178e9a2be4da0f01c5318edd55f742bfe6da5f724be06aa1a08788df3",
+          "bytes": 7714,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-lambert-painted-bg-forest-meadow/thumb2x-947f7252567718906db72c93c36497170cca6f2f0025d2f2093d3700a5caa745.webp",
+          "sha256": "947f7252567718906db72c93c36497170cca6f2f0025d2f2093d3700a5caa745",
+          "bytes": 31636,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "a17ef54902c08132e0b1989694e3f6613cd3f2cd2ed913b243c5cec62edb39f5",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-lambert-painted-bg-open-meadow",
+      "name": "Watercolour Open Meadow",
+      "author": "Clifton Lambert",
+      "category": "watercolour",
+      "source": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+        "basis": "The original artist Clifton Lambert states these three original visual-novel backgrounds were handpainted and scanned, and explicitly dedicates them under Creative Commons zero on their own asset page. Their linked Make Visual Novel Assets! Jam submission supplies the CC0 policy URL. The page states no generative AI was used. These contain original painted nature scenes only.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-lambert-painted-bg-open-meadow/image-e8fa68b87bc783cf9435cc8ff2197a088c7df3de994f1f64cf7a175897cc1ccd.webp",
+          "sha256": "e8fa68b87bc783cf9435cc8ff2197a088c7df3de994f1f64cf7a175897cc1ccd",
+          "bytes": 439860,
+          "width": 1920,
+          "height": 1080
+        },
+        "thumb": {
+          "path": "wallpapers/wp-lambert-painted-bg-open-meadow/thumb-c7ac5f633f1553abacbef4e4b9b0b837fb5998bcef38771e05c9ccb163bd2e81.webp",
+          "sha256": "c7ac5f633f1553abacbef4e4b9b0b837fb5998bcef38771e05c9ccb163bd2e81",
+          "bytes": 3798,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-lambert-painted-bg-open-meadow/thumb2x-e1e48c7389e5ad239587535a98e22d303b4a2fcbe6fe16eb031e0a7ffb71c44b.webp",
+          "sha256": "e1e48c7389e5ad239587535a98e22d303b4a2fcbe6fe16eb031e0a7ffb71c44b",
+          "bytes": 16714,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "c87c2d2c9208b9ed6d0598caed495c918b075e1f0a154505aa5a97089ebdd197",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-tigitalart-hills-scenery-complete",
+      "name": "Dusk Silhouettes",
+      "author": "tigitalart",
+      "category": "minimal-landscape",
+      "source": "https://opengameart.org/content/hills-scenery-background-seamless",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://opengameart.org/content/hills-scenery-background-seamless",
+        "basis": "Original artist tigitalart explicitly releases this original 2560x1440 flat-colour landscape under CC0 on their own OpenGameArt submission, including an explicit no-attribution statement. The selected scenery_complete.png is the original composited image supplied by the artist, rather than a new composition of unrelated assets.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-tigitalart-hills-scenery-complete/image-55ef9080c62025e60d200cd5449e82d86014177ec911270bcbc6ad060ee209ad.webp",
+          "sha256": "55ef9080c62025e60d200cd5449e82d86014177ec911270bcbc6ad060ee209ad",
+          "bytes": 45674,
+          "width": 2560,
+          "height": 1440
+        },
+        "thumb": {
+          "path": "wallpapers/wp-tigitalart-hills-scenery-complete/thumb-045eb328e07665a8fbde2f48d27f2372fd3c3a4cee81b46c221eba68159da550.webp",
+          "sha256": "045eb328e07665a8fbde2f48d27f2372fd3c3a4cee81b46c221eba68159da550",
+          "bytes": 2996,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-tigitalart-hills-scenery-complete/thumb2x-ec5c08ba9bf13aa5274350dc8c32a3133c3e5485e4ef0998774a8168351ffbdf.webp",
+          "sha256": "ec5c08ba9bf13aa5274350dc8c32a3133c3e5485e4ef0998774a8168351ffbdf",
+          "bytes": 6458,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "7854df19501aa56924d72a5282e3966d8dceee8efc68bc90dd2343656ffff382",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00050",
+      "name": "Prismatic Bloom",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00050/image-c66d591973ca54593778ca7f0ab06c7ff87540bc3dff5f09caca9568466c08fe.webp",
+          "sha256": "c66d591973ca54593778ca7f0ab06c7ff87540bc3dff5f09caca9568466c08fe",
+          "bytes": 98312,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00050/thumb-c4cb80644c0f16a285d890c560d48f927075ae19b1b6e049a416860df7f4d4a8.webp",
+          "sha256": "c4cb80644c0f16a285d890c560d48f927075ae19b1b6e049a416860df7f4d4a8",
+          "bytes": 2090,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00050/thumb2x-bf80cfed0fe991b6e4885ac395df4183ed3351f65c02e07ad86f384e320b7a49.webp",
+          "sha256": "bf80cfed0fe991b6e4885ac395df4183ed3351f65c02e07ad86f384e320b7a49",
+          "bytes": 5638,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "8a92f23f0ec0f272346c731cafc1a19ec0949cfa396ec16c2f81de3a6dd236da",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00081",
+      "name": "Neon Fold",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00081/image-2e2184650a426bd6049f9509e9561e761a8b5b1cc138db3c2d2bd61a37e26ff3.webp",
+          "sha256": "2e2184650a426bd6049f9509e9561e761a8b5b1cc138db3c2d2bd61a37e26ff3",
+          "bytes": 80322,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00081/thumb-26b28a90053f83a4404849b7b1237c1728fcb4299b3b7b76e6d421b5b7975119.webp",
+          "sha256": "26b28a90053f83a4404849b7b1237c1728fcb4299b3b7b76e6d421b5b7975119",
+          "bytes": 1308,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00081/thumb2x-08890f66589f41d67a4eed5d7d2b21cda17150b92bb35e788f1763bbb3528e9d.webp",
+          "sha256": "08890f66589f41d67a4eed5d7d2b21cda17150b92bb35e788f1763bbb3528e9d",
+          "bytes": 3076,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "273fea3a70f389662c27bb5ae09a62c1f8b11be83d1d226e90ea62a15af3ba4e",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00113",
+      "name": "Midnight Prism",
+      "author": "Wenrexa",
+      "category": "minimal",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00113/image-9525768d585e96ee68818f089beaa7f4d7a4928a9686d7f275ebf2a5abbf9f76.webp",
+          "sha256": "9525768d585e96ee68818f089beaa7f4d7a4928a9686d7f275ebf2a5abbf9f76",
+          "bytes": 48030,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00113/thumb-a5173b4a86201dba7eff944ab00a90069d33d916fa40686e67d54366d135cf92.webp",
+          "sha256": "a5173b4a86201dba7eff944ab00a90069d33d916fa40686e67d54366d135cf92",
+          "bytes": 824,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00113/thumb2x-e18b8aa532ea87a6f92b897b6b66b8c615560b10b174ab15428ccb3afd47fd73.webp",
+          "sha256": "e18b8aa532ea87a6f92b897b6b66b8c615560b10b174ab15428ccb3afd47fd73",
+          "bytes": 2078,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "6d015e4b193d2e6297802a19369e26438c55699123785410990cefb1aa47182d",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00240",
+      "name": "Northern Glow",
+      "author": "Wenrexa",
+      "category": "minimal",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00240/image-2aee56177e3f3767d2c1cf20ab549ec872903faee8cbbe54d2993333d78b71d1.webp",
+          "sha256": "2aee56177e3f3767d2c1cf20ab549ec872903faee8cbbe54d2993333d78b71d1",
+          "bytes": 91856,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00240/thumb-c34806c56216fef675608f70cc2b4b8fc80d120058cc5c8175fbcc9a77a9893e.webp",
+          "sha256": "c34806c56216fef675608f70cc2b4b8fc80d120058cc5c8175fbcc9a77a9893e",
+          "bytes": 742,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00240/thumb2x-a98df2061db1665dcd0329efc371bbae583237827b41280e22a8b899972cb455.webp",
+          "sha256": "a98df2061db1665dcd0329efc371bbae583237827b41280e22a8b899972cb455",
+          "bytes": 1996,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "c2794a3b82334211df5a8da644e8c2d3219476621a88e31404e06e12a447f4ea",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00272",
+      "name": "Lime Vortex",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00272/image-a073f17dbdcea88832bd85a46999567053aa0f5b25fbabda494ea0dfc3f5e8ea.webp",
+          "sha256": "a073f17dbdcea88832bd85a46999567053aa0f5b25fbabda494ea0dfc3f5e8ea",
+          "bytes": 1222306,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00272/thumb-0518cd17d0e538de46f14d3ac4d1f1a6c3f44aa45fa4c72a955a5c8450bf2078.webp",
+          "sha256": "0518cd17d0e538de46f14d3ac4d1f1a6c3f44aa45fa4c72a955a5c8450bf2078",
+          "bytes": 1838,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00272/thumb2x-402440d569428de3e62e416004bf535079a227ccd85da2ffad8d24d4085aceb7.webp",
+          "sha256": "402440d569428de3e62e416004bf535079a227ccd85da2ffad8d24d4085aceb7",
+          "bytes": 8934,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "8b7e60049708a48819f3c34e18ebcd7ca203a86e16ad6db419dd3272b64d99ce",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00304",
+      "name": "Chromatic Portal",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00304/image-21b276547a0635472dd80e6948aebfd3764ee45a693a7d4482fcd9897dbe3a95.webp",
+          "sha256": "21b276547a0635472dd80e6948aebfd3764ee45a693a7d4482fcd9897dbe3a95",
+          "bytes": 1369360,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00304/thumb-6befd6aab05a7a86c02cb0b4fe5d21ae0cf8d446659e99f8e4749ae93fa72387.webp",
+          "sha256": "6befd6aab05a7a86c02cb0b4fe5d21ae0cf8d446659e99f8e4749ae93fa72387",
+          "bytes": 2044,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00304/thumb2x-b0dc06e2f1a4faa3fcbf91fe1067bfca2143f7b958a8f39c0dd032158d280a8d.webp",
+          "sha256": "b0dc06e2f1a4faa3fcbf91fe1067bfca2143f7b958a8f39c0dd032158d280a8d",
+          "bytes": 6772,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "e91acc5f0631be79c89a0499b7772a85652b47cd873da88d7ff5c4f808b4e958",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00341",
+      "name": "Teal Geometry",
+      "author": "Wenrexa",
+      "category": "geometric",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00341/image-0ee1fb1d80567c49bbf7fae3ae6e40357a6e8e2d709806188060145394e71a54.webp",
+          "sha256": "0ee1fb1d80567c49bbf7fae3ae6e40357a6e8e2d709806188060145394e71a54",
+          "bytes": 78984,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00341/thumb-5ffd4f0bac529108f66bb7245e609c3678eb6dfbffc6a6edc3340f3d1a7f8aea.webp",
+          "sha256": "5ffd4f0bac529108f66bb7245e609c3678eb6dfbffc6a6edc3340f3d1a7f8aea",
+          "bytes": 2966,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00341/thumb2x-f721cbbf5aefc152af3667c687810252ba988cee844df9ee654d335dd362717a.webp",
+          "sha256": "f721cbbf5aefc152af3667c687810252ba988cee844df9ee654d335dd362717a",
+          "bytes": 6818,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "ea7288b14861c6d43a33db8a1860c7c03e90d6d1cf9e12c2762226a6f40f4610",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-background-00368",
+      "name": "Midnight Windows",
+      "author": "Wenrexa",
+      "category": "geometric",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00368/image-b68e1faebf1380da1c959a24805117b243b2a8f9aa145b177f3c673f3ce3d624.webp",
+          "sha256": "b68e1faebf1380da1c959a24805117b243b2a8f9aa145b177f3c673f3ce3d624",
+          "bytes": 149612,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00368/thumb-550d25576cfbf7a8eb8f37887939c0a7cd21464738afd45748d3160cc85a3598.webp",
+          "sha256": "550d25576cfbf7a8eb8f37887939c0a7cd21464738afd45748d3160cc85a3598",
+          "bytes": 5858,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-background-00368/thumb2x-38b3e67bf3b9841e0f6fc74f9420eccdc2dab6e484e4a3769aaae2026d4b8082.webp",
+          "sha256": "38b3e67bf3b9841e0f6fc74f9420eccdc2dab6e484e4a3769aaae2026d4b8082",
+          "bytes": 13728,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "fadf05fec875ed221d3fce97d06aae57387dc927b875f0222a38dde90d7fdf10",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-w02",
+      "name": "Aqua Fan",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-w02/image-8f32600459958ed46456941eda2948bfe2c930bd32156056e61af0fd35631b7c.webp",
+          "sha256": "8f32600459958ed46456941eda2948bfe2c930bd32156056e61af0fd35631b7c",
+          "bytes": 50524,
+          "width": 2560,
+          "height": 1440
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-w02/thumb-a1ad018d21c9d505f5765e8eaa6149a1430fc05aae1e660e3a8f58ec77d0f0ae.webp",
+          "sha256": "a1ad018d21c9d505f5765e8eaa6149a1430fc05aae1e660e3a8f58ec77d0f0ae",
+          "bytes": 1756,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-w02/thumb2x-bbbcfce762bacbaf82e3dfe2978116e27e0b8e9aba37f21d8789db8a6715668d.webp",
+          "sha256": "bbbcfce762bacbaf82e3dfe2978116e27e0b8e9aba37f21d8789db8a6715668d",
+          "bytes": 4500,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "842126d6919e019623d174dde5e0722368d5a4ce8ad2c930e521e5ca36206eeb",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-w03",
+      "name": "Spectral Spiral",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-w03/image-25a52370670fac516b00822a584aba2b7d1f52bda4a4efb787cfac204db4c36b.webp",
+          "sha256": "25a52370670fac516b00822a584aba2b7d1f52bda4a4efb787cfac204db4c36b",
+          "bytes": 108592,
+          "width": 2560,
+          "height": 1440
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-w03/thumb-3fa8eead4849a24ddf697be5669e6468230a984945cb66ee04e39b145c99eff9.webp",
+          "sha256": "3fa8eead4849a24ddf697be5669e6468230a984945cb66ee04e39b145c99eff9",
+          "bytes": 4244,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-w03/thumb2x-dd48df52c166ea46481d5d46c34dd56eba87595fe39dd71df857b671c791ae14.webp",
+          "sha256": "dd48df52c166ea46481d5d46c34dd56eba87595fe39dd71df857b671c791ae14",
+          "bytes": 9666,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "417001d678ccade0430d79dfc25c8d57f497728fe6830639527639323a884883",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-w04",
+      "name": "Blue Flame",
+      "author": "Wenrexa",
+      "category": "minimal",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-w04/image-c3577ef83972536fe3fa5ad5bfb9f05c38f6fd3d480d404fc6313b31323edc40.webp",
+          "sha256": "c3577ef83972536fe3fa5ad5bfb9f05c38f6fd3d480d404fc6313b31323edc40",
+          "bytes": 59810,
+          "width": 2560,
+          "height": 1440
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-w04/thumb-4237e7132f4e3fb99bcb290338f704c3b904b2e0f4aca4ec1d42e4595cdc6430.webp",
+          "sha256": "4237e7132f4e3fb99bcb290338f704c3b904b2e0f4aca4ec1d42e4595cdc6430",
+          "bytes": 1852,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-w04/thumb2x-eac1588335eb477d1f49c56ed0f115a2200cc822e5c57f9aa7b2f3b8bf2b267f.webp",
+          "sha256": "eac1588335eb477d1f49c56ed0f115a2200cc822e5c57f9aa7b2f3b8bf2b267f",
+          "bytes": 4784,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "1170adb6842400a2447a730b1c63ce67a2742c5bccbfc6ab67427577a678d593",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-abstract-w05",
+      "name": "Coral Current",
+      "author": "Wenrexa",
+      "category": "abstract",
+      "source": "https://wenrexa.itch.io/abstractbq",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/abstractbq",
+        "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-abstract-w05/image-06e5867c20509267165b4416701a469a0dd2a4a1f2bda7024499179daa69b97c.webp",
+          "sha256": "06e5867c20509267165b4416701a469a0dd2a4a1f2bda7024499179daa69b97c",
+          "bytes": 94524,
+          "width": 2560,
+          "height": 1440
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-abstract-w05/thumb-85dfab74a077ca58542ea7b5decb15c87fabc583d994d204d2771952365b07ce.webp",
+          "sha256": "85dfab74a077ca58542ea7b5decb15c87fabc583d994d204d2771952365b07ce",
+          "bytes": 2742,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-abstract-w05/thumb2x-9c6de4255916123ac1a31efdcbb850c562ca25e82bd82d90a479b2f9efc659bd.webp",
+          "sha256": "9c6de4255916123ac1a31efdcbb850c562ca25e82bd82d90a479b2f9efc659bd",
+          "bytes": 6672,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "d7a788ee81aed036c6df537e8e7e3ab08394ad5e05e853965f44845c96821152",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-space-1",
+      "name": "Electric Nebula",
+      "author": "Wenrexa",
+      "category": "space",
+      "source": "https://wenrexa.itch.io/spacebq2",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/spacebq2",
+        "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-space-1/image-8e76fb327c37b17331c3e5b017d43ab446f888c3ef4127881a2531ece140e74b.webp",
+          "sha256": "8e76fb327c37b17331c3e5b017d43ab446f888c3ef4127881a2531ece140e74b",
+          "bytes": 206262,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-space-1/thumb-651db9a9b1a88712eb5105a69ddc18026990e54cba683313c9052fdf9b1c2613.webp",
+          "sha256": "651db9a9b1a88712eb5105a69ddc18026990e54cba683313c9052fdf9b1c2613",
+          "bytes": 3708,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-space-1/thumb2x-17300140036a5596cc6219ea4fa51e96781e9b52e17dc98e5b1cf46f743d5283.webp",
+          "sha256": "17300140036a5596cc6219ea4fa51e96781e9b52e17dc98e5b1cf46f743d5283",
+          "bytes": 8958,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "872aa8edbb16456cea479054b147853a0dc7d8306fc76b6c29357efaaf329173",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-space-2",
+      "name": "Indigo Galaxy",
+      "author": "Wenrexa",
+      "category": "space",
+      "source": "https://wenrexa.itch.io/spacebq2",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/spacebq2",
+        "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-space-2/image-3d55024591c82ab727e61d67c5cd7240d5359b0e0dac7abb7a398f623b4cace0.webp",
+          "sha256": "3d55024591c82ab727e61d67c5cd7240d5359b0e0dac7abb7a398f623b4cace0",
+          "bytes": 144884,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-space-2/thumb-61d5f02274af1ddb90bebdb76908258e8425f5bbc7d7b517695f70b534c90c8d.webp",
+          "sha256": "61d5f02274af1ddb90bebdb76908258e8425f5bbc7d7b517695f70b534c90c8d",
+          "bytes": 2674,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-space-2/thumb2x-b0036597f07ca2eb36fd9fb36c77cad7e8f804e26b5169c80ab17a2b7a46a6d0.webp",
+          "sha256": "b0036597f07ca2eb36fd9fb36c77cad7e8f804e26b5169c80ab17a2b7a46a6d0",
+          "bytes": 6694,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "26ebdccdf90f4b208d7652260437e69cc07fa8d86f8dc5c356b0d2da687d195a",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-space-3",
+      "name": "Blue Orbit",
+      "author": "Wenrexa",
+      "category": "space",
+      "source": "https://wenrexa.itch.io/spacebq2",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/spacebq2",
+        "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-space-3/image-fb941a629580ae08f03a0d6c3f1c7e0f03d7beb1ed9f29bb913dfa17364197bb.webp",
+          "sha256": "fb941a629580ae08f03a0d6c3f1c7e0f03d7beb1ed9f29bb913dfa17364197bb",
+          "bytes": 103396,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-space-3/thumb-9032d902926fec67a8dbcfba9742bad529e1e696936a3703fdc7f321e2cfa654.webp",
+          "sha256": "9032d902926fec67a8dbcfba9742bad529e1e696936a3703fdc7f321e2cfa654",
+          "bytes": 1908,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-space-3/thumb2x-b7825676239a520c572407fb7b39519d4353c739b501a483c8347633cf157889.webp",
+          "sha256": "b7825676239a520c572407fb7b39519d4353c739b501a483c8347633cf157889",
+          "bytes": 4738,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "5c5078287c46b49e1239cf553eba847eeff70b526f18febd8920698190dca7d8",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-wenrexa-space-4",
+      "name": "Violet Dust",
+      "author": "Wenrexa",
+      "category": "space",
+      "source": "https://wenrexa.itch.io/spacebq2",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://wenrexa.itch.io/spacebq2",
+        "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-wenrexa-space-4/image-d7c246bef6809496b7b7cd0c2fe7a2216fadba418babc6176abc88e4823c9506.webp",
+          "sha256": "d7c246bef6809496b7b7cd0c2fe7a2216fadba418babc6176abc88e4823c9506",
+          "bytes": 66806,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-wenrexa-space-4/thumb-705894662a5d24ac8fa403472ab02200702c33564b61a9a79c754c0f478f8431.webp",
+          "sha256": "705894662a5d24ac8fa403472ab02200702c33564b61a9a79c754c0f478f8431",
+          "bytes": 1288,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-wenrexa-space-4/thumb2x-d88e6909445216355af8d4f8486b9b93e61e58baa65cc38375b5a63bdf077ef6.webp",
+          "sha256": "d88e6909445216355af8d4f8486b9b93e61e58baa65cc38375b5a63bdf077ef6",
+          "bytes": 3116,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "cb6afb6dace8751e83d168f234ddba5beee7a1a2c42ca4b69f7310ea0b06dda2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
       "id": "wp-met-10149",
       "name": "Canadian Rockies",
       "author": "Albert Bierstadt",
@@ -434,56 +1586,8 @@
       }
     },
     {
-      "id": "wp-met-45434",
-      "name": "Under the Wave off Kanagawa, also known as The Great Wave",
-      "author": "Katsushika Hokusai",
-      "category": "japanese",
-      "source": "https://www.metmuseum.org/art/collection/search/45434",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
-        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-met-45434/image-340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d.webp",
-          "sha256": "340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d",
-          "bytes": 1938718,
-          "width": 3213,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-met-45434/thumb-16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972.webp",
-          "sha256": "16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972",
-          "bytes": 13518,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-met-45434/thumb2x-2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656.webp",
-          "sha256": "2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656",
-          "bytes": 50142,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "cbb9988f2f18b9180a1cc0cf5dbb0e3bbf8f2e85d17930cf6ca9ab36fac36303",
-        "profile": "webp-landscape-3840-320-640-v1"
-      }
-    },
-    {
       "id": "wp-met-36489",
-      "name": "Kintai Bridge in Suō Province",
+      "name": "Kintai Bridge in Su\u014d Province",
       "author": "Katsushika Hokusai",
       "category": "japanese",
       "source": "https://www.metmuseum.org/art/collection/search/36489",
@@ -579,7 +1683,7 @@
     },
     {
       "id": "wp-met-36521",
-      "name": "Sudden Shower at Shōno",
+      "name": "Sudden Shower at Sh\u014dno",
       "author": "Utagawa Hiroshige",
       "category": "japanese",
       "source": "https://www.metmuseum.org/art/collection/search/36521",
@@ -770,54 +1874,6 @@
       }
     },
     {
-      "id": "wp-met-437998",
-      "name": "Olive Trees",
-      "author": "Vincent van Gogh",
-      "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437998",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437998",
-        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-met-437998/image-e5a97d7d6a052a2978d487dc160e5641c4c49d829fce49ad3d29aa67b59b7921.webp",
-          "sha256": "e5a97d7d6a052a2978d487dc160e5641c4c49d829fce49ad3d29aa67b59b7921",
-          "bytes": 1861864,
-          "width": 2708,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-met-437998/thumb-d8d53ea84bfa1bbb537573aeb1e1e460f861a60b79964a626af084132ccf2536.webp",
-          "sha256": "d8d53ea84bfa1bbb537573aeb1e1e460f861a60b79964a626af084132ccf2536",
-          "bytes": 14360,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-met-437998/thumb2x-b0f5c68f0ec8e691755f6a73047ae810d974d922b825f982d0dee499b83694bb.webp",
-          "sha256": "b0f5c68f0ec8e691755f6a73047ae810d974d922b825f982d0dee499b83694bb",
-          "bytes": 58358,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "04e9591ae681528da4d6d1589288174cfdae5fa011b6e31d400a5ca4396a6dbb",
-        "profile": "webp-landscape-3840-320-640-v1"
-      }
-    },
-    {
       "id": "wp-met-437299",
       "name": "Jalais Hill, Pontoise",
       "author": "Camille Pissarro",
@@ -914,6 +1970,54 @@
       }
     },
     {
+      "id": "wp-met-437302",
+      "name": "Barges at Pontoise",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437302",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437302",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437302/image-bf5707bd05c62c53a076ced1f7c09401214318fb9366d52b10b9619f745239ff.webp",
+          "sha256": "bf5707bd05c62c53a076ced1f7c09401214318fb9366d52b10b9619f745239ff",
+          "bytes": 1680272,
+          "width": 2603,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437302/thumb-583b642cc11bbd971e21ad99c9e0c362c10966a3ac93e6062c0c411cdae436e4.webp",
+          "sha256": "583b642cc11bbd971e21ad99c9e0c362c10966a3ac93e6062c0c411cdae436e4",
+          "bytes": 8866,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437302/thumb2x-9d71742bc1535bad4f18c09026c384761532a9e735107a26bfafe62f7db67ee1.webp",
+          "sha256": "9d71742bc1535bad4f18c09026c384761532a9e735107a26bfafe62f7db67ee1",
+          "bytes": 31540,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "494cf1deeabbe7a5f681ad9327fc1c4fbb5a21a765ddb031b849b6c3475149e7",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
       "id": "wp-met-437310",
       "name": "The Boulevard Montmartre on a Winter Morning",
       "author": "Camille Pissarro",
@@ -958,6 +2062,54 @@
       "conversion": {
         "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
         "inputSha256": "a93a2157555e3e7efc4f8f92d2302ab44bf839059f40c21a84b9e017859ea647",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437312",
+      "name": "The Garden of the Tuileries on a Winter Afternoon",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437312",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437312",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437312/image-2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f.webp",
+          "sha256": "2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f",
+          "bytes": 2225406,
+          "width": 2714,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437312/thumb-a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0.webp",
+          "sha256": "a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0",
+          "bytes": 7158,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437312/thumb2x-ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89.webp",
+          "sha256": "ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89",
+          "bytes": 34210,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "84b6c4a0a65eb264c8f6ac805c447334c44cf9990b06845e740dfec0d0366906",
         "profile": "webp-landscape-3840-320-640-v1"
       }
     },
@@ -1154,6 +2306,54 @@
       }
     },
     {
+      "id": "wp-met-437682",
+      "name": "View of Marly-le-Roi from Coeur-Volant",
+      "author": "Alfred Sisley",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437682",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437682",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437682/image-bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe.webp",
+          "sha256": "bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe",
+          "bytes": 1457016,
+          "width": 3042,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437682/thumb-40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3.webp",
+          "sha256": "40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3",
+          "bytes": 9834,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437682/thumb2x-7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696.webp",
+          "sha256": "7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696",
+          "bytes": 36726,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "e19fcc4caf0f170bd4361ede5fc6e92fd39b5b03e7f6dfad2c14d9a9547bb5f2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
       "id": "wp-met-437683",
       "name": "Sahurs Meadows in Morning Sun",
       "author": "Alfred Sisley",
@@ -1198,150 +2398,6 @@
       "conversion": {
         "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
         "inputSha256": "a89890c7b2f927a1edb740b330c5f8ef05748c98c8aeb6aa38a5ee259f10b247",
-        "profile": "webp-landscape-3840-320-640-v1"
-      }
-    },
-    {
-      "id": "wp-met-437853",
-      "name": "Venice, from the Porch of Madonna della Salute",
-      "author": "Joseph Mallord William Turner",
-      "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437853",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437853",
-        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-met-437853/image-be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b.webp",
-          "sha256": "be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b",
-          "bytes": 646142,
-          "width": 1959,
-          "height": 1461
-        },
-        "thumb": {
-          "path": "wallpapers/wp-met-437853/thumb-ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f.webp",
-          "sha256": "ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f",
-          "bytes": 7352,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-met-437853/thumb2x-f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac.webp",
-          "sha256": "f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac",
-          "bytes": 27122,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "05c6f7155da340471d9280e5be5ba9f01ba1589a83802f4fe9e396480a72e871",
-        "profile": "webp-landscape-3840-320-640-v1"
-      }
-    },
-    {
-      "id": "wp-met-437852",
-      "name": "Saltash with the Water Ferry, Cornwall",
-      "author": "Joseph Mallord William Turner",
-      "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437852",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437852",
-        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-met-437852/image-8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3.webp",
-          "sha256": "8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3",
-          "bytes": 1056370,
-          "width": 2856,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-met-437852/thumb-13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d.webp",
-          "sha256": "13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d",
-          "bytes": 4514,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-met-437852/thumb2x-126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2.webp",
-          "sha256": "126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2",
-          "bytes": 15256,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "2d104fbf22696442f4e6a6bd43054a911a14bd3957d7df98976af5f56ae255bd",
-        "profile": "webp-landscape-3840-320-640-v1"
-      }
-    },
-    {
-      "id": "wp-met-437854",
-      "name": "Whalers",
-      "author": "Joseph Mallord William Turner",
-      "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437854",
-      "rights": {
-        "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437854",
-        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
-        "attestationVersion": "ricewm-public-domain-1",
-        "certifiedPublicDomain": true,
-        "noThirdPartyRights": true,
-        "waiveOwnedRights": true
-      },
-      "submission": {
-        "pr": null,
-        "contributor": "RiceWM.org-curation"
-      },
-      "assets": {
-        "image": {
-          "path": "wallpapers/wp-met-437854/image-6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b.webp",
-          "sha256": "6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b",
-          "bytes": 1194630,
-          "width": 2881,
-          "height": 2160
-        },
-        "thumb": {
-          "path": "wallpapers/wp-met-437854/thumb-ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393.webp",
-          "sha256": "ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393",
-          "bytes": 3414,
-          "width": 320,
-          "height": 180
-        },
-        "thumb2x": {
-          "path": "wallpapers/wp-met-437854/thumb2x-6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145.webp",
-          "sha256": "6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145",
-          "bytes": 14016,
-          "width": 640,
-          "height": 360
-        }
-      },
-      "conversion": {
-        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "13f84a78383b67b2841acc5f894598fd9131467458d126e86c886b61721d139b",
         "profile": "webp-landscape-3840-320-640-v1"
       }
     },
@@ -1394,14 +2450,14 @@
       }
     },
     {
-      "id": "wp-met-437682",
-      "name": "View of Marly-le-Roi from Coeur-Volant",
-      "author": "Alfred Sisley",
+      "id": "wp-met-437852",
+      "name": "Saltash with the Water Ferry, Cornwall",
+      "author": "Joseph Mallord William Turner",
       "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437682",
+      "source": "https://www.metmuseum.org/art/collection/search/437852",
       "rights": {
         "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437682",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437852",
         "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
         "attestationVersion": "ricewm-public-domain-1",
         "certifiedPublicDomain": true,
@@ -1414,42 +2470,42 @@
       },
       "assets": {
         "image": {
-          "path": "wallpapers/wp-met-437682/image-bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe.webp",
-          "sha256": "bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe",
-          "bytes": 1457016,
-          "width": 3042,
+          "path": "wallpapers/wp-met-437852/image-8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3.webp",
+          "sha256": "8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3",
+          "bytes": 1056370,
+          "width": 2856,
           "height": 2160
         },
         "thumb": {
-          "path": "wallpapers/wp-met-437682/thumb-40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3.webp",
-          "sha256": "40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3",
-          "bytes": 9834,
+          "path": "wallpapers/wp-met-437852/thumb-13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d.webp",
+          "sha256": "13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d",
+          "bytes": 4514,
           "width": 320,
           "height": 180
         },
         "thumb2x": {
-          "path": "wallpapers/wp-met-437682/thumb2x-7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696.webp",
-          "sha256": "7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696",
-          "bytes": 36726,
+          "path": "wallpapers/wp-met-437852/thumb2x-126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2.webp",
+          "sha256": "126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2",
+          "bytes": 15256,
           "width": 640,
           "height": 360
         }
       },
       "conversion": {
         "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "e19fcc4caf0f170bd4361ede5fc6e92fd39b5b03e7f6dfad2c14d9a9547bb5f2",
+        "inputSha256": "2d104fbf22696442f4e6a6bd43054a911a14bd3957d7df98976af5f56ae255bd",
         "profile": "webp-landscape-3840-320-640-v1"
       }
     },
     {
-      "id": "wp-met-437302",
-      "name": "Barges at Pontoise",
-      "author": "Camille Pissarro",
+      "id": "wp-met-437853",
+      "name": "Venice, from the Porch of Madonna della Salute",
+      "author": "Joseph Mallord William Turner",
       "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437302",
+      "source": "https://www.metmuseum.org/art/collection/search/437853",
       "rights": {
         "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437302",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437853",
         "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
         "attestationVersion": "ricewm-public-domain-1",
         "certifiedPublicDomain": true,
@@ -1462,42 +2518,42 @@
       },
       "assets": {
         "image": {
-          "path": "wallpapers/wp-met-437302/image-bf5707bd05c62c53a076ced1f7c09401214318fb9366d52b10b9619f745239ff.webp",
-          "sha256": "bf5707bd05c62c53a076ced1f7c09401214318fb9366d52b10b9619f745239ff",
-          "bytes": 1680272,
-          "width": 2603,
-          "height": 2160
+          "path": "wallpapers/wp-met-437853/image-be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b.webp",
+          "sha256": "be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b",
+          "bytes": 646142,
+          "width": 1959,
+          "height": 1461
         },
         "thumb": {
-          "path": "wallpapers/wp-met-437302/thumb-583b642cc11bbd971e21ad99c9e0c362c10966a3ac93e6062c0c411cdae436e4.webp",
-          "sha256": "583b642cc11bbd971e21ad99c9e0c362c10966a3ac93e6062c0c411cdae436e4",
-          "bytes": 8866,
+          "path": "wallpapers/wp-met-437853/thumb-ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f.webp",
+          "sha256": "ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f",
+          "bytes": 7352,
           "width": 320,
           "height": 180
         },
         "thumb2x": {
-          "path": "wallpapers/wp-met-437302/thumb2x-9d71742bc1535bad4f18c09026c384761532a9e735107a26bfafe62f7db67ee1.webp",
-          "sha256": "9d71742bc1535bad4f18c09026c384761532a9e735107a26bfafe62f7db67ee1",
-          "bytes": 31540,
+          "path": "wallpapers/wp-met-437853/thumb2x-f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac.webp",
+          "sha256": "f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac",
+          "bytes": 27122,
           "width": 640,
           "height": 360
         }
       },
       "conversion": {
         "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "494cf1deeabbe7a5f681ad9327fc1c4fbb5a21a765ddb031b849b6c3475149e7",
+        "inputSha256": "05c6f7155da340471d9280e5be5ba9f01ba1589a83802f4fe9e396480a72e871",
         "profile": "webp-landscape-3840-320-640-v1"
       }
     },
     {
-      "id": "wp-met-437312",
-      "name": "The Garden of the Tuileries on a Winter Afternoon",
-      "author": "Camille Pissarro",
+      "id": "wp-met-437854",
+      "name": "Whalers",
+      "author": "Joseph Mallord William Turner",
       "category": "landscape",
-      "source": "https://www.metmuseum.org/art/collection/search/437312",
+      "source": "https://www.metmuseum.org/art/collection/search/437854",
       "rights": {
         "license": "CC0-1.0",
-        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437312",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437854",
         "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
         "attestationVersion": "ricewm-public-domain-1",
         "certifiedPublicDomain": true,
@@ -1510,30 +2566,126 @@
       },
       "assets": {
         "image": {
-          "path": "wallpapers/wp-met-437312/image-2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f.webp",
-          "sha256": "2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f",
-          "bytes": 2225406,
-          "width": 2714,
+          "path": "wallpapers/wp-met-437854/image-6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b.webp",
+          "sha256": "6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b",
+          "bytes": 1194630,
+          "width": 2881,
           "height": 2160
         },
         "thumb": {
-          "path": "wallpapers/wp-met-437312/thumb-a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0.webp",
-          "sha256": "a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0",
-          "bytes": 7158,
+          "path": "wallpapers/wp-met-437854/thumb-ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393.webp",
+          "sha256": "ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393",
+          "bytes": 3414,
           "width": 320,
           "height": 180
         },
         "thumb2x": {
-          "path": "wallpapers/wp-met-437312/thumb2x-ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89.webp",
-          "sha256": "ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89",
-          "bytes": 34210,
+          "path": "wallpapers/wp-met-437854/thumb2x-6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145.webp",
+          "sha256": "6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145",
+          "bytes": 14016,
           "width": 640,
           "height": 360
         }
       },
       "conversion": {
         "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
-        "inputSha256": "84b6c4a0a65eb264c8f6ac805c447334c44cf9990b06845e740dfec0d0366906",
+        "inputSha256": "13f84a78383b67b2841acc5f894598fd9131467458d126e86c886b61721d139b",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437998",
+      "name": "Olive Trees",
+      "author": "Vincent van Gogh",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437998",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437998",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437998/image-e5a97d7d6a052a2978d487dc160e5641c4c49d829fce49ad3d29aa67b59b7921.webp",
+          "sha256": "e5a97d7d6a052a2978d487dc160e5641c4c49d829fce49ad3d29aa67b59b7921",
+          "bytes": 1861864,
+          "width": 2708,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437998/thumb-d8d53ea84bfa1bbb537573aeb1e1e460f861a60b79964a626af084132ccf2536.webp",
+          "sha256": "d8d53ea84bfa1bbb537573aeb1e1e460f861a60b79964a626af084132ccf2536",
+          "bytes": 14360,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437998/thumb2x-b0f5c68f0ec8e691755f6a73047ae810d974d922b825f982d0dee499b83694bb.webp",
+          "sha256": "b0f5c68f0ec8e691755f6a73047ae810d974d922b825f982d0dee499b83694bb",
+          "bytes": 58358,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "04e9591ae681528da4d6d1589288174cfdae5fa011b6e31d400a5ca4396a6dbb",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-45434",
+      "name": "Under the Wave off Kanagawa, also known as The Great Wave",
+      "author": "Katsushika Hokusai",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/45434",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-45434/image-340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d.webp",
+          "sha256": "340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d",
+          "bytes": 1938718,
+          "width": 3213,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-45434/thumb-16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972.webp",
+          "sha256": "16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972",
+          "bytes": 13518,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-45434/thumb2x-2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656.webp",
+          "sha256": "2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656",
+          "bytes": 50142,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "cbb9988f2f18b9180a1cc0cf5dbb0e3bbf8f2e85d17930cf6ca9ab36fac36303",
         "profile": "webp-landscape-3840-320-640-v1"
       }
     }

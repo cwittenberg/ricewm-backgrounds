@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-abstract-background-00081",
+  "name": "Neon Fold",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-abstract-background-00081/image-2e2184650a426bd6049f9509e9561e761a8b5b1cc138db3c2d2bd61a37e26ff3.webp",
+      "sha256": "2e2184650a426bd6049f9509e9561e761a8b5b1cc138db3c2d2bd61a37e26ff3",
+      "bytes": 80322,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-abstract-background-00081/thumb-26b28a90053f83a4404849b7b1237c1728fcb4299b3b7b76e6d421b5b7975119.webp",
+      "sha256": "26b28a90053f83a4404849b7b1237c1728fcb4299b3b7b76e6d421b5b7975119",
+      "bytes": 1308,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-abstract-background-00081/thumb2x-08890f66589f41d67a4eed5d7d2b21cda17150b92bb35e788f1763bbb3528e9d.webp",
+      "sha256": "08890f66589f41d67a4eed5d7d2b21cda17150b92bb35e788f1763bbb3528e9d",
+      "bytes": 3076,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "273fea3a70f389662c27bb5ae09a62c1f8b11be83d1d226e90ea62a15af3ba4e",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

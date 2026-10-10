@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-abstract-w03",
+  "name": "Spectral Spiral",
+  "author": "Wenrexa",
+  "category": "abstract",
+  "source": "https://wenrexa.itch.io/abstractbq",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/abstractbq",
+    "basis": "The original creator Wenrexa explicitly releases this asset pack as Creative Commons Zero v1.0 Universal on their own itch.io page. The page identifies Photoshop as the creation tool and states no generative AI was used. Only clean original background images are included; bundled font, examples, text overlays and PSD files are excluded.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-abstract-w03/image-25a52370670fac516b00822a584aba2b7d1f52bda4a4efb787cfac204db4c36b.webp",
+      "sha256": "25a52370670fac516b00822a584aba2b7d1f52bda4a4efb787cfac204db4c36b",
+      "bytes": 108592,
+      "width": 2560,
+      "height": 1440
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-abstract-w03/thumb-3fa8eead4849a24ddf697be5669e6468230a984945cb66ee04e39b145c99eff9.webp",
+      "sha256": "3fa8eead4849a24ddf697be5669e6468230a984945cb66ee04e39b145c99eff9",
+      "bytes": 4244,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-abstract-w03/thumb2x-dd48df52c166ea46481d5d46c34dd56eba87595fe39dd71df857b671c791ae14.webp",
+      "sha256": "dd48df52c166ea46481d5d46c34dd56eba87595fe39dd71df857b671c791ae14",
+      "bytes": 9666,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "417001d678ccade0430d79dfc25c8d57f497728fe6830639527639323a884883",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

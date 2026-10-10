@@ -3,8 +3,9 @@
 Public-domain wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository starts with 32 individually sourced open-access landscapes and
-Japanese prints from The Metropolitan Museum of Art. Each item includes its
+This repository contains 56 wallpapers: 24 creator-owned CC0 neon, abstract,
+space, manga, anime-inspired and handpainted designs, alongside 32 individually
+sourced landscapes and Japanese prints from The Metropolitan Museum of Art. Each item includes its
 creator, source record, CC0 evidence and conversion hashes in
 [catalog/candidates.json](catalog/candidates.json). Browse the previews below.
 
@@ -35,6 +36,154 @@ Images carry their individual public-domain/CC0 evidence. RiceWM.org dedicates
 any rights it owns in normalized derivatives and collection metadata under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## Modern ricing collection
+
+These 24 additions have creator CC0 evidence. Repository assets are independent of operator approval for app inclusion.
+
+### Prismatic Bloom
+
+[![Prismatic Bloom](wallpapers/wp-wenrexa-abstract-background-00050/thumb-c4cb80644c0f16a285d890c560d48f927075ae19b1b6e049a416860df7f4d4a8.webp)](wallpapers/wp-wenrexa-abstract-background-00050/image-c66d591973ca54593778ca7f0ab06c7ff87540bc3dff5f09caca9568466c08fe.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Neon Fold
+
+[![Neon Fold](wallpapers/wp-wenrexa-abstract-background-00081/thumb-26b28a90053f83a4404849b7b1237c1728fcb4299b3b7b76e6d421b5b7975119.webp)](wallpapers/wp-wenrexa-abstract-background-00081/image-2e2184650a426bd6049f9509e9561e761a8b5b1cc138db3c2d2bd61a37e26ff3.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Midnight Prism
+
+[![Midnight Prism](wallpapers/wp-wenrexa-abstract-background-00113/thumb-a5173b4a86201dba7eff944ab00a90069d33d916fa40686e67d54366d135cf92.webp)](wallpapers/wp-wenrexa-abstract-background-00113/image-9525768d585e96ee68818f089beaa7f4d7a4928a9686d7f275ebf2a5abbf9f76.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Northern Glow
+
+[![Northern Glow](wallpapers/wp-wenrexa-abstract-background-00240/thumb-c34806c56216fef675608f70cc2b4b8fc80d120058cc5c8175fbcc9a77a9893e.webp)](wallpapers/wp-wenrexa-abstract-background-00240/image-2aee56177e3f3767d2c1cf20ab549ec872903faee8cbbe54d2993333d78b71d1.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Lime Vortex
+
+[![Lime Vortex](wallpapers/wp-wenrexa-abstract-background-00272/thumb-0518cd17d0e538de46f14d3ac4d1f1a6c3f44aa45fa4c72a955a5c8450bf2078.webp)](wallpapers/wp-wenrexa-abstract-background-00272/image-a073f17dbdcea88832bd85a46999567053aa0f5b25fbabda494ea0dfc3f5e8ea.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Chromatic Portal
+
+[![Chromatic Portal](wallpapers/wp-wenrexa-abstract-background-00304/thumb-6befd6aab05a7a86c02cb0b4fe5d21ae0cf8d446659e99f8e4749ae93fa72387.webp)](wallpapers/wp-wenrexa-abstract-background-00304/image-21b276547a0635472dd80e6948aebfd3764ee45a693a7d4482fcd9897dbe3a95.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Teal Geometry
+
+[![Teal Geometry](wallpapers/wp-wenrexa-abstract-background-00341/thumb-5ffd4f0bac529108f66bb7245e609c3678eb6dfbffc6a6edc3340f3d1a7f8aea.webp)](wallpapers/wp-wenrexa-abstract-background-00341/image-0ee1fb1d80567c49bbf7fae3ae6e40357a6e8e2d709806188060145394e71a54.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Midnight Windows
+
+[![Midnight Windows](wallpapers/wp-wenrexa-abstract-background-00368/thumb-550d25576cfbf7a8eb8f37887939c0a7cd21464738afd45748d3160cc85a3598.webp)](wallpapers/wp-wenrexa-abstract-background-00368/image-b68e1faebf1380da1c959a24805117b243b2a8f9aa145b177f3c673f3ce3d624.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Aqua Fan
+
+[![Aqua Fan](wallpapers/wp-wenrexa-abstract-w02/thumb-a1ad018d21c9d505f5765e8eaa6149a1430fc05aae1e660e3a8f58ec77d0f0ae.webp)](wallpapers/wp-wenrexa-abstract-w02/image-8f32600459958ed46456941eda2948bfe2c930bd32156056e61af0fd35631b7c.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Spectral Spiral
+
+[![Spectral Spiral](wallpapers/wp-wenrexa-abstract-w03/thumb-3fa8eead4849a24ddf697be5669e6468230a984945cb66ee04e39b145c99eff9.webp)](wallpapers/wp-wenrexa-abstract-w03/image-25a52370670fac516b00822a584aba2b7d1f52bda4a4efb787cfac204db4c36b.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Blue Flame
+
+[![Blue Flame](wallpapers/wp-wenrexa-abstract-w04/thumb-4237e7132f4e3fb99bcb290338f704c3b904b2e0f4aca4ec1d42e4595cdc6430.webp)](wallpapers/wp-wenrexa-abstract-w04/image-c3577ef83972536fe3fa5ad5bfb9f05c38f6fd3d480d404fc6313b31323edc40.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Coral Current
+
+[![Coral Current](wallpapers/wp-wenrexa-abstract-w05/thumb-85dfab74a077ca58542ea7b5decb15c87fabc583d994d204d2771952365b07ce.webp)](wallpapers/wp-wenrexa-abstract-w05/image-06e5867c20509267165b4416701a469a0dd2a4a1f2bda7024499179daa69b97c.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
+
+### Electric Nebula
+
+[![Electric Nebula](wallpapers/wp-wenrexa-space-1/thumb-651db9a9b1a88712eb5105a69ddc18026990e54cba683313c9052fdf9b1c2613.webp)](wallpapers/wp-wenrexa-space-1/image-8e76fb327c37b17331c3e5b017d43ab446f888c3ef4127881a2531ece140e74b.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/spacebq2)
+
+### Indigo Galaxy
+
+[![Indigo Galaxy](wallpapers/wp-wenrexa-space-2/thumb-61d5f02274af1ddb90bebdb76908258e8425f5bbc7d7b517695f70b534c90c8d.webp)](wallpapers/wp-wenrexa-space-2/image-3d55024591c82ab727e61d67c5cd7240d5359b0e0dac7abb7a398f623b4cace0.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/spacebq2)
+
+### Blue Orbit
+
+[![Blue Orbit](wallpapers/wp-wenrexa-space-3/thumb-9032d902926fec67a8dbcfba9742bad529e1e696936a3703fdc7f321e2cfa654.webp)](wallpapers/wp-wenrexa-space-3/image-fb941a629580ae08f03a0d6c3f1c7e0f03d7beb1ed9f29bb913dfa17364197bb.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/spacebq2)
+
+### Violet Dust
+
+[![Violet Dust](wallpapers/wp-wenrexa-space-4/thumb-705894662a5d24ac8fa403472ab02200702c33564b61a9a79c754c0f478f8431.webp)](wallpapers/wp-wenrexa-space-4/image-d7c246bef6809496b7b7cd0c2fe7a2216fadba418babc6176abc88e4823c9506.webp)
+
+Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/spacebq2)
+
+### Manga Megastructure
+
+[![Manga Megastructure](wallpapers/wp-kutejnikov-manga-manga-bg-06/thumb-879a2c156e52f84aba0761383540ba35abacf4448df7e08d8b3747c45f46b628.webp)](wallpapers/wp-kutejnikov-manga-manga-bg-06/image-6981280da1333b70785b13a02dce62e2a0dbc58c509b1b55cf191230f8088d6a.webp)
+
+Pavel Kutejnikov · [creator source / CC0 evidence](https://opengameart.org/content/manga-style-background)
+
+### Manga Skybridge
+
+[![Manga Skybridge](wallpapers/wp-kutejnikov-manga-manga-bg-10/thumb-41f8b0046e1593785562cf46db9fd54ef171187bb06c00cd41fe607de84b67ee.webp)](wallpapers/wp-kutejnikov-manga-manga-bg-10/image-b3b5505bb9c542c5dc77d62aa8c8ac72ebeda166eddce1022362fcc9e1bc9484.webp)
+
+Pavel Kutejnikov · [creator source / CC0 evidence](https://opengameart.org/content/manga-style-background)
+
+### School Hallway at Sunset
+
+[![School Hallway at Sunset](wallpapers/wp-iletora-hallway-visible/thumb-d42a18bb9bcf7ee8de992e5c88d66cf6cf7105b412634f63944b1e9bc74cd58b.webp)](wallpapers/wp-iletora-hallway-visible/image-4530d27b4058a077064484838f651bbbb01da54ba5ec29c899d61796cac3ceeb.webp)
+
+Iletora · [creator source / CC0 evidence](https://iletora.itch.io/school-hallway)
+
+### School Hallway in Daylight
+
+[![School Hallway in Daylight](wallpapers/wp-iletora-hallway-visible2/thumb-2b13eb805021845fe54f8e252ec6c9cbbf7863b23d90b08796f2167325bc7d52.webp)](wallpapers/wp-iletora-hallway-visible2/image-5e63dbf7a30aa63dc66350a6b594856c50147ce0977e9b6ab594541e0d9c3790.webp)
+
+Iletora · [creator source / CC0 evidence](https://iletora.itch.io/school-hallway)
+
+### Watercolour Woodland
+
+[![Watercolour Woodland](wallpapers/wp-lambert-painted-bg-deep-woods/thumb-b7961f192a16b06e2259e83393327797855e0db42075a26102f3e5125597bdd5.webp)](wallpapers/wp-lambert-painted-bg-deep-woods/image-6941299bdf317712b1b4911714c1dc704edf7e464dba831438b4979624aa2910.webp)
+
+Clifton Lambert · [creator source / CC0 evidence](https://prismshard77.itch.io/handpainted-visual-novel-backgrounds)
+
+### Watercolour Meadow Path
+
+[![Watercolour Meadow Path](wallpapers/wp-lambert-painted-bg-forest-meadow/thumb-cad5ec8178e9a2be4da0f01c5318edd55f742bfe6da5f724be06aa1a08788df3.webp)](wallpapers/wp-lambert-painted-bg-forest-meadow/image-d9690f4a9697d27187cd269d877d9e8a1f2dc45c3aed4df147e798d54b3b01d9.webp)
+
+Clifton Lambert · [creator source / CC0 evidence](https://prismshard77.itch.io/handpainted-visual-novel-backgrounds)
+
+### Watercolour Open Meadow
+
+[![Watercolour Open Meadow](wallpapers/wp-lambert-painted-bg-open-meadow/thumb-c7ac5f633f1553abacbef4e4b9b0b837fb5998bcef38771e05c9ccb163bd2e81.webp)](wallpapers/wp-lambert-painted-bg-open-meadow/image-e8fa68b87bc783cf9435cc8ff2197a088c7df3de994f1f64cf7a175897cc1ccd.webp)
+
+Clifton Lambert · [creator source / CC0 evidence](https://prismshard77.itch.io/handpainted-visual-novel-backgrounds)
+
+### Dusk Silhouettes
+
+[![Dusk Silhouettes](wallpapers/wp-tigitalart-hills-scenery-complete/thumb-045eb328e07665a8fbde2f48d27f2372fd3c3a4cee81b46c221eba68159da550.webp)](wallpapers/wp-tigitalart-hills-scenery-complete/image-55ef9080c62025e60d200cd5449e82d86014177ec911270bcbc6ad060ee209ad.webp)
+
+tigitalart · [creator source / CC0 evidence](https://opengameart.org/content/hills-scenery-background-seamless)
 
 ## Starter collection
 

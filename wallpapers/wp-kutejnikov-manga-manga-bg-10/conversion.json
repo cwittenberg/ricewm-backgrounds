@@ -1,0 +1,48 @@
+{
+  "id": "wp-kutejnikov-manga-manga-bg-10",
+  "name": "Manga Skybridge",
+  "author": "Pavel Kutejnikov",
+  "category": "manga",
+  "source": "https://opengameart.org/content/manga-style-background",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://opengameart.org/content/manga-style-background",
+    "basis": "Original artist Kutejnikov releases their Blender grease-pencil industrial environments under CC0 on their own OpenGameArt submission. The included ReadMe.txt independently names Pavel Kutejnikov and states License: CC0 (public domain). The artist describes stylistic inspiration; these selected empty industrial scenes contain no franchise characters, logos or copied panels.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-kutejnikov-manga-manga-bg-10/image-b3b5505bb9c542c5dc77d62aa8c8ac72ebeda166eddce1022362fcc9e1bc9484.webp",
+      "sha256": "b3b5505bb9c542c5dc77d62aa8c8ac72ebeda166eddce1022362fcc9e1bc9484",
+      "bytes": 224364,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-kutejnikov-manga-manga-bg-10/thumb-41f8b0046e1593785562cf46db9fd54ef171187bb06c00cd41fe607de84b67ee.webp",
+      "sha256": "41f8b0046e1593785562cf46db9fd54ef171187bb06c00cd41fe607de84b67ee",
+      "bytes": 8934,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-kutejnikov-manga-manga-bg-10/thumb2x-004d8ca8dd9320c11878ea91ff59eacab00876ea081acf9c87b5d33f7a1064ea.webp",
+      "sha256": "004d8ca8dd9320c11878ea91ff59eacab00876ea081acf9c87b5d33f7a1064ea",
+      "bytes": 28742,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "dc0646680fec3c4c456f63f78ea873685eb0506f613d9cae9c3ce77b37188a9a",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

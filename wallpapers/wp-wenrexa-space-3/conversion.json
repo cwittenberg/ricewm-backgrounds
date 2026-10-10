@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-space-3",
+  "name": "Blue Orbit",
+  "author": "Wenrexa",
+  "category": "space",
+  "source": "https://wenrexa.itch.io/spacebq2",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/spacebq2",
+    "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-space-3/image-fb941a629580ae08f03a0d6c3f1c7e0f03d7beb1ed9f29bb913dfa17364197bb.webp",
+      "sha256": "fb941a629580ae08f03a0d6c3f1c7e0f03d7beb1ed9f29bb913dfa17364197bb",
+      "bytes": 103396,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-space-3/thumb-9032d902926fec67a8dbcfba9742bad529e1e696936a3703fdc7f321e2cfa654.webp",
+      "sha256": "9032d902926fec67a8dbcfba9742bad529e1e696936a3703fdc7f321e2cfa654",
+      "bytes": 1908,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-space-3/thumb2x-b7825676239a520c572407fb7b39519d4353c739b501a483c8347633cf157889.webp",
+      "sha256": "b7825676239a520c572407fb7b39519d4353c739b501a483c8347633cf157889",
+      "bytes": 4738,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "5c5078287c46b49e1239cf553eba847eeff70b526f18febd8920698190dca7d8",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

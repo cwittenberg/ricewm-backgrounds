@@ -1,0 +1,48 @@
+{
+  "id": "wp-lambert-painted-bg-deep-woods",
+  "name": "Watercolour Woodland",
+  "author": "Clifton Lambert",
+  "category": "watercolour",
+  "source": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://prismshard77.itch.io/handpainted-visual-novel-backgrounds",
+    "basis": "The original artist Clifton Lambert states these three original visual-novel backgrounds were handpainted and scanned, and explicitly dedicates them under Creative Commons zero on their own asset page. Their linked Make Visual Novel Assets! Jam submission supplies the CC0 policy URL. The page states no generative AI was used. These contain original painted nature scenes only.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-lambert-painted-bg-deep-woods/image-6941299bdf317712b1b4911714c1dc704edf7e464dba831438b4979624aa2910.webp",
+      "sha256": "6941299bdf317712b1b4911714c1dc704edf7e464dba831438b4979624aa2910",
+      "bytes": 599312,
+      "width": 1920,
+      "height": 1080
+    },
+    "thumb": {
+      "path": "wallpapers/wp-lambert-painted-bg-deep-woods/thumb-b7961f192a16b06e2259e83393327797855e0db42075a26102f3e5125597bdd5.webp",
+      "sha256": "b7961f192a16b06e2259e83393327797855e0db42075a26102f3e5125597bdd5",
+      "bytes": 6846,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-lambert-painted-bg-deep-woods/thumb2x-4fa2754fb9edc002aa0fee88c49c65db40b5351fa448729a508eb7479f081bf7.webp",
+      "sha256": "4fa2754fb9edc002aa0fee88c49c65db40b5351fa448729a508eb7479f081bf7",
+      "bytes": 25186,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "5083f4f1f37a2dd3c5b2768de38b10eb6003d3ba63733ae2bd5695076cd4a919",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

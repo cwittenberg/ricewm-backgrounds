@@ -1,0 +1,48 @@
+{
+  "id": "wp-wenrexa-space-2",
+  "name": "Indigo Galaxy",
+  "author": "Wenrexa",
+  "category": "space",
+  "source": "https://wenrexa.itch.io/spacebq2",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://wenrexa.itch.io/spacebq2",
+    "basis": "The original creator Wenrexa explicitly releases these four original space-background artworks under Creative Commons Zero v1.0 Universal on their own itch.io page, identifies Photoshop as the creation tool and states no generative AI was used. These are artwork, not NASA photographs or third-party franchise imagery.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-wenrexa-space-2/image-3d55024591c82ab727e61d67c5cd7240d5359b0e0dac7abb7a398f623b4cace0.webp",
+      "sha256": "3d55024591c82ab727e61d67c5cd7240d5359b0e0dac7abb7a398f623b4cace0",
+      "bytes": 144884,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-wenrexa-space-2/thumb-61d5f02274af1ddb90bebdb76908258e8425f5bbc7d7b517695f70b534c90c8d.webp",
+      "sha256": "61d5f02274af1ddb90bebdb76908258e8425f5bbc7d7b517695f70b534c90c8d",
+      "bytes": 2674,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-wenrexa-space-2/thumb2x-b0036597f07ca2eb36fd9fb36c77cad7e8f804e26b5169c80ab17a2b7a46a6d0.webp",
+      "sha256": "b0036597f07ca2eb36fd9fb36c77cad7e8f804e26b5169c80ab17a2b7a46a6d0",
+      "bytes": 6694,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "26ebdccdf90f4b208d7652260437e69cc07fa8d86f8dc5c356b0d2da687d195a",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}
