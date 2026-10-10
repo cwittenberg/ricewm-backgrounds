@@ -378,3 +378,64 @@ Camille Pissarro · [source](https://www.metmuseum.org/art/collection/search/437
 ![The Garden of the Tuileries on a Winter Afternoon](wallpapers/wp-met-437312/thumb2x-ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89.webp)
 
 Camille Pissarro · [source](https://www.metmuseum.org/art/collection/search/437312) · [CC0 evidence](https://collectionapi.metmuseum.org/public/collection/v1/objects/437312)
+
+## Wallpaper tags
+
+Every candidate and conversion receipt stores descriptive `tags`. Quick Wallpapers and the marketplace provide a tag filter. New submissions require 1–12 distinct lowercase tags of up to 32 characters each. Tag changes are bound to the reviewed manifest.
+
+- **School Hallway at Sunset**: `anime`, `anime-inspired`, `architecture`, `modern`, `warm`
+- **School Hallway in Daylight**: `anime`, `anime-inspired`, `architecture`, `blue`, `modern`
+- **Manga Megastructure**: `architecture`, `industrial`, `manga`, `modern`, `monochrome`
+- **Manga Skybridge**: `architecture`, `industrial`, `manga`, `modern`, `monochrome`
+- **Watercolour Woodland**: `forest`, `green`, `landscape`, `watercolour`
+- **Watercolour Meadow Path**: `green`, `landscape`, `watercolour`
+- **Watercolour Open Meadow**: `landscape`, `pastel`, `watercolour`
+- **Dusk Silhouettes**: `landscape`, `minimal`, `modern`, `pastel`
+- **Prismatic Bloom**: `abstract`, `colourful`, `modern`, `neon`
+- **Neon Fold**: `abstract`, `geometric`, `modern`, `neon`
+- **Midnight Prism**: `dark`, `geometric`, `minimal`, `modern`
+- **Northern Glow**: `aurora`, `dark`, `minimal`, `modern`
+- **Lime Vortex**: `abstract`, `green`, `modern`, `neon`
+- **Chromatic Portal**: `abstract`, `colourful`, `modern`, `neon`
+- **Teal Geometry**: `dark`, `geometric`, `modern`, `teal`
+- **Midnight Windows**: `dark`, `geometric`, `modern`
+- **Aqua Fan**: `abstract`, `minimal`, `modern`, `teal`
+- **Spectral Spiral**: `abstract`, `colourful`, `modern`, `neon`
+- **Blue Flame**: `blue`, `dark`, `minimal`, `modern`
+- **Coral Current**: `abstract`, `coral`, `modern`, `pastel`
+- **Electric Nebula**: `modern`, `nebula`, `neon`, `space`
+- **Indigo Galaxy**: `blue`, `dark`, `modern`, `space`
+- **Blue Orbit**: `blue`, `modern`, `planet`, `space`
+- **Violet Dust**: `modern`, `nebula`, `purple`, `space`
+- **Canadian Rockies**: `art`, `landscape`, `painting`
+- **Merced River, Yosemite Valley**: `art`, `landscape`, `painting`
+- **Mountain Scene**: `art`, `landscape`, `painting`
+- **The Rocky Mountains, Lander's Peak**: `art`, `landscape`, `painting`
+- **Sea Cove**: `art`, `landscape`, `painting`
+- **The Aegean Sea**: `art`, `landscape`, `painting`
+- **Heart of the Andes**: `art`, `landscape`, `painting`
+- **The Parthenon**: `art`, `landscape`, `painting`
+- **After the Storm**: `art`, `landscape`, `painting`
+- **Kintai Bridge in Suō Province**: `art`, `japanese`, `woodblock`
+- **Cherry Blossoms at Arashiyama**: `art`, `japanese`, `woodblock`
+- **Sudden Shower at Shōno**: `art`, `japanese`, `woodblock`
+- **The Autumn Moon at Ishiyama on Lake Biwa**: `art`, `japanese`, `woodblock`
+- **Evening Snow on Hira, Lake Biwa**: `art`, `japanese`, `woodblock`
+- **Wheat Field with Cypresses**: `art`, `landscape`, `painting`
+- **Jalais Hill, Pontoise**: `art`, `landscape`, `painting`
+- **A Cowherd at Valhermeil, Auvers-sur-Oise**: `art`, `landscape`, `painting`
+- **Barges at Pontoise**: `art`, `landscape`, `painting`
+- **The Boulevard Montmartre on a Winter Morning**: `art`, `landscape`, `painting`
+- **The Garden of the Tuileries on a Winter Afternoon**: `art`, `landscape`, `painting`
+- **View of the Seacoast near Wargemont in Normandy**: `art`, `landscape`, `painting`
+- **The Bay of Naples**: `art`, `landscape`, `painting`
+- **Hills around the Bay of Moulin Huet, Guernsey**: `art`, `landscape`, `painting`
+- **The Bridge at Villeneuve-la-Garenne**: `art`, `landscape`, `painting`
+- **View of Marly-le-Roi from Coeur-Volant**: `art`, `landscape`, `painting`
+- **Sahurs Meadows in Morning Sun**: `art`, `landscape`, `painting`
+- **The Road from Versailles to Louveciennes**: `art`, `landscape`, `painting`
+- **Saltash with the Water Ferry, Cornwall**: `art`, `landscape`, `painting`
+- **Venice, from the Porch of Madonna della Salute**: `art`, `landscape`, `painting`
+- **Whalers**: `art`, `landscape`, `painting`
+- **Olive Trees**: `art`, `landscape`, `painting`
+- **Under the Wave off Kanagawa, also known as The Great Wave**: `art`, `japanese`, `woodblock`

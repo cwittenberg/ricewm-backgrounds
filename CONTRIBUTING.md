@@ -6,6 +6,11 @@
    within these bounds. Keep your submitted source; the operator generates WebP.
 2. Add `wallpaper.json` beside it using the example below. Provide the original
    creator, a direct source record and verifiable evidence of public-domain status.
+   Include 1–12 distinct lowercase tags (maximum 32 characters each) describing
+   the style, subject, colours or palette, such as `modern`, `minimal`, `dark`,
+   `neon`, `space`, `anime`, `catppuccin` or `gruvbox`. Use palette names only
+   when the artwork actually matches that palette. Tags are reviewed and used
+   by the app’s tag filter.
    Museum CC0 records and an explicit CC0 dedication by the actual creator are
    suitable evidence. A generic website footer, repository license, stock-site
    download button or assertion without evidence is insufficient.
@@ -35,6 +40,7 @@ Use the [private reporting form](https://account.env.now/wallpaper-copyright).
   "name": "Mountain dawn",
   "author": "Original creator",
   "category": "landscape",
+  "tags": ["landscape", "minimal", "dark"],
   "input": "submissions/your-slug/source.jpg",
   "source": "https://example.org/original-source-record",
   "rights": {

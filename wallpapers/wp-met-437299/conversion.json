@@ -44,5 +44,10 @@
     "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
     "inputSha256": "dd9ddf92c6b15e860bcf5c1f2e0621d9e25c32ffc3e4c8c58cd48b58fbcf6ac2",
     "profile": "webp-landscape-3840-320-640-v1"
-  }
+  },
+  "tags": [
+    "art",
+    "landscape",
+    "painting"
+  ]
 }

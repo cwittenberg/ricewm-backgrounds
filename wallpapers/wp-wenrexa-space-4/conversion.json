@@ -44,5 +44,11 @@
     "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
     "inputSha256": "cb6afb6dace8751e83d168f234ddba5beee7a1a2c42ca4b69f7310ea0b06dda2",
     "profile": "webp-landscape-3840-320-640-v1"
-  }
+  },
+  "tags": [
+    "modern",
+    "nebula",
+    "purple",
+    "space"
+  ]
 }

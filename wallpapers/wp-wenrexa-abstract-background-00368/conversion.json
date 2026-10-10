@@ -44,5 +44,10 @@
     "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
     "inputSha256": "fadf05fec875ed221d3fce97d06aae57387dc927b875f0222a38dde90d7fdf10",
     "profile": "webp-landscape-3840-320-640-v1"
-  }
+  },
+  "tags": [
+    "dark",
+    "geometric",
+    "modern"
+  ]
 }

@@ -44,5 +44,11 @@
     "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
     "inputSha256": "d7a788ee81aed036c6df537e8e7e3ab08394ad5e05e853965f44845c96821152",
     "profile": "webp-landscape-3840-320-640-v1"
-  }
+  },
+  "tags": [
+    "abstract",
+    "coral",
+    "modern",
+    "pastel"
+  ]
 }
