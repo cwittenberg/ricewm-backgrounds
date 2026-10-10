@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-10155",
+  "name": "Sea Cove",
+  "author": "Albert Bierstadt",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/10155",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10155",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-10155/image-092501f7e356e61a5ff3a0e8aa5a6349491b4c139ff516e155ef61647b2d708e.webp",
+      "sha256": "092501f7e356e61a5ff3a0e8aa5a6349491b4c139ff516e155ef61647b2d708e",
+      "bytes": 1339954,
+      "width": 2938,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-10155/thumb-b924b4e7ef187decd6c4bfc59a60a05eb4f728223ca273c61602eafea5362266.webp",
+      "sha256": "b924b4e7ef187decd6c4bfc59a60a05eb4f728223ca273c61602eafea5362266",
+      "bytes": 6266,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-10155/thumb2x-a6d043d8f9422892f25c2bf3d50397369d7f8d11c937c952bb1eee377feb22db.webp",
+      "sha256": "a6d043d8f9422892f25c2bf3d50397369d7f8d11c937c952bb1eee377feb22db",
+      "bytes": 22584,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "f11b07da6e1e28bd35c3805e8f83cf0a37210de317f196b33e744f9b5d69990c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

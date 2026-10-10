@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437299",
+  "name": "Jalais Hill, Pontoise",
+  "author": "Camille Pissarro",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437299",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437299",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437299/image-7226fd01f9a15bc2b0b097de0d52ea29a85bb5212d20a2f62eedfae5fbf5edc0.webp",
+      "sha256": "7226fd01f9a15bc2b0b097de0d52ea29a85bb5212d20a2f62eedfae5fbf5edc0",
+      "bytes": 1485784,
+      "width": 2832,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437299/thumb-d6d809092da1b1390b1061eb7161e71d4f282727aeee3d313f8a7723c6ec93d0.webp",
+      "sha256": "d6d809092da1b1390b1061eb7161e71d4f282727aeee3d313f8a7723c6ec93d0",
+      "bytes": 9256,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437299/thumb2x-73cd32589a9c32b66aaa1114c451fba6197efa47bc30e8af6a6c8f2b85e68339.webp",
+      "sha256": "73cd32589a9c32b66aaa1114c451fba6197efa47bc30e8af6a6c8f2b85e68339",
+      "bytes": 31650,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "dd9ddf92c6b15e860bcf5c1f2e0621d9e25c32ffc3e4c8c58cd48b58fbcf6ac2",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-36489",
+  "name": "Kintai Bridge in Suō Province",
+  "author": "Katsushika Hokusai",
+  "category": "japanese",
+  "source": "https://www.metmuseum.org/art/collection/search/36489",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36489",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-36489/image-533f34e09f655b16a421fd38424c59f137e3ecb8d2132a388de2ae473cbca8d8.webp",
+      "sha256": "533f34e09f655b16a421fd38424c59f137e3ecb8d2132a388de2ae473cbca8d8",
+      "bytes": 611122,
+      "width": 1923,
+      "height": 1328
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-36489/thumb-321f380731ff8fd6a143237ea4178263c7fdaad2f14fcfdfd8611e2b78cb909d.webp",
+      "sha256": "321f380731ff8fd6a143237ea4178263c7fdaad2f14fcfdfd8611e2b78cb909d",
+      "bytes": 8558,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-36489/thumb2x-96e8c200b55de00b01f8b7d82de5b0f591fa47f0e08947246eb862d1044ed928.webp",
+      "sha256": "96e8c200b55de00b01f8b7d82de5b0f591fa47f0e08947246eb862d1044ed928",
+      "bytes": 33764,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "d16a9c7add7139733c872c72cb33f8f8343e975a202d0e5825597fd40a41f1f4",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

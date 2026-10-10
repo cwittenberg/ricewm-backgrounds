@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437426",
+  "name": "View of the Seacoast near Wargemont in Normandy",
+  "author": "Auguste Renoir",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437426",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437426",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437426/image-03e129c532d53bd67c1a6f032571870b820d6ad328d933593e5b5bb86c21396b.webp",
+      "sha256": "03e129c532d53bd67c1a6f032571870b820d6ad328d933593e5b5bb86c21396b",
+      "bytes": 1419250,
+      "width": 2636,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437426/thumb-1ac007109295f34f75c0277e39e38efb6e5659d81dd662d58738a0615a189b3a.webp",
+      "sha256": "1ac007109295f34f75c0277e39e38efb6e5659d81dd662d58738a0615a189b3a",
+      "bytes": 7588,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437426/thumb2x-210d42e70818cee92f46f177181c49e095d89aa12be9dee03039ce8b24abcbf3.webp",
+      "sha256": "210d42e70818cee92f46f177181c49e095d89aa12be9dee03039ce8b24abcbf3",
+      "bytes": 30254,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "7bf0883b1d2bbdc0018ceabf4e957d32ece90611c0e384bb5fcb012d43855472",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

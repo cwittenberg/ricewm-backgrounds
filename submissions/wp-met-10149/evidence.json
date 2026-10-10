@@ -1,0 +1,107 @@
+{
+  "retrievedAt": "2026-10-10T14:57:24.139Z",
+  "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10149",
+  "data": {
+    "objectID": 10149,
+    "isHighlight": false,
+    "accessionNumber": "1982.119.1",
+    "accessionYear": "1982",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT7282.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT7282.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161685,
+        "role": "Artist",
+        "name": "Albert Bierstadt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "gender": ""
+      }
+    ],
+    "department": "The American Wing",
+    "objectName": "Painting",
+    "title": "Canadian Rockies (Lake Louise)",
+    "culture": "American",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Albert Bierstadt",
+    "artistDisplayBio": "American, Solingen 1830–1902 New York",
+    "artistSuffix": "",
+    "artistAlphaSort": "Bierstadt, Albert",
+    "artistNationality": "American",
+    "artistBeginDate": "1830",
+    "artistEndDate": "1902",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+    "objectDate": "ca. 1889",
+    "objectBeginDate": 1886,
+    "objectEndDate": 1889,
+    "medium": "Oil on paper mounted to board",
+    "dimensions": "14 3/4 x 21in. (37.5 x 53.3cm)\r\nFramed: 25 13/16 x 34 9/16 x 3 9/16 in. (65.5 x 87.8 x 9 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.5,
+          "Width": 53.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9,
+          "Height": 65.5,
+          "Width": 87.8
+        }
+      }
+    ],
+    "creditLine": "Bequest of Ruth Alms Barnard, 1981",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-01-30T04:54:21.21Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/10149",
+    "tags": [
+      {
+        "term": "Lakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008680",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23397"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924706",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  },
+  "licensing": "https://www.metmuseum.org/hubs/open-access"
+}

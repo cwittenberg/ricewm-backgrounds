@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-45434",
+  "name": "Under the Wave off Kanagawa, also known as The Great Wave",
+  "author": "Katsushika Hokusai",
+  "category": "japanese",
+  "source": "https://www.metmuseum.org/art/collection/search/45434",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-45434/image-340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d.webp",
+      "sha256": "340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d",
+      "bytes": 1938718,
+      "width": 3213,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-45434/thumb-16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972.webp",
+      "sha256": "16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972",
+      "bytes": 13518,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-45434/thumb2x-2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656.webp",
+      "sha256": "2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656",
+      "bytes": 50142,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "cbb9988f2f18b9180a1cc0cf5dbb0e3bbf8f2e85d17930cf6ca9ab36fac36303",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

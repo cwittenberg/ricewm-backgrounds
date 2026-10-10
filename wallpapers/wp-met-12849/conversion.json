@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-12849",
+  "name": "After the Storm",
+  "author": "Albert Bierstadt",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/12849",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/12849",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-12849/image-24a88feb540ceaa822685e215dd3f7031a7eaf5f1bcb5736dfd1e1620fdaaf5a.webp",
+      "sha256": "24a88feb540ceaa822685e215dd3f7031a7eaf5f1bcb5736dfd1e1620fdaaf5a",
+      "bytes": 990838,
+      "width": 2272,
+      "height": 1444
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-12849/thumb-f8c2da68dec7ac0d6ade0d52533df2e356ef474d6d78bc080e2b096555e6814a.webp",
+      "sha256": "f8c2da68dec7ac0d6ade0d52533df2e356ef474d6d78bc080e2b096555e6814a",
+      "bytes": 5172,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-12849/thumb2x-e6624cfd65952f888c418941075f5e65ae5a12dcbec1ab446f16782ccb31689e.webp",
+      "sha256": "e6624cfd65952f888c418941075f5e65ae5a12dcbec1ab446f16782ccb31689e",
+      "bytes": 23136,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "013166f120dea97dfaed3ec5e058a5cee0235c297bdcd1f440a4432dca80fe4d",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

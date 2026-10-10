@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-10480",
+  "name": "The Aegean Sea",
+  "author": "Frederic Edwin Church",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/10480",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10480",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-10480/image-c7ddc6ba2036baa808eaf995d35a32a22153636bb921e4f7f53cdac6ee76b2c2.webp",
+      "sha256": "c7ddc6ba2036baa808eaf995d35a32a22153636bb921e4f7f53cdac6ee76b2c2",
+      "bytes": 1156954,
+      "width": 2454,
+      "height": 1557
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-10480/thumb-1aaab1ff58deba9bf1e016b79f81654e725b4fe7593a6e620ee2b06a6664ca5c.webp",
+      "sha256": "1aaab1ff58deba9bf1e016b79f81654e725b4fe7593a6e620ee2b06a6664ca5c",
+      "bytes": 3120,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-10480/thumb2x-f59e31c212e6a0732cebbf540f5cbb35af5e212c652941a632cacbf06c1e9f20.webp",
+      "sha256": "f59e31c212e6a0732cebbf540f5cbb35af5e212c652941a632cacbf06c1e9f20",
+      "bytes": 10708,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "6f2db5f896bdfad3b860c81686cd93ec10fd839401561517388f9dd73d45aaf9",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

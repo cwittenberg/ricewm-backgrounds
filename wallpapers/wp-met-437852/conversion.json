@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437852",
+  "name": "Saltash with the Water Ferry, Cornwall",
+  "author": "Joseph Mallord William Turner",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437852",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437852",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437852/image-8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3.webp",
+      "sha256": "8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3",
+      "bytes": 1056370,
+      "width": 2856,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437852/thumb-13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d.webp",
+      "sha256": "13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d",
+      "bytes": 4514,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437852/thumb2x-126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2.webp",
+      "sha256": "126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2",
+      "bytes": 15256,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "2d104fbf22696442f4e6a6bd43054a911a14bd3957d7df98976af5f56ae255bd",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437682",
+  "name": "View of Marly-le-Roi from Coeur-Volant",
+  "author": "Alfred Sisley",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437682",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437682",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437682/image-bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe.webp",
+      "sha256": "bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe",
+      "bytes": 1457016,
+      "width": 3042,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437682/thumb-40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3.webp",
+      "sha256": "40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3",
+      "bytes": 9834,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437682/thumb2x-7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696.webp",
+      "sha256": "7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696",
+      "bytes": 36726,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "e19fcc4caf0f170bd4361ede5fc6e92fd39b5b03e7f6dfad2c14d9a9547bb5f2",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

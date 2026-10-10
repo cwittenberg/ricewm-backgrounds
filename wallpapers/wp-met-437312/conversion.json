@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437312",
+  "name": "The Garden of the Tuileries on a Winter Afternoon",
+  "author": "Camille Pissarro",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437312",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437312",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437312/image-2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f.webp",
+      "sha256": "2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f",
+      "bytes": 2225406,
+      "width": 2714,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437312/thumb-a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0.webp",
+      "sha256": "a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0",
+      "bytes": 7158,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437312/thumb2x-ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89.webp",
+      "sha256": "ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89",
+      "bytes": 34210,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "84b6c4a0a65eb264c8f6ac805c447334c44cf9990b06845e740dfec0d0366906",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

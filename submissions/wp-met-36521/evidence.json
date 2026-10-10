@@ -1,0 +1,98 @@
+{
+  "retrievedAt": "2026-10-10T14:58:48.296Z",
+  "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36521",
+  "data": {
+    "objectID": 36521,
+    "isHighlight": false,
+    "accessionNumber": "JP41",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP122216.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP122216.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164764,
+        "role": "Artist",
+        "name": "Utagawa Hiroshige",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019641",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q200798",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Print",
+    "title": "Sudden Shower at Shōno, from the series Fifty-three Stations of the Tōkaidō",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Utagawa Hiroshige",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1797–1858 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Utagawa, Hiroshige",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1797",
+    "artistEndDate": "1858",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q200798",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019641",
+    "objectDate": "1834–35",
+    "objectBeginDate": 1834,
+    "objectEndDate": 1835,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "Image: 9 3/4 x 14 1/4 in. (24.8 x 36.2 cm)",
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.8,
+          "Width": 36.2
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1914",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2026-08-28T04:59:40.517Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/36521",
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      },
+      {
+        "term": "Rain",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055377",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7925"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  },
+  "licensing": "https://www.metmuseum.org/hubs/open-access"
+}

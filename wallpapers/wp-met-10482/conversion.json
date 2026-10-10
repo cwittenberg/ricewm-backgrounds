@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-10482",
+  "name": "The Parthenon",
+  "author": "Frederic Edwin Church",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/10482",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10482",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-10482/image-b4c3f84167fb8fa6075fe1a33655646e418abff4faa58e1f7c2463cd4ea9cf3e.webp",
+      "sha256": "b4c3f84167fb8fa6075fe1a33655646e418abff4faa58e1f7c2463cd4ea9cf3e",
+      "bytes": 1182974,
+      "width": 3494,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-10482/thumb-a9261e6c5e948dace3274328490faee66179c447379a9833ce84e3ffc118e168.webp",
+      "sha256": "a9261e6c5e948dace3274328490faee66179c447379a9833ce84e3ffc118e168",
+      "bytes": 6300,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-10482/thumb2x-d68fc021f7c3c0fc984134419967628210fbf775b6a0d17dd8c2900c7e998986.webp",
+      "sha256": "d68fc021f7c3c0fc984134419967628210fbf775b6a0d17dd8c2900c7e998986",
+      "bytes": 21738,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "add3bab1e2a11349c11c5f9ae4a5c89eb30acb24877ae047ad520e67af3fedd4",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437683",
+  "name": "Sahurs Meadows in Morning Sun",
+  "author": "Alfred Sisley",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437683",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437683",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437683/image-45c564a1e26ccd76ae17041126367a60ae013685f1403df20adcdc781b09c791.webp",
+      "sha256": "45c564a1e26ccd76ae17041126367a60ae013685f1403df20adcdc781b09c791",
+      "bytes": 2118910,
+      "width": 2713,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437683/thumb-8c5124ccf3896de6a795c332efa934b48ac5859ae2a600d0f9dfa71c7c98ad3b.webp",
+      "sha256": "8c5124ccf3896de6a795c332efa934b48ac5859ae2a600d0f9dfa71c7c98ad3b",
+      "bytes": 7920,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437683/thumb2x-f7126180dae1789d76de3a219e5032597e885172fca8987f8a12c24c5f93477b.webp",
+      "sha256": "f7126180dae1789d76de3a219e5032597e885172fca8987f8a12c24c5f93477b",
+      "bytes": 34354,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "a89890c7b2f927a1edb740b330c5f8ef05748c98c8aeb6aa38a5ee259f10b247",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

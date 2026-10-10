@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-436535",
+  "name": "Wheat Field with Cypresses",
+  "author": "Vincent van Gogh",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/436535",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-436535/image-70b7dd377698231ae7842e08271fbe212d7f8001df62142f56e5dfd5fd8172ed.webp",
+      "sha256": "70b7dd377698231ae7842e08271fbe212d7f8001df62142f56e5dfd5fd8172ed",
+      "bytes": 2392712,
+      "width": 2714,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-436535/thumb-5d2001632c7c3aa052f4ba49adc93e9576c27a57aed76a23cf7d966a9c3aef44.webp",
+      "sha256": "5d2001632c7c3aa052f4ba49adc93e9576c27a57aed76a23cf7d966a9c3aef44",
+      "bytes": 12458,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-436535/thumb2x-143ab79d2d8249aa6515d3d4c177d974848146292fc5f1ae4fb6406adf903e0a.webp",
+      "sha256": "143ab79d2d8249aa6515d3d4c177d974848146292fc5f1ae4fb6406adf903e0a",
+      "bytes": 54538,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "b46d02a42fd3bb13b022cefc5beaa997b1d7a28cd7b53e4413d940aa0dc4014d",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

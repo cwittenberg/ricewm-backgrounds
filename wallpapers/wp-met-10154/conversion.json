@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-10154",
+  "name": "The Rocky Mountains, Lander's Peak",
+  "author": "Albert Bierstadt",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/10154",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10154",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-10154/image-1f8e6f5fac01e04d15b763173c8820ca2daac4d1baf03212ea7fd6fbf67d6c46.webp",
+      "sha256": "1f8e6f5fac01e04d15b763173c8820ca2daac4d1baf03212ea7fd6fbf67d6c46",
+      "bytes": 931834,
+      "width": 3604,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-10154/thumb-d692ce747a042a2f2d7fc92db8af58f0b6189a815441580f5d5f2219e839f037.webp",
+      "sha256": "d692ce747a042a2f2d7fc92db8af58f0b6189a815441580f5d5f2219e839f037",
+      "bytes": 5936,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-10154/thumb2x-6e9e6583f737a41f0b53bb0202dbd43575e3e2e6742edb6e1104b0723e512a6c.webp",
+      "sha256": "6e9e6583f737a41f0b53bb0202dbd43575e3e2e6742edb6e1104b0723e512a6c",
+      "bytes": 20640,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "b0159f218c5363e2e6108eb01dde44cf96b10c3e25dc4b431d7d335daf942a2e",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

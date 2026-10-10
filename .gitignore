@@ -1,0 +1,4 @@
+submissions/**/source.*
+seed-submissions.json
+pr-*.json
+wallpaper-vetting*.json

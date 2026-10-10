@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-36527",
+  "name": "The Autumn Moon at Ishiyama on Lake Biwa",
+  "author": "Utagawa Hiroshige",
+  "category": "japanese",
+  "source": "https://www.metmuseum.org/art/collection/search/36527",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36527",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-36527/image-10410ab6fb31609d34d20925bec845325cf27a5b71f8d13432b33fa7a044e7f7.webp",
+      "sha256": "10410ab6fb31609d34d20925bec845325cf27a5b71f8d13432b33fa7a044e7f7",
+      "bytes": 606880,
+      "width": 1942,
+      "height": 1320
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-36527/thumb-2e55f27462771e0ef68aac458bf5a0c62cc79bc416622f6f6ccce3430a38e2b7.webp",
+      "sha256": "2e55f27462771e0ef68aac458bf5a0c62cc79bc416622f6f6ccce3430a38e2b7",
+      "bytes": 7036,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-36527/thumb2x-d5588ad47a10f2f86e2fb784afc8eef5b81cf567cb466d0b8d8be4d5ea6ba9ae.webp",
+      "sha256": "d5588ad47a10f2f86e2fb784afc8eef5b81cf567cb466d0b8d8be4d5ea6ba9ae",
+      "bytes": 29444,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "ed19eb23960bb536f931c28a59b1b46d6d963b2a8af61e7d2a663da846652212",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

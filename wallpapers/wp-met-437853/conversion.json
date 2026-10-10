@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437853",
+  "name": "Venice, from the Porch of Madonna della Salute",
+  "author": "Joseph Mallord William Turner",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437853",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437853",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437853/image-be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b.webp",
+      "sha256": "be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b",
+      "bytes": 646142,
+      "width": 1959,
+      "height": 1461
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437853/thumb-ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f.webp",
+      "sha256": "ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f",
+      "bytes": 7352,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437853/thumb2x-f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac.webp",
+      "sha256": "f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac",
+      "bytes": 27122,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "05c6f7155da340471d9280e5be5ba9f01ba1589a83802f4fe9e396480a72e871",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-36533",
+  "name": "Evening Snow on Hira, Lake Biwa",
+  "author": "Utagawa Hiroshige",
+  "category": "japanese",
+  "source": "https://www.metmuseum.org/art/collection/search/36533",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36533",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-36533/image-61358c1bc5954ffcf6551000da3e7bda7769e943ddb85f5f40b3a8a2a13d3733.webp",
+      "sha256": "61358c1bc5954ffcf6551000da3e7bda7769e943ddb85f5f40b3a8a2a13d3733",
+      "bytes": 1428444,
+      "width": 3269,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-36533/thumb-52456a4bc13f2c9e0e3a082d937931861bae5c53f28f1bca9402e66be8d30da2.webp",
+      "sha256": "52456a4bc13f2c9e0e3a082d937931861bae5c53f28f1bca9402e66be8d30da2",
+      "bytes": 9706,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-36533/thumb2x-8ad3a95f02397542302a5d109e1571bc5a1821444becc0562b9cd2569771a79e.webp",
+      "sha256": "8ad3a95f02397542302a5d109e1571bc5a1821444becc0562b9cd2569771a79e",
+      "bytes": 37422,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "2f457dca837f096294a3f9d32591b6b7a1f18c835ddb7012ca02fecc636575db",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

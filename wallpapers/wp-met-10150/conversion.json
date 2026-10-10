@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-10150",
+  "name": "Merced River, Yosemite Valley",
+  "author": "Albert Bierstadt",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/10150",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10150",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-10150/image-f85ee86fb345e9110327ac6169742138471a00e6f932d956dab59a3026a0c1fa.webp",
+      "sha256": "f85ee86fb345e9110327ac6169742138471a00e6f932d956dab59a3026a0c1fa",
+      "bytes": 1733124,
+      "width": 3002,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-10150/thumb-7c120540b9fc7e4655ec0492966991d6eeb0cf0f7fb30b8b76ded6e4077ad627.webp",
+      "sha256": "7c120540b9fc7e4655ec0492966991d6eeb0cf0f7fb30b8b76ded6e4077ad627",
+      "bytes": 6976,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-10150/thumb2x-ea883f7a32659c618543328c2965712882d5fd5c3267a2e1f8afbad73b7f355a.webp",
+      "sha256": "ea883f7a32659c618543328c2965712882d5fd5c3267a2e1f8afbad73b7f355a",
+      "bytes": 26310,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "9ba270ec64d18edceb7207dc1a2c30923da4974f739d3ef0d7765ad71d5e2409",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

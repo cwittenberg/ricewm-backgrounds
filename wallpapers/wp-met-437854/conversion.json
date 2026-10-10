@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437854",
+  "name": "Whalers",
+  "author": "Joseph Mallord William Turner",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437854",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437854",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437854/image-6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b.webp",
+      "sha256": "6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b",
+      "bytes": 1194630,
+      "width": 2881,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437854/thumb-ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393.webp",
+      "sha256": "ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393",
+      "bytes": 3414,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437854/thumb2x-6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145.webp",
+      "sha256": "6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145",
+      "bytes": 14016,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "13f84a78383b67b2841acc5f894598fd9131467458d126e86c886b61721d139b",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

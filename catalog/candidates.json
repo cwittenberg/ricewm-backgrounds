@@ -1,0 +1,1541 @@
+{
+  "schema": "ricewm.wallpaper-candidates/v1",
+  "entries": [
+    {
+      "id": "wp-met-10149",
+      "name": "Canadian Rockies",
+      "author": "Albert Bierstadt",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10149",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10149",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10149/image-88b564f07bb9dfb6df3f1b34d1c89f4da31de3d75b3c65aed8bd3d764f539e0d.webp",
+          "sha256": "88b564f07bb9dfb6df3f1b34d1c89f4da31de3d75b3c65aed8bd3d764f539e0d",
+          "bytes": 1166166,
+          "width": 3126,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10149/thumb-0b29088241d656267fd2d3410b84a61f01bb4d37d5658a0cd124e4b28173f90a.webp",
+          "sha256": "0b29088241d656267fd2d3410b84a61f01bb4d37d5658a0cd124e4b28173f90a",
+          "bytes": 5934,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10149/thumb2x-ccdb9478cbf2803d407a50eb9b9f327e41bde2e7a168cdb615d9cd6aaa2f4beb.webp",
+          "sha256": "ccdb9478cbf2803d407a50eb9b9f327e41bde2e7a168cdb615d9cd6aaa2f4beb",
+          "bytes": 22526,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "ae11ca69ed6cc94da00c398876829c084a5c6d758d66d9fbfec7235c824e00fc",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10150",
+      "name": "Merced River, Yosemite Valley",
+      "author": "Albert Bierstadt",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10150",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10150",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10150/image-f85ee86fb345e9110327ac6169742138471a00e6f932d956dab59a3026a0c1fa.webp",
+          "sha256": "f85ee86fb345e9110327ac6169742138471a00e6f932d956dab59a3026a0c1fa",
+          "bytes": 1733124,
+          "width": 3002,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10150/thumb-7c120540b9fc7e4655ec0492966991d6eeb0cf0f7fb30b8b76ded6e4077ad627.webp",
+          "sha256": "7c120540b9fc7e4655ec0492966991d6eeb0cf0f7fb30b8b76ded6e4077ad627",
+          "bytes": 6976,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10150/thumb2x-ea883f7a32659c618543328c2965712882d5fd5c3267a2e1f8afbad73b7f355a.webp",
+          "sha256": "ea883f7a32659c618543328c2965712882d5fd5c3267a2e1f8afbad73b7f355a",
+          "bytes": 26310,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "9ba270ec64d18edceb7207dc1a2c30923da4974f739d3ef0d7765ad71d5e2409",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10151",
+      "name": "Mountain Scene",
+      "author": "Albert Bierstadt",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10151",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10151",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10151/image-446f0e8f9954d7b37a5cd1375d78b649c64559211c994a76653b5bb84697622e.webp",
+          "sha256": "446f0e8f9954d7b37a5cd1375d78b649c64559211c994a76653b5bb84697622e",
+          "bytes": 990952,
+          "width": 3132,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10151/thumb-c7f94f05cc908e4c28cd5d2e3ad6b04b66f6453c0b8f9bd8dcf4263925d454a9.webp",
+          "sha256": "c7f94f05cc908e4c28cd5d2e3ad6b04b66f6453c0b8f9bd8dcf4263925d454a9",
+          "bytes": 2748,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10151/thumb2x-d711651f6870753d1a170ef7708916384561ef4e189a4a79ca0f38073058b6e6.webp",
+          "sha256": "d711651f6870753d1a170ef7708916384561ef4e189a4a79ca0f38073058b6e6",
+          "bytes": 8592,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "cbf303d2f5fa8f35e60ee8ab73a21b212cf101a256b05b6cb56148d4a6d9e5f2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10154",
+      "name": "The Rocky Mountains, Lander's Peak",
+      "author": "Albert Bierstadt",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10154",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10154",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10154/image-1f8e6f5fac01e04d15b763173c8820ca2daac4d1baf03212ea7fd6fbf67d6c46.webp",
+          "sha256": "1f8e6f5fac01e04d15b763173c8820ca2daac4d1baf03212ea7fd6fbf67d6c46",
+          "bytes": 931834,
+          "width": 3604,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10154/thumb-d692ce747a042a2f2d7fc92db8af58f0b6189a815441580f5d5f2219e839f037.webp",
+          "sha256": "d692ce747a042a2f2d7fc92db8af58f0b6189a815441580f5d5f2219e839f037",
+          "bytes": 5936,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10154/thumb2x-6e9e6583f737a41f0b53bb0202dbd43575e3e2e6742edb6e1104b0723e512a6c.webp",
+          "sha256": "6e9e6583f737a41f0b53bb0202dbd43575e3e2e6742edb6e1104b0723e512a6c",
+          "bytes": 20640,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "b0159f218c5363e2e6108eb01dde44cf96b10c3e25dc4b431d7d335daf942a2e",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10155",
+      "name": "Sea Cove",
+      "author": "Albert Bierstadt",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10155",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10155",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10155/image-092501f7e356e61a5ff3a0e8aa5a6349491b4c139ff516e155ef61647b2d708e.webp",
+          "sha256": "092501f7e356e61a5ff3a0e8aa5a6349491b4c139ff516e155ef61647b2d708e",
+          "bytes": 1339954,
+          "width": 2938,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10155/thumb-b924b4e7ef187decd6c4bfc59a60a05eb4f728223ca273c61602eafea5362266.webp",
+          "sha256": "b924b4e7ef187decd6c4bfc59a60a05eb4f728223ca273c61602eafea5362266",
+          "bytes": 6266,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10155/thumb2x-a6d043d8f9422892f25c2bf3d50397369d7f8d11c937c952bb1eee377feb22db.webp",
+          "sha256": "a6d043d8f9422892f25c2bf3d50397369d7f8d11c937c952bb1eee377feb22db",
+          "bytes": 22584,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "f11b07da6e1e28bd35c3805e8f83cf0a37210de317f196b33e744f9b5d69990c",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10480",
+      "name": "The Aegean Sea",
+      "author": "Frederic Edwin Church",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10480",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10480",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10480/image-c7ddc6ba2036baa808eaf995d35a32a22153636bb921e4f7f53cdac6ee76b2c2.webp",
+          "sha256": "c7ddc6ba2036baa808eaf995d35a32a22153636bb921e4f7f53cdac6ee76b2c2",
+          "bytes": 1156954,
+          "width": 2454,
+          "height": 1557
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10480/thumb-1aaab1ff58deba9bf1e016b79f81654e725b4fe7593a6e620ee2b06a6664ca5c.webp",
+          "sha256": "1aaab1ff58deba9bf1e016b79f81654e725b4fe7593a6e620ee2b06a6664ca5c",
+          "bytes": 3120,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10480/thumb2x-f59e31c212e6a0732cebbf540f5cbb35af5e212c652941a632cacbf06c1e9f20.webp",
+          "sha256": "f59e31c212e6a0732cebbf540f5cbb35af5e212c652941a632cacbf06c1e9f20",
+          "bytes": 10708,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "6f2db5f896bdfad3b860c81686cd93ec10fd839401561517388f9dd73d45aaf9",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10481",
+      "name": "Heart of the Andes",
+      "author": "Frederic Edwin Church",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10481",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10481",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10481/image-1a2f88454e556bee389acf9e22ccc911225c53ac734748bcca0974da2a1f99fb.webp",
+          "sha256": "1a2f88454e556bee389acf9e22ccc911225c53ac734748bcca0974da2a1f99fb",
+          "bytes": 2317892,
+          "width": 3811,
+          "height": 2099
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10481/thumb-796b61511a5ec3930c4946564719e767c979c9692a97ea929715b8b415455fbe.webp",
+          "sha256": "796b61511a5ec3930c4946564719e767c979c9692a97ea929715b8b415455fbe",
+          "bytes": 10248,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10481/thumb2x-3b93ed4016be3aba84ef30dddee20a87601b3ca0f816c8f435931360b62e1b87.webp",
+          "sha256": "3b93ed4016be3aba84ef30dddee20a87601b3ca0f816c8f435931360b62e1b87",
+          "bytes": 40606,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "e0be54abb9d69f4f924da4ab4e2ade23464cd134c0a0b534cd58c19187b63c81",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-10482",
+      "name": "The Parthenon",
+      "author": "Frederic Edwin Church",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/10482",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10482",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-10482/image-b4c3f84167fb8fa6075fe1a33655646e418abff4faa58e1f7c2463cd4ea9cf3e.webp",
+          "sha256": "b4c3f84167fb8fa6075fe1a33655646e418abff4faa58e1f7c2463cd4ea9cf3e",
+          "bytes": 1182974,
+          "width": 3494,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-10482/thumb-a9261e6c5e948dace3274328490faee66179c447379a9833ce84e3ffc118e168.webp",
+          "sha256": "a9261e6c5e948dace3274328490faee66179c447379a9833ce84e3ffc118e168",
+          "bytes": 6300,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-10482/thumb2x-d68fc021f7c3c0fc984134419967628210fbf775b6a0d17dd8c2900c7e998986.webp",
+          "sha256": "d68fc021f7c3c0fc984134419967628210fbf775b6a0d17dd8c2900c7e998986",
+          "bytes": 21738,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "add3bab1e2a11349c11c5f9ae4a5c89eb30acb24877ae047ad520e67af3fedd4",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-12849",
+      "name": "After the Storm",
+      "author": "Albert Bierstadt",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/12849",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/12849",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-12849/image-24a88feb540ceaa822685e215dd3f7031a7eaf5f1bcb5736dfd1e1620fdaaf5a.webp",
+          "sha256": "24a88feb540ceaa822685e215dd3f7031a7eaf5f1bcb5736dfd1e1620fdaaf5a",
+          "bytes": 990838,
+          "width": 2272,
+          "height": 1444
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-12849/thumb-f8c2da68dec7ac0d6ade0d52533df2e356ef474d6d78bc080e2b096555e6814a.webp",
+          "sha256": "f8c2da68dec7ac0d6ade0d52533df2e356ef474d6d78bc080e2b096555e6814a",
+          "bytes": 5172,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-12849/thumb2x-e6624cfd65952f888c418941075f5e65ae5a12dcbec1ab446f16782ccb31689e.webp",
+          "sha256": "e6624cfd65952f888c418941075f5e65ae5a12dcbec1ab446f16782ccb31689e",
+          "bytes": 23136,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "013166f120dea97dfaed3ec5e058a5cee0235c297bdcd1f440a4432dca80fe4d",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-45434",
+      "name": "Under the Wave off Kanagawa, also known as The Great Wave",
+      "author": "Katsushika Hokusai",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/45434",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-45434/image-340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d.webp",
+          "sha256": "340a162cffc56b42c3b0ed0cfef2e490d762fa8c447936b072759769349eb84d",
+          "bytes": 1938718,
+          "width": 3213,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-45434/thumb-16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972.webp",
+          "sha256": "16371f0f33e23db96cebc9eaaa0c4cedc652f0c8374fd9ad11eeb9e577b78972",
+          "bytes": 13518,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-45434/thumb2x-2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656.webp",
+          "sha256": "2baad50ce450e9e4d95e629f2e52ba81eb996f4dcbac69550e9dea6a434b9656",
+          "bytes": 50142,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "cbb9988f2f18b9180a1cc0cf5dbb0e3bbf8f2e85d17930cf6ca9ab36fac36303",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-36489",
+      "name": "Kintai Bridge in Suō Province",
+      "author": "Katsushika Hokusai",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/36489",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36489",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-36489/image-533f34e09f655b16a421fd38424c59f137e3ecb8d2132a388de2ae473cbca8d8.webp",
+          "sha256": "533f34e09f655b16a421fd38424c59f137e3ecb8d2132a388de2ae473cbca8d8",
+          "bytes": 611122,
+          "width": 1923,
+          "height": 1328
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-36489/thumb-321f380731ff8fd6a143237ea4178263c7fdaad2f14fcfdfd8611e2b78cb909d.webp",
+          "sha256": "321f380731ff8fd6a143237ea4178263c7fdaad2f14fcfdfd8611e2b78cb909d",
+          "bytes": 8558,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-36489/thumb2x-96e8c200b55de00b01f8b7d82de5b0f591fa47f0e08947246eb862d1044ed928.webp",
+          "sha256": "96e8c200b55de00b01f8b7d82de5b0f591fa47f0e08947246eb862d1044ed928",
+          "bytes": 33764,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "d16a9c7add7139733c872c72cb33f8f8343e975a202d0e5825597fd40a41f1f4",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-36515",
+      "name": "Cherry Blossoms at Arashiyama",
+      "author": "Utagawa Hiroshige",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/36515",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36515",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-36515/image-2f43926edbf3fcca11de705b61f0752bfa4d23b33e8d059a8162620c0b7ec56e.webp",
+          "sha256": "2f43926edbf3fcca11de705b61f0752bfa4d23b33e8d059a8162620c0b7ec56e",
+          "bytes": 1806742,
+          "width": 3336,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-36515/thumb-835044bff997a1abe20fa1b8541596dc87be1d0f8907bedd277411689f3ad072.webp",
+          "sha256": "835044bff997a1abe20fa1b8541596dc87be1d0f8907bedd277411689f3ad072",
+          "bytes": 11736,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-36515/thumb2x-4997afdecaf35b1251f82253fc026a761cd8dd74060125c74d08d048ffa3c42d.webp",
+          "sha256": "4997afdecaf35b1251f82253fc026a761cd8dd74060125c74d08d048ffa3c42d",
+          "bytes": 47824,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "38c3c5af32273144b71db9dcb3024c0cc4a16b707d1b492ee3da0bac2e89a992",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-36521",
+      "name": "Sudden Shower at Shōno",
+      "author": "Utagawa Hiroshige",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/36521",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36521",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-36521/image-cf05ba0d383d951b5c4248765f9188bcdb4a615afcb9726b5f5df4ed5db5cd2c.webp",
+          "sha256": "cf05ba0d383d951b5c4248765f9188bcdb4a615afcb9726b5f5df4ed5db5cd2c",
+          "bytes": 1571924,
+          "width": 3184,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-36521/thumb-2ebefb40ac4aa180a160411b61393fe4290ad434b7191ae437429dc3b59737bf.webp",
+          "sha256": "2ebefb40ac4aa180a160411b61393fe4290ad434b7191ae437429dc3b59737bf",
+          "bytes": 8946,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-36521/thumb2x-f145387f4d56aafcbaaab27cea7d490c49db1869cc2b0aa4b2d1e8bb210b528e.webp",
+          "sha256": "f145387f4d56aafcbaaab27cea7d490c49db1869cc2b0aa4b2d1e8bb210b528e",
+          "bytes": 40166,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "0d39d07398234b3fc223b4860a65b1987330da9eff223c12a783f81cb6b5fec1",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-36527",
+      "name": "The Autumn Moon at Ishiyama on Lake Biwa",
+      "author": "Utagawa Hiroshige",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/36527",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36527",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-36527/image-10410ab6fb31609d34d20925bec845325cf27a5b71f8d13432b33fa7a044e7f7.webp",
+          "sha256": "10410ab6fb31609d34d20925bec845325cf27a5b71f8d13432b33fa7a044e7f7",
+          "bytes": 606880,
+          "width": 1942,
+          "height": 1320
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-36527/thumb-2e55f27462771e0ef68aac458bf5a0c62cc79bc416622f6f6ccce3430a38e2b7.webp",
+          "sha256": "2e55f27462771e0ef68aac458bf5a0c62cc79bc416622f6f6ccce3430a38e2b7",
+          "bytes": 7036,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-36527/thumb2x-d5588ad47a10f2f86e2fb784afc8eef5b81cf567cb466d0b8d8be4d5ea6ba9ae.webp",
+          "sha256": "d5588ad47a10f2f86e2fb784afc8eef5b81cf567cb466d0b8d8be4d5ea6ba9ae",
+          "bytes": 29444,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "ed19eb23960bb536f931c28a59b1b46d6d963b2a8af61e7d2a663da846652212",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-36533",
+      "name": "Evening Snow on Hira, Lake Biwa",
+      "author": "Utagawa Hiroshige",
+      "category": "japanese",
+      "source": "https://www.metmuseum.org/art/collection/search/36533",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36533",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-36533/image-61358c1bc5954ffcf6551000da3e7bda7769e943ddb85f5f40b3a8a2a13d3733.webp",
+          "sha256": "61358c1bc5954ffcf6551000da3e7bda7769e943ddb85f5f40b3a8a2a13d3733",
+          "bytes": 1428444,
+          "width": 3269,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-36533/thumb-52456a4bc13f2c9e0e3a082d937931861bae5c53f28f1bca9402e66be8d30da2.webp",
+          "sha256": "52456a4bc13f2c9e0e3a082d937931861bae5c53f28f1bca9402e66be8d30da2",
+          "bytes": 9706,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-36533/thumb2x-8ad3a95f02397542302a5d109e1571bc5a1821444becc0562b9cd2569771a79e.webp",
+          "sha256": "8ad3a95f02397542302a5d109e1571bc5a1821444becc0562b9cd2569771a79e",
+          "bytes": 37422,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "2f457dca837f096294a3f9d32591b6b7a1f18c835ddb7012ca02fecc636575db",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-436535",
+      "name": "Wheat Field with Cypresses",
+      "author": "Vincent van Gogh",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/436535",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-436535/image-70b7dd377698231ae7842e08271fbe212d7f8001df62142f56e5dfd5fd8172ed.webp",
+          "sha256": "70b7dd377698231ae7842e08271fbe212d7f8001df62142f56e5dfd5fd8172ed",
+          "bytes": 2392712,
+          "width": 2714,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-436535/thumb-5d2001632c7c3aa052f4ba49adc93e9576c27a57aed76a23cf7d966a9c3aef44.webp",
+          "sha256": "5d2001632c7c3aa052f4ba49adc93e9576c27a57aed76a23cf7d966a9c3aef44",
+          "bytes": 12458,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-436535/thumb2x-143ab79d2d8249aa6515d3d4c177d974848146292fc5f1ae4fb6406adf903e0a.webp",
+          "sha256": "143ab79d2d8249aa6515d3d4c177d974848146292fc5f1ae4fb6406adf903e0a",
+          "bytes": 54538,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "b46d02a42fd3bb13b022cefc5beaa997b1d7a28cd7b53e4413d940aa0dc4014d",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437998",
+      "name": "Olive Trees",
+      "author": "Vincent van Gogh",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437998",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437998",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437998/image-e5a97d7d6a052a2978d487dc160e5641c4c49d829fce49ad3d29aa67b59b7921.webp",
+          "sha256": "e5a97d7d6a052a2978d487dc160e5641c4c49d829fce49ad3d29aa67b59b7921",
+          "bytes": 1861864,
+          "width": 2708,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437998/thumb-d8d53ea84bfa1bbb537573aeb1e1e460f861a60b79964a626af084132ccf2536.webp",
+          "sha256": "d8d53ea84bfa1bbb537573aeb1e1e460f861a60b79964a626af084132ccf2536",
+          "bytes": 14360,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437998/thumb2x-b0f5c68f0ec8e691755f6a73047ae810d974d922b825f982d0dee499b83694bb.webp",
+          "sha256": "b0f5c68f0ec8e691755f6a73047ae810d974d922b825f982d0dee499b83694bb",
+          "bytes": 58358,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "04e9591ae681528da4d6d1589288174cfdae5fa011b6e31d400a5ca4396a6dbb",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437299",
+      "name": "Jalais Hill, Pontoise",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437299",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437299",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437299/image-7226fd01f9a15bc2b0b097de0d52ea29a85bb5212d20a2f62eedfae5fbf5edc0.webp",
+          "sha256": "7226fd01f9a15bc2b0b097de0d52ea29a85bb5212d20a2f62eedfae5fbf5edc0",
+          "bytes": 1485784,
+          "width": 2832,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437299/thumb-d6d809092da1b1390b1061eb7161e71d4f282727aeee3d313f8a7723c6ec93d0.webp",
+          "sha256": "d6d809092da1b1390b1061eb7161e71d4f282727aeee3d313f8a7723c6ec93d0",
+          "bytes": 9256,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437299/thumb2x-73cd32589a9c32b66aaa1114c451fba6197efa47bc30e8af6a6c8f2b85e68339.webp",
+          "sha256": "73cd32589a9c32b66aaa1114c451fba6197efa47bc30e8af6a6c8f2b85e68339",
+          "bytes": 31650,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "dd9ddf92c6b15e860bcf5c1f2e0621d9e25c32ffc3e4c8c58cd48b58fbcf6ac2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437300",
+      "name": "A Cowherd at Valhermeil, Auvers-sur-Oise",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437300",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437300",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437300/image-eede3137f414b4db07ad6fb7cdb9a676eedee4902202aef70a67346de2e9c88a.webp",
+          "sha256": "eede3137f414b4db07ad6fb7cdb9a676eedee4902202aef70a67346de2e9c88a",
+          "bytes": 2282546,
+          "width": 3565,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437300/thumb-2ed9cd03e575f594322324faaeb97629c3732dd8e1423f416b3078813c93cff3.webp",
+          "sha256": "2ed9cd03e575f594322324faaeb97629c3732dd8e1423f416b3078813c93cff3",
+          "bytes": 9524,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437300/thumb2x-540fb6055a191f7a8b68154329ae9aa38f9c13db155ee9edc83ced6bc566b24d.webp",
+          "sha256": "540fb6055a191f7a8b68154329ae9aa38f9c13db155ee9edc83ced6bc566b24d",
+          "bytes": 36324,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "88785ad72e226ae6ef98ad3699c7d84e60546fc6d9fbabef12891af672f4b8e2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437310",
+      "name": "The Boulevard Montmartre on a Winter Morning",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437310",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437310",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437310/image-0a52cc13adf1ea2e9f7b4f78ca63ea30bd38b57a13bea0828ae4a12a1723ac0f.webp",
+          "sha256": "0a52cc13adf1ea2e9f7b4f78ca63ea30bd38b57a13bea0828ae4a12a1723ac0f",
+          "bytes": 2183980,
+          "width": 2675,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437310/thumb-fdad1dea658a51f5697c59f29e3f5a7063681983b5ed952447e496eb9091645b.webp",
+          "sha256": "fdad1dea658a51f5697c59f29e3f5a7063681983b5ed952447e496eb9091645b",
+          "bytes": 10180,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437310/thumb2x-56fcbc62d9c757cfede05bcdb94533d881f68ee20de061892d2687e030cb0a2a.webp",
+          "sha256": "56fcbc62d9c757cfede05bcdb94533d881f68ee20de061892d2687e030cb0a2a",
+          "bytes": 45914,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "a93a2157555e3e7efc4f8f92d2302ab44bf839059f40c21a84b9e017859ea647",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437426",
+      "name": "View of the Seacoast near Wargemont in Normandy",
+      "author": "Auguste Renoir",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437426",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437426",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437426/image-03e129c532d53bd67c1a6f032571870b820d6ad328d933593e5b5bb86c21396b.webp",
+          "sha256": "03e129c532d53bd67c1a6f032571870b820d6ad328d933593e5b5bb86c21396b",
+          "bytes": 1419250,
+          "width": 2636,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437426/thumb-1ac007109295f34f75c0277e39e38efb6e5659d81dd662d58738a0615a189b3a.webp",
+          "sha256": "1ac007109295f34f75c0277e39e38efb6e5659d81dd662d58738a0615a189b3a",
+          "bytes": 7588,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437426/thumb2x-210d42e70818cee92f46f177181c49e095d89aa12be9dee03039ce8b24abcbf3.webp",
+          "sha256": "210d42e70818cee92f46f177181c49e095d89aa12be9dee03039ce8b24abcbf3",
+          "bytes": 30254,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "7bf0883b1d2bbdc0018ceabf4e957d32ece90611c0e384bb5fcb012d43855472",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437427",
+      "name": "The Bay of Naples",
+      "author": "Auguste Renoir",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437427",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437427",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437427/image-88bcf5352abf27b03db7d03d5eca642cb57e2de3df05d458d0202911bec88f9f.webp",
+          "sha256": "88bcf5352abf27b03db7d03d5eca642cb57e2de3df05d458d0202911bec88f9f",
+          "bytes": 1302036,
+          "width": 2966,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437427/thumb-5d43f220b10ab84d6505214f2cf947310a2e9ca2db2c5e32f5e91b59383f79ca.webp",
+          "sha256": "5d43f220b10ab84d6505214f2cf947310a2e9ca2db2c5e32f5e91b59383f79ca",
+          "bytes": 7152,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437427/thumb2x-3af6955e27634a403d95688c9fd24c22f1df2075a22a183419051a60230e2817.webp",
+          "sha256": "3af6955e27634a403d95688c9fd24c22f1df2075a22a183419051a60230e2817",
+          "bytes": 23726,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "2885e38ccf49e7632b787302a61adca3bfe72512671e075b5b1c039552d1b25c",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437431",
+      "name": "Hills around the Bay of Moulin Huet, Guernsey",
+      "author": "Auguste Renoir",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437431",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437431",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437431/image-2b30dd3244ba6317bf0f3a6c1a195c0cb0fe5ff013a116d278f24ead7d887608.webp",
+          "sha256": "2b30dd3244ba6317bf0f3a6c1a195c0cb0fe5ff013a116d278f24ead7d887608",
+          "bytes": 2316604,
+          "width": 3001,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437431/thumb-99c217bcbfe16be906f7e44980f718e6ddada280dda5d47ca86ad2658c532105.webp",
+          "sha256": "99c217bcbfe16be906f7e44980f718e6ddada280dda5d47ca86ad2658c532105",
+          "bytes": 11564,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437431/thumb2x-1354ceca18c1825efa8e236eb8fb568c210605ff4bbdc59fefaecf57afc19a99.webp",
+          "sha256": "1354ceca18c1825efa8e236eb8fb568c210605ff4bbdc59fefaecf57afc19a99",
+          "bytes": 45036,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "b23a918743cc91ed168b8f8cf61bcd2eb12a4883e7a4ec698e5286f0d93753f2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437680",
+      "name": "The Bridge at Villeneuve-la-Garenne",
+      "author": "Alfred Sisley",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437680",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437680",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437680/image-d9fd3c99d9b097d060dca1eb40dc3fdc4378582d60551690bd168d4450f3c7f3.webp",
+          "sha256": "d9fd3c99d9b097d060dca1eb40dc3fdc4378582d60551690bd168d4450f3c7f3",
+          "bytes": 1931714,
+          "width": 2880,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437680/thumb-c9d2d2d63fb88306316e4c1942442f87495cb198499183053ade921979b27f83.webp",
+          "sha256": "c9d2d2d63fb88306316e4c1942442f87495cb198499183053ade921979b27f83",
+          "bytes": 8526,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437680/thumb2x-5ebfa265464527b4d2f465cbfb0fe64b4d6c77ea5144910750c07df696e2f19f.webp",
+          "sha256": "5ebfa265464527b4d2f465cbfb0fe64b4d6c77ea5144910750c07df696e2f19f",
+          "bytes": 28904,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "42bfc3077c29dc4bc8aae5168e862fce4848e1779939fbc14a89a0d57bf52353",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437683",
+      "name": "Sahurs Meadows in Morning Sun",
+      "author": "Alfred Sisley",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437683",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437683",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437683/image-45c564a1e26ccd76ae17041126367a60ae013685f1403df20adcdc781b09c791.webp",
+          "sha256": "45c564a1e26ccd76ae17041126367a60ae013685f1403df20adcdc781b09c791",
+          "bytes": 2118910,
+          "width": 2713,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437683/thumb-8c5124ccf3896de6a795c332efa934b48ac5859ae2a600d0f9dfa71c7c98ad3b.webp",
+          "sha256": "8c5124ccf3896de6a795c332efa934b48ac5859ae2a600d0f9dfa71c7c98ad3b",
+          "bytes": 7920,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437683/thumb2x-f7126180dae1789d76de3a219e5032597e885172fca8987f8a12c24c5f93477b.webp",
+          "sha256": "f7126180dae1789d76de3a219e5032597e885172fca8987f8a12c24c5f93477b",
+          "bytes": 34354,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "a89890c7b2f927a1edb740b330c5f8ef05748c98c8aeb6aa38a5ee259f10b247",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437853",
+      "name": "Venice, from the Porch of Madonna della Salute",
+      "author": "Joseph Mallord William Turner",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437853",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437853",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437853/image-be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b.webp",
+          "sha256": "be02beb924db1578fb33d323f08a8030b39f9f84263615abc136a0287657b72b",
+          "bytes": 646142,
+          "width": 1959,
+          "height": 1461
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437853/thumb-ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f.webp",
+          "sha256": "ac8a4e3db461aa7733cea97a608a37b97488b556d10b9f1cb54288eb3c8c292f",
+          "bytes": 7352,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437853/thumb2x-f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac.webp",
+          "sha256": "f1be71b260837c36d3a2be444c3ba1056056c67df5344488347604e2e14459ac",
+          "bytes": 27122,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "05c6f7155da340471d9280e5be5ba9f01ba1589a83802f4fe9e396480a72e871",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437852",
+      "name": "Saltash with the Water Ferry, Cornwall",
+      "author": "Joseph Mallord William Turner",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437852",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437852",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437852/image-8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3.webp",
+          "sha256": "8ca7d869a7a80ce66c9dc7ef901a54595a21e58b2fb68925213779360bfd3fa3",
+          "bytes": 1056370,
+          "width": 2856,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437852/thumb-13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d.webp",
+          "sha256": "13a13220bc63087f7e9f54518e8c8fe19a3e42f8043365cd5db0c045dc33db9d",
+          "bytes": 4514,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437852/thumb2x-126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2.webp",
+          "sha256": "126540f3e1d3d8aca1ed1e5cfec9edbb85ade61abc7ee7db86449001926a41d2",
+          "bytes": 15256,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "2d104fbf22696442f4e6a6bd43054a911a14bd3957d7df98976af5f56ae255bd",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437854",
+      "name": "Whalers",
+      "author": "Joseph Mallord William Turner",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437854",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437854",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437854/image-6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b.webp",
+          "sha256": "6fa64b2d20560790f13dc3c08c6972e70f8b204b5741bd2fe6c062891229d33b",
+          "bytes": 1194630,
+          "width": 2881,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437854/thumb-ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393.webp",
+          "sha256": "ac0c5e647f5564e2a88fde7ab3b72825dcaf774458c919784586522172f87393",
+          "bytes": 3414,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437854/thumb2x-6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145.webp",
+          "sha256": "6319d4cbf4b5f2e4e6e13c88575401238e2d35a7ec7866466960de4cf094c145",
+          "bytes": 14016,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "13f84a78383b67b2841acc5f894598fd9131467458d126e86c886b61721d139b",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437685",
+      "name": "The Road from Versailles to Louveciennes",
+      "author": "Alfred Sisley",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437685",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437685",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437685/image-247d572ab710659888036414fed14c00fd1ecf7e27535ba2d1a081fd3f669e9e.webp",
+          "sha256": "247d572ab710659888036414fed14c00fd1ecf7e27535ba2d1a081fd3f669e9e",
+          "bytes": 1600666,
+          "width": 2598,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437685/thumb-6b6b979a6519670280340480ff4af5191c000c3d65861b0cdccc9c2db7f4e8a9.webp",
+          "sha256": "6b6b979a6519670280340480ff4af5191c000c3d65861b0cdccc9c2db7f4e8a9",
+          "bytes": 9368,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437685/thumb2x-a06eca7c2d5310c57acb798bafc8ac27cddf30118695d83cf214d235fffcc344.webp",
+          "sha256": "a06eca7c2d5310c57acb798bafc8ac27cddf30118695d83cf214d235fffcc344",
+          "bytes": 34456,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "81d0180899018899e99aca3f0c35d38919ac4d5690061a1e47d16c75eac21f81",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437682",
+      "name": "View of Marly-le-Roi from Coeur-Volant",
+      "author": "Alfred Sisley",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437682",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437682",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437682/image-bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe.webp",
+          "sha256": "bd0540847590a7226292ddd780637650ec09e598d87c6fb6577ca8e18cf4dbbe",
+          "bytes": 1457016,
+          "width": 3042,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437682/thumb-40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3.webp",
+          "sha256": "40d71288d35aa5ce495adeb0553624efd4dc7bcc4ba23e10539525256b949ed3",
+          "bytes": 9834,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437682/thumb2x-7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696.webp",
+          "sha256": "7ae1f0d03ef89c02ef9b87b36d6f84c722361efaaad4eadbc5198cfb0d646696",
+          "bytes": 36726,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "e19fcc4caf0f170bd4361ede5fc6e92fd39b5b03e7f6dfad2c14d9a9547bb5f2",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437302",
+      "name": "Barges at Pontoise",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437302",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437302",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437302/image-bf5707bd05c62c53a076ced1f7c09401214318fb9366d52b10b9619f745239ff.webp",
+          "sha256": "bf5707bd05c62c53a076ced1f7c09401214318fb9366d52b10b9619f745239ff",
+          "bytes": 1680272,
+          "width": 2603,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437302/thumb-583b642cc11bbd971e21ad99c9e0c362c10966a3ac93e6062c0c411cdae436e4.webp",
+          "sha256": "583b642cc11bbd971e21ad99c9e0c362c10966a3ac93e6062c0c411cdae436e4",
+          "bytes": 8866,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437302/thumb2x-9d71742bc1535bad4f18c09026c384761532a9e735107a26bfafe62f7db67ee1.webp",
+          "sha256": "9d71742bc1535bad4f18c09026c384761532a9e735107a26bfafe62f7db67ee1",
+          "bytes": 31540,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "494cf1deeabbe7a5f681ad9327fc1c4fbb5a21a765ddb031b849b6c3475149e7",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    },
+    {
+      "id": "wp-met-437312",
+      "name": "The Garden of the Tuileries on a Winter Afternoon",
+      "author": "Camille Pissarro",
+      "category": "landscape",
+      "source": "https://www.metmuseum.org/art/collection/search/437312",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437312",
+        "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-met-437312/image-2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f.webp",
+          "sha256": "2fc988dcf367f253c59c1187b10d65b18afc6581646755f30fca7da1873b6e9f",
+          "bytes": 2225406,
+          "width": 2714,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-met-437312/thumb-a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0.webp",
+          "sha256": "a99466728f27722a43acda5d8d1091a0fd8bc1ea89f81c4b4ac9e4be403a7fc0",
+          "bytes": 7158,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-met-437312/thumb2x-ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89.webp",
+          "sha256": "ed7ea40e4eff8aa252898d7fac6cefc3e1d783a019f21b04b0eea1ae72674f89",
+          "bytes": 34210,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+        "inputSha256": "84b6c4a0a65eb264c8f6ac805c447334c44cf9990b06845e740dfec0d0366906",
+        "profile": "webp-landscape-3840-320-640-v1"
+      }
+    }
+  ]
+}

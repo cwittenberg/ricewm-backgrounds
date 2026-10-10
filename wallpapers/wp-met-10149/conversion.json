@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-10149",
+  "name": "Canadian Rockies",
+  "author": "Albert Bierstadt",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/10149",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10149",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-10149/image-88b564f07bb9dfb6df3f1b34d1c89f4da31de3d75b3c65aed8bd3d764f539e0d.webp",
+      "sha256": "88b564f07bb9dfb6df3f1b34d1c89f4da31de3d75b3c65aed8bd3d764f539e0d",
+      "bytes": 1166166,
+      "width": 3126,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-10149/thumb-0b29088241d656267fd2d3410b84a61f01bb4d37d5658a0cd124e4b28173f90a.webp",
+      "sha256": "0b29088241d656267fd2d3410b84a61f01bb4d37d5658a0cd124e4b28173f90a",
+      "bytes": 5934,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-10149/thumb2x-ccdb9478cbf2803d407a50eb9b9f327e41bde2e7a168cdb615d9cd6aaa2f4beb.webp",
+      "sha256": "ccdb9478cbf2803d407a50eb9b9f327e41bde2e7a168cdb615d9cd6aaa2f4beb",
+      "bytes": 22526,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "ae11ca69ed6cc94da00c398876829c084a5c6d758d66d9fbfec7235c824e00fc",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

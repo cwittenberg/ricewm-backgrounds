@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437427",
+  "name": "The Bay of Naples",
+  "author": "Auguste Renoir",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437427",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437427",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437427/image-88bcf5352abf27b03db7d03d5eca642cb57e2de3df05d458d0202911bec88f9f.webp",
+      "sha256": "88bcf5352abf27b03db7d03d5eca642cb57e2de3df05d458d0202911bec88f9f",
+      "bytes": 1302036,
+      "width": 2966,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437427/thumb-5d43f220b10ab84d6505214f2cf947310a2e9ca2db2c5e32f5e91b59383f79ca.webp",
+      "sha256": "5d43f220b10ab84d6505214f2cf947310a2e9ca2db2c5e32f5e91b59383f79ca",
+      "bytes": 7152,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437427/thumb2x-3af6955e27634a403d95688c9fd24c22f1df2075a22a183419051a60230e2817.webp",
+      "sha256": "3af6955e27634a403d95688c9fd24c22f1df2075a22a183419051a60230e2817",
+      "bytes": 23726,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "2885e38ccf49e7632b787302a61adca3bfe72512671e075b5b1c039552d1b25c",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

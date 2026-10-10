@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437685",
+  "name": "The Road from Versailles to Louveciennes",
+  "author": "Alfred Sisley",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437685",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437685",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437685/image-247d572ab710659888036414fed14c00fd1ecf7e27535ba2d1a081fd3f669e9e.webp",
+      "sha256": "247d572ab710659888036414fed14c00fd1ecf7e27535ba2d1a081fd3f669e9e",
+      "bytes": 1600666,
+      "width": 2598,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437685/thumb-6b6b979a6519670280340480ff4af5191c000c3d65861b0cdccc9c2db7f4e8a9.webp",
+      "sha256": "6b6b979a6519670280340480ff4af5191c000c3d65861b0cdccc9c2db7f4e8a9",
+      "bytes": 9368,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437685/thumb2x-a06eca7c2d5310c57acb798bafc8ac27cddf30118695d83cf214d235fffcc344.webp",
+      "sha256": "a06eca7c2d5310c57acb798bafc8ac27cddf30118695d83cf214d235fffcc344",
+      "bytes": 34456,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "81d0180899018899e99aca3f0c35d38919ac4d5690061a1e47d16c75eac21f81",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

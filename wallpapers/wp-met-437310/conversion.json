@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437310",
+  "name": "The Boulevard Montmartre on a Winter Morning",
+  "author": "Camille Pissarro",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437310",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437310",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437310/image-0a52cc13adf1ea2e9f7b4f78ca63ea30bd38b57a13bea0828ae4a12a1723ac0f.webp",
+      "sha256": "0a52cc13adf1ea2e9f7b4f78ca63ea30bd38b57a13bea0828ae4a12a1723ac0f",
+      "bytes": 2183980,
+      "width": 2675,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437310/thumb-fdad1dea658a51f5697c59f29e3f5a7063681983b5ed952447e496eb9091645b.webp",
+      "sha256": "fdad1dea658a51f5697c59f29e3f5a7063681983b5ed952447e496eb9091645b",
+      "bytes": 10180,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437310/thumb2x-56fcbc62d9c757cfede05bcdb94533d881f68ee20de061892d2687e030cb0a2a.webp",
+      "sha256": "56fcbc62d9c757cfede05bcdb94533d881f68ee20de061892d2687e030cb0a2a",
+      "bytes": 45914,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "a93a2157555e3e7efc4f8f92d2302ab44bf839059f40c21a84b9e017859ea647",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

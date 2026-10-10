@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-437431",
+  "name": "Hills around the Bay of Moulin Huet, Guernsey",
+  "author": "Auguste Renoir",
+  "category": "landscape",
+  "source": "https://www.metmuseum.org/art/collection/search/437431",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437431",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-437431/image-2b30dd3244ba6317bf0f3a6c1a195c0cb0fe5ff013a116d278f24ead7d887608.webp",
+      "sha256": "2b30dd3244ba6317bf0f3a6c1a195c0cb0fe5ff013a116d278f24ead7d887608",
+      "bytes": 2316604,
+      "width": 3001,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-437431/thumb-99c217bcbfe16be906f7e44980f718e6ddada280dda5d47ca86ad2658c532105.webp",
+      "sha256": "99c217bcbfe16be906f7e44980f718e6ddada280dda5d47ca86ad2658c532105",
+      "bytes": 11564,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-437431/thumb2x-1354ceca18c1825efa8e236eb8fb568c210605ff4bbdc59fefaecf57afc19a99.webp",
+      "sha256": "1354ceca18c1825efa8e236eb8fb568c210605ff4bbdc59fefaecf57afc19a99",
+      "bytes": 45036,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "b23a918743cc91ed168b8f8cf61bcd2eb12a4883e7a4ec698e5286f0d93753f2",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}

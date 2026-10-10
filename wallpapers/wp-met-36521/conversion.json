@@ -1,0 +1,48 @@
+{
+  "id": "wp-met-36521",
+  "name": "Sudden Shower at Shōno",
+  "author": "Utagawa Hiroshige",
+  "category": "japanese",
+  "source": "https://www.metmuseum.org/art/collection/search/36521",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36521",
+    "basis": "The Metropolitan Museum of Art marks this individual work isPublicDomain=true and provides its image under the Open Access CC0 dedication. The current source record and image were checked; no added third-party elements. Policy: https://www.metmuseum.org/hubs/open-access",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-met-36521/image-cf05ba0d383d951b5c4248765f9188bcdb4a615afcb9726b5f5df4ed5db5cd2c.webp",
+      "sha256": "cf05ba0d383d951b5c4248765f9188bcdb4a615afcb9726b5f5df4ed5db5cd2c",
+      "bytes": 1571924,
+      "width": 3184,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-met-36521/thumb-2ebefb40ac4aa180a160411b61393fe4290ad434b7191ae437429dc3b59737bf.webp",
+      "sha256": "2ebefb40ac4aa180a160411b61393fe4290ad434b7191ae437429dc3b59737bf",
+      "bytes": 8946,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-met-36521/thumb2x-f145387f4d56aafcbaaab27cea7d490c49db1869cc2b0aa4b2d1e8bb210b528e.webp",
+      "sha256": "f145387f4d56aafcbaaab27cea7d490c49db1869cc2b0aa4b2d1e8bb210b528e",
+      "bytes": 40166,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:b44f3158e96759a2752482b59b69d7d7b8f47cfcc24ccb7550db8de6ccd33f67",
+    "inputSha256": "0d39d07398234b3fc223b4860a65b1987330da9eff223c12a783f81cb6b5fec1",
+    "profile": "webp-landscape-3840-320-640-v1"
+  }
+}
