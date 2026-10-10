@@ -3,7 +3,7 @@
 Public-domain wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **168 wallpapers**, including 96 additional modern designs: dark and pastel minimal art, gradients, neon abstracts, ultrawide compositions and fantasy environments. The collection includes 78 clearly labelled creator-generated AI artworks released under CC0, plus original non-AI art and the museum starter set. Every wallpaper has stored style/subject/palette tags, creator source, rights evidence and conversion hashes in [catalog/candidates.json](catalog/candidates.json). Browse the previews below.
+This repository contains **99 wallpaper candidates**, with verified creator or museum provenance. The collection is being expanded with detailed anime, cyberpunk cityscapes and space artwork. Each candidate stores descriptive tags, licensing evidence and WebP hashes; app inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -33,311 +33,9 @@ any rights it owns in normalized derivatives and collection metadata under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
 
-## Catppuccin Mocha — 16 original4K designs
+## Detailed illustrations and landscapes
 
-Original RiceWM.org vector compositions in the exact Mocha palette, dedicated under CC0. User explicitly approved all16 for app publication. Independently created artwork; not official Catppuccin art. [Source and conversion notes](MOCHA_COLLECTION.md).
-
-### Mocha · Moon over the City
-
-[![Mocha · Moon over the City](wallpapers/wp-ricewm-mocha-moon-over-the-city/thumb-6fe50587bc8b94c8fc24b284499d02f99761bcf0061a4d8f0c1896b308b8b569.webp)](wallpapers/wp-ricewm-mocha-moon-over-the-city/image-dfc90e10b7b54ba6122d2821df13caeb24f956debcb610dce73f9758c71086fd.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `city`, `dark`, `minimal`, `modern`, `night`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-moon-over-the-city/source.svg) · [Evidence](submissions/wp-ricewm-mocha-moon-over-the-city/evidence.json).
-
-### Mocha · Lavender Orbit
-
-[![Mocha · Lavender Orbit](wallpapers/wp-ricewm-mocha-lavender-orbit/thumb-490074f3eec7917898d729b23624699b60ecbbfc863ba20662f4e1e90032d84c.webp)](wallpapers/wp-ricewm-mocha-lavender-orbit/image-fd40e789b5c4d73748cfc669db3539b16d174b8aa90fc1d4841b313e5b564a7b.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lavender-orbit/source.svg) · [Evidence](submissions/wp-ricewm-mocha-lavender-orbit/evidence.json).
-
-### Mocha · Alpine Moon
-
-[![Mocha · Alpine Moon](wallpapers/wp-ricewm-mocha-alpine-moon/thumb-149c44768b86c26963eeca3c93eac86574bda99ba083ff42556241b742996de1.webp)](wallpapers/wp-ricewm-mocha-alpine-moon/image-d30d946cd7e90f576542f2678d3297e0498b1cc84e4d25bbf53d5a1b256f2f0f.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `mountains`, `night`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-alpine-moon/source.svg) · [Evidence](submissions/wp-ricewm-mocha-alpine-moon/evidence.json).
-
-### Mocha · Quiet Platform
-
-[![Mocha · Quiet Platform](wallpapers/wp-ricewm-mocha-quiet-platform/thumb-d0931fef2d00987581957c16ef2970c7f7abb093f010a0eea4874a229b7d1562.webp)](wallpapers/wp-ricewm-mocha-quiet-platform/image-bbea9319f57521523ec4edbda3367052f598c27fdd1c3b8e1ea3075315970da9.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `city`, `dark`, `minimal`, `modern`, `night`, `pastel`, `railway`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-quiet-platform/source.svg) · [Evidence](submissions/wp-ricewm-mocha-quiet-platform/evidence.json).
-
-### Mocha · Pastel Topography
-
-[![Mocha · Pastel Topography](wallpapers/wp-ricewm-mocha-pastel-topography/thumb-5ebd770633ace5b1a3c8efb9b92c34db3a3639c2782cdf685e7d2aefbd7c3427.webp)](wallpapers/wp-ricewm-mocha-pastel-topography/image-318dbbab2d7246d2ed7aa6af031f170b592c9f18b5a8cfd2be0d72276135e106.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `lines`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-pastel-topography/source.svg) · [Evidence](submissions/wp-ricewm-mocha-pastel-topography/evidence.json).
-
-### Mocha · Sakura Night
-
-[![Mocha · Sakura Night](wallpapers/wp-ricewm-mocha-sakura-night/thumb-14ca936bc93a0962a56f441bc6a30a4c61cf312d66e7052866fc2c9caa52310e.webp)](wallpapers/wp-ricewm-mocha-sakura-night/image-d613f5f279f8a1a4df318e75dd2decbeef2d42d08b3c416d9cd8d7d99a61b291.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `botanical`, `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `night`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-sakura-night/source.svg) · [Evidence](submissions/wp-ricewm-mocha-sakura-night/evidence.json).
-
-### Mocha · Retro Sunset
-
-[![Mocha · Retro Sunset](wallpapers/wp-ricewm-mocha-retro-sunset/thumb-e899d9212a23303f680d347b850d844abc753289cb4463bbe94b8908c16fb436.webp)](wallpapers/wp-ricewm-mocha-retro-sunset/image-2feb49e7e82491d669d5b5b36ac70130e97fe486a43f4965776f83273f8b0ba5.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `retro`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-retro-sunset/source.svg) · [Evidence](submissions/wp-ricewm-mocha-retro-sunset/evidence.json).
-
-### Mocha · Terminal Tide
-
-[![Mocha · Terminal Tide](wallpapers/wp-ricewm-mocha-terminal-tide/thumb-3147561a144022d4680836b67e75d4ecf7f415024de03a2d23120baae7092fff.webp)](wallpapers/wp-ricewm-mocha-terminal-tide/image-0a7173e9ed3905b9c0513a73f36be4a633af882714ec6c04dfc190b3bf1c8bc0.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `waves`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-terminal-tide/source.svg) · [Evidence](submissions/wp-ricewm-mocha-terminal-tide/evidence.json).
-
-### Mocha · Neon Corridor
-
-[![Mocha · Neon Corridor](wallpapers/wp-ricewm-mocha-neon-corridor/thumb-a9bc5d926898fc0f768d742c751469aa09372f504235a68a2253ccca4c9d0aa6.webp)](wallpapers/wp-ricewm-mocha-neon-corridor/image-ae6d9bd7ff1320fa7656c725759a9a76a308ecc2e89c000ee803912950db9f38.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `architecture`, `catppuccin`, `catppuccin-mocha`, `city`, `cyberpunk`, `dark`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-neon-corridor/source.svg) · [Evidence](submissions/wp-ricewm-mocha-neon-corridor/evidence.json).
-
-### Mocha · Paper Mountains
-
-[![Mocha · Paper Mountains](wallpapers/wp-ricewm-mocha-paper-mountains/thumb-370bde3433279833fa831f3857f504a000139c1173428a939a6ec063c4c360cd.webp)](wallpapers/wp-ricewm-mocha-paper-mountains/image-33aa5b304c604e458cf049b816c5cfdada192032c7ffcfc7d1f3a70749d55fe4.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `mountains`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-paper-mountains/source.svg) · [Evidence](submissions/wp-ricewm-mocha-paper-mountains/evidence.json).
-
-### Mocha · Observatory
-
-[![Mocha · Observatory](wallpapers/wp-ricewm-mocha-observatory/thumb-de28fd98cd90ee7e0c9c5381e3e24002d10c3007cb17f996054be84a6ee792cd.webp)](wallpapers/wp-ricewm-mocha-observatory/image-b966ffb9145cf99f9f1b11921886e5f4936febde883d68b6a92b3c3e63395297.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `architecture`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `night`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-observatory/source.svg) · [Evidence](submissions/wp-ricewm-mocha-observatory/evidence.json).
-
-### Mocha · Rain Window
-
-[![Mocha · Rain Window](wallpapers/wp-ricewm-mocha-rain-window/thumb-90dd538348a3eb22201a16d7240da29c5779076cd4d4db740647d6ed53193cdb.webp)](wallpapers/wp-ricewm-mocha-rain-window/image-d3382e35c205e8465ccf1bb4065302269975f309ef0c985236a4d9587710762e.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `city`, `dark`, `minimal`, `modern`, `night`, `pastel`, `rain`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-rain-window/source.svg) · [Evidence](submissions/wp-ricewm-mocha-rain-window/evidence.json).
-
-### Mocha · Planetary Pastels
-
-[![Mocha · Planetary Pastels](wallpapers/wp-ricewm-mocha-planetary-pastels/thumb-8d338755902064237174e5c1311846f5359453769864aaca0f605b197bb50dee.webp)](wallpapers/wp-ricewm-mocha-planetary-pastels/image-5a301dd760bc0d1b3701e41db35935d5ce0df67383cc9ae1ac880b9de7255aa5.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-planetary-pastels/source.svg) · [Evidence](submissions/wp-ricewm-mocha-planetary-pastels/evidence.json).
-
-### Mocha · Digital Garden
-
-[![Mocha · Digital Garden](wallpapers/wp-ricewm-mocha-digital-garden/thumb-a06ff386d5de33b293802fd185f0a45ac2fac9c4c8b04b3ca646faf08a9aa162.webp)](wallpapers/wp-ricewm-mocha-digital-garden/image-3c76b763f7cfe8b118aab75def4aef437f484a006f217fbf4ef638adf6dc10b2.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `botanical`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-digital-garden/source.svg) · [Evidence](submissions/wp-ricewm-mocha-digital-garden/evidence.json).
-
-### Mocha · Glass Panels
-
-[![Mocha · Glass Panels](wallpapers/wp-ricewm-mocha-glass-panels/thumb-b4f5f050051e6006a00efd3fc43c1fb09b6a8d6462647e6bae4da3123ad9ab4a.webp)](wallpapers/wp-ricewm-mocha-glass-panels/image-9162360128025ed2dae940fb70d2cdadada666aa70f605ebf33c13f2676739ed.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `geometric`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-glass-panels/source.svg) · [Evidence](submissions/wp-ricewm-mocha-glass-panels/evidence.json).
-
-### Mocha · Lunar Reflection
-
-[![Mocha · Lunar Reflection](wallpapers/wp-ricewm-mocha-lunar-reflection/thumb-89e6ce1e78f60c22fd689eafea0bf2c5dfd1de4e2929e2bb465275519b08fdd2.webp)](wallpapers/wp-ricewm-mocha-lunar-reflection/image-0199c0fc11676423a5801cea6c7f7a597805044dd57b321ffd9f0297489cdc70.webp)
-
-RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `night`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lunar-reflection/source.svg) · [Evidence](submissions/wp-ricewm-mocha-lunar-reflection/evidence.json).
-
-## Modern ricing expansion — 96 additional wallpapers
-
-These individually selected creator-released CC0 wallpapers include **18 original non-AI designs**, **78 labelled AI artworks**, and **9 genuine ultrawide images**. Full images preserve the source aspect ratio. All 96 ordinary previews together transfer just **549 KB**; full images load only on selection in RiceWM. Filter by stored tags such as `modern`, `minimal`, `dark`, `neon`, `pastel`, `fantasy`, `ultrawide` and `ai`.
-
-Primary creators: [Mono](https://getmono.lol/kits/guide/), [Wenrexa](https://wenrexa.itch.io/abstractbq), [willYEE](https://willyee.itch.io/fantasy-visual-novel-backgrounds), [willYEE Eastern fantasy](https://willyee.itch.io/xuanhuan-mood-art), [LibrePixels](https://gitlab.com/librepixels/ia.Wallpapers). Each image has its own [source and evidence record](submissions/). AI provenance and any documented source upscaling are disclosed there.
-
-### Alpine Night
-
-[![Alpine Night](wallpapers/wp-mono-alpine-night/thumb-bb6ee6268b9b4d4a301d8b75fad32bfee5e4a599e2fda2c968187f968dc80bef.webp)](wallpapers/wp-mono-alpine-night/image-1e079339794a018ac73e525ebd6abd69756cf78a5808b28b92b44832369880b4.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `dark`, `illustration`, `landscape`, `minimal`, `modern`, `mountains`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-alpine-night/evidence.json) · [Conversion receipt](wallpapers/wp-mono-alpine-night/conversion.json).
-
-### Fern
-
-[![Fern](wallpapers/wp-mono-fern/thumb-f0f75a149c8b8bed1eacb0ac75e984cd861a3a6cec71566117b2ebb506a51f4b.webp)](wallpapers/wp-mono-fern/image-774b26f861c5f9916230dc1c42ce7bcd172989cb29448748a2dc795ddede9fd5.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `botanical`, `illustration`, `light`, `minimal`, `modern`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-fern/evidence.json) · [Conversion receipt](wallpapers/wp-mono-fern/conversion.json).
-
-### Prism
-
-[![Prism](wallpapers/wp-mono-prism/thumb-a03bce47d118e8ad6f5a5dacb9b9428f0e4fde6f57d4a3b7bd20d6a4a068c1f7.webp)](wallpapers/wp-mono-prism/image-30796f106e6a7ffc5682e6768cf2fdb46a5ea6ed76000a59f21525fda9282e6d.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `geometric`, `modern`, `monochrome`, `op-art`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-prism/evidence.json) · [Conversion receipt](wallpapers/wp-mono-prism/conversion.json).
-
-### Form Study
-
-[![Form Study](wallpapers/wp-mono-form-study/thumb-cc825ff4b93469e1aef7afd675d569ac9456cfc910cb4fe4022de903e6afda8a.webp)](wallpapers/wp-mono-form-study/image-26ef15f78530f5f6146a97b6e9836f8e66b42dd9d57855c9a54fbc4272bde587.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `colorful`, `geometric`, `modern`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-form-study/evidence.json) · [Conversion receipt](wallpapers/wp-mono-form-study/conversion.json).
-
-### Stillwater
-
-[![Stillwater](wallpapers/wp-mono-stillwater/thumb-bbbb19179c61dde335153f038ae2e151519dc33925724b59a07b5993427d5404.webp)](wallpapers/wp-mono-stillwater/image-b9171d1b264b6352d87179c5f7533f0473d2627ccc1890366a7b8858b73c95e2.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `illustration`, `landscape`, `minimal`, `modern`, `pastel`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-stillwater/evidence.json) · [Conversion receipt](wallpapers/wp-mono-stillwater/conversion.json).
-
-### Field Notes
-
-[![Field Notes](wallpapers/wp-mono-field-notes/thumb-9cc9bca177732ff210c09b0dbaaab936de4f2abcd0337f729c6fc2a3ecefa09e.webp)](wallpapers/wp-mono-field-notes/image-62ed4d61416ab4538b1b2babbf9d4de589439780adf5ca35c34e89427506e112.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `earth-tones`, `geometric`, `modern`, `retro`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-field-notes/evidence.json) · [Conversion receipt](wallpapers/wp-mono-field-notes/conversion.json).
-
-### Obsidian Arc
-
-[![Obsidian Arc](wallpapers/wp-mono-obsidian-arc/thumb-e1822562cc3f303bec5501367ad812fea657001e2e7df22ac4c9307d6242dab3.webp)](wallpapers/wp-mono-obsidian-arc/image-a445bc4f4a981c8ca2956eab920e0fc90f5dfcfd4c9584694227325f2fd92998.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `dark`, `minimal`, `modern`, `monochrome`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-obsidian-arc/evidence.json) · [Conversion receipt](wallpapers/wp-mono-obsidian-arc/conversion.json).
-
-### Aurora Fold
-
-[![Aurora Fold](wallpapers/wp-mono-aurora-fold/thumb-abcafc89ee7082cf727cf86efa62b888fb75bcd20037c0019fd44be47d52426e.webp)](wallpapers/wp-mono-aurora-fold/image-ea6ac615811e6df4a4da5c1bd96ed760a6ade14bea00efe053cc34b29bba4196.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `dark`, `gradient`, `modern`, `neon`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-aurora-fold/evidence.json) · [Conversion receipt](wallpapers/wp-mono-aurora-fold/conversion.json).
-
-### Solstice
-
-[![Solstice](wallpapers/wp-mono-solstice/thumb-fe68fe3497d60f5728b963f6fda59ea03e64db52c62a305afa0e3555978276a7.webp)](wallpapers/wp-mono-solstice/image-37c223e7c765a76f6830e7d0fb774d67ce748f38ad959ed80ec1c5da2b72fe2d.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `earth-tones`, `illustration`, `landscape`, `minimal`, `modern`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-solstice/evidence.json) · [Conversion receipt](wallpapers/wp-mono-solstice/conversion.json).
-
-### Tide
-
-[![Tide](wallpapers/wp-mono-tide/thumb-48d4d34ce0fbe3a7e68ecc63f974ea498e2f4163e1ff72fca1bc72f604f1fda9.webp)](wallpapers/wp-mono-tide/image-de452f0bce89c86bb36c75ff038a50f15a61a5afb176b1c4689b55b345a107f3.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `blue`, `gradient`, `minimal`, `modern`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-tide/evidence.json) · [Conversion receipt](wallpapers/wp-mono-tide/conversion.json).
-
-### Signal
-
-[![Signal](wallpapers/wp-mono-signal/thumb-3cf8dbd81b8ea90ce0968169d8b8ceee1383348f42de76603887b207ff2ac998.webp)](wallpapers/wp-mono-signal/image-7f97d0516a97d70bbfb1319661ae7ce9bff1801368bc364cd6498c4d32212486.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `blue`, `dark`, `minimal`, `modern`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-signal/evidence.json) · [Conversion receipt](wallpapers/wp-mono-signal/conversion.json).
-
-### Paper
-
-[![Paper](wallpapers/wp-mono-paper/thumb-ed5d8343a6ac2f2a659cb598b246b098f89ce623a40c57155f72855e62aaaf5b.webp)](wallpapers/wp-mono-paper/image-15761b93c27167ef09ad8b334033ee81d052d9aca3ff41748ca4992d1af370a9.webp)
-
-Mono · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `light`, `minimal`, `modern`, `monochrome`. [Source](https://getmono.lol/kits/guide/) · [Rights evidence](submissions/wp-mono-paper/evidence.json) · [Conversion receipt](wallpapers/wp-mono-paper/conversion.json).
-
-### Turquoise Macro
-
-[![Turquoise Macro](wallpapers/wp-librepixels-turquoise-macro/thumb-dbcb119a13a9cb0b5b92f46fd340bec844a560de083851370b596b964fd60039.webp)](wallpapers/wp-librepixels-turquoise-macro/image-30e90cf44bbe4d8cf29e58e71d5c6d6c2e7d1c91d3d2368422028794522e8a61.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2474×1080
-
-Tags: `abstract`, `ai`, `blue`, `minimal`, `modern`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-turquoise-macro/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-turquoise-macro/conversion.json).
-
-### Neon Smoke
-
-[![Neon Smoke](wallpapers/wp-librepixels-neon-smoke/thumb-d02953e770d0cf8e8ef97ab5b1cfb371e7c0139b9d12ee83e3756d2864dc1076.webp)](wallpapers/wp-librepixels-neon-smoke/image-5a478ffaf4b2898bdb8a75ea536b9c64f76aca631de1dce8e6cca912ad728909.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3440×1440
-
-Tags: `abstract`, `ai`, `dark`, `modern`, `neon`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-neon-smoke/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-neon-smoke/conversion.json).
-
-### Chromatic Current
-
-[![Chromatic Current](wallpapers/wp-librepixels-chromatic-current/thumb-7f93d895263e3a81d954753b695743380a9ec96b37f53a2125b03994b14a4849.webp)](wallpapers/wp-librepixels-chromatic-current/image-223168552ca4aabb3625d0ef72c08bb25f1c1f9f2ca8347a7ddbe8531cb6568d.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3840×2151
-
-Tags: `abstract`, `ai`, `colorful`, `modern`, `neon`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-chromatic-current/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-chromatic-current/conversion.json).
-
-### Coral Tree Sculpture
-
-[![Coral Tree Sculpture](wallpapers/wp-librepixels-coral-tree-sculpture/thumb-7f7b97a95fe04329b88eb4f4228f18c6e42f5d1faa84d4e375aaa79bbc832d45.webp)](wallpapers/wp-librepixels-coral-tree-sculpture/image-d81fdb6c1d474a4787347d93954bef96ea84fe8f518e332a52d3f26e66392270.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3840×2160
-
-Tags: `abstract`, `ai`, `colorful`, `light`, `modern`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-coral-tree-sculpture/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-coral-tree-sculpture/conversion.json).
-
-### Pastel Cloud Fold
-
-[![Pastel Cloud Fold](wallpapers/wp-librepixels-pastel-cloud-fold/thumb-433e9c047fca2fdc156fe7523f2b4d8a8adf99cd633f24182e05e53f709c4bbe.webp)](wallpapers/wp-librepixels-pastel-cloud-fold/image-e8c580fdd91e7e1462cdbc75fc79b0abf13e15a1ad4763ed12a01368d2fd054b.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3072×1536
-
-Tags: `abstract`, `ai`, `gradient`, `modern`, `pastel`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-pastel-cloud-fold/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-pastel-cloud-fold/conversion.json).
-
-### Pigment Studio
-
-[![Pigment Studio](wallpapers/wp-librepixels-pigment-studio/thumb-5555638310fdc66404172826457cb184a746406c51ce2f3540837171188668d6.webp)](wallpapers/wp-librepixels-pigment-studio/image-890330dc4957ad3a431565ee64e6742747d8f9b4483f9fbe63ee91688ba8d739.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3840×1646
-
-Tags: `abstract`, `ai`, `colorful`, `modern`, `texture`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-pigment-studio/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-pigment-studio/conversion.json).
-
-### Ember Plume
-
-[![Ember Plume](wallpapers/wp-librepixels-ember-plume/thumb-a2f82dd715c82ab84a17a84900a30a6c0b7ed696876f41d2a7c22c463776b340.webp)](wallpapers/wp-librepixels-ember-plume/image-fc3285d570922431db01d8b6a304bca226b912fcbe2b3317a29747c223e59c82.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3840×1646
-
-Tags: `abstract`, `ai`, `dark`, `minimal`, `modern`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-ember-plume/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-ember-plume/conversion.json).
-
-### Coral Geometry
-
-[![Coral Geometry](wallpapers/wp-librepixels-coral-geometry/thumb-2d8721058eeacda9d1ba5cb44bc91d26cbf0b56e4bb277744ae22ed34eb13b1e.webp)](wallpapers/wp-librepixels-coral-geometry/image-99707ae80b90aa5eb2add60c516242a0d00969efc2446786d1c43bad4d8cd311.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 1920×1080
-
-Tags: `abstract`, `ai`, `geometric`, `modern`, `pastel`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-coral-geometry/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-coral-geometry/conversion.json).
-
-### Quiet Boat
-
-[![Quiet Boat](wallpapers/wp-librepixels-quiet-boat/thumb-557e335707214b26a583e458768c1391a7f4a4ccabf5e3ceb5f9089bc59d10aa.webp)](wallpapers/wp-librepixels-quiet-boat/image-a972247a48b0521aa92663ec3ff20c3b7642591cc607ef964ddc978e5726458d.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2752×1536
-
-Tags: `ai`, `dark`, `landscape`, `minimal`, `modern`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-quiet-boat/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-quiet-boat/conversion.json).
-
-### Graphite Mountains
-
-[![Graphite Mountains](wallpapers/wp-librepixels-graphite-mountains/thumb-c21275ad2a0283999aea2e751c652c07561d04cb96c1f3dea5187ec49d07a9dd.webp)](wallpapers/wp-librepixels-graphite-mountains/image-668cd5512d0b85a34812b8617ce336f5ad7bec79607008f6009dbc8aac1755e6.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3274×1536
-
-Tags: `ai`, `dark`, `landscape`, `minimal`, `modern`, `monochrome`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-graphite-mountains/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-graphite-mountains/conversion.json).
-
-### Blush Mountain Layers
-
-[![Blush Mountain Layers](wallpapers/wp-librepixels-blush-mountain-layers/thumb-1a6ed78fa1137eed2c996ca78e7d57966cb59fc17e1568d2beed82e430097d45.webp)](wallpapers/wp-librepixels-blush-mountain-layers/image-21610c13d0993832b40429efc3b552a8c15cbc0600add7eb8631e95901ca8f00.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3410×1536
-
-Tags: `ai`, `landscape`, `minimal`, `modern`, `pastel`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-blush-mountain-layers/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-blush-mountain-layers/conversion.json).
-
-### Origami in Mist
-
-[![Origami in Mist](wallpapers/wp-librepixels-origami-in-mist/thumb-df9eff9f73ffe64f99f3873a6e38efaedbf4e5ace81e53ff49f4691ae6357605.webp)](wallpapers/wp-librepixels-origami-in-mist/image-959a8a10da47bbee4563ebbd41af383d13378ccd02ce44b0945f3b05a3d15807.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2752×1536
-
-Tags: `ai`, `minimal`, `modern`, `origami`, `pastel`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-origami-in-mist/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-origami-in-mist/conversion.json).
-
-### Lone Edison Glow
-
-[![Lone Edison Glow](wallpapers/wp-librepixels-lone-edison-glow/thumb-69a800b4c75dda4bb701359a5c3a514addeccfc8be8af365dcb38280c6e18ac6.webp)](wallpapers/wp-librepixels-lone-edison-glow/image-e56a7a665a43573cdd280313fdfc1114a98348945d01e8b93ee59d06cfa6f22a.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 1920×1080
-
-Tags: `ai`, `dark`, `minimal`, `modern`, `warm`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-lone-edison-glow/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-lone-edison-glow/conversion.json).
+Simple, geometric and pattern wallpapers have been removed at the operator’s request. Public candidates and app admission are reviewed separately.
 
 ### Amber Railcar
 
@@ -355,22 +53,6 @@ LibrePixels · CC0-1.0 · AI artwork · 3072×2048
 
 Tags: `ai`, `dark`, `landscape`, `modern`, `winter`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-snowbound-locomotive/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-snowbound-locomotive/conversion.json).
 
-### Tea Ritual
-
-[![Tea Ritual](wallpapers/wp-librepixels-tea-ritual/thumb-df29cb6b650d087a7fffc7a198d1fba0835df344a03f23ad610aba9117f88afa.webp)](wallpapers/wp-librepixels-tea-ritual/image-0e7a2f8faada40bb57ec0f4fe891f6d00de3beea09551f65ab570d2799452c97.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2752×1536
-
-Tags: `ai`, `dark`, `minimal`, `modern`, `still-life`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-tea-ritual/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-tea-ritual/conversion.json).
-
-### Midnight Ferns
-
-[![Midnight Ferns](wallpapers/wp-librepixels-midnight-ferns/thumb-3f927caa112d0ca69ea74190e652e14aed6981cd096a0297aa4b1275f540c741.webp)](wallpapers/wp-librepixels-midnight-ferns/image-44268f45ac00f91a0119f04fd7e36bad17c7979a9b9fecbcd7b53a646f1d5a76.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3440×1440
-
-Tags: `ai`, `botanical`, `dark`, `minimal`, `modern`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-midnight-ferns/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-midnight-ferns/conversion.json).
-
 ### Emerald Canopy
 
 [![Emerald Canopy](wallpapers/wp-librepixels-emerald-canopy/thumb-75b2408f78a20a46b455ad1ae70586549cfff78d2582ac0ab7b128481455bb17.webp)](wallpapers/wp-librepixels-emerald-canopy/image-07740fad3a3adb4cf04384cb6179bad8c39a9445fc563adc4d78600f91af27f7.webp)
@@ -378,14 +60,6 @@ Tags: `ai`, `botanical`, `dark`, `minimal`, `modern`, `ultrawide`. [Source](http
 LibrePixels · CC0-1.0 · AI artwork · 3840×1600
 
 Tags: `ai`, `botanical`, `dark`, `modern`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-emerald-canopy/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-emerald-canopy/conversion.json).
-
-### Silver Tides
-
-[![Silver Tides](wallpapers/wp-librepixels-silver-tides/thumb-0a388f4e691d430a357cb1bd876bb2012d0c616730b15f92eec1b78a9c1cb518.webp)](wallpapers/wp-librepixels-silver-tides/image-50cf25321341e82ac62b7c5cdad01aa8e57761b8433bcc7bd04076766284a093.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2752×1536
-
-Tags: `ai`, `landscape`, `minimal`, `modern`, `monochrome`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-silver-tides/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-silver-tides/conversion.json).
 
 ### Rainlit Bokeh
 
@@ -411,30 +85,6 @@ LibrePixels · CC0-1.0 · AI artwork · 3840×1851
 
 Tags: `ai`, `animals`, `illustration`, `light`, `modern`, `watercolour`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-watercolour-fox/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-watercolour-fox/conversion.json).
 
-### Fox in Slate
-
-[![Fox in Slate](wallpapers/wp-librepixels-fox-in-slate/thumb-03a1bfbd1fef80332b750451c89deea4c1bcbac9e677af2f5fcdab3107894ae0.webp)](wallpapers/wp-librepixels-fox-in-slate/image-5783cd3a7c643301561f6aa9c812d406dd7b54c9e0a9326790b9015d8a8e5452.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2752×1536
-
-Tags: `ai`, `animals`, `dark`, `minimal`, `modern`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-fox-in-slate/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-fox-in-slate/conversion.json).
-
-### Nordic Leaves
-
-[![Nordic Leaves](wallpapers/wp-librepixels-nordic-leaves/thumb-26efc1bcf6785965d394d1e92cf49216cb165cfc0ff00a7608b15b13f391ee2f.webp)](wallpapers/wp-librepixels-nordic-leaves/image-92d2160b1a29bc5944b3491268558c3f7931c50d072d389ddb6d49d1290d5739.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3840×1662
-
-Tags: `ai`, `blue`, `botanical`, `minimal`, `modern`, `nord`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-nordic-leaves/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-nordic-leaves/conversion.json).
-
-### Neon Heart
-
-[![Neon Heart](wallpapers/wp-librepixels-neon-heart/thumb-df48789d00fed72026690a3e467350c96b7a770b7acef17198ce4f4cd40508d9.webp)](wallpapers/wp-librepixels-neon-heart/image-13fabab15b02ad95eabf4c28975fa7adb957f2d0480a3f2c9a8130c15c7e953c.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3440×1440
-
-Tags: `abstract`, `ai`, `dark`, `minimal`, `modern`, `neon`, `ultrawide`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-neon-heart/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-neon-heart/conversion.json).
-
 ### Coffee Canopy
 
 [![Coffee Canopy](wallpapers/wp-librepixels-coffee-canopy/thumb-b5532f93b8bf64482888e35b84039a408e7b6ba8a048122af01defe8e02d8754.webp)](wallpapers/wp-librepixels-coffee-canopy/image-6c521704f5930378f930e8e881755b2a981e2211a57dfa257c5754e56c489a48.webp)
@@ -443,22 +93,6 @@ LibrePixels · CC0-1.0 · AI artwork · 2560×1440
 
 Tags: `ai`, `botanical`, `dark`, `earth-tones`, `modern`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-coffee-canopy/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-coffee-canopy/conversion.json).
 
-### Blush in Winter
-
-[![Blush in Winter](wallpapers/wp-librepixels-blush-in-winter/thumb-718674ad0fe12db17bb861d65570f07948592e637d217dbf57597358f93d1068.webp)](wallpapers/wp-librepixels-blush-in-winter/image-f5c8dfc808e81cd72da5789dabc23bc02ba483a1910e0c9a905cb8f092045f91.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2368×1344
-
-Tags: `ai`, `landscape`, `minimal`, `modern`, `pastel`, `winter`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-blush-in-winter/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-blush-in-winter/conversion.json).
-
-### Ceramic Owl
-
-[![Ceramic Owl](wallpapers/wp-librepixels-ceramic-owl/thumb-4301bfc92823a1174c14515db9b86cf0c3e21822b958856214a2c3eae0c9485b.webp)](wallpapers/wp-librepixels-ceramic-owl/image-39c5277e502ba56241b02213400961d6f9b2c11f65b885d1ed399ab1e288fbd8.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 3708×1778
-
-Tags: `ai`, `animals`, `minimal`, `modern`, `still-life`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-ceramic-owl/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-ceramic-owl/conversion.json).
-
 ### Bonsai Lantern
 
 [![Bonsai Lantern](wallpapers/wp-librepixels-bonsai-lantern/thumb-bde37071a351557dc9d2a4c09cd1e408655dfc7d170d96224126461224b90d5d.webp)](wallpapers/wp-librepixels-bonsai-lantern/image-c49438a567cdbd0c7379133710a75323eb59dfd5a51e99863b5098d58fae4bd4.webp)
@@ -466,62 +100,6 @@ Tags: `ai`, `animals`, `minimal`, `modern`, `still-life`. [Source](https://gitla
 LibrePixels · CC0-1.0 · AI artwork · 3840×1794
 
 Tags: `ai`, `botanical`, `dark`, `fantasy`, `modern`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-bonsai-lantern/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-bonsai-lantern/conversion.json).
-
-### Quiet Cat
-
-[![Quiet Cat](wallpapers/wp-librepixels-quiet-cat/thumb-8ef97f718dcbed5bad294d34a49e0d27c8f7467b0b405e91a55e009e91758453.webp)](wallpapers/wp-librepixels-quiet-cat/image-f4439e1c50e186cd84b209191486413a7feee53e66a8b6373e5548473a0426a1.webp)
-
-LibrePixels · CC0-1.0 · AI artwork · 2752×1536
-
-Tags: `ai`, `animals`, `minimal`, `modern`, `pastel`. [Source](https://gitlab.com/librepixels/ia.Wallpapers) · [Rights evidence](submissions/wp-librepixels-quiet-cat/evidence.json) · [Conversion receipt](wallpapers/wp-librepixels-quiet-cat/conversion.json).
-
-### Violet Rays
-
-[![Violet Rays](wallpapers/wp-wenrexa-violet-rays/thumb-8b20c3a44bc5cd65f7bdb0e586dc43f847f75309117e96dcb916734f9a16b43b.webp)](wallpapers/wp-wenrexa-violet-rays/image-526dfc21c1aaaa7f95217328bdb0c048a76cb069079111c8145d0366c53a2f6b.webp)
-
-Wenrexa · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `gradient`, `modern`, `purple`. [Source](https://wenrexa.itch.io/abstractbq) · [Rights evidence](submissions/wp-wenrexa-violet-rays/evidence.json) · [Conversion receipt](wallpapers/wp-wenrexa-violet-rays/conversion.json).
-
-### Chromatic Fold
-
-[![Chromatic Fold](wallpapers/wp-wenrexa-chromatic-fold/thumb-d1c6bf024f4e5f4d4c775be3e312843661c3491854f62373586bded9564db11b.webp)](wallpapers/wp-wenrexa-chromatic-fold/image-66f1d7437b1c662481c1d5fe02aa990797a5a9ba57c8086c9899b7508142044e.webp)
-
-Wenrexa · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `colorful`, `gradient`, `modern`. [Source](https://wenrexa.itch.io/abstractbq) · [Rights evidence](submissions/wp-wenrexa-chromatic-fold/evidence.json) · [Conversion receipt](wallpapers/wp-wenrexa-chromatic-fold/conversion.json).
-
-### Rainbow Trace
-
-[![Rainbow Trace](wallpapers/wp-wenrexa-rainbow-trace/thumb-aee80d367c7926aeea0ebad57ddbbdfb96357e634b73ede183e79df0d8ada9af.webp)](wallpapers/wp-wenrexa-rainbow-trace/image-7d0ec549b73c12f10f92706148fb9ce61189c75c7a649b6423ff99084e24aa08.webp)
-
-Wenrexa · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `dark`, `minimal`, `modern`, `neon`. [Source](https://wenrexa.itch.io/abstractbq) · [Rights evidence](submissions/wp-wenrexa-rainbow-trace/evidence.json) · [Conversion receipt](wallpapers/wp-wenrexa-rainbow-trace/conversion.json).
-
-### Electric Window
-
-[![Electric Window](wallpapers/wp-wenrexa-electric-window/thumb-0629aaf622eac726d1022e4d7f2b9d66c52a014aaeabd8164b7a6d4b3943a199.webp)](wallpapers/wp-wenrexa-electric-window/image-d3f5b76ffe4f59d3d0e69eedc8a944a9092d5a119cd463f1f4817992af73de40.webp)
-
-Wenrexa · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `blue`, `dark`, `minimal`, `modern`. [Source](https://wenrexa.itch.io/abstractbq) · [Rights evidence](submissions/wp-wenrexa-electric-window/evidence.json) · [Conversion receipt](wallpapers/wp-wenrexa-electric-window/conversion.json).
-
-### Teal Frame
-
-[![Teal Frame](wallpapers/wp-wenrexa-teal-frame/thumb-9c07d894d8ba777e64c18f737f8dbb1f85f463fd12a0b8be05202695b0bf5afc.webp)](wallpapers/wp-wenrexa-teal-frame/image-94b56e99d92213b89cc1d3030f4831d826b6e081088308229f62eb6ba691eeaa.webp)
-
-Wenrexa · CC0-1.0 · Original non-AI design · 3840×2160
-
-Tags: `abstract`, `geometric`, `minimal`, `modern`. [Source](https://wenrexa.itch.io/abstractbq) · [Rights evidence](submissions/wp-wenrexa-teal-frame/evidence.json) · [Conversion receipt](wallpapers/wp-wenrexa-teal-frame/conversion.json).
-
-### Indigo Pinwheel
-
-[![Indigo Pinwheel](wallpapers/wp-wenrexa-indigo-pinwheel/thumb-a9d61ef651eb4a4a3db34a6d61885c8326f13c94f285c6afd0ebf636c2032c82.webp)](wallpapers/wp-wenrexa-indigo-pinwheel/image-40c4924f976f45645f9fc0351435fbca4ffec9d5839b696b4c757ee24dc62940.webp)
-
-Wenrexa · CC0-1.0 · Original non-AI design · 2560×1440
-
-Tags: `abstract`, `gradient`, `modern`, `purple`. [Source](https://wenrexa.itch.io/abstractbq) · [Rights evidence](submissions/wp-wenrexa-indigo-pinwheel/evidence.json) · [Conversion receipt](wallpapers/wp-wenrexa-indigo-pinwheel/conversion.json).
 
 ### Sword Flight
 
@@ -912,78 +490,6 @@ Tags: `ai`, `architecture`, `dark`, `fantasy`, `illustration`, `modern`, `night`
 
 These 24 additions have creator CC0 evidence. Repository assets are independent of operator approval for app inclusion.
 
-### Prismatic Bloom
-
-[![Prismatic Bloom](wallpapers/wp-wenrexa-abstract-background-00050/thumb-c4cb80644c0f16a285d890c560d48f927075ae19b1b6e049a416860df7f4d4a8.webp)](wallpapers/wp-wenrexa-abstract-background-00050/image-c66d591973ca54593778ca7f0ab06c7ff87540bc3dff5f09caca9568466c08fe.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Neon Fold
-
-[![Neon Fold](wallpapers/wp-wenrexa-abstract-background-00081/thumb-26b28a90053f83a4404849b7b1237c1728fcb4299b3b7b76e6d421b5b7975119.webp)](wallpapers/wp-wenrexa-abstract-background-00081/image-2e2184650a426bd6049f9509e9561e761a8b5b1cc138db3c2d2bd61a37e26ff3.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Midnight Prism
-
-[![Midnight Prism](wallpapers/wp-wenrexa-abstract-background-00113/thumb-a5173b4a86201dba7eff944ab00a90069d33d916fa40686e67d54366d135cf92.webp)](wallpapers/wp-wenrexa-abstract-background-00113/image-9525768d585e96ee68818f089beaa7f4d7a4928a9686d7f275ebf2a5abbf9f76.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Northern Glow
-
-[![Northern Glow](wallpapers/wp-wenrexa-abstract-background-00240/thumb-c34806c56216fef675608f70cc2b4b8fc80d120058cc5c8175fbcc9a77a9893e.webp)](wallpapers/wp-wenrexa-abstract-background-00240/image-2aee56177e3f3767d2c1cf20ab549ec872903faee8cbbe54d2993333d78b71d1.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Lime Vortex
-
-[![Lime Vortex](wallpapers/wp-wenrexa-abstract-background-00272/thumb-0518cd17d0e538de46f14d3ac4d1f1a6c3f44aa45fa4c72a955a5c8450bf2078.webp)](wallpapers/wp-wenrexa-abstract-background-00272/image-a073f17dbdcea88832bd85a46999567053aa0f5b25fbabda494ea0dfc3f5e8ea.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Chromatic Portal
-
-[![Chromatic Portal](wallpapers/wp-wenrexa-abstract-background-00304/thumb-6befd6aab05a7a86c02cb0b4fe5d21ae0cf8d446659e99f8e4749ae93fa72387.webp)](wallpapers/wp-wenrexa-abstract-background-00304/image-21b276547a0635472dd80e6948aebfd3764ee45a693a7d4482fcd9897dbe3a95.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Teal Geometry
-
-[![Teal Geometry](wallpapers/wp-wenrexa-abstract-background-00341/thumb-5ffd4f0bac529108f66bb7245e609c3678eb6dfbffc6a6edc3340f3d1a7f8aea.webp)](wallpapers/wp-wenrexa-abstract-background-00341/image-0ee1fb1d80567c49bbf7fae3ae6e40357a6e8e2d709806188060145394e71a54.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Midnight Windows
-
-[![Midnight Windows](wallpapers/wp-wenrexa-abstract-background-00368/thumb-550d25576cfbf7a8eb8f37887939c0a7cd21464738afd45748d3160cc85a3598.webp)](wallpapers/wp-wenrexa-abstract-background-00368/image-b68e1faebf1380da1c959a24805117b243b2a8f9aa145b177f3c673f3ce3d624.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Aqua Fan
-
-[![Aqua Fan](wallpapers/wp-wenrexa-abstract-w02/thumb-a1ad018d21c9d505f5765e8eaa6149a1430fc05aae1e660e3a8f58ec77d0f0ae.webp)](wallpapers/wp-wenrexa-abstract-w02/image-8f32600459958ed46456941eda2948bfe2c930bd32156056e61af0fd35631b7c.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Spectral Spiral
-
-[![Spectral Spiral](wallpapers/wp-wenrexa-abstract-w03/thumb-3fa8eead4849a24ddf697be5669e6468230a984945cb66ee04e39b145c99eff9.webp)](wallpapers/wp-wenrexa-abstract-w03/image-25a52370670fac516b00822a584aba2b7d1f52bda4a4efb787cfac204db4c36b.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Blue Flame
-
-[![Blue Flame](wallpapers/wp-wenrexa-abstract-w04/thumb-4237e7132f4e3fb99bcb290338f704c3b904b2e0f4aca4ec1d42e4595cdc6430.webp)](wallpapers/wp-wenrexa-abstract-w04/image-c3577ef83972536fe3fa5ad5bfb9f05c38f6fd3d480d404fc6313b31323edc40.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
-### Coral Current
-
-[![Coral Current](wallpapers/wp-wenrexa-abstract-w05/thumb-85dfab74a077ca58542ea7b5decb15c87fabc583d994d204d2771952365b07ce.webp)](wallpapers/wp-wenrexa-abstract-w05/image-06e5867c20509267165b4416701a469a0dd2a4a1f2bda7024499179daa69b97c.webp)
-
-Wenrexa · [creator source / CC0 evidence](https://wenrexa.itch.io/abstractbq)
-
 ### Electric Nebula
 
 [![Electric Nebula](wallpapers/wp-wenrexa-space-1/thumb-651db9a9b1a88712eb5105a69ddc18026990e54cba683313c9052fdf9b1c2613.webp)](wallpapers/wp-wenrexa-space-1/image-8e76fb327c37b17331c3e5b017d43ab446f888c3ef4127881a2531ece140e74b.webp)
@@ -1049,14 +555,6 @@ Clifton Lambert · [creator source / CC0 evidence](https://prismshard77.itch.io/
 [![Watercolour Open Meadow](wallpapers/wp-lambert-painted-bg-open-meadow/thumb-c7ac5f633f1553abacbef4e4b9b0b837fb5998bcef38771e05c9ccb163bd2e81.webp)](wallpapers/wp-lambert-painted-bg-open-meadow/image-e8fa68b87bc783cf9435cc8ff2197a088c7df3de994f1f64cf7a175897cc1ccd.webp)
 
 Clifton Lambert · [creator source / CC0 evidence](https://prismshard77.itch.io/handpainted-visual-novel-backgrounds)
-
-### Dusk Silhouettes
-
-[![Dusk Silhouettes](wallpapers/wp-tigitalart-hills-scenery-complete/thumb-045eb328e07665a8fbde2f48d27f2372fd3c3a4cee81b46c221eba68159da550.webp)](wallpapers/wp-tigitalart-hills-scenery-complete/image-55ef9080c62025e60d200cd5449e82d86014177ec911270bcbc6ad060ee209ad.webp)
-
-tigitalart · [creator source / CC0 evidence](https://opengameart.org/content/hills-scenery-background-seamless)
-
-## Starter collection
 
 ### Canadian Rockies
 
