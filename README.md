@@ -3,7 +3,7 @@
 Public-domain wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **152 wallpapers**, including 96 additional modern designs: dark and pastel minimal art, gradients, neon abstracts, ultrawide compositions and fantasy environments. The collection includes 78 clearly labelled creator-generated AI artworks released under CC0, plus original non-AI art and the museum starter set. Every wallpaper has stored style/subject/palette tags, creator source, rights evidence and conversion hashes in [catalog/candidates.json](catalog/candidates.json). Browse the previews below.
+This repository contains **168 wallpapers**, including 96 additional modern designs: dark and pastel minimal art, gradients, neon abstracts, ultrawide compositions and fantasy environments. The collection includes 78 clearly labelled creator-generated AI artworks released under CC0, plus original non-AI art and the museum starter set. Every wallpaper has stored style/subject/palette tags, creator source, rights evidence and conversion hashes in [catalog/candidates.json](catalog/candidates.json). Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -32,6 +32,106 @@ Images carry their individual public-domain/CC0 evidence. RiceWM.org dedicates
 any rights it owns in normalized derivatives and collection metadata under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## Catppuccin Mocha — 16 original4K designs
+
+Original RiceWM.org vector compositions in the exact Mocha palette, dedicated under CC0. User explicitly approved all16 for app publication. Independently created artwork; not official Catppuccin art. [Source and conversion notes](MOCHA_COLLECTION.md).
+
+### Mocha · Moon over the City
+
+[![Mocha · Moon over the City](wallpapers/wp-ricewm-mocha-moon-over-the-city/thumb-6fe50587bc8b94c8fc24b284499d02f99761bcf0061a4d8f0c1896b308b8b569.webp)](wallpapers/wp-ricewm-mocha-moon-over-the-city/image-dfc90e10b7b54ba6122d2821df13caeb24f956debcb610dce73f9758c71086fd.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `city`, `dark`, `minimal`, `modern`, `night`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-moon-over-the-city/source.svg) · [Evidence](submissions/wp-ricewm-mocha-moon-over-the-city/evidence.json).
+
+### Mocha · Lavender Orbit
+
+[![Mocha · Lavender Orbit](wallpapers/wp-ricewm-mocha-lavender-orbit/thumb-490074f3eec7917898d729b23624699b60ecbbfc863ba20662f4e1e90032d84c.webp)](wallpapers/wp-ricewm-mocha-lavender-orbit/image-fd40e789b5c4d73748cfc669db3539b16d174b8aa90fc1d4841b313e5b564a7b.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lavender-orbit/source.svg) · [Evidence](submissions/wp-ricewm-mocha-lavender-orbit/evidence.json).
+
+### Mocha · Alpine Moon
+
+[![Mocha · Alpine Moon](wallpapers/wp-ricewm-mocha-alpine-moon/thumb-149c44768b86c26963eeca3c93eac86574bda99ba083ff42556241b742996de1.webp)](wallpapers/wp-ricewm-mocha-alpine-moon/image-d30d946cd7e90f576542f2678d3297e0498b1cc84e4d25bbf53d5a1b256f2f0f.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `mountains`, `night`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-alpine-moon/source.svg) · [Evidence](submissions/wp-ricewm-mocha-alpine-moon/evidence.json).
+
+### Mocha · Quiet Platform
+
+[![Mocha · Quiet Platform](wallpapers/wp-ricewm-mocha-quiet-platform/thumb-d0931fef2d00987581957c16ef2970c7f7abb093f010a0eea4874a229b7d1562.webp)](wallpapers/wp-ricewm-mocha-quiet-platform/image-bbea9319f57521523ec4edbda3367052f598c27fdd1c3b8e1ea3075315970da9.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `city`, `dark`, `minimal`, `modern`, `night`, `pastel`, `railway`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-quiet-platform/source.svg) · [Evidence](submissions/wp-ricewm-mocha-quiet-platform/evidence.json).
+
+### Mocha · Pastel Topography
+
+[![Mocha · Pastel Topography](wallpapers/wp-ricewm-mocha-pastel-topography/thumb-5ebd770633ace5b1a3c8efb9b92c34db3a3639c2782cdf685e7d2aefbd7c3427.webp)](wallpapers/wp-ricewm-mocha-pastel-topography/image-318dbbab2d7246d2ed7aa6af031f170b592c9f18b5a8cfd2be0d72276135e106.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `lines`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-pastel-topography/source.svg) · [Evidence](submissions/wp-ricewm-mocha-pastel-topography/evidence.json).
+
+### Mocha · Sakura Night
+
+[![Mocha · Sakura Night](wallpapers/wp-ricewm-mocha-sakura-night/thumb-14ca936bc93a0962a56f441bc6a30a4c61cf312d66e7052866fc2c9caa52310e.webp)](wallpapers/wp-ricewm-mocha-sakura-night/image-d613f5f279f8a1a4df318e75dd2decbeef2d42d08b3c416d9cd8d7d99a61b291.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `botanical`, `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `night`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-sakura-night/source.svg) · [Evidence](submissions/wp-ricewm-mocha-sakura-night/evidence.json).
+
+### Mocha · Retro Sunset
+
+[![Mocha · Retro Sunset](wallpapers/wp-ricewm-mocha-retro-sunset/thumb-e899d9212a23303f680d347b850d844abc753289cb4463bbe94b8908c16fb436.webp)](wallpapers/wp-ricewm-mocha-retro-sunset/image-2feb49e7e82491d669d5b5b36ac70130e97fe486a43f4965776f83273f8b0ba5.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `retro`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-retro-sunset/source.svg) · [Evidence](submissions/wp-ricewm-mocha-retro-sunset/evidence.json).
+
+### Mocha · Terminal Tide
+
+[![Mocha · Terminal Tide](wallpapers/wp-ricewm-mocha-terminal-tide/thumb-3147561a144022d4680836b67e75d4ecf7f415024de03a2d23120baae7092fff.webp)](wallpapers/wp-ricewm-mocha-terminal-tide/image-0a7173e9ed3905b9c0513a73f36be4a633af882714ec6c04dfc190b3bf1c8bc0.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `waves`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-terminal-tide/source.svg) · [Evidence](submissions/wp-ricewm-mocha-terminal-tide/evidence.json).
+
+### Mocha · Neon Corridor
+
+[![Mocha · Neon Corridor](wallpapers/wp-ricewm-mocha-neon-corridor/thumb-a9bc5d926898fc0f768d742c751469aa09372f504235a68a2253ccca4c9d0aa6.webp)](wallpapers/wp-ricewm-mocha-neon-corridor/image-ae6d9bd7ff1320fa7656c725759a9a76a308ecc2e89c000ee803912950db9f38.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `architecture`, `catppuccin`, `catppuccin-mocha`, `city`, `cyberpunk`, `dark`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-neon-corridor/source.svg) · [Evidence](submissions/wp-ricewm-mocha-neon-corridor/evidence.json).
+
+### Mocha · Paper Mountains
+
+[![Mocha · Paper Mountains](wallpapers/wp-ricewm-mocha-paper-mountains/thumb-370bde3433279833fa831f3857f504a000139c1173428a939a6ec063c4c360cd.webp)](wallpapers/wp-ricewm-mocha-paper-mountains/image-33aa5b304c604e458cf049b816c5cfdada192032c7ffcfc7d1f3a70749d55fe4.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `mountains`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-paper-mountains/source.svg) · [Evidence](submissions/wp-ricewm-mocha-paper-mountains/evidence.json).
+
+### Mocha · Observatory
+
+[![Mocha · Observatory](wallpapers/wp-ricewm-mocha-observatory/thumb-de28fd98cd90ee7e0c9c5381e3e24002d10c3007cb17f996054be84a6ee792cd.webp)](wallpapers/wp-ricewm-mocha-observatory/image-b966ffb9145cf99f9f1b11921886e5f4936febde883d68b6a92b3c3e63395297.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `architecture`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `night`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-observatory/source.svg) · [Evidence](submissions/wp-ricewm-mocha-observatory/evidence.json).
+
+### Mocha · Rain Window
+
+[![Mocha · Rain Window](wallpapers/wp-ricewm-mocha-rain-window/thumb-90dd538348a3eb22201a16d7240da29c5779076cd4d4db740647d6ed53193cdb.webp)](wallpapers/wp-ricewm-mocha-rain-window/image-d3382e35c205e8465ccf1bb4065302269975f309ef0c985236a4d9587710762e.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `city`, `dark`, `minimal`, `modern`, `night`, `pastel`, `rain`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-rain-window/source.svg) · [Evidence](submissions/wp-ricewm-mocha-rain-window/evidence.json).
+
+### Mocha · Planetary Pastels
+
+[![Mocha · Planetary Pastels](wallpapers/wp-ricewm-mocha-planetary-pastels/thumb-8d338755902064237174e5c1311846f5359453769864aaca0f605b197bb50dee.webp)](wallpapers/wp-ricewm-mocha-planetary-pastels/image-5a301dd760bc0d1b3701e41db35935d5ce0df67383cc9ae1ac880b9de7255aa5.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-planetary-pastels/source.svg) · [Evidence](submissions/wp-ricewm-mocha-planetary-pastels/evidence.json).
+
+### Mocha · Digital Garden
+
+[![Mocha · Digital Garden](wallpapers/wp-ricewm-mocha-digital-garden/thumb-a06ff386d5de33b293802fd185f0a45ac2fac9c4c8b04b3ca646faf08a9aa162.webp)](wallpapers/wp-ricewm-mocha-digital-garden/image-3c76b763f7cfe8b118aab75def4aef437f484a006f217fbf4ef638adf6dc10b2.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `botanical`, `catppuccin`, `catppuccin-mocha`, `dark`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-digital-garden/source.svg) · [Evidence](submissions/wp-ricewm-mocha-digital-garden/evidence.json).
+
+### Mocha · Glass Panels
+
+[![Mocha · Glass Panels](wallpapers/wp-ricewm-mocha-glass-panels/thumb-b4f5f050051e6006a00efd3fc43c1fb09b6a8d6462647e6bae4da3123ad9ab4a.webp)](wallpapers/wp-ricewm-mocha-glass-panels/image-9162360128025ed2dae940fb70d2cdadada666aa70f605ebf33c13f2676739ed.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `abstract`, `catppuccin`, `catppuccin-mocha`, `dark`, `geometric`, `minimal`, `modern`, `pastel`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-glass-panels/source.svg) · [Evidence](submissions/wp-ricewm-mocha-glass-panels/evidence.json).
+
+### Mocha · Lunar Reflection
+
+[![Mocha · Lunar Reflection](wallpapers/wp-ricewm-mocha-lunar-reflection/thumb-89e6ce1e78f60c22fd689eafea0bf2c5dfd1de4e2929e2bb465275519b08fdd2.webp)](wallpapers/wp-ricewm-mocha-lunar-reflection/image-0199c0fc11676423a5801cea6c7f7a597805044dd57b321ffd9f0297489cdc70.webp)
+
+RiceWM.org · CC0-1.0 ·3840×2160 · Tags: `catppuccin`, `catppuccin-mocha`, `dark`, `landscape`, `minimal`, `modern`, `night`, `pastel`, `space`. [OriginalSVG](https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lunar-reflection/source.svg) · [Evidence](submissions/wp-ricewm-mocha-lunar-reflection/evidence.json).
 
 ## Modern ricing expansion — 96 additional wallpapers
 

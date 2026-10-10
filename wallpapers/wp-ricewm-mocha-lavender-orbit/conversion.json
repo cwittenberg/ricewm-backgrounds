@@ -1,0 +1,58 @@
+{
+  "id": "wp-ricewm-mocha-lavender-orbit",
+  "name": "Mocha · Lavender Orbit",
+  "author": "RiceWM.org",
+  "category": "space",
+  "tags": [
+    "abstract",
+    "catppuccin",
+    "catppuccin-mocha",
+    "dark",
+    "minimal",
+    "modern",
+    "pastel",
+    "space"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lavender-orbit/source.svg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lavender-orbit/evidence.json",
+    "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-mocha-lavender-orbit/image-fd40e789b5c4d73748cfc669db3539b16d174b8aa90fc1d4841b313e5b564a7b.webp",
+      "sha256": "fd40e789b5c4d73748cfc669db3539b16d174b8aa90fc1d4841b313e5b564a7b",
+      "bytes": 47356,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-mocha-lavender-orbit/thumb-490074f3eec7917898d729b23624699b60ecbbfc863ba20662f4e1e90032d84c.webp",
+      "sha256": "490074f3eec7917898d729b23624699b60ecbbfc863ba20662f4e1e90032d84c",
+      "bytes": 1152,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-mocha-lavender-orbit/thumb2x-8b496ebbbaa501bc85fafed1e5b1bd5fca2250b3e882f8cc1f928f480db2759d.webp",
+      "sha256": "8b496ebbbaa501bc85fafed1e5b1bd5fca2250b3e882f8cc1f928f480db2759d",
+      "bytes": 3362,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "42329ba125806acd9f9f62f1e277ed2fa1893ceb7bd3b3ed577fc5410a61116a",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -4400,6 +4400,940 @@
       }
     },
     {
+      "id": "wp-ricewm-mocha-alpine-moon",
+      "name": "Mocha · Alpine Moon",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "landscape",
+        "minimal",
+        "modern",
+        "mountains",
+        "night",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-alpine-moon/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-alpine-moon/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-alpine-moon/image-d30d946cd7e90f576542f2678d3297e0498b1cc84e4d25bbf53d5a1b256f2f0f.webp",
+          "sha256": "d30d946cd7e90f576542f2678d3297e0498b1cc84e4d25bbf53d5a1b256f2f0f",
+          "bytes": 30964,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-alpine-moon/thumb-149c44768b86c26963eeca3c93eac86574bda99ba083ff42556241b742996de1.webp",
+          "sha256": "149c44768b86c26963eeca3c93eac86574bda99ba083ff42556241b742996de1",
+          "bytes": 922,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-alpine-moon/thumb2x-f970b5cd6cff1e2a5ece889133f3b1cc5828722e8df264687ac5a120baa39fcf.webp",
+          "sha256": "f970b5cd6cff1e2a5ece889133f3b1cc5828722e8df264687ac5a120baa39fcf",
+          "bytes": 2342,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "c203f59e4e013386edf9174a56a0e0a0fda231fe25b8fb0e298296c36dafb8fe",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-digital-garden",
+      "name": "Mocha · Digital Garden",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "abstract",
+        "botanical",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "minimal",
+        "modern",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-digital-garden/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-digital-garden/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-digital-garden/image-3c76b763f7cfe8b118aab75def4aef437f484a006f217fbf4ef638adf6dc10b2.webp",
+          "sha256": "3c76b763f7cfe8b118aab75def4aef437f484a006f217fbf4ef638adf6dc10b2",
+          "bytes": 49800,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-digital-garden/thumb-a06ff386d5de33b293802fd185f0a45ac2fac9c4c8b04b3ca646faf08a9aa162.webp",
+          "sha256": "a06ff386d5de33b293802fd185f0a45ac2fac9c4c8b04b3ca646faf08a9aa162",
+          "bytes": 2096,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-digital-garden/thumb2x-6ebb02f44735800396892350f9b18769dcbb5f3d2e68a2a4be7ab3b17576978d.webp",
+          "sha256": "6ebb02f44735800396892350f9b18769dcbb5f3d2e68a2a4be7ab3b17576978d",
+          "bytes": 4582,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "4310d900bdbf87950db7df96ed63f92f3a5531a1f98e8aa45d09f4f7f2e0fc75",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-glass-panels",
+      "name": "Mocha · Glass Panels",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "abstract",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "geometric",
+        "minimal",
+        "modern",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-glass-panels/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-glass-panels/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-glass-panels/image-9162360128025ed2dae940fb70d2cdadada666aa70f605ebf33c13f2676739ed.webp",
+          "sha256": "9162360128025ed2dae940fb70d2cdadada666aa70f605ebf33c13f2676739ed",
+          "bytes": 39658,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-glass-panels/thumb-b4f5f050051e6006a00efd3fc43c1fb09b6a8d6462647e6bae4da3123ad9ab4a.webp",
+          "sha256": "b4f5f050051e6006a00efd3fc43c1fb09b6a8d6462647e6bae4da3123ad9ab4a",
+          "bytes": 1232,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-glass-panels/thumb2x-e3ade376ec7e4c6df805d2e37e73b2ec2a68e153f1ad90ba09adcbe7bf7545dc.webp",
+          "sha256": "e3ade376ec7e4c6df805d2e37e73b2ec2a68e153f1ad90ba09adcbe7bf7545dc",
+          "bytes": 2898,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "131a3f5922ede8020712b4e874c9a2b174e6137af815dd9a77fb9bb1b1cd3392",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-lavender-orbit",
+      "name": "Mocha · Lavender Orbit",
+      "author": "RiceWM.org",
+      "category": "space",
+      "tags": [
+        "abstract",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "minimal",
+        "modern",
+        "pastel",
+        "space"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lavender-orbit/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lavender-orbit/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-lavender-orbit/image-fd40e789b5c4d73748cfc669db3539b16d174b8aa90fc1d4841b313e5b564a7b.webp",
+          "sha256": "fd40e789b5c4d73748cfc669db3539b16d174b8aa90fc1d4841b313e5b564a7b",
+          "bytes": 47356,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-lavender-orbit/thumb-490074f3eec7917898d729b23624699b60ecbbfc863ba20662f4e1e90032d84c.webp",
+          "sha256": "490074f3eec7917898d729b23624699b60ecbbfc863ba20662f4e1e90032d84c",
+          "bytes": 1152,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-lavender-orbit/thumb2x-8b496ebbbaa501bc85fafed1e5b1bd5fca2250b3e882f8cc1f928f480db2759d.webp",
+          "sha256": "8b496ebbbaa501bc85fafed1e5b1bd5fca2250b3e882f8cc1f928f480db2759d",
+          "bytes": 3362,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "42329ba125806acd9f9f62f1e277ed2fa1893ceb7bd3b3ed577fc5410a61116a",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-lunar-reflection",
+      "name": "Mocha · Lunar Reflection",
+      "author": "RiceWM.org",
+      "category": "space",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "landscape",
+        "minimal",
+        "modern",
+        "night",
+        "pastel",
+        "space"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lunar-reflection/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-lunar-reflection/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-lunar-reflection/image-0199c0fc11676423a5801cea6c7f7a597805044dd57b321ffd9f0297489cdc70.webp",
+          "sha256": "0199c0fc11676423a5801cea6c7f7a597805044dd57b321ffd9f0297489cdc70",
+          "bytes": 24168,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-lunar-reflection/thumb-89e6ce1e78f60c22fd689eafea0bf2c5dfd1de4e2929e2bb465275519b08fdd2.webp",
+          "sha256": "89e6ce1e78f60c22fd689eafea0bf2c5dfd1de4e2929e2bb465275519b08fdd2",
+          "bytes": 658,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-lunar-reflection/thumb2x-93860f8922b2a5f982a0c2c538f72f9fa5285f1ff0a94f0418229d9c2522a7dc.webp",
+          "sha256": "93860f8922b2a5f982a0c2c538f72f9fa5285f1ff0a94f0418229d9c2522a7dc",
+          "bytes": 1660,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "320bb3081b2e0bbecbfbce85545e15a310e9bb0e181956e994456191a59f5d4a",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-moon-over-the-city",
+      "name": "Mocha · Moon over the City",
+      "author": "RiceWM.org",
+      "category": "city",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "city",
+        "dark",
+        "minimal",
+        "modern",
+        "night",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-moon-over-the-city/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-moon-over-the-city/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-moon-over-the-city/image-dfc90e10b7b54ba6122d2821df13caeb24f956debcb610dce73f9758c71086fd.webp",
+          "sha256": "dfc90e10b7b54ba6122d2821df13caeb24f956debcb610dce73f9758c71086fd",
+          "bytes": 39192,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-moon-over-the-city/thumb-6fe50587bc8b94c8fc24b284499d02f99761bcf0061a4d8f0c1896b308b8b569.webp",
+          "sha256": "6fe50587bc8b94c8fc24b284499d02f99761bcf0061a4d8f0c1896b308b8b569",
+          "bytes": 2400,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-moon-over-the-city/thumb2x-922c1738fdc718053f3f0f25394640a0234875558049c83b2bc058093127e56a.webp",
+          "sha256": "922c1738fdc718053f3f0f25394640a0234875558049c83b2bc058093127e56a",
+          "bytes": 4986,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "cc2877a865a713a0e5d85a1aa4c48cac6dd9866ea55e1930eb57b2c4f920b0f8",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-neon-corridor",
+      "name": "Mocha · Neon Corridor",
+      "author": "RiceWM.org",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "catppuccin",
+        "catppuccin-mocha",
+        "city",
+        "cyberpunk",
+        "dark",
+        "minimal",
+        "modern",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-neon-corridor/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-neon-corridor/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-neon-corridor/image-ae6d9bd7ff1320fa7656c725759a9a76a308ecc2e89c000ee803912950db9f38.webp",
+          "sha256": "ae6d9bd7ff1320fa7656c725759a9a76a308ecc2e89c000ee803912950db9f38",
+          "bytes": 27786,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-neon-corridor/thumb-a9bc5d926898fc0f768d742c751469aa09372f504235a68a2253ccca4c9d0aa6.webp",
+          "sha256": "a9bc5d926898fc0f768d742c751469aa09372f504235a68a2253ccca4c9d0aa6",
+          "bytes": 874,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-neon-corridor/thumb2x-5133079565bb86585367249610938cac930a5f34842dbecf6d643f51f73b042e.webp",
+          "sha256": "5133079565bb86585367249610938cac930a5f34842dbecf6d643f51f73b042e",
+          "bytes": 2224,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "383eb7b885b7d74dc5b6010483417d75277d4a18e1be7ca76c6bd172f0f94db0",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-observatory",
+      "name": "Mocha · Observatory",
+      "author": "RiceWM.org",
+      "category": "space",
+      "tags": [
+        "architecture",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "minimal",
+        "modern",
+        "night",
+        "pastel",
+        "space"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-observatory/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-observatory/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-observatory/image-b966ffb9145cf99f9f1b11921886e5f4936febde883d68b6a92b3c3e63395297.webp",
+          "sha256": "b966ffb9145cf99f9f1b11921886e5f4936febde883d68b6a92b3c3e63395297",
+          "bytes": 26066,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-observatory/thumb-de28fd98cd90ee7e0c9c5381e3e24002d10c3007cb17f996054be84a6ee792cd.webp",
+          "sha256": "de28fd98cd90ee7e0c9c5381e3e24002d10c3007cb17f996054be84a6ee792cd",
+          "bytes": 718,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-observatory/thumb2x-56aebc674a024bf296b7fe806f80d368d73bc8f2ac83c43454f82041ae2d6bee.webp",
+          "sha256": "56aebc674a024bf296b7fe806f80d368d73bc8f2ac83c43454f82041ae2d6bee",
+          "bytes": 2012,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "925f789d23f93f2b7b51f07d8448f5ee78e418421a82ebb9139ac7ae6ddd7ec2",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-paper-mountains",
+      "name": "Mocha · Paper Mountains",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "landscape",
+        "minimal",
+        "modern",
+        "mountains",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-paper-mountains/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-paper-mountains/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-paper-mountains/image-33aa5b304c604e458cf049b816c5cfdada192032c7ffcfc7d1f3a70749d55fe4.webp",
+          "sha256": "33aa5b304c604e458cf049b816c5cfdada192032c7ffcfc7d1f3a70749d55fe4",
+          "bytes": 61862,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-paper-mountains/thumb-370bde3433279833fa831f3857f504a000139c1173428a939a6ec063c4c360cd.webp",
+          "sha256": "370bde3433279833fa831f3857f504a000139c1173428a939a6ec063c4c360cd",
+          "bytes": 2580,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-paper-mountains/thumb2x-8d94ff0f459662f25073d546fe593aa9b5dbc93fc13bb0dc7d027abbf1a40639.webp",
+          "sha256": "8d94ff0f459662f25073d546fe593aa9b5dbc93fc13bb0dc7d027abbf1a40639",
+          "bytes": 5770,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "102c592d245871b04f0112ccd6b707f00323d7e4ff96c193ac6efef98bf8388a",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-pastel-topography",
+      "name": "Mocha · Pastel Topography",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "abstract",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "lines",
+        "minimal",
+        "modern",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-pastel-topography/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-pastel-topography/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-pastel-topography/image-318dbbab2d7246d2ed7aa6af031f170b592c9f18b5a8cfd2be0d72276135e106.webp",
+          "sha256": "318dbbab2d7246d2ed7aa6af031f170b592c9f18b5a8cfd2be0d72276135e106",
+          "bytes": 321388,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-pastel-topography/thumb-5ebd770633ace5b1a3c8efb9b92c34db3a3639c2782cdf685e7d2aefbd7c3427.webp",
+          "sha256": "5ebd770633ace5b1a3c8efb9b92c34db3a3639c2782cdf685e7d2aefbd7c3427",
+          "bytes": 7062,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-pastel-topography/thumb2x-991fb5da00955c3e6af49e1bee68dad5b9d18b4586a8c8d148face9f3d5375c1.webp",
+          "sha256": "991fb5da00955c3e6af49e1bee68dad5b9d18b4586a8c8d148face9f3d5375c1",
+          "bytes": 21890,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "9cf237e0b8ce61688ded5a43f61863e39538833cfce7b8b4f4256eaf7503221d",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-planetary-pastels",
+      "name": "Mocha · Planetary Pastels",
+      "author": "RiceWM.org",
+      "category": "space",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "minimal",
+        "modern",
+        "pastel",
+        "space"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-planetary-pastels/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-planetary-pastels/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-planetary-pastels/image-5a301dd760bc0d1b3701e41db35935d5ce0df67383cc9ae1ac880b9de7255aa5.webp",
+          "sha256": "5a301dd760bc0d1b3701e41db35935d5ce0df67383cc9ae1ac880b9de7255aa5",
+          "bytes": 51172,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-planetary-pastels/thumb-8d338755902064237174e5c1311846f5359453769864aaca0f605b197bb50dee.webp",
+          "sha256": "8d338755902064237174e5c1311846f5359453769864aaca0f605b197bb50dee",
+          "bytes": 1616,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-planetary-pastels/thumb2x-e594a67b8e51426e6abdc8e4805c9ab1ee14a01726861f29ba35d2520e9025b2.webp",
+          "sha256": "e594a67b8e51426e6abdc8e4805c9ab1ee14a01726861f29ba35d2520e9025b2",
+          "bytes": 4302,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "d3f7880e20d8914760e7504d35c9a84e74022a06e8381f46574aa97885577a02",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-quiet-platform",
+      "name": "Mocha · Quiet Platform",
+      "author": "RiceWM.org",
+      "category": "city",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "city",
+        "dark",
+        "minimal",
+        "modern",
+        "night",
+        "pastel",
+        "railway"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-quiet-platform/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-quiet-platform/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-quiet-platform/image-bbea9319f57521523ec4edbda3367052f598c27fdd1c3b8e1ea3075315970da9.webp",
+          "sha256": "bbea9319f57521523ec4edbda3367052f598c27fdd1c3b8e1ea3075315970da9",
+          "bytes": 29520,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-quiet-platform/thumb-d0931fef2d00987581957c16ef2970c7f7abb093f010a0eea4874a229b7d1562.webp",
+          "sha256": "d0931fef2d00987581957c16ef2970c7f7abb093f010a0eea4874a229b7d1562",
+          "bytes": 1606,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-quiet-platform/thumb2x-09f935b754e3645787e24d757efaa3756496dcd092d5890191ff3dcc9dd01d22.webp",
+          "sha256": "09f935b754e3645787e24d757efaa3756496dcd092d5890191ff3dcc9dd01d22",
+          "bytes": 3484,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "0c4d16feaeeefd79b573da6236258fdc3dcf332823deb9238b23630630df4d61",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-rain-window",
+      "name": "Mocha · Rain Window",
+      "author": "RiceWM.org",
+      "category": "city",
+      "tags": [
+        "catppuccin",
+        "catppuccin-mocha",
+        "city",
+        "dark",
+        "minimal",
+        "modern",
+        "night",
+        "pastel",
+        "rain"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-rain-window/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-rain-window/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-rain-window/image-d3382e35c205e8465ccf1bb4065302269975f309ef0c985236a4d9587710762e.webp",
+          "sha256": "d3382e35c205e8465ccf1bb4065302269975f309ef0c985236a4d9587710762e",
+          "bytes": 37492,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-rain-window/thumb-90dd538348a3eb22201a16d7240da29c5779076cd4d4db740647d6ed53193cdb.webp",
+          "sha256": "90dd538348a3eb22201a16d7240da29c5779076cd4d4db740647d6ed53193cdb",
+          "bytes": 2360,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-rain-window/thumb2x-85101c2e49e84a84ebd7e6a4ae68dcafb52226dbc56b03a7879afea0d4fcaa72.webp",
+          "sha256": "85101c2e49e84a84ebd7e6a4ae68dcafb52226dbc56b03a7879afea0d4fcaa72",
+          "bytes": 5120,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "3b917a34027279361a1c3f32a7f1da07d5699c224ee467213044742c6a2ce346",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-retro-sunset",
+      "name": "Mocha · Retro Sunset",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "abstract",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "minimal",
+        "modern",
+        "pastel",
+        "retro"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-retro-sunset/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-retro-sunset/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-retro-sunset/image-2feb49e7e82491d669d5b5b36ac70130e97fe486a43f4965776f83273f8b0ba5.webp",
+          "sha256": "2feb49e7e82491d669d5b5b36ac70130e97fe486a43f4965776f83273f8b0ba5",
+          "bytes": 41656,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-retro-sunset/thumb-e899d9212a23303f680d347b850d844abc753289cb4463bbe94b8908c16fb436.webp",
+          "sha256": "e899d9212a23303f680d347b850d844abc753289cb4463bbe94b8908c16fb436",
+          "bytes": 1724,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-retro-sunset/thumb2x-cb5fd17b90f4cddef1bbc6c6c84c7de1ec7320f1e9b302ad77086190fa06a014.webp",
+          "sha256": "cb5fd17b90f4cddef1bbc6c6c84c7de1ec7320f1e9b302ad77086190fa06a014",
+          "bytes": 3688,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "374262b2e5434018c13246cc1b6e397ccf2ba103184e2c037c38c09e171dde24",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-sakura-night",
+      "name": "Mocha · Sakura Night",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "botanical",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "landscape",
+        "minimal",
+        "modern",
+        "night",
+        "pastel"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-sakura-night/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-sakura-night/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-sakura-night/image-d613f5f279f8a1a4df318e75dd2decbeef2d42d08b3c416d9cd8d7d99a61b291.webp",
+          "sha256": "d613f5f279f8a1a4df318e75dd2decbeef2d42d08b3c416d9cd8d7d99a61b291",
+          "bytes": 90130,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-sakura-night/thumb-14ca936bc93a0962a56f441bc6a30a4c61cf312d66e7052866fc2c9caa52310e.webp",
+          "sha256": "14ca936bc93a0962a56f441bc6a30a4c61cf312d66e7052866fc2c9caa52310e",
+          "bytes": 3160,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-sakura-night/thumb2x-c81165d367684bf100143a28a416052156154d049d4d4c12cd6f8e1bfdfb171b.webp",
+          "sha256": "c81165d367684bf100143a28a416052156154d049d4d4c12cd6f8e1bfdfb171b",
+          "bytes": 7866,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "9edd060ed14a45ace6e6acbc0326c4e87e7e336ed9b85ce3f4496493a00cd409",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-mocha-terminal-tide",
+      "name": "Mocha · Terminal Tide",
+      "author": "RiceWM.org",
+      "category": "minimal",
+      "tags": [
+        "abstract",
+        "catppuccin",
+        "catppuccin-mocha",
+        "dark",
+        "minimal",
+        "modern",
+        "pastel",
+        "waves"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-terminal-tide/source.svg",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-terminal-tide/evidence.json",
+        "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-mocha-terminal-tide/image-0a7173e9ed3905b9c0513a73f36be4a633af882714ec6c04dfc190b3bf1c8bc0.webp",
+          "sha256": "0a7173e9ed3905b9c0513a73f36be4a633af882714ec6c04dfc190b3bf1c8bc0",
+          "bytes": 44168,
+          "width": 3840,
+          "height": 2160
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-mocha-terminal-tide/thumb-3147561a144022d4680836b67e75d4ecf7f415024de03a2d23120baae7092fff.webp",
+          "sha256": "3147561a144022d4680836b67e75d4ecf7f415024de03a2d23120baae7092fff",
+          "bytes": 1784,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-mocha-terminal-tide/thumb2x-eca757593211d819ee1812b340f7d393dcc743fd2e66995e6554e0574d81b118.webp",
+          "sha256": "eca757593211d819ee1812b340f7d393dcc743fd2e66995e6554e0574d81b118",
+          "bytes": 3904,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "5a06a951798a9917becbdd95214bbe9d9b9ed2beaab61fc35cd35a6aea73b218",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
       "id": "wp-tigitalart-hills-scenery-complete",
       "name": "Dusk Silhouettes",
       "author": "tigitalart",

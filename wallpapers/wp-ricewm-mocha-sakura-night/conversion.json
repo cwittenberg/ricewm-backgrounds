@@ -1,0 +1,59 @@
+{
+  "id": "wp-ricewm-mocha-sakura-night",
+  "name": "Mocha · Sakura Night",
+  "author": "RiceWM.org",
+  "category": "minimal",
+  "tags": [
+    "botanical",
+    "catppuccin",
+    "catppuccin-mocha",
+    "dark",
+    "landscape",
+    "minimal",
+    "modern",
+    "night",
+    "pastel"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-sakura-night/source.svg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-sakura-night/evidence.json",
+    "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-mocha-sakura-night/image-d613f5f279f8a1a4df318e75dd2decbeef2d42d08b3c416d9cd8d7d99a61b291.webp",
+      "sha256": "d613f5f279f8a1a4df318e75dd2decbeef2d42d08b3c416d9cd8d7d99a61b291",
+      "bytes": 90130,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-mocha-sakura-night/thumb-14ca936bc93a0962a56f441bc6a30a4c61cf312d66e7052866fc2c9caa52310e.webp",
+      "sha256": "14ca936bc93a0962a56f441bc6a30a4c61cf312d66e7052866fc2c9caa52310e",
+      "bytes": 3160,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-mocha-sakura-night/thumb2x-c81165d367684bf100143a28a416052156154d049d4d4c12cd6f8e1bfdfb171b.webp",
+      "sha256": "c81165d367684bf100143a28a416052156154d049d4d4c12cd6f8e1bfdfb171b",
+      "bytes": 7866,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "9edd060ed14a45ace6e6acbc0326c4e87e7e336ed9b85ce3f4496493a00cd409",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

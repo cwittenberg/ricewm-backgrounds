@@ -1,0 +1,58 @@
+{
+  "id": "wp-ricewm-mocha-retro-sunset",
+  "name": "Mocha · Retro Sunset",
+  "author": "RiceWM.org",
+  "category": "minimal",
+  "tags": [
+    "abstract",
+    "catppuccin",
+    "catppuccin-mocha",
+    "dark",
+    "minimal",
+    "modern",
+    "pastel",
+    "retro"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-retro-sunset/source.svg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-retro-sunset/evidence.json",
+    "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-mocha-retro-sunset/image-2feb49e7e82491d669d5b5b36ac70130e97fe486a43f4965776f83273f8b0ba5.webp",
+      "sha256": "2feb49e7e82491d669d5b5b36ac70130e97fe486a43f4965776f83273f8b0ba5",
+      "bytes": 41656,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-mocha-retro-sunset/thumb-e899d9212a23303f680d347b850d844abc753289cb4463bbe94b8908c16fb436.webp",
+      "sha256": "e899d9212a23303f680d347b850d844abc753289cb4463bbe94b8908c16fb436",
+      "bytes": 1724,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-mocha-retro-sunset/thumb2x-cb5fd17b90f4cddef1bbc6c6c84c7de1ec7320f1e9b302ad77086190fa06a014.webp",
+      "sha256": "cb5fd17b90f4cddef1bbc6c6c84c7de1ec7320f1e9b302ad77086190fa06a014",
+      "bytes": 3688,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "374262b2e5434018c13246cc1b6e397ccf2ba103184e2c037c38c09e171dde24",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

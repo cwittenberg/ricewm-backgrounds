@@ -1,0 +1,59 @@
+{
+  "id": "wp-ricewm-mocha-neon-corridor",
+  "name": "Mocha · Neon Corridor",
+  "author": "RiceWM.org",
+  "category": "city",
+  "tags": [
+    "architecture",
+    "catppuccin",
+    "catppuccin-mocha",
+    "city",
+    "cyberpunk",
+    "dark",
+    "minimal",
+    "modern",
+    "pastel"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-neon-corridor/source.svg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-neon-corridor/evidence.json",
+    "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-mocha-neon-corridor/image-ae6d9bd7ff1320fa7656c725759a9a76a308ecc2e89c000ee803912950db9f38.webp",
+      "sha256": "ae6d9bd7ff1320fa7656c725759a9a76a308ecc2e89c000ee803912950db9f38",
+      "bytes": 27786,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-mocha-neon-corridor/thumb-a9bc5d926898fc0f768d742c751469aa09372f504235a68a2253ccca4c9d0aa6.webp",
+      "sha256": "a9bc5d926898fc0f768d742c751469aa09372f504235a68a2253ccca4c9d0aa6",
+      "bytes": 874,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-mocha-neon-corridor/thumb2x-5133079565bb86585367249610938cac930a5f34842dbecf6d643f51f73b042e.webp",
+      "sha256": "5133079565bb86585367249610938cac930a5f34842dbecf6d643f51f73b042e",
+      "bytes": 2224,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "383eb7b885b7d74dc5b6010483417d75277d4a18e1be7ca76c6bd172f0f94db0",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

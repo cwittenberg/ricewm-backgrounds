@@ -1,7 +1,7 @@
 # Contribute a public-domain wallpaper
 
 1. Add a PNG, JPEG or WebP under `submissions/your-slug/`. Use a genuine
-   landscape image at least 1920×1080, no animation, no added logos, no identifiable
+   landscape image at least 1600×900, no animation, no added logos, no identifiable
    private people, at most 24 MiB and 24 megapixels. Prefer 3840×2160 or larger
    within these bounds. Keep your submitted source; the operator generates WebP.
 2. Add `wallpaper.json` beside it using the example below. Provide the original

@@ -1,0 +1,59 @@
+{
+  "id": "wp-ricewm-mocha-alpine-moon",
+  "name": "Mocha · Alpine Moon",
+  "author": "RiceWM.org",
+  "category": "minimal",
+  "tags": [
+    "catppuccin",
+    "catppuccin-mocha",
+    "dark",
+    "landscape",
+    "minimal",
+    "modern",
+    "mountains",
+    "night",
+    "pastel"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-alpine-moon/source.svg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-alpine-moon/evidence.json",
+    "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-mocha-alpine-moon/image-d30d946cd7e90f576542f2678d3297e0498b1cc84e4d25bbf53d5a1b256f2f0f.webp",
+      "sha256": "d30d946cd7e90f576542f2678d3297e0498b1cc84e4d25bbf53d5a1b256f2f0f",
+      "bytes": 30964,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-mocha-alpine-moon/thumb-149c44768b86c26963eeca3c93eac86574bda99ba083ff42556241b742996de1.webp",
+      "sha256": "149c44768b86c26963eeca3c93eac86574bda99ba083ff42556241b742996de1",
+      "bytes": 922,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-mocha-alpine-moon/thumb2x-f970b5cd6cff1e2a5ece889133f3b1cc5828722e8df264687ac5a120baa39fcf.webp",
+      "sha256": "f970b5cd6cff1e2a5ece889133f3b1cc5828722e8df264687ac5a120baa39fcf",
+      "bytes": 2342,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "c203f59e4e013386edf9174a56a0e0a0fda231fe25b8fb0e298296c36dafb8fe",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

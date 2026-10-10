@@ -1,0 +1,58 @@
+{
+  "id": "wp-ricewm-mocha-digital-garden",
+  "name": "Mocha · Digital Garden",
+  "author": "RiceWM.org",
+  "category": "minimal",
+  "tags": [
+    "abstract",
+    "botanical",
+    "catppuccin",
+    "catppuccin-mocha",
+    "dark",
+    "minimal",
+    "modern",
+    "pastel"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-digital-garden/source.svg",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-digital-garden/evidence.json",
+    "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-mocha-digital-garden/image-3c76b763f7cfe8b118aab75def4aef437f484a006f217fbf4ef638adf6dc10b2.webp",
+      "sha256": "3c76b763f7cfe8b118aab75def4aef437f484a006f217fbf4ef638adf6dc10b2",
+      "bytes": 49800,
+      "width": 3840,
+      "height": 2160
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-mocha-digital-garden/thumb-a06ff386d5de33b293802fd185f0a45ac2fac9c4c8b04b3ca646faf08a9aa162.webp",
+      "sha256": "a06ff386d5de33b293802fd185f0a45ac2fac9c4c8b04b3ca646faf08a9aa162",
+      "bytes": 2096,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-mocha-digital-garden/thumb2x-6ebb02f44735800396892350f9b18769dcbb5f3d2e68a2a4be7ab3b17576978d.webp",
+      "sha256": "6ebb02f44735800396892350f9b18769dcbb5f3d2e68a2a4be7ab3b17576978d",
+      "bytes": 4582,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4310d900bdbf87950db7df96ed63f92f3a5531a1f98e8aa45d09f4f7f2e0fc75",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wp-ricewm-mocha-glass-panels",
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-mocha-glass-panels/source.svg",
+  "license": "CC0-1.0",
+  "originalDesign": true,
+  "ai": false,
+  "palette": "Catppuccin Mocha",
+  "paletteSource": "https://github.com/catppuccin/catppuccin",
+  "basis": "Original RiceWM.org vector composition created specifically for this collection; no external images, fonts, logos or franchise characters. Publisher dedicates its own rights under CC0. Catppuccin Mocha palette hex values follow the official palette; this is independent artwork, not an official Catppuccin wallpaper.",
+  "tags": [
+    "abstract",
+    "catppuccin",
+    "catppuccin-mocha",
+    "dark",
+    "geometric",
+    "minimal",
+    "modern",
+    "pastel"
+  ]
+}
