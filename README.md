@@ -3,7 +3,7 @@
 Reviewed wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **211 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
+This repository contains **213 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -33,6 +33,26 @@ Images carry individual rights evidence. CC BY artwork retains its creator credi
 only its own collection metadata and original CC0 contributions under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## New cyberpunk originals
+
+Original RiceWM environments, created with generative AI and explicitly tagged `ai`. Source-native 1672×941; no upscaling.
+
+### Neon Rain Alley
+
+[![Neon Rain Alley](wallpapers/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56/thumb-417bbbe3cae293d299b4aebd7560c1da6945bb7dd90e04c6965a7b944a81732e.webp)](wallpapers/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56/image-df1bed5fd4bb3049d59610627f6eba7161aee103121ce7d66abbfddd48b13a99.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `ai`, `city`, `cyberpunk`, `dark`, `neon`, `night`, `rain`. [Source and rights evidence](https://account.env.now/wallpapers/evidence/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56) · [Conversion receipt](wallpapers/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56/conversion.json).
+
+### Midnight Megastructure
+
+[![Midnight Megastructure](wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/thumb-cbec8c6a03db748f155d183175b4cc105c71a7cbac852580c074055de7ef1e32.webp)](wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/image-7e392f3668bbc82500eb5f1c9d4f4b6e0114cd45db00cc61d99eba600a1951cd.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `ai`, `blue`, `city`, `cyberpunk`, `dark`, `night`, `skyline`. [Source and rights evidence](https://account.env.now/wallpapers/evidence/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3) · [Conversion receipt](wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/conversion.json).
 
 ## Skylines and cityscapes —12 photographic wallpapers
 

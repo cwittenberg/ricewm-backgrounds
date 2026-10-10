@@ -12026,6 +12026,124 @@
         "inputSha256": "3fead3baf13fd9f24f9a9b73d8449460b03865004b25ba1c8577c6b1081fc0e6",
         "profile": "webp-landscape-3840-320-640-v2"
       }
+    },
+    {
+      "id": "wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56",
+      "name": "Neon Rain Alley",
+      "author": "RiceWM \u00b7 AI-generated",
+      "category": "cyberpunk",
+      "tags": [
+        "ai",
+        "city",
+        "cyberpunk",
+        "dark",
+        "neon",
+        "night",
+        "rain"
+      ],
+      "storage": "r2",
+      "revision": "5",
+      "source": "https://account.env.now/wallpapers/evidence/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://account.env.now/wallpapers/evidence/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56",
+        "basis": "The submitting account declares that they created this image, hold the necessary rights, and offer it under CC0-1.0. Original cyberpunk environment generated for the RiceWM wallpaper collection with OpenAI image generation at the project owner\u2019s request. No reference artwork, characters, franchise branding or third-party image inputs were used. Offered as an original RiceWM CC0 contribution.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56/image-df1bed5fd4bb3049d59610627f6eba7161aee103121ce7d66abbfddd48b13a99.webp",
+          "sha256": "df1bed5fd4bb3049d59610627f6eba7161aee103121ce7d66abbfddd48b13a99",
+          "bytes": 367536,
+          "width": 1672,
+          "height": 941
+        },
+        "thumb": {
+          "path": "wallpapers/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56/thumb-417bbbe3cae293d299b4aebd7560c1da6945bb7dd90e04c6965a7b944a81732e.webp",
+          "sha256": "417bbbe3cae293d299b4aebd7560c1da6945bb7dd90e04c6965a7b944a81732e",
+          "bytes": 12036,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-upload-fba69ae6ea0848e1b7acb0b48ff6ad56/thumb2x-1e32508089c537f8d9d928d634613437ec6168c4a7b67c6c14190f5a5fcb908d.webp",
+          "sha256": "1e32508089c537f8d9d928d634613437ec6168c4a7b67c6c14190f5a5fcb908d",
+          "bytes": 46162,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "f54408c57414e49d3078c1daef3c4870a418fa600b3b6967f210befad7e253e7",
+        "profile": "webp-landscape-3840-320-640-v2"
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "acc_I93CaKbSKqJtt5Xo_iTYpA"
+      }
+    },
+    {
+      "id": "wp-upload-9f351e3c7e2e4af08096a52c17dac9c3",
+      "name": "Midnight Megastructure",
+      "author": "RiceWM \u00b7 AI-generated",
+      "category": "cyberpunk",
+      "tags": [
+        "ai",
+        "blue",
+        "city",
+        "cyberpunk",
+        "dark",
+        "night",
+        "skyline"
+      ],
+      "storage": "r2",
+      "revision": "5",
+      "source": "https://account.env.now/wallpapers/evidence/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://account.env.now/wallpapers/evidence/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3",
+        "basis": "The submitting account declares that they created this image, hold the necessary rights, and offer it under CC0-1.0. Original cyberpunk environment generated for the RiceWM wallpaper collection with OpenAI image generation at the project owner\u2019s request. No reference artwork, characters, franchise branding or third-party image inputs were used. Offered as an original RiceWM CC0 contribution.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/image-7e392f3668bbc82500eb5f1c9d4f4b6e0114cd45db00cc61d99eba600a1951cd.webp",
+          "sha256": "7e392f3668bbc82500eb5f1c9d4f4b6e0114cd45db00cc61d99eba600a1951cd",
+          "bytes": 242642,
+          "width": 1672,
+          "height": 941
+        },
+        "thumb": {
+          "path": "wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/thumb-cbec8c6a03db748f155d183175b4cc105c71a7cbac852580c074055de7ef1e32.webp",
+          "sha256": "cbec8c6a03db748f155d183175b4cc105c71a7cbac852580c074055de7ef1e32",
+          "bytes": 8144,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/thumb2x-52ad0d3af4421fd3ff536500aa22a11ea83adfe6a628eb1b5ce560a16820eb33.webp",
+          "sha256": "52ad0d3af4421fd3ff536500aa22a11ea83adfe6a628eb1b5ce560a16820eb33",
+          "bytes": 29582,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "6ecc54867d0d9303fc5635b2ee076613bac44cfa472dd13a8a10f211d0ba4a2c",
+        "profile": "webp-landscape-3840-320-640-v2"
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "acc_I93CaKbSKqJtt5Xo_iTYpA"
+      }
     }
   ]
 }

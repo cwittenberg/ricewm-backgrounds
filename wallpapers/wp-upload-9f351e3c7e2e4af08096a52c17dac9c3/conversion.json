@@ -1,0 +1,29 @@
+{
+  "schema": "ricewm.wallpaper-conversion-receipt/v1",
+  "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+  "inputSha256": "6ecc54867d0d9303fc5635b2ee076613bac44cfa472dd13a8a10f211d0ba4a2c",
+  "profile": "webp-landscape-3840-320-640-v2",
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/image-7e392f3668bbc82500eb5f1c9d4f4b6e0114cd45db00cc61d99eba600a1951cd.webp",
+      "sha256": "7e392f3668bbc82500eb5f1c9d4f4b6e0114cd45db00cc61d99eba600a1951cd",
+      "bytes": 242642,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/thumb-cbec8c6a03db748f155d183175b4cc105c71a7cbac852580c074055de7ef1e32.webp",
+      "sha256": "cbec8c6a03db748f155d183175b4cc105c71a7cbac852580c074055de7ef1e32",
+      "bytes": 8144,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-upload-9f351e3c7e2e4af08096a52c17dac9c3/thumb2x-52ad0d3af4421fd3ff536500aa22a11ea83adfe6a628eb1b5ce560a16820eb33.webp",
+      "sha256": "52ad0d3af4421fd3ff536500aa22a11ea83adfe6a628eb1b5ce560a16820eb33",
+      "bytes": 29582,
+      "width": 640,
+      "height": 360
+    }
+  }
+}
