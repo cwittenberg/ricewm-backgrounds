@@ -3,7 +3,7 @@
 Reviewed wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **213 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
+This repository contains **218 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -33,6 +33,50 @@ Images carry individual rights evidence. CC BY artwork retains its creator credi
 only its own collection metadata and original CC0 contributions under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## Flowing glass, sculptural folds and parchment ink
+
+Five original RiceWM wallpapers in the requested styles: three polished abstract compositions and two calm silver-haired adult character illustrations on ivory parchment. Generated with OpenAI image generation, explicitly tagged `ai`, and released under the collection’s CC0 dedication. Source-native 1672×941; no upscaling. Filter abstracts by `flow` or `glass`, and the illustrations by `ink`, `parchment` or `portrait`.
+
+### Blue Glass
+
+[![Blue Glass](wallpapers/wp-ricewm-blue-glass/thumb-efa5f5e1158872eb0da2f026d6988604d0aab19f06f253f96137e9e7c57e950b.webp)](wallpapers/wp-ricewm-blue-glass/image-702fd59073f614a1750df00d4174cbca745b98f0f6460877eead4c8e9881165b.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `abstract`, `ai`, `blue`, `flow`, `glass`, `light`. [Creation and rights evidence](submissions/wp-ricewm-blue-glass/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-blue-glass/conversion.json).
+
+### Amber Fold
+
+[![Amber Fold](wallpapers/wp-ricewm-amber-fold/thumb-a663deadfe6b1c039d8711234ade889062ddb87fb58499772422e98b74f28c08.webp)](wallpapers/wp-ricewm-amber-fold/image-61550d7be8d36baca964941f20a6f43ec5bb2d6cab99c390918c202773406365.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `abstract`, `ai`, `flow`, `folds`, `orange`, `warm`. [Creation and rights evidence](submissions/wp-ricewm-amber-fold/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-amber-fold/conversion.json).
+
+### Dark Aurora
+
+[![Dark Aurora](wallpapers/wp-ricewm-dark-aurora/thumb-d00cb9eb4a12727c250f5464fddce42d4ce569f7e4e671fc34e6e3932453d3e6.webp)](wallpapers/wp-ricewm-dark-aurora/image-7222dd24036ce84f97b1cf21e3aae92b8f509ebeca7a25ba2fc5c535664eed67.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `abstract`, `ai`, `blue`, `dark`, `flow`, `glass`, `green`. [Creation and rights evidence](submissions/wp-ricewm-dark-aurora/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-dark-aurora/conversion.json).
+
+### Silver Ink
+
+[![Silver Ink](wallpapers/wp-ricewm-silver-ink/thumb-b9b15b09d2e4f60de3e0a3762ae5d9ec260606ee579126e2882d7cd76f5f6d8c.webp)](wallpapers/wp-ricewm-silver-ink/image-4a3f24f68b755076965ecd3e62c2f76f2c0653576ca96e034b801409237b7a33.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `ai`, `anime`, `ink`, `light`, `parchment`, `portrait`, `silver`. [Creation and rights evidence](submissions/wp-ricewm-silver-ink/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-silver-ink/conversion.json).
+
+### Sage Ink
+
+[![Sage Ink](wallpapers/wp-ricewm-sage-ink/thumb-bd49d495b65340fc3dda26cde6728591f2c15486e8e595cec274dc6b5a3c35c3.webp)](wallpapers/wp-ricewm-sage-ink/image-065c262a495c5a12a935cbd71a6b77a9a095c7eb09152cd08e11856711b18ec3.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `ai`, `anime`, `ink`, `light`, `parchment`, `portrait`, `sage`, `silver`. [Creation and rights evidence](submissions/wp-ricewm-sage-ink/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-sage-ink/conversion.json).
 
 ## New cyberpunk originals
 

@@ -1,0 +1,56 @@
+{
+  "id": "wp-ricewm-blue-glass",
+  "name": "Blue Glass",
+  "author": "RiceWM · AI-generated",
+  "category": "abstract",
+  "tags": [
+    "abstract",
+    "ai",
+    "blue",
+    "flow",
+    "glass",
+    "light"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-blue-glass/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-blue-glass/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request. The owner approved the generated abstract direction and requested additional parchment-and-ink character artwork on 2026-10-11. No third-party source images, logos or franchise characters were supplied to generation. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-blue-glass/image-702fd59073f614a1750df00d4174cbca745b98f0f6460877eead4c8e9881165b.webp",
+      "sha256": "702fd59073f614a1750df00d4174cbca745b98f0f6460877eead4c8e9881165b",
+      "bytes": 62456,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-blue-glass/thumb-efa5f5e1158872eb0da2f026d6988604d0aab19f06f253f96137e9e7c57e950b.webp",
+      "sha256": "efa5f5e1158872eb0da2f026d6988604d0aab19f06f253f96137e9e7c57e950b",
+      "bytes": 4100,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-blue-glass/thumb2x-028f2f64057ac65b67ad8ab45f9f578be1755380aeb2bc45785d390a42dafe7c.webp",
+      "sha256": "028f2f64057ac65b67ad8ab45f9f578be1755380aeb2bc45785d390a42dafe7c",
+      "bytes": 10888,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "50736d3a69aa799f612988ba106910e6afbb5685c4a5c51370e084a83a28d642",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

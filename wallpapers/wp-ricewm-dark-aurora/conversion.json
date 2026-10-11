@@ -1,0 +1,57 @@
+{
+  "id": "wp-ricewm-dark-aurora",
+  "name": "Dark Aurora",
+  "author": "RiceWM · AI-generated",
+  "category": "abstract",
+  "tags": [
+    "abstract",
+    "ai",
+    "blue",
+    "dark",
+    "flow",
+    "glass",
+    "green"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-dark-aurora/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-dark-aurora/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request. The owner approved the generated abstract direction and requested additional parchment-and-ink character artwork on 2026-10-11. No third-party source images, logos or franchise characters were supplied to generation. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-dark-aurora/image-7222dd24036ce84f97b1cf21e3aae92b8f509ebeca7a25ba2fc5c535664eed67.webp",
+      "sha256": "7222dd24036ce84f97b1cf21e3aae92b8f509ebeca7a25ba2fc5c535664eed67",
+      "bytes": 51338,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-dark-aurora/thumb-d00cb9eb4a12727c250f5464fddce42d4ce569f7e4e671fc34e6e3932453d3e6.webp",
+      "sha256": "d00cb9eb4a12727c250f5464fddce42d4ce569f7e4e671fc34e6e3932453d3e6",
+      "bytes": 3280,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-dark-aurora/thumb2x-7103598d4f26f56d87c0d1750de81e5f97fec58c1860e0168f96819a8fadcd7b.webp",
+      "sha256": "7103598d4f26f56d87c0d1750de81e5f97fec58c1860e0168f96819a8fadcd7b",
+      "bytes": 8970,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4b6f75f545f51a1e21dca45dc29db86a44f60a35680fce956bd43fa039fd7e13",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

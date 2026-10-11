@@ -1,0 +1,57 @@
+{
+  "id": "wp-ricewm-silver-ink",
+  "name": "Silver Ink",
+  "author": "RiceWM · AI-generated",
+  "category": "illustration",
+  "tags": [
+    "ai",
+    "anime",
+    "ink",
+    "light",
+    "parchment",
+    "portrait",
+    "silver"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-silver-ink/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-silver-ink/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request. The owner approved the generated abstract direction and requested additional parchment-and-ink character artwork on 2026-10-11. No third-party source images, logos or franchise characters were supplied to generation. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-silver-ink/image-4a3f24f68b755076965ecd3e62c2f76f2c0653576ca96e034b801409237b7a33.webp",
+      "sha256": "4a3f24f68b755076965ecd3e62c2f76f2c0653576ca96e034b801409237b7a33",
+      "bytes": 194086,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-silver-ink/thumb-b9b15b09d2e4f60de3e0a3762ae5d9ec260606ee579126e2882d7cd76f5f6d8c.webp",
+      "sha256": "b9b15b09d2e4f60de3e0a3762ae5d9ec260606ee579126e2882d7cd76f5f6d8c",
+      "bytes": 5126,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-silver-ink/thumb2x-c16e0621db1ea970d629ec0583c63316a585ac78b9a07edeb268c12453ee3262.webp",
+      "sha256": "c16e0621db1ea970d629ec0583c63316a585ac78b9a07edeb268c12453ee3262",
+      "bytes": 18124,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "4b4b535dcf219ebc2fc33b08e80b1e913d38908d7f6c851f24d51ad2a38fd9e3",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

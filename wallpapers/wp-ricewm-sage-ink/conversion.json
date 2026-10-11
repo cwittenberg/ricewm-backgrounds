@@ -1,0 +1,58 @@
+{
+  "id": "wp-ricewm-sage-ink",
+  "name": "Sage Ink",
+  "author": "RiceWM · AI-generated",
+  "category": "illustration",
+  "tags": [
+    "ai",
+    "anime",
+    "ink",
+    "light",
+    "parchment",
+    "portrait",
+    "sage",
+    "silver"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-sage-ink/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-sage-ink/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request. The owner approved the generated abstract direction and requested additional parchment-and-ink character artwork on 2026-10-11. No third-party source images, logos or franchise characters were supplied to generation. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-sage-ink/image-065c262a495c5a12a935cbd71a6b77a9a095c7eb09152cd08e11856711b18ec3.webp",
+      "sha256": "065c262a495c5a12a935cbd71a6b77a9a095c7eb09152cd08e11856711b18ec3",
+      "bytes": 193278,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-sage-ink/thumb-bd49d495b65340fc3dda26cde6728591f2c15486e8e595cec274dc6b5a3c35c3.webp",
+      "sha256": "bd49d495b65340fc3dda26cde6728591f2c15486e8e595cec274dc6b5a3c35c3",
+      "bytes": 4652,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-sage-ink/thumb2x-2349294cc61c32b79e815954d8199d8714f4c805a55032d74006f9a509d9a26d.webp",
+      "sha256": "2349294cc61c32b79e815954d8199d8714f4c805a55032d74006f9a509d9a26d",
+      "bytes": 18126,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "2e25684bd886030c72c43896fdd1fdbf2d0a8abf0b2a97a5912b323896e39559",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wp-ricewm-amber-fold",
+  "name": "Amber Fold",
+  "author": "RiceWM · AI-generated",
+  "category": "abstract",
+  "tags": [
+    "abstract",
+    "ai",
+    "flow",
+    "folds",
+    "orange",
+    "warm"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-amber-fold/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-amber-fold/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request. The owner approved the generated abstract direction and requested additional parchment-and-ink character artwork on 2026-10-11. No third-party source images, logos or franchise characters were supplied to generation. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-amber-fold/image-61550d7be8d36baca964941f20a6f43ec5bb2d6cab99c390918c202773406365.webp",
+      "sha256": "61550d7be8d36baca964941f20a6f43ec5bb2d6cab99c390918c202773406365",
+      "bytes": 34936,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-amber-fold/thumb-a663deadfe6b1c039d8711234ade889062ddb87fb58499772422e98b74f28c08.webp",
+      "sha256": "a663deadfe6b1c039d8711234ade889062ddb87fb58499772422e98b74f28c08",
+      "bytes": 2412,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-amber-fold/thumb2x-d29047de8c2722a2d5af8181b06b34ecb91a73005fe5147866e8befc516b22fe.webp",
+      "sha256": "d29047de8c2722a2d5af8181b06b34ecb91a73005fe5147866e8befc516b22fe",
+      "bytes": 6056,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "0a35abc98b4d8c4fa75ed4ca6bdb1029f9a7ae86a8c8bd19b153c1e81dfd80bf",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

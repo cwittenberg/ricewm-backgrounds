@@ -1,0 +1,24 @@
+{
+  "name": "Blue Glass",
+  "creator": "RiceWM · AI-generated",
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-blue-glass/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-blue-glass/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request. The owner approved the generated abstract direction and requested additional parchment-and-ink character artwork on 2026-10-11. No third-party source images, logos or franchise characters were supplied to generation. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "aiGenerated": true,
+  "generator": "OpenAI built-in image_gen",
+  "promptSummary": "Broad translucent cobalt and turquoise glass waves; smooth gradients, pale cream-blue background, calm desktop composition.",
+  "createdAt": "2026-10-11",
+  "sourceSha256": "50736d3a69aa799f612988ba106910e6afbb5685c4a5c51370e084a83a28d642",
+  "nativeDimensions": {
+    "width": 1672,
+    "height": 941
+  },
+  "changes": "Metadata removed and encoded as WebP; source-native dimensions preserved without upscaling; 320×180 and 640×360 cropped previews."
+}
