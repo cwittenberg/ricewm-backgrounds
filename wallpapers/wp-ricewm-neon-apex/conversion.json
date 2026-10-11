@@ -1,0 +1,57 @@
+{
+  "id": "wp-ricewm-neon-apex",
+  "name": "Neon Apex",
+  "author": "RiceWM · AI-generated",
+  "category": "automotive",
+  "tags": [
+    "ai",
+    "blue",
+    "car",
+    "cyberpunk",
+    "neon",
+    "pink",
+    "racing"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-neon-apex/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-neon-apex/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-neon-apex/image-5cb4dd1b8c823126e039f33f73393ecfca55fc6958f844d0ba0362ffd83e94eb.webp",
+      "sha256": "5cb4dd1b8c823126e039f33f73393ecfca55fc6958f844d0ba0362ffd83e94eb",
+      "bytes": 275802,
+      "width": 1672,
+      "height": 940
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-neon-apex/thumb-e1e5311ca6c46c1cfcda97b00ef176b3c568aafc39a8c568e864b1c044bec046.webp",
+      "sha256": "e1e5311ca6c46c1cfcda97b00ef176b3c568aafc39a8c568e864b1c044bec046",
+      "bytes": 13492,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-neon-apex/thumb2x-97beee7e5b96d139a8ac1e8d085b4a4523786ef3ba9ad0f7f197c3ff4ea3b804.webp",
+      "sha256": "97beee7e5b96d139a8ac1e8d085b4a4523786ef3ba9ad0f7f197c3ff4ea3b804",
+      "bytes": 42874,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "44cc0c5dd17bb8eb7195abf83d0fd1356a6c64f645aee9f8e5ca4f131ca66f69",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

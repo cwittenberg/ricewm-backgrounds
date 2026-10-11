@@ -1,0 +1,25 @@
+{
+  "name": "Neon Apex",
+  "creator": "RiceWM · AI-generated",
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-neon-apex/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-neon-apex/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "aiGenerated": true,
+  "generator": "OpenAI built-in image_gen",
+  "prompt": "Create a single premium automotive desktop wallpaper, wide landscape 16:9, ideally 3840x2160. Edge-to-edge art only, absolutely no text, logos, badges, letters, brand marks, borders, desktop UI or watermark. Use case: stylized-concept. An original unbranded exotic race supercar blasting through a futuristic neon-lit tunnel at night, captured from a very low close front three-quarter tracking angle. The car points toward the lower right and occupies roughly the central two-thirds of the frame; all four wheels correctly placed and the entire car contained in the image. Ultra-low wide stance, beautifully coherent aerodynamic body, flared wheel arches, a large rear racing wing, sharp sleek front LED headlights, glossy dark indigo and cobalt paint with bold abstract cyan and magenta racing livery. Large motion-blurred wheels, hot pink and blue light reflections flowing across the car's glossy body, cyan headlamps, a small shower of warm orange sparks behind the underside as it speeds over the road. Vivid saturated purple and electric pink tunnel lighting, hot magenta horizontal light streaks across background, wet glossy tarmac reflecting the car and neon colors. High-end photorealistic cinematic 3D rendering, crisp detailed central car, beautifully smeared background speed motion, strong depth and dramatic contrast. Composition feels like an excellent polished racing-game promo wallpaper but has no game or actual vehicle brand elements. No extra cars, people, faces, road signs, legible text, fantasy weapons, toy scale, cartoon proportions, malformed rims, duplicated wheels, or impossible mechanical shapes.",
+  "editPrompt": "Edit this original generated neon supercar wallpaper. Remove ONLY the small translucent circular drawing/watermark in the extreme bottom-right corner, reconstructing the wet magenta road reflection cleanly beneath it. Also remove the tiny decorative logo/drawing on the left rear wing endplate, leaving a clean plain dark glossy carbon-fiber endplate. Preserve the rest exactly: same car, body shape, cyan/magenta racing livery, lights, motion streaks, sparks, reflections, framing and overall colors. No text, no logos, no marks or watermark anywhere. Keep the original wide landscape 16:9 aspect ratio and resolution.",
+  "createdAt": "2026-10-11",
+  "sourceSha256": "44cc0c5dd17bb8eb7195abf83d0fd1356a6c64f645aee9f8e5ca4f131ca66f69",
+  "nativeDimensions": {
+    "width": 1672,
+    "height": 940
+  },
+  "changes": "Metadata removed and encoded as WebP; source-native dimensions preserved without upscaling; 320×180 and 640×360 cropped previews."
+}

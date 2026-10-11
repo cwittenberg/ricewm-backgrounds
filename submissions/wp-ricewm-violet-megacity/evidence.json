@@ -1,0 +1,24 @@
+{
+  "name": "Violet Megacity",
+  "creator": "RiceWM · AI-generated",
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-violet-megacity/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-violet-megacity/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "aiGenerated": true,
+  "generator": "OpenAI built-in image_gen",
+  "prompt": "Create a single spectacular, polished desktop wallpaper, wide landscape 16:9, ideally 3840x2160. Only the wallpaper, absolutely no desktop widgets, clocks, weather panels, UI, text, logos or borders. Use case: stylized-concept. A vast futuristic cyberpunk megacity at night, viewed from a high rooftop into a dense forest of very tall dark skyscrapers. Dominant palette: saturated violet, purple and magenta atmospheric light, with deep almost-black plum building silhouettes and subtle pink illuminated windows. Several substantial tower masses in the middle ground with layered stepped architecture and slender antennae; hundreds of smaller buildings recede into violet fog, giving strong realistic depth and immense scale. A soft bright magenta glow rises from city canyons near the lower middle; the upper left is a relatively calm purple haze for desktop icons. Exquisite tiny window patterns and intricate believable architecture; atmospheric digital matte painting with sophisticated cinematic lighting, slightly painterly finish, carefully controlled bloom, moody and immersive. Architecture fills most of the frame, no dominant empty sky, no street-level scene, no people, no spaceship, no oversized moon or planet, no text or signs readable as letters, no recognizable city landmarks or franchise designs. Original composition that feels like a beautiful ultradetailed violet cyberpunk skyline wallpaper. Avoid melted or impossible architecture, excessive laser beams, bright white haze, multicolored rainbow clutter or childish cartoon styling.",
+  "createdAt": "2026-10-11",
+  "sourceSha256": "1a7e66199de6ddb004c3f61e70d3ac714d88fe25ed01f79327ab863c2d10898f",
+  "nativeDimensions": {
+    "width": 1672,
+    "height": 941
+  },
+  "changes": "Metadata removed and encoded as WebP; source-native dimensions preserved without upscaling; 320×180 and 640×360 cropped previews."
+}

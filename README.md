@@ -3,7 +3,7 @@
 Reviewed wallpapers for **RiceWM.org**, used by Quick Wallpapers and the
 Rice Marketplace. Originals and previews are hosted here as normalized WebP.
 
-This repository contains **218 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
+This repository contains **221 wallpaper candidates**, with individual creator or museum provenance, descriptive tags, licensing evidence and WebP hashes. App inclusion requires operator approval. Browse the previews below.
 
 **Repository membership does not mean app approval.** The operator reviews
 each exact image revision and its rights evidence before it appears in the app.
@@ -33,6 +33,34 @@ Images carry individual rights evidence. CC BY artwork retains its creator credi
 only its own collection metadata and original CC0 contributions under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This dedication
 cannot waive someone else's rights.
+
+## Violet skylines, neon racing and orbital horizons
+
+Three original wallpapers matching the requested desktop styles: a detailed purple megacity, a vivid neon supercar and a calm blue orbital dawn. Created with OpenAI image generation, explicitly tagged `ai`, and offered under the collection’s CC0 dedication. Full images retain their source-native dimensions without upscaling.
+
+### Violet Megacity
+
+[![Violet Megacity](wallpapers/wp-ricewm-violet-megacity/thumb-0d29a6aa7df4c90a9dfe7bf5d9ec34491482bd93111b40ede3fd9418ceed0b0e.webp)](wallpapers/wp-ricewm-violet-megacity/image-4ba5ae9e6088402793ff18d5e341781deb0ceb2d05219d65e0cc74dda9483735.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `ai`, `city`, `cyberpunk`, `dark`, `neon`, `purple`, `skyline`. [Creation prompt and rights evidence](submissions/wp-ricewm-violet-megacity/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-violet-megacity/conversion.json).
+
+### Neon Apex
+
+[![Neon Apex](wallpapers/wp-ricewm-neon-apex/thumb-e1e5311ca6c46c1cfcda97b00ef176b3c568aafc39a8c568e864b1c044bec046.webp)](wallpapers/wp-ricewm-neon-apex/image-5cb4dd1b8c823126e039f33f73393ecfca55fc6958f844d0ba0362ffd83e94eb.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×940
+
+Tags: `ai`, `blue`, `car`, `cyberpunk`, `neon`, `pink`, `racing`. [Creation prompt and rights evidence](submissions/wp-ricewm-neon-apex/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-neon-apex/conversion.json).
+
+### Orbital Dawn
+
+[![Orbital Dawn](wallpapers/wp-ricewm-orbital-dawn/thumb-0c7a7d520f6f0f0930778c3fb129d0b9c0a8783e8300b70d2d50fc3dfe5d2956.webp)](wallpapers/wp-ricewm-orbital-dawn/image-7ef8f0647d97bf157ca7579d88407b025c9196afbf3f935ea0cf0428b8283390.webp)
+
+RiceWM · AI-generated · CC0-1.0 · 1672×941
+
+Tags: `ai`, `blue`, `dark`, `earth`, `orbit`, `space`. [Creation prompt and rights evidence](submissions/wp-ricewm-orbital-dawn/evidence.json) · [Conversion receipt](wallpapers/wp-ricewm-orbital-dawn/conversion.json).
 
 ## Flowing glass, sculptural folds and parchment ink
 

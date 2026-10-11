@@ -1,0 +1,24 @@
+{
+  "name": "Orbital Dawn",
+  "creator": "RiceWM · AI-generated",
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-orbital-dawn/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-orbital-dawn/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "aiGenerated": true,
+  "generator": "OpenAI built-in image_gen",
+  "prompt": "Create a single beautiful restrained space desktop wallpaper, wide landscape 16:9, ideally 3840x2160. Only wallpaper art; no UI, text, logos, borders or watermark. Use case: stylized-concept. A serene orbital view across the curved horizon of an Earth-like planet from low orbit. The planet's immense softly curved limb runs from slightly below center on the left to slightly below center on the right, gently cresting in the middle, occupying the bottom half of the frame. Detailed blue-grey oceans and subtle continents beneath very finely textured white cloud systems, with the lower foreground fading into darkness. The delicate atmosphere makes a slender luminous ice-blue line along the curved horizon; gentle dawn illumination brightens clouds at the middle-right without a visible sun or giant flare. Upper half is deep navy-black space with sparse, tiny naturally varied stars, a very subtle deep blue stellar haze, and just one small understated distant crescent moon near the upper right, no more than 2 percent of the image width. Extremely calm spacious cinematic composition, sophisticated realistic orbital visualization, richly detailed clouds at the bottom and quiet dark sky for desktop icons. Physically coherent planetary curvature, careful diffuse light and controlled contrast, luxurious smooth gradations. Do not mimic a NASA photograph or claim documentary photography. Original realistic space art. Avoid oversized invented planets, extra moons, bright exaggerated star flares, neon colorful nebula collages, spaceships, satellites, galaxy swirls, lens flares, orange explosions, geometric patterns, text.",
+  "createdAt": "2026-10-11",
+  "sourceSha256": "b0a2747c204d6d5d5d72c36f687443bffb615a489400d1bea82c6f1194a1410c",
+  "nativeDimensions": {
+    "width": 1672,
+    "height": 941
+  },
+  "changes": "Metadata removed and encoded as WebP; source-native dimensions preserved without upscaling; 320×180 and 640×360 cropped previews."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wp-ricewm-violet-megacity",
+  "name": "Violet Megacity",
+  "author": "RiceWM · AI-generated",
+  "category": "city",
+  "tags": [
+    "ai",
+    "city",
+    "cyberpunk",
+    "dark",
+    "neon",
+    "purple",
+    "skyline"
+  ],
+  "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-violet-megacity/evidence.json",
+  "rights": {
+    "license": "CC0-1.0",
+    "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-violet-megacity/evidence.json",
+    "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+    "attestationVersion": "ricewm-public-domain-1",
+    "certifiedPublicDomain": true,
+    "noThirdPartyRights": true,
+    "waiveOwnedRights": true
+  },
+  "submission": {
+    "pr": null,
+    "contributor": "RiceWM.org-curation"
+  },
+  "assets": {
+    "image": {
+      "path": "wallpapers/wp-ricewm-violet-megacity/image-4ba5ae9e6088402793ff18d5e341781deb0ceb2d05219d65e0cc74dda9483735.webp",
+      "sha256": "4ba5ae9e6088402793ff18d5e341781deb0ceb2d05219d65e0cc74dda9483735",
+      "bytes": 320726,
+      "width": 1672,
+      "height": 941
+    },
+    "thumb": {
+      "path": "wallpapers/wp-ricewm-violet-megacity/thumb-0d29a6aa7df4c90a9dfe7bf5d9ec34491482bd93111b40ede3fd9418ceed0b0e.webp",
+      "sha256": "0d29a6aa7df4c90a9dfe7bf5d9ec34491482bd93111b40ede3fd9418ceed0b0e",
+      "bytes": 9564,
+      "width": 320,
+      "height": 180
+    },
+    "thumb2x": {
+      "path": "wallpapers/wp-ricewm-violet-megacity/thumb2x-42acb4769087ecf2cf11a9815094fcdccdb4a54cfd96cb5e0dc2a119407b18ea.webp",
+      "sha256": "42acb4769087ecf2cf11a9815094fcdccdb4a54cfd96cb5e0dc2a119407b18ea",
+      "bytes": 37682,
+      "width": 640,
+      "height": 360
+    }
+  },
+  "conversion": {
+    "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+    "inputSha256": "1a7e66199de6ddb004c3f61e70d3ac714d88fe25ed01f79327ab863c2d10898f",
+    "profile": "webp-landscape-3840-320-640-v2"
+  }
+}

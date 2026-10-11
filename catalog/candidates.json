@@ -12428,6 +12428,176 @@
         "inputSha256": "2e25684bd886030c72c43896fdd1fdbf2d0a8abf0b2a97a5912b323896e39559",
         "profile": "webp-landscape-3840-320-640-v2"
       }
+    },
+    {
+      "id": "wp-ricewm-violet-megacity",
+      "name": "Violet Megacity",
+      "author": "RiceWM · AI-generated",
+      "category": "city",
+      "tags": [
+        "ai",
+        "city",
+        "cyberpunk",
+        "dark",
+        "neon",
+        "purple",
+        "skyline"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-violet-megacity/evidence.json",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-violet-megacity/evidence.json",
+        "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-violet-megacity/image-4ba5ae9e6088402793ff18d5e341781deb0ceb2d05219d65e0cc74dda9483735.webp",
+          "sha256": "4ba5ae9e6088402793ff18d5e341781deb0ceb2d05219d65e0cc74dda9483735",
+          "bytes": 320726,
+          "width": 1672,
+          "height": 941
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-violet-megacity/thumb-0d29a6aa7df4c90a9dfe7bf5d9ec34491482bd93111b40ede3fd9418ceed0b0e.webp",
+          "sha256": "0d29a6aa7df4c90a9dfe7bf5d9ec34491482bd93111b40ede3fd9418ceed0b0e",
+          "bytes": 9564,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-violet-megacity/thumb2x-42acb4769087ecf2cf11a9815094fcdccdb4a54cfd96cb5e0dc2a119407b18ea.webp",
+          "sha256": "42acb4769087ecf2cf11a9815094fcdccdb4a54cfd96cb5e0dc2a119407b18ea",
+          "bytes": 37682,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "1a7e66199de6ddb004c3f61e70d3ac714d88fe25ed01f79327ab863c2d10898f",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-neon-apex",
+      "name": "Neon Apex",
+      "author": "RiceWM · AI-generated",
+      "category": "automotive",
+      "tags": [
+        "ai",
+        "blue",
+        "car",
+        "cyberpunk",
+        "neon",
+        "pink",
+        "racing"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-neon-apex/evidence.json",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-neon-apex/evidence.json",
+        "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-neon-apex/image-5cb4dd1b8c823126e039f33f73393ecfca55fc6958f844d0ba0362ffd83e94eb.webp",
+          "sha256": "5cb4dd1b8c823126e039f33f73393ecfca55fc6958f844d0ba0362ffd83e94eb",
+          "bytes": 275802,
+          "width": 1672,
+          "height": 940
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-neon-apex/thumb-e1e5311ca6c46c1cfcda97b00ef176b3c568aafc39a8c568e864b1c044bec046.webp",
+          "sha256": "e1e5311ca6c46c1cfcda97b00ef176b3c568aafc39a8c568e864b1c044bec046",
+          "bytes": 13492,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-neon-apex/thumb2x-97beee7e5b96d139a8ac1e8d085b4a4523786ef3ba9ad0f7f197c3ff4ea3b804.webp",
+          "sha256": "97beee7e5b96d139a8ac1e8d085b4a4523786ef3ba9ad0f7f197c3ff4ea3b804",
+          "bytes": 42874,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "44cc0c5dd17bb8eb7195abf83d0fd1356a6c64f645aee9f8e5ca4f131ca66f69",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
+    },
+    {
+      "id": "wp-ricewm-orbital-dawn",
+      "name": "Orbital Dawn",
+      "author": "RiceWM · AI-generated",
+      "category": "space",
+      "tags": [
+        "ai",
+        "blue",
+        "dark",
+        "earth",
+        "orbit",
+        "space"
+      ],
+      "source": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-orbital-dawn/evidence.json",
+      "rights": {
+        "license": "CC0-1.0",
+        "evidence": "https://github.com/cwittenberg/ricewm-backgrounds/blob/main/submissions/wp-ricewm-orbital-dawn/evidence.json",
+        "basis": "Original RiceWM wallpaper created with OpenAI image generation at the project owner’s request on 2026-10-11, continuing the approved original-wallpaper workflow. Generation used text descriptions of the requested aesthetics, with no third-party image inputs, logos, brand marks or franchise designs. Offered under the collection’s CC0 dedication; generative AI provenance is disclosed.",
+        "attestationVersion": "ricewm-public-domain-1",
+        "certifiedPublicDomain": true,
+        "noThirdPartyRights": true,
+        "waiveOwnedRights": true
+      },
+      "submission": {
+        "pr": null,
+        "contributor": "RiceWM.org-curation"
+      },
+      "assets": {
+        "image": {
+          "path": "wallpapers/wp-ricewm-orbital-dawn/image-7ef8f0647d97bf157ca7579d88407b025c9196afbf3f935ea0cf0428b8283390.webp",
+          "sha256": "7ef8f0647d97bf157ca7579d88407b025c9196afbf3f935ea0cf0428b8283390",
+          "bytes": 164276,
+          "width": 1672,
+          "height": 941
+        },
+        "thumb": {
+          "path": "wallpapers/wp-ricewm-orbital-dawn/thumb-0c7a7d520f6f0f0930778c3fb129d0b9c0a8783e8300b70d2d50fc3dfe5d2956.webp",
+          "sha256": "0c7a7d520f6f0f0930778c3fb129d0b9c0a8783e8300b70d2d50fc3dfe5d2956",
+          "bytes": 5434,
+          "width": 320,
+          "height": 180
+        },
+        "thumb2x": {
+          "path": "wallpapers/wp-ricewm-orbital-dawn/thumb2x-745a76219f5ae1ce628dbade76037e628e4e0b72b104110ee48bb7e3966ce4e8.webp",
+          "sha256": "745a76219f5ae1ce628dbade76037e628e4e0b72b104110ee48bb7e3966ce4e8",
+          "bytes": 19876,
+          "width": 640,
+          "height": 360
+        }
+      },
+      "conversion": {
+        "image": "sha256:1891b4a50a870adf9e52c77a48bddcada10e1449378d4e8db2ededd0c999d43c",
+        "inputSha256": "b0a2747c204d6d5d5d72c36f687443bffb615a489400d1bea82c6f1194a1410c",
+        "profile": "webp-landscape-3840-320-640-v2"
+      }
     }
   ]
 }
